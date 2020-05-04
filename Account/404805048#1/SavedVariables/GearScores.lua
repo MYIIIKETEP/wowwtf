@@ -1,0 +1,2 @@
+
+GearScores_CurrentProfile = nil

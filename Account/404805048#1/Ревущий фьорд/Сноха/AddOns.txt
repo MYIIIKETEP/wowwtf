@@ -1,0 +1,14 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+ATT: enabled
+ArenaStyle: enabled
+TidyPlates_ThreatPlates: disabled
+BigDebuffs: enabled
+OmniCD: disabled
+tRP3_RDotIO: enabled
+totalRP3_Data: disabled
+totalRP3: disabled
+Lorti UI: enabled
+TomCats: enabled
+TomCats-Nzoth: enabled
+Lorti-UI: disabled

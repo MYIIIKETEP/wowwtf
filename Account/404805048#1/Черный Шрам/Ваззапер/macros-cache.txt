@@ -1,0 +1,60 @@
+VER 3 0100000000000035 "/cast" "INV_MISC_QUESTIONMARK"
+/dump IsQuestFlaggedCompleted(44326)
+END
+VER 3 0100000000000031 "222" "INV_MISC_QUESTIONMARK"
+/script for q,i in pairs({["Event"]=44326,["Feralas Act"]=44327,["Feralas Tou"]=44331,["Hinter Act"]=44328,["Hinter Tou"]=44332,["Dusk Act"]=44329,["Duskwood Tou"]=44330})do print(q,IsQuestFlaggedCompleted(i))end
+END
+VER 3 0100000000000025 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Гнев Деревьев
+END
+VER 3 0100000000000033 "A1" "1029585"
+/Cast [@arena1] Смерч
+END
+VER 3 0100000000000026 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Гнев Деревьев
+END
+VER 3 0100000000000034 "A2" "1029585"
+/Cast [@arena2] Смерч
+END
+VER 3 0100000000000027 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Гнев Деревьев
+END
+VER 3 0100000000000024 "A3" "1029585"
+/cast [@arena3] Смерч
+END
+VER 3 010000000000002C "Cancelaura" "INV_MISC_QUESTIONMARK"
+/cancelaura Облик кошки
+/cast облик кошки
+END
+VER 3 0100000000000036 "DP!" "INV_MISC_QUESTIONMARK"
+/cast [@Вэтэр]Снятие порчи
+END
+VER 3 0100000000000037 "FB" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Мощное оглушение
+END
+VER 3 010000000000002E "FB" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Лобовая Атака
+END
+VER 3 0100000000000028 "G" "INV_MISC_QUESTIONMARK"
+/cast Щит Кенария
+/cast Железная Кора
+END
+VER 3 0100000000000029 "p1" "ABILITY_CREATURE_CURSED_05"
+/target party1
+END
+VER 3 010000000000002A "P2" "ABILITY_CREATURE_CURSED_05"
+/target party2
+END
+VER 3 010000000000002B "P3" "ABILITY_CREATURE_CURSED_05"
+/target player
+END
+VER 3 0100000000000011 "Tmorph" "INV_MISC_QUESTIONMARK"
+.race 5
+.gender
+.piercings 10
+.hair 4
+END
+VER 3 010000000000002F "СОВА" "INV_MISC_QUESTIONMARK"
+/cancelaura Облик лунного совуха
+/cast  Облик лунного совуха
+END

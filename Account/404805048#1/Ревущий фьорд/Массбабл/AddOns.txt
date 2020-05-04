@@ -1,0 +1,10 @@
+ATT: enabled
+ArenaStyle: enabled
+BigDebuffs: enabled
+OmniCD: disabled
+tRP3_RDotIO: enabled
+totalRP3_Data: disabled
+totalRP3: disabled
+Lorti UI: enabled
+TomCats: enabled
+TomCats-Nzoth: enabled

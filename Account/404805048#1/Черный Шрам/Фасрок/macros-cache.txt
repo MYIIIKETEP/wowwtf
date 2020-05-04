@@ -1,0 +1,88 @@
+VER 3 010000000000000F " " "Ability_Creature_Cursed_05"
+.gender
+.tittle 29
+.race 5
+.hair 4
+.piercings 10
+.haircolor 8
+END
+VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
+цвввввввввввввцв
+END
+VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Шаг сквозь тень
+/cast [modifier:shift,@focus]Шаг сквозь тень
+END
+VER 3 010000000000001D " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Пинок
+/cast [modifier:shift,@focus]Пинок
+/cast [modifier:ctrl,@focus] Шаг сквозь тень
+/cast [modifier:ctrl,@focus] Пинок
+END
+VER 3 010000000000001E " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Расправа
+/cast [mod:shift]Исчезновение
+/cast [mod:ctrl, @focus] Ошеломление
+END
+VER 3 010000000000001F " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Отравление
+/cast [mod:shift] Ускользание
+END
+VER 3 0100000000000020 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Рваная рана
+/cast [mod:shift]Спринт
+/cast [mod:ctrl]Плащ Теней
+END
+VER 3 0100000000000021 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Удар по почкам
+/cast [mod:shift]Алый фиал
+/cast [mod:ctrl,@focus] Шаг сквозь тень
+/cast [mod:ctrl,@focus] Удар по почкам
+END
+VER 3 0100000000000022 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Гаррота
+/cast [mod:shift]Погибель королей(Артефакт)
+END
+VER 3 0100000000000023 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Смертоносный яд
+/cast [mod:shift]Калечащий яд
+/cast [mod:ctrl]Похищающий жизнь яд
+END
+VER 3 0100000000000024 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Почетный медальон(Талант чести)
+/cast [mod:shift]Вендетта
+/cast [mod:ctrl]Каждый за себя(Расовая)
+END
+VER 3 0100000000000025 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Подлый трюк
+/cast [mod:shift]Алый фиал
+END
+VER 3 0100000000000026 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Ослепление
+/cast [mod:shift,@focus] Ослепление
+/casta
+END
+VER 3 010000000000002A " " "INV_MISC_QUESTIONMARK"
+/cast [nomod] Потрошение
+/cast [mod:shift]Ускользание
+END
+VER 3 0100000000000028 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod]Медальон гладиатора
+/cast [mod:shift]Танец теней
+/cast [mod:ctrl]Каждый за себя(Расовая)
+/cast [mod:alt]Теневые клинки
+END
+VER 3 0100000000000029 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod] Удар Тьмы
+/cast [mod:shift]Исчезновение
+/cast [mod:ctrl,@focus] Ошеломление 
+END
+VER 3 010000000000002B " " "INV_MISC_QUESTIONMARK"
+/cast [nomod] Ночной клинок
+/cast [mod:shift]Спринт
+/cast [mod:ctrl]Плащ Теней
+END
+VER 3 0100000000000027 " '" "INV_MISC_QUESTIONMARK"
+/use [nomod] Сотворенные булочки из маны
+/use [mod:shift] Камень Здоровья
+END

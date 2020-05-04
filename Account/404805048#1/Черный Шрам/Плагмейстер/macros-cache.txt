@@ -1,0 +1,58 @@
+VER 3 010000000000001C "/cast Apocalypse" "INV_MISC_QUESTIONMARK"
+/cast Апокалипсис(Артефакт)
+/script print(IsQuestFlaggedCompleted(44188))
+END
+VER 3 010000000000001D "Burst" "INV_MISC_QUESTIONMARK"
+/закл Усиление рунического оружия
+/закл Ледяной столп
+/закл Истребление
+END
+VER 3 0100000000000017 "DEF" "INV_MISC_QUESTIONMARK"
+/cast Трупный щит
+/закл Защитная желч
+/закл Сжаться
+END
+VER 3 010000000000000C "F;" "INV_MISC_QUESTIONMARK"
+/cast [@focus]  Прыжок
+END
+VER 3 0100000000000012 "FG" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Хватка Смерти
+END
+VER 3 0100000000000019 "fiks" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Асфиксия
+END
+VER 3 010000000000001B "frez" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Ледяные оковы
+END
+VER 3 0100000000000008 "FS" "INV_MISC_QUESTIONMARK"
+/cast [@focus]  Отгрызть
+END
+VER 3 010000000000001A "gre" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Антимагический панцирь
+END
+VER 3 0100000000000006 "HHH" "ABILITY_CREATURE_CURSED_03"
+/ррр
+END
+VER 3 0100000000000009 "Leap" "INV_MISC_QUESTIONMARK"
+/cast Прыжок
+END
+VER 3 010000000000000E "Orc" "INV_MISC_QUESTIONMARK"
+.race 2
+.face 9
+.hair 1
+END
+VER 3 010000000000000F "SM" "INV_MISC_QUESTIONMARK"
+.item 16 49623
+END
+VER 3 0100000000000007 "Stun" "INV_MISC_QUESTIONMARK"
+/cast Отгрызть
+END
+VER 3 0100000000000015 "ПуджСтан" "INV_MISC_QUESTIONMARK"
+/Cast Мощный удар
+END
+VER 3 0100000000000016 "Хук" "INV_MISC_QUESTIONMARK"
+/cast Крюк
+END
+VER 3 0100000000000018 "кик" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Заморозка разума
+END

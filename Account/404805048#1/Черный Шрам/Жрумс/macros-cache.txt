@@ -1,0 +1,25 @@
+VER 3 0100000000000004 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Паралич
+END
+VER 3 0100000000000007 "BT" "INV_MISC_QUESTIONMARK"
+/cast Жетон завоевания дикого гладиатора
+/cast Отвар тигриной силы
+END
+VER 3 0100000000000001 "M" "INV_MISC_QUESTIONMARK"
+/cast [@player] Детоксикация
+END
+VER 3 0100000000000002 "P1" "INV_MISC_QUESTIONMARK"
+/cast [@party1] Детоксикация
+END
+VER 3 0100000000000003 "P2" "INV_MISC_QUESTIONMARK"
+/cast [@party2] Детоксикация
+END
+VER 3 0100000000000005 "А2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Паралич
+END
+VER 3 0100000000000006 "А3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Паралич
+END
+VER 3 0100000000000008 "КЗ" "ABILITY_MONK_CHICOCOON"
+/use Камень здоровья
+END

@@ -1,0 +1,35 @@
+VER 3 010000000000000A "AGRO" "INV_MISC_QUESTIONMARK"
+#showtooltip Длань расплаты
+/cast [@arenapet1] Длань расплаты
+/cast [@arenapet2] Длань расплаты
+/cast [@arenapet3] Длань расплаты
+END
+VER 3 0100000000000004 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip Покаяние
+/cast [@focus] Покаяние
+END
+VER 3 0100000000000005 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip Молот Правосудия
+/cast [@focus] Молот правосудия
+END
+VER 3 0100000000000008 "fMe" "INV_MISC_QUESTIONMARK"
+#showtooltip Благословенная свобода
+/cast [@player] Благословенная свобода
+END
+VER 3 0100000000000006 "ME" "236247"
+/target player
+END
+VER 3 0100000000000002 "P1" "236247"
+/target party1
+END
+VER 3 0100000000000003 "P2" "236247"
+/taget party2
+END
+VER 3 0100000000000007 "Rep" "135942"
+#showtooltip Покаяние
+/cast Покаяние
+END
+VER 3 0100000000000009 "s" "INV_MISC_QUESTIONMARK"
+#showtooltip Дарование веры
+/закл Дарование веры
+END

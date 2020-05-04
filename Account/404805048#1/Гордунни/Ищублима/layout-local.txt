@@ -1,0 +1,8 @@
+Version: 1
+Frame: TRP3_Toolbar
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: -4
+Y: 166
+W: 124
+H: 59

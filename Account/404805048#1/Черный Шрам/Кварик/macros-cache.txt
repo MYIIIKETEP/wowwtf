@@ -1,0 +1,40 @@
+VER 3 0100000000000006 " " "INV_MISC_QUESTIONMARK"
+/закл Знамя с черепом
+/закл Безрассудство
+/закл Аватара
+END
+VER 3 0100000000000008 "BS" "INV_MISC_QUESTIONMARK"
+/use Жетон победы бездушного гладиатора
+/закл Кровавая баня
+/закл Безрассудство
+END
+VER 3 0100000000000001 "FC" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Рывок
+END
+VER 3 0100000000000003 "FF" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Устрашающий крик
+END
+VER 3 0100000000000002 "FSB" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Удар Громовержца
+END
+VER 3 010000000000000A "Hide Binds" "INV_MISC_QUESTIONMARK"
+/run for i = 1, 12 do _G["BonusActionButton"..i.."HotKey"]:SetAlpha(0)) end
+/run for i = 1, 12 do _G["MultiBarBottomLeftButton"..i.."HotKey"]:SetAlpha(0) end
+/run for i = 1, 12 do _G["MultiBarBottomRightButton"..i.."HotKey"]:SetAlpha(0) end
+/run for i = 1
+END
+VER 3 0100000000000004 "HInter" "INV_MISC_QUESTIONMARK"
+/cast [@party1] Охрана
+END
+VER 3 0100000000000005 "P1" "INV_MISC_QUESTIONMARK"
+/cast [@Лезгиночка]Вмешательство
+END
+VER 3 0100000000000007 "Tmorph" "Ability_Garrosh_Hellscreams_Warsong"
+.race 5
+.piercings 10
+.hair 1
+END
+VER 3 0100000000000009 "ИЫ" "INV_MISC_QUESTIONMARK"
+/закл Кровавая баня
+/закл Вихрь клинков
+END

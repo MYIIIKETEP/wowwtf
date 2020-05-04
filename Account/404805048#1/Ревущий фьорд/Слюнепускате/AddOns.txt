@@ -1,0 +1,5 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Lorti UI: enabled
+TomCats: enabled
+TomCats-Nzoth: enabled

@@ -1,0 +1,47 @@
+VER 3 0100000000000013 "1" "SPELL_SHADOW_SUMMONFELHUNTER"
+/cast [@arena1] Гримуар: охотник Скверны
+END
+VER 3 0100000000000014 "2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Гримуар: охотник Скверны
+END
+VER 3 0100000000000015 "3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Гримуар: охотник Скверны
+END
+VER 3 0100000000000005 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Страх
+END
+VER 3 0100000000000002 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Лик тлена 
+END
+VER 3 0100000000000008 "A1PET" "INV_MISC_QUESTIONMARK"
+/cast [@arena1]Запрет чар(Особая способность)
+END
+VER 3 0100000000000006 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Страх
+END
+VER 3 0100000000000009 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Запрет чар(Особая способность)
+END
+VER 3 0100000000000003 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Лик тлена 
+END
+VER 3 0100000000000007 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Страх
+END
+VER 3 0100000000000004 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Лик тлена 
+END
+VER 3 010000000000000A "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Запрет чар(Особая способность)
+END
+VER 3 0100000000000010 "FFear" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Страх
+END
+VER 3 0100000000000018 "G" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0100000000000011 "SimplePET" "INV_MISC_QUESTIONMARK"
+/cast Запрет чар(Особая способность)
+END
+VER 3 0100000000000019 "SimpleSKILLÖ" "SPELL_SHADOW_SUMMONFELHUNTER"
+/закл Гримуар: охотник Скверны
+END

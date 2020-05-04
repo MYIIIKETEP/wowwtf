@@ -1,0 +1,75 @@
+VER 3 010000000000000A "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Антимагия
+END
+VER 3 0100000000000007 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Превращение
+END
+VER 3 010000000000000D "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1]Ледяная хватка
+END
+VER 3 0100000000000008 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Превращение
+END
+VER 3 010000000000000B "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Антимагия
+END
+VER 3 010000000000000E "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2]Ледяная хватка
+END
+VER 3 0100000000000009 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Превращение
+END
+VER 3 010000000000000F "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3]Ледяная хватка
+END
+VER 3 010000000000000C "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Антимагия
+END
+VER 3 0100000000000010 "BST" "INV_MISC_QUESTIONMARK"
+/cast Возгорание
+/use Жетон господства воинственного гладиатора
+END
+VER 3 0100000000000011 "BST" "INV_MISC_QUESTIONMARK"
+/use Жетон господства воинственного гладиатора
+/закл Стылая кровь
+END
+VER 3 0100000000000012 "FSH" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Превращение(Овца)
+END
+VER 3 0100000000000004 "Morphw" "133565"
+.race 5
+.gender
+.hair 1
+.piercings 8
+.item 1 90082
+.item 3 90085
+.item 5 90084
+.item 6 90079
+.item 7 90083
+.item 8 90080
+.item 9 90086
+.item 10 90081
+END
+VER 3 0100000000000002 "SCINF" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast Огненный взрыв
+END
+VER 3 0100000000000003 "SCPR" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast Огненная глыба
+END
+VER 3 0100000000000005 "StaFF" "INV_STAFF_13.BLP"
+.race 5
+.gender
+.hair 1
+.piercings 8
+END
+VER 3 0100000000000006 "Undead" "INV_MISC_QUESTIONMARK"
+.race 5
+.gender
+.hair 1
+.piercings 8
+END
+VER 3 0100000000000001 "У" "INV_MISC_QUESTIONMARK"
+/cast Холод
+END

@@ -1,0 +1,60 @@
+VER 3 0100000000000015 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Безмолвие
+END
+VER 3 0100000000000016 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Безмолвие
+END
+VER 3 0100000000000017 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Безмолвие
+END
+VER 3 0100000000000002 "p1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1]Глубинный ужас
+END
+VER 3 0100000000000003 "p2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2]Глубинный ужас
+END
+VER 3 010000000000001E "p3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3]Глубинный ужас
+END
+VER 3 0100000000000001 "Party1" "ABILITY_CREATURE_CURSED_05"
+/target party1
+END
+VER 3 0100000000000005 "party2" "ABILITY_CREATURE_CURSED_05"
+/target party2
+END
+VER 3 0100000000000006 "Party3" "ABILITY_CREATURE_CURSED_05"
+/target player
+END
+VER 3 010000000000001B "PWP1" "INV_MISC_QUESTIONMARK"
+/cast [@party1]Слово силы: Щит
+END
+VER 3 010000000000001D "PWP2" "INV_MISC_QUESTIONMARK"
+/cast [@party2]Слово силы: Щит
+END
+VER 3 0100000000000011 "Root" "INV_MISC_QUESTIONMARK"
+/cast Щупальца Бездны
+END
+VER 3 010000000000001A "Self" "INV_MISC_QUESTIONMARK"
+/cast [@player] Мольба
+END
+VER 3 010000000000000F "SHG" "INV_MISC_QUESTIONMARK"
+/target Вороная Горгулья
+/cast Сковывание нежити
+/targetlasttarget
+END
+VER 3 0100000000000018 "Swap" "INV_MISC_QUESTIONMARK"
+/cast [@Radarfalle]Вхождение в Бездну
+END
+VER 3 0100000000000019 "w" "INV_MISC_QUESTIONMARK"
+/targetenemy [noharm]
+/cast Предчувствие
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Архангел(PvP-талант)
+/закл Архангел(PvP-талант)
+/закл Темный архангел(PvP-талант)
+/use Жетон ужасающего гладиатора
+END
+VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
+/cast [@player]Слово силы: Щит
+END

@@ -1,0 +1,53 @@
+VER 3 010000000000001B "," "451169"
+/закл Камнедробитель
+END
+VER 3 0100000000000019 "2" "INV_MISC_QUESTIONMARK"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button2
+END
+VER 3 0100000000000002 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1]Сглаз
+END
+VER 3 0100000000000005 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Пронизывающий ветер
+END
+VER 3 0100000000000003 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Сглаз
+END
+VER 3 0100000000000006 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Пронизывающий ветер
+END
+VER 3 0100000000000007 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Пронизывающий ветер
+END
+VER 3 0100000000000004 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Сглаз
+END
+VER 3 0100000000000012 "Drainei" "134176"
+.race 11
+.gender
+END
+VER 3 0100000000000017 "earth" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Тотем хватки земли
+/cast [@cursor] Тотем вуду
+END
+VER 3 010000000000000B "FH" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Сглаз
+END
+VER 3 010000000000000C "FWH" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Пронизывающий ветер
+END
+VER 3 010000000000001A "KAMEN" "INV_MISC_QUESTIONMARK"
+/use Камень здоровья
+END
+VER 3 0100000000000016 "link" "INV_MISC_QUESTIONMARK"
+/cast [@player] Тотем духовной связи
+END
+VER 3 0100000000000018 "R" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Дар королевы(Артефакт)
+END
+VER 3 0100000000000015 "X" "INV_MISC_QUESTIONMARK"
+/закл [@cursor]Тотем земного щита
+END
+VER 3 010000000000001C "Стан" "INV_MISC_QUESTIONMARK"
+END

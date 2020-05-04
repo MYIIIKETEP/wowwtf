@@ -1,0 +1,23 @@
+VER 3 0100000000000002 "CA" "INV_MISC_QUESTIONMARK"
+/cancelaura Облик кошки
+/cancelaura Облик медведя
+/cancelaura Походный Облик
+END
+VER 3 0100000000000003 "Clone" "INV_MISC_QUESTIONMARK"
+/cast [@arena2]Смерч(PvP-талант)
+END
+VER 3 0100000000000004 "Clone" "INV_MISC_QUESTIONMARK"
+/cast [@arena3]Смерч(PvP-талант)
+END
+VER 3 0100000000000001 "Clone" "INV_MISC_QUESTIONMARK"
+/cast [@arena1]Смерч(PvP-талант)
+END
+VER 3 0100000000000006 "P" "514640"
+/target player
+END
+VER 3 0100000000000005 "P!" "514640"
+/target party1
+END
+VER 3 0100000000000007 "P2" "514640"
+/target party2
+END

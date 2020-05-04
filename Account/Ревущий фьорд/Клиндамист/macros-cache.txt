@@ -1,0 +1,54 @@
+VER 3 010000000000000D "." "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Сущность сердца
+END
+VER 3 010000000000000E "2" "INV_MISC_QUESTIONMARK"
+/2 Куплю 15 аталдазар с 4 хил лутерами в тайм ПМ
+END
+VER 3 010000000000000B "FS" "INV_MISC_QUESTIONMARK"
+/cast [@focus]Безмолвие
+END
+VER 3 0100000000000002 "P1" "135936"
+/target party1
+END
+VER 3 0100000000000003 "P2" "135936"
+/target party2
+END
+VER 3 0100000000000009 "P3" "135936"
+/target player
+END
+VER 3 0100000000000004 "s" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm]Рассеивание заклинаний; Очищение
+END
+VER 3 0100000000000008 "s" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm]Кара ; Темное восстановление
+END
+VER 3 0100000000000007 "ss" "INV_MISC_QUESTIONMARK"
+#showtooltip Божественное Перышко
+/cast [@party1]  Божественное Перышко
+END
+VER 3 010000000000000C "SS" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Глубинный ужас
+END
+VER 3 010000000000000F "SWD" "136149"
+#showtooltip Предвестие(PvP-талант)
+/закл Предвестие(PvP-талант)
+END
+VER 3 0100000000000010 "www" "INV_MISC_QUESTIONMARK"
+/console ScriptErrors 0
+END
+VER 3 010000000000000A "www" "INV_MISC_QUESTIONMARK"
+/way 59.39 56.52 Fallen Kelp Bud
+/way 61.88 46.88 Fallen Kelp Bud
+/way 79.75 32.98 Fallen Kelp Bud
+/way 73.45 43.02 Fallen Kelp Bud
+/way 38, 66 Fallen Kelp Bud
+/way 41, 63 Fallen Kelp Bud
+/way 60, 52 Fallen Kelp Bud
+END
+VER 3 0100000000000001 "ыы" "INV_MISC_QUESTIONMARK"
+#showtooltip Божественное Перышко
+/cast [@player]  Божественное Перышко
+END

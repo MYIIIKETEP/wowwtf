@@ -1,0 +1,35 @@
+VER 3 0100000000000001 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Лик тлена
+END
+VER 3 0100000000000007 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Управление демоном
+END
+VER 3 0100000000000004 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Страх
+END
+VER 3 0100000000000005 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Страх
+END
+VER 3 0100000000000008 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Управление демоном
+END
+VER 3 0100000000000002 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Лик тлена
+END
+VER 3 0100000000000009 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Управление демоном
+END
+VER 3 0100000000000006 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Страх
+END
+VER 3 0100000000000003 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Лик тлена
+END
+VER 3 010000000000000B "s-V" "INV_MISC_QUESTIONMARK"
+/cast Горящая Душа
+/cast Обмен душ
+END
+VER 3 010000000000000A "s-X" "INV_MISC_QUESTIONMARK"
+/закл Темное восстановление
+/use Камень здоровья
+END

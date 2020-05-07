@@ -68,6 +68,8 @@ BigDebuffsDB = {
 				["player"] = {
 					["size"] = 57,
 				},
+				["party2"] = {
+				},
 				["party1"] = {
 					["position"] = {
 						"TOPLEFT", -- [1]
@@ -76,8 +78,6 @@ BigDebuffsDB = {
 						15.9999942779541, -- [4]
 						-146.0000305175781, -- [5]
 					},
-				},
-				["party2"] = {
 				},
 				["arena"] = {
 					["enabled"] = false,

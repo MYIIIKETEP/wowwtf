@@ -178,7 +178,7 @@ ATTDB = {
 	["showTrinket"] = true,
 	["dampening"] = false,
 	["iconOffsetY"] = 2,
-	["attach"] = true,
+	["inraid"] = false,
 	["outside"] = false,
 	["hidden"] = false,
 	["dungeons"] = true,
@@ -694,6 +694,6 @@ ATTDB = {
 	["showIconBorders"] = false,
 	["iconOffsetX"] = 5,
 	["arena"] = true,
-	["inraid"] = false,
+	["attach"] = true,
 	["showTooltip"] = false,
 }

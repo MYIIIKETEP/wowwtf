@@ -1679,14 +1679,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -1706,14 +1706,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -1724,14 +1724,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -2147,14 +2147,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -4015,14 +4015,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -4042,14 +4042,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -4060,14 +4060,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -4483,14 +4483,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -6351,14 +6351,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -6378,14 +6378,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -6396,14 +6396,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -6819,14 +6819,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -8686,14 +8686,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -8713,14 +8713,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -8731,14 +8731,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -9154,14 +9154,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -10954,15 +10954,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237589,
 				},
-				["Зона антимагии"] = {
-					["enabled"] = true,
-					["refSpellID"] = 51052,
-					["spellIDs"] = {
-						[51052] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 237510,
-				},
 				["Владение аурами"] = {
 					["enabled"] = true,
 					["refSpellID"] = 31821,
@@ -10971,6 +10962,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 180,
 					["texture"] = 135872,
+				},
+				["Зона антимагии"] = {
+					["enabled"] = true,
+					["refSpellID"] = 51052,
+					["spellIDs"] = {
+						[51052] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 237510,
 				},
 				["Узы Пустоты"] = {
 					["enabled"] = true,
@@ -11026,14 +11026,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Связующий выстрел"] = {
+				["Спринт"] = {
 					["enabled"] = true,
-					["refSpellID"] = 109248,
+					["refSpellID"] = 2983,
 					["spellIDs"] = {
-						[109248] = true,
+						[2983] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 462650,
+					["cooldown"] = 60,
+					["texture"] = 132307,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -11044,23 +11044,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 237527,
 				},
-				["Спринт"] = {
+				["Связующий выстрел"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2983,
+					["refSpellID"] = 109248,
 					["spellIDs"] = {
-						[2983] = true,
+						[109248] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132307,
+					["cooldown"] = 45,
+					["texture"] = 462650,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Защитник древних королей"] = {
 					["enabled"] = true,
@@ -11089,15 +11089,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132089,
 				},
-				["Слияние с Тьмой"] = {
-					["enabled"] = true,
-					["refSpellID"] = 47585,
-					["spellIDs"] = {
-						[47585] = true,
-					},
-					["cooldown"] = 90,
-					["texture"] = 237563,
-				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
 					["refSpellID"] = 18499,
@@ -11106,6 +11097,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 60,
 					["texture"] = 136009,
+				},
+				["Слияние с Тьмой"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47585,
+					["spellIDs"] = {
+						[47585] = true,
+					},
+					["cooldown"] = 90,
+					["texture"] = 237563,
 				},
 				["Благосклонность предков"] = {
 					["enabled"] = true,
@@ -11116,6 +11116,15 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 451170,
 				},
+				["Кровавая баня"] = {
+					["enabled"] = true,
+					["refSpellID"] = 12292,
+					["spellIDs"] = {
+						[12292] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 236304,
+				},
 				["Железная кора"] = {
 					["enabled"] = true,
 					["refSpellID"] = 102342,
@@ -11124,15 +11133,6 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 30,
 					["texture"] = 572025,
-				},
-				["Дымовая шашка"] = {
-					["enabled"] = true,
-					["refSpellID"] = 212182,
-					["spellIDs"] = {
-						[212182] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 458733,
 				},
 				["Глухая оборона"] = {
 					["enabled"] = true,
@@ -11458,14 +11458,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 135836,
 				},
-				["Кровавая баня"] = {
+				["Дымовая шашка"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12292,
+					["refSpellID"] = 212182,
 					["spellIDs"] = {
-						[12292] = true,
+						[212182] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 236304,
+					["cooldown"] = 180,
+					["texture"] = 458733,
 				},
 				["Реактивный прыжок"] = {
 					["enabled"] = true,
@@ -11494,14 +11494,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -11706,6 +11706,7 @@ NameplateCooldownsAceDB = {
 			["Font"] = "Skurri",
 		},
 		["Калимистх - Ревущий фьорд"] = {
+			["DBVersion"] = 9,
 			["SpellCDs"] = {
 				["Абордажный крюк"] = {
 					["enabled"] = true,
@@ -13363,14 +13364,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -13390,14 +13391,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -13408,14 +13409,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -13831,14 +13832,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -14039,7 +14040,6 @@ NameplateCooldownsAceDB = {
 					["texture"] = 1412204,
 				},
 			},
-			["DBVersion"] = 9,
 		},
 		["Мушкетер - Черный Шрам"] = {
 			["SpellCDs"] = {
@@ -15699,14 +15699,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -15726,14 +15726,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -15744,14 +15744,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -16167,14 +16167,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -18036,14 +18036,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -18063,14 +18063,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -18081,14 +18081,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -18504,14 +18504,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -20372,14 +20372,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -20399,14 +20399,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -20417,14 +20417,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -20840,14 +20840,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -22708,14 +22708,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -22735,14 +22735,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -22753,14 +22753,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -23176,14 +23176,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -25043,14 +25043,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -25070,14 +25070,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -25088,14 +25088,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -25511,14 +25511,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -27380,14 +27380,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -27407,14 +27407,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -27425,14 +27425,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -27848,14 +27848,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -28058,7 +28058,6 @@ NameplateCooldownsAceDB = {
 			},
 		},
 		["Флинтомист - Ревущий фьорд"] = {
-			["DBVersion"] = 9,
 			["SpellCDs"] = {
 				["Абордажный крюк"] = {
 					["enabled"] = true,
@@ -29716,14 +29715,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -29743,14 +29742,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -29761,14 +29760,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -30184,14 +30183,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -30392,8 +30391,10 @@ NameplateCooldownsAceDB = {
 					["texture"] = 1412204,
 				},
 			},
+			["DBVersion"] = 9,
 		},
 		["Соваестдетей - Ревущий фьорд"] = {
+			["DBVersion"] = 9,
 			["SpellCDs"] = {
 				["Абордажный крюк"] = {
 					["enabled"] = true,
@@ -32051,14 +32052,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -32078,14 +32079,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -32096,14 +32097,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -32519,14 +32520,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -32727,7 +32728,6 @@ NameplateCooldownsAceDB = {
 					["texture"] = 1412204,
 				},
 			},
-			["DBVersion"] = 9,
 		},
 		["Клиндамист - Ревущий фьорд"] = {
 			["IconXOffset"] = 10,
@@ -34318,15 +34318,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237589,
 				},
-				["Владение аурами"] = {
-					["enabled"] = true,
-					["refSpellID"] = 31821,
-					["spellIDs"] = {
-						[31821] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 135872,
-				},
 				["Зона антимагии"] = {
 					["enabled"] = true,
 					["refSpellID"] = 51052,
@@ -34335,6 +34326,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 120,
 					["texture"] = 237510,
+				},
+				["Владение аурами"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31821,
+					["spellIDs"] = {
+						[31821] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135872,
 				},
 				["Узы Пустоты"] = {
 					["enabled"] = true,
@@ -34390,14 +34390,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Спринт"] = {
+				["Связующий выстрел"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2983,
+					["refSpellID"] = 109248,
 					["spellIDs"] = {
-						[2983] = true,
+						[109248] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132307,
+					["cooldown"] = 45,
+					["texture"] = 462650,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -34408,23 +34408,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 15,
 					["texture"] = 237527,
 				},
-				["Связующий выстрел"] = {
+				["Спринт"] = {
 					["enabled"] = true,
-					["refSpellID"] = 109248,
+					["refSpellID"] = 2983,
 					["spellIDs"] = {
-						[109248] = true,
+						[2983] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 462650,
+					["cooldown"] = 60,
+					["texture"] = 132307,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Защитник древних королей"] = {
 					["enabled"] = true,
@@ -34453,15 +34453,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132089,
 				},
-				["Ярость берсерка"] = {
-					["enabled"] = true,
-					["refSpellID"] = 18499,
-					["spellIDs"] = {
-						[18499] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 136009,
-				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
 					["refSpellID"] = 47585,
@@ -34470,6 +34461,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 90,
 					["texture"] = 237563,
+				},
+				["Ярость берсерка"] = {
+					["enabled"] = true,
+					["refSpellID"] = 18499,
+					["spellIDs"] = {
+						[18499] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 136009,
 				},
 				["Благосклонность предков"] = {
 					["enabled"] = true,
@@ -34480,6 +34480,15 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 451170,
 				},
+				["Железная кора"] = {
+					["enabled"] = true,
+					["refSpellID"] = 102342,
+					["spellIDs"] = {
+						[102342] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 572025,
+				},
 				["Дымовая шашка"] = {
 					["enabled"] = true,
 					["refSpellID"] = 212182,
@@ -34488,15 +34497,6 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 180,
 					["texture"] = 458733,
-				},
-				["Кровавая баня"] = {
-					["enabled"] = true,
-					["refSpellID"] = 12292,
-					["spellIDs"] = {
-						[12292] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 236304,
 				},
 				["Глухая оборона"] = {
 					["enabled"] = true,
@@ -34822,14 +34822,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 135836,
 				},
-				["Железная кора"] = {
+				["Кровавая баня"] = {
 					["enabled"] = true,
-					["refSpellID"] = 102342,
+					["refSpellID"] = 12292,
 					["spellIDs"] = {
-						[102342] = true,
+						[12292] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 572025,
+					["cooldown"] = 120,
+					["texture"] = 236304,
 				},
 				["Реактивный прыжок"] = {
 					["enabled"] = true,
@@ -34858,14 +34858,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -36726,14 +36726,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -36753,14 +36753,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132307,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
@@ -36771,14 +36771,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -37194,14 +37194,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -38720,14 +38720,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 1381297,
 				},
-				["Исчезновение"] = {
+				["Медальон гладиатора"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1856,
+					["refSpellID"] = 208683,
 					["spellIDs"] = {
-						[1856] = true,
+						[208683] = true,
 					},
-					["cooldown"] = 75,
-					["texture"] = 132331,
+					["cooldown"] = 120,
+					["texture"] = 1322720,
 				},
 				["Печать цепей"] = {
 					["enabled"] = true,
@@ -38990,15 +38990,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 237542,
 				},
-				["Зона антимагии"] = {
-					["enabled"] = true,
-					["refSpellID"] = 51052,
-					["spellIDs"] = {
-						[51052] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 237510,
-				},
 				["Владение аурами"] = {
 					["enabled"] = true,
 					["refSpellID"] = 31821,
@@ -39007,6 +38998,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 180,
 					["texture"] = 135872,
+				},
+				["Зона антимагии"] = {
+					["enabled"] = true,
+					["refSpellID"] = 51052,
+					["spellIDs"] = {
+						[51052] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 237510,
 				},
 				["Узы Пустоты"] = {
 					["enabled"] = true,
@@ -39062,14 +39062,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Невидимость"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[66] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -39089,14 +39089,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -39107,14 +39107,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Защитник древних королей"] = {
+				["Ни шагу назад"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 12975,
 					["spellIDs"] = {
-						[86659] = true,
+						[12975] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 120,
+					["texture"] = 135871,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -39530,14 +39530,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ни шагу назад"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12975,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[12975] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135871,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -39692,14 +39692,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1247262,
 				},
-				["Медальон гладиатора"] = {
+				["Исчезновение"] = {
 					["enabled"] = true,
-					["refSpellID"] = 208683,
+					["refSpellID"] = 1856,
 					["spellIDs"] = {
-						[208683] = true,
+						[1856] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1322720,
+					["cooldown"] = 75,
+					["texture"] = 132331,
 				},
 				["Смягчение удара"] = {
 					["enabled"] = true,
@@ -39738,8 +39738,8 @@ NameplateCooldownsAceDB = {
 					["texture"] = 135848,
 				},
 			},
-			["IconYOffset"] = 2,
 			["DBVersion"] = 9,
+			["IconYOffset"] = 2,
 		},
 	},
 }

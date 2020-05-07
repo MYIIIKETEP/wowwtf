@@ -55,6 +55,10 @@ BigDebuffsDB = {
 				["arena"] = {
 					["enabled"] = false,
 				},
+				["party2"] = {
+				},
+				["arena3"] = {
+				},
 				["party1"] = {
 					["position"] = {
 						"TOPLEFT", -- [1]
@@ -63,10 +67,6 @@ BigDebuffsDB = {
 						15.9999942779541, -- [4]
 						-146.0000305175781, -- [5]
 					},
-				},
-				["arena3"] = {
-				},
-				["party2"] = {
 				},
 			},
 			["raidFrames"] = {

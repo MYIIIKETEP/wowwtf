@@ -3,9 +3,29 @@ VER 3 0000000000000036 " " "INV_MISC_QUESTIONMARK"
 /cast [mod:shift]Исчезновение
 /cast [mod:ctrl,@focus] Ошеломление 
 END
-VER 3 0000000000000053 "222" "237550"
+VER 3 0000000000000053 " " "237550"
 #showtooltip Ашжра'камас, Покров Решимости
 /use Ашжра'камас, Покров Решимости
+END
+VER 3 0000000000000059 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Воскрешение
+/закл Нетронутый порчей змей Бездны
+END
+VER 3 0000000000000058 " " "135994"
+#showtooltip Уход в тень
+/use Камень здоровья
+END
+VER 3 0000000000000057 " " "1386546"
+#showtooltip Слово силы: Сияние
+/закл Кольцо света
+END
+VER 3 0000000000000055 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Духовное рвение
+/закл Левитация
+END
+VER 3 000000000000005A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Воскрешение
+/закл Неуклонный ледяной покоритель
 END
 VER 3 0000000000000056 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 /script print('no button yet')
@@ -28,6 +48,10 @@ VER 3 000000000000004E " " "INV_MISC_QUESTIONMARK"
 #showtooltip Слово силы: Утешение
 /закл Очищение
 END
+VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
+#showtooltip Темное восстановление
+/cast Очищение зла
+END
 VER 3 000000000000004A " " "INV_MISC_QUESTIONMARK"
 #showtooltip Схизма
 /cast Рассеивание заклинаний
@@ -41,27 +65,10 @@ VER 3 0000000000000049 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Исповедь
 /cast Кара
 END
-VER 3 000000000000004D " " "INV_MISC_QUESTIONMARK"
-#showtooltip Слово силы: Сияние
-/cast [nomod]Кольцо света
-/use [mod:shift] Ашжра'камас, Покров Решимости
-END
-VER 3 000000000000004F " " "INV_MISC_QUESTIONMARK"
-#showtooltip Массовое рассеивание
-/закл Контроль над разумом
-END
-VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
-#showtooltip Темное восстановление
-/cast Очищение зла
-END
 VER 3 0000000000000052 "ЫЗ" "INV_MISC_QUESTIONMARK"
 /way 24, 41
 /way 10, 68
 /way 15, 31
 /way 19,13.4
 /way 15,68
-END
-VER 3 0000000000000055 "ц" "INV_MISC_QUESTIONMARK"
-#showtooltip Духовное рвение
-/закл Левитация
 END

@@ -20,35 +20,17 @@ BigDebuffsDB = {
 		["Итсафлейм - Черный Шрам"] = "Default",
 		["Снохах - Ревущий фьорд"] = "Default",
 		["Фасрок - Черный Шрам"] = "Default",
-		["Сноха - Ревущий фьорд"] = "Default",
-		["Флинтомист - Ревущий фьорд"] = "Default",
-		["Клиндамист - Ревущий фьорд"] = "Default",
-		["Силапорчи - Ревущий фьорд"] = "Default",
-		["Жрумс - Черный Шрам"] = "Default",
-		["Соваестдетей - Ревущий фьорд"] = "Default",
 		["Итсафлеймх - Черный Шрам"] = "Default",
+		["Флинтомист - Ревущий фьорд"] = "Default",
+		["Соваестдетей - Ревущий фьорд"] = "Default",
+		["Жрумс - Черный Шрам"] = "Default",
+		["Силапорчи - Ревущий фьорд"] = "Default",
+		["Клиндамист - Ревущий фьорд"] = "Default",
+		["Сноха - Ревущий фьорд"] = "Default",
 		["Хидрамист - Ревущий фьорд"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["raidFrames"] = {
-				["cooldownFontEffect"] = "MONOCHROME",
-				["maxDebuffs"] = 9,
-				["anchor"] = "RIGHT",
-				["increaseBuffs"] = true,
-				["inRaid"] = {
-					["size"] = 15,
-				},
-				["hideBliz"] = false,
-				["pve"] = 51,
-				["warningList"] = {
-					[233499] = true,
-				},
-				["roots"] = 29,
-				["dispellable"] = {
-					["cc"] = 100,
-				},
-			},
 			["unitFrames"] = {
 				["cooldownFontEffect"] = "MONOCHROME",
 				["party3"] = {
@@ -68,7 +50,10 @@ BigDebuffsDB = {
 				["player"] = {
 					["size"] = 57,
 				},
-				["party2"] = {
+				["arena4"] = {
+				},
+				["arena"] = {
+					["enabled"] = false,
 				},
 				["party1"] = {
 					["position"] = {
@@ -79,12 +64,27 @@ BigDebuffsDB = {
 						-146.0000305175781, -- [5]
 					},
 				},
-				["arena"] = {
-					["enabled"] = false,
-				},
 				["arena3"] = {
 				},
-				["arena4"] = {
+				["party2"] = {
+				},
+			},
+			["raidFrames"] = {
+				["cooldownFontEffect"] = "MONOCHROME",
+				["maxDebuffs"] = 9,
+				["anchor"] = "RIGHT",
+				["increaseBuffs"] = true,
+				["inRaid"] = {
+					["size"] = 15,
+				},
+				["hideBliz"] = false,
+				["pve"] = 51,
+				["warningList"] = {
+					[233499] = true,
+				},
+				["roots"] = 29,
+				["dispellable"] = {
+					["cc"] = 100,
 				},
 			},
 		},

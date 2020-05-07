@@ -27,6 +27,11 @@ VER 3 000000000000005A " " "INV_MISC_QUESTIONMARK"
 #showtooltip Воскрешение
 /закл Неуклонный ледяной покоритель
 END
+VER 3 000000000000005B " " "INV_MISC_QUESTIONMARK"
+#showtooltip Молитва отчаяния
+/закл Молитва отчаяния
+/cancelaura Молитва отчаяния
+END
 VER 3 0000000000000056 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 /script print('no button yet')
 END
@@ -44,17 +49,9 @@ VER 3 0000000000000054 "ww" "1322720"
 #showtooltip Воля Отрекшихся(Расовая)
 /закл Воля Отрекшихся(Расовая)
 END
-VER 3 000000000000004E " " "INV_MISC_QUESTIONMARK"
-#showtooltip Слово силы: Утешение
-/закл Очищение
-END
 VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
 #showtooltip Темное восстановление
 /cast Очищение зла
-END
-VER 3 000000000000004A " " "INV_MISC_QUESTIONMARK"
-#showtooltip Схизма
-/cast Рассеивание заклинаний
 END
 VER 3 0000000000000050 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Архангел(PvP-талант)
@@ -64,6 +61,14 @@ END
 VER 3 0000000000000049 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Исповедь
 /cast Кара
+END
+VER 3 000000000000004A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Схизма
+/cast Рассеивание заклинаний
+END
+VER 3 000000000000004E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Слово силы: Утешение
+/закл Очищение
 END
 VER 3 0000000000000052 "ЫЗ" "INV_MISC_QUESTIONMARK"
 /way 24, 41

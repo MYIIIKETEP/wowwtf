@@ -1,35 +1,6 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Хидрамист-howling-fjord"
+RaiderIO_LastCharacter = "eu-Флинтомист-howling-fjord"
 RaiderIO_MissingCharacters = {
-	["eu-Энхаро-howling-fjord"] = true,
-	["eu-Ультраметал-howling-fjord"] = true,
-	["eu-Волтеррош-howling-fjord"] = true,
-	["eu-Неизвестно-howling-fjord"] = true,
-	["eu-Физикядерщик-lich-king"] = true,
-	["eu-Кнокаут-howling-fjord"] = true,
-	["eu-Магнолий-howling-fjord"] = true,
-	["eu-Пальба-howling-fjord"] = true,
-	["eu-Мэджикь-howling-fjord"] = true,
-	["eu-Шинитагари-howling-fjord"] = true,
-	["eu-Пэинкиллер-howling-fjord"] = true,
-	["eu-Кичико-howling-fjord"] = true,
-	["eu-Кваннот-howling-fjord"] = true,
-	["eu-Дэдлиблейд-blackscar"] = true,
-	["eu-Чемикалх-howling-fjord"] = true,
-	["eu-Падшийстакан-howling-fjord"] = true,
-	["eu-Люсяжги-howling-fjord"] = true,
-	["eu-Наэда-howling-fjord"] = true,
-	["eu-Ешам-howling-fjord"] = true,
-	["eu-Ариалуни-soulflayer"] = true,
-	["eu-Ариэд-deathweaver"] = true,
-	["eu-Полусухой-howling-fjord"] = true,
-	["eu-Ателлард-howling-fjord"] = true,
-	["eu-Антира-ashenvale"] = true,
-	["eu-Валтас-howling-fjord"] = true,
-	["eu-Пуфыфтыйенот-howling-fjord"] = true,
-	["eu-Руратами-howling-fjord"] = true,
-	["eu-Побэда-howling-fjord"] = true,
-	["eu-Торрмар-howling-fjord"] = true,
 }

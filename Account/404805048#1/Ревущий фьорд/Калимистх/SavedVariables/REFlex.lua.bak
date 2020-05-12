@@ -1,7 +1,7 @@
 
 REFlexSettings = {
 	["MiniMapButtonSettings"] = {
-		["minimapPos"] = 126.2852242067165,
+		["minimapPos"] = 87.96708013419374,
 		["hide"] = false,
 	},
 	["ShowServerName"] = false,
@@ -11,7 +11,7 @@ REFlexSettings = {
 	["LDBSide"] = "A",
 	["ArenaStatsLimit"] = 3,
 	["ConfigVersion"] = 275,
-	["FirstTime"] = true,
+	["FirstTime"] = false,
 	["Filters"] = {
 		["Map"] = 1,
 		["Bracket"] = 1,

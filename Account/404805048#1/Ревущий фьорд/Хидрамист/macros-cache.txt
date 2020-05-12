@@ -44,7 +44,7 @@ VER 3 0100000000000011 " " "136149"
 END
 VER 3 010000000000001B " " "135894"
 #showtooltip Массовое рассеивание
-/закл Массовое рассеивание
+/закл [@cursor]Массовое рассеивание
 END
 VER 3 010000000000000F " " "136149"
 #showtooltip Предвестие(PvP-талант)
@@ -56,6 +56,10 @@ END
 VER 3 0100000000000001 " " "135944"
 #showtooltip Божественное Перышко
 /cast [@player]  Божественное Перышко
+END
+VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Слово силы: Барьер
+/cast [@cursor]Слово силы: Барьер
 END
 VER 3 010000000000000B "FS" "INV_MISC_QUESTIONMARK"
 /cast [@focus]Безмолвие

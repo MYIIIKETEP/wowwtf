@@ -1,8 +1,6 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Хидрамист-howling-fjord"
+RaiderIO_LastCharacter = "eu-Флинтомист-howling-fjord"
 RaiderIO_MissingCharacters = {
-	["eu-Эсмодус-soulflayer"] = true,
-	["eu-Рафлмао-soulflayer"] = true,
 }

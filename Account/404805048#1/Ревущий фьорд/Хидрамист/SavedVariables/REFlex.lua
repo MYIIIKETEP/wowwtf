@@ -16,7 +16,7 @@ REFlexSettings = {
 		["Map"] = 1,
 		["Bracket"] = 1,
 		["Date"] = {
-			1588449600, -- [1]
+			1589140800, -- [1]
 			0, -- [2]
 		},
 		["Spec"] = "Все",
@@ -106,18 +106,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 137,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588248208,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588248208,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -216,18 +216,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 200,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["isArena"] = true,
-		["Time"] = 1588248492,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588248492,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -326,18 +326,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 163,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588248745,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588248745,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -436,18 +436,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 108,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588248969,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588248969,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -546,18 +546,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 52,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588249105,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588249105,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -656,18 +656,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 124,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588249318,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588249318,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -766,18 +766,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 397,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588249848,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588249848,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -876,18 +876,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 158,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588250116,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588250116,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -986,18 +986,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 72,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["isArena"] = true,
-		["Time"] = 1588250314,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588250314,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1096,18 +1096,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 121,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588250541,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588250541,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1206,18 +1206,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 468,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588251158,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588251158,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1316,18 +1316,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 176,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588251424,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588251424,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1426,18 +1426,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 150,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588251669,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588251669,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1536,18 +1536,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 61,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588251881,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588251881,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1646,18 +1646,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 60,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588252024,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588252024,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1756,18 +1756,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 185,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588252297,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588252297,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1866,18 +1866,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 317,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588252700,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588252700,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -1976,18 +1976,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 347,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588253167,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588253167,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2086,18 +2086,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 287,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588253539,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588253539,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2196,18 +2196,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 217,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588253907,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588253907,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2306,18 +2306,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 172,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588254197,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588254197,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2416,18 +2416,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 191,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588254503,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588254503,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2526,18 +2526,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 130,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588254724,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588254724,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2636,18 +2636,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 200,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588255058,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588255058,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -2667,17 +2667,15 @@ REFlexDatabase = {
 	}, -- [24]
 	{
 		["Map"] = 2107,
-		["Hidden"] = false,
+		["PlayerNum"] = 7,
 		["StatsNum"] = 2,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["PlayersNum"] = 29,
 		["Duration"] = 711,
-		["PlayerNum"] = 7,
+		["Season"] = 29,
 		["isArena"] = false,
-		["PlayerSide"] = 0,
+		["Version"] = 275,
 		["isBrawl"] = true,
-		["Time"] = 1588256622,
-		["isRated"] = false,
 		["PlayersStats"] = {
 			{
 				{
@@ -2912,8 +2910,10 @@ REFlexDatabase = {
 				}, -- [2]
 			}, -- [29]
 		},
+		["isRated"] = false,
+		["Time"] = 1588256622,
 		["Winner"] = 0,
-		["Version"] = 275,
+		["PlayerSide"] = 0,
 		["Players"] = {
 			{
 				"Дайсё-СвежевательДуш", -- [1]
@@ -3549,18 +3549,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 101,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588454498,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588454498,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3659,18 +3659,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 81,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588454696,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588454696,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3769,18 +3769,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 304,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588455093,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588455093,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3879,18 +3879,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 169,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588455346,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588455346,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -3989,18 +3989,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 128,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588455555,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588455555,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4099,18 +4099,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 375,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588456044,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588456044,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4209,18 +4209,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 50,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["isArena"] = true,
-		["Time"] = 1588456230,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588456230,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4319,18 +4319,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 328,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588456640,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588456640,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4429,18 +4429,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 2,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 524,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["isArena"] = true,
-		["Time"] = 1588457248,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588457248,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4539,18 +4539,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 199,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["isArena"] = true,
-		["Time"] = 1588457561,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588457561,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4649,18 +4649,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 281,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588458007,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588458007,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4759,18 +4759,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 156,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588458339,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588458339,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4869,18 +4869,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 3,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 264,
-		["Hidden"] = false,
+		["PlayerNum"] = 3,
 		["isArena"] = true,
-		["Time"] = 1588458723,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588458723,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -4979,18 +4979,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 212,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588459058,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588459058,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5089,18 +5089,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 177,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588459374,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588459374,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5199,18 +5199,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 73,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588459540,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588459540,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5309,18 +5309,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 141,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588459796,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588459796,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5419,18 +5419,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 452,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588460378,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588460378,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5529,18 +5529,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 349,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588460929,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588460929,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5639,18 +5639,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 72,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588461090,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588461090,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5749,18 +5749,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 81,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588461339,
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588461339,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5859,18 +5859,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
+		["Season"] = 29,
 		["PlayersNum"] = 4,
 		["Duration"] = 192,
-		["Hidden"] = false,
+		["PlayerNum"] = 4,
 		["isArena"] = true,
-		["Time"] = 1588461615,
-		["isBrawl"] = false,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isBrawl"] = false,
+		["Time"] = 1588461615,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -5890,8 +5890,6 @@ REFlexDatabase = {
 	}, -- [47]
 	{
 		["Map"] = 617,
-		["PlayerNum"] = 5,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Ruthlessx-TwistingNether", -- [1]
@@ -5989,17 +5987,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [5]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 5,
 		["Duration"] = 18,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["isBrawl"] = false,
-		["Time"] = 1588771237,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588771237,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6019,8 +6019,6 @@ REFlexDatabase = {
 	}, -- [48]
 	{
 		["Map"] = 572,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Джонмвп-СтражСмерти", -- [1]
@@ -6137,17 +6135,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 90,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588771415,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588771415,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6167,8 +6167,6 @@ REFlexDatabase = {
 	}, -- [49]
 	{
 		["Map"] = 1672,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Джонмвп-СтражСмерти", -- [1]
@@ -6285,17 +6283,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 255,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588771908,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588771908,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6315,8 +6315,6 @@ REFlexDatabase = {
 	}, -- [50]
 	{
 		["Map"] = 1134,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Sticki-Mal'Ganis", -- [1]
@@ -6433,17 +6431,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 101,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588772090,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588772090,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6463,8 +6463,6 @@ REFlexDatabase = {
 	}, -- [51]
 	{
 		["Map"] = 1911,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Джонмвп-СтражСмерти", -- [1]
@@ -6581,17 +6579,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 84,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588772372,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588772372,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6611,8 +6611,6 @@ REFlexDatabase = {
 	}, -- [52]
 	{
 		["Map"] = 1552,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Näshkä-Stormscale", -- [1]
@@ -6729,17 +6727,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 192,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588772773,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588772773,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6759,8 +6759,6 @@ REFlexDatabase = {
 	}, -- [53]
 	{
 		["Map"] = 1825,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Иварх-Гордунни", -- [1]
@@ -6877,17 +6875,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 98,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588773058,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588773058,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -6907,8 +6907,6 @@ REFlexDatabase = {
 	}, -- [54]
 	{
 		["Map"] = 1911,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Ponystark-Pozzodell'Eternità", -- [1]
@@ -7025,17 +7023,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 181,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588773356,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588773356,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7055,8 +7055,6 @@ REFlexDatabase = {
 	}, -- [55]
 	{
 		["Map"] = 980,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Donenigma-Stormscale", -- [1]
@@ -7173,17 +7171,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 465,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588773921,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588773921,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7203,8 +7203,6 @@ REFlexDatabase = {
 	}, -- [56]
 	{
 		["Map"] = 1504,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Dahàka-Stormscale", -- [1]
@@ -7321,17 +7319,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 180,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588774188,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588774188,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7351,8 +7351,6 @@ REFlexDatabase = {
 	}, -- [57]
 	{
 		["Map"] = 1504,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Джонмвп-СтражСмерти", -- [1]
@@ -7469,17 +7467,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 134,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588774406,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588774406,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7499,8 +7499,6 @@ REFlexDatabase = {
 	}, -- [58]
 	{
 		["Map"] = 980,
-		["PlayerNum"] = 5,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Джонмвп-СтражСмерти", -- [1]
@@ -7598,17 +7596,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [5]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 5,
 		["Duration"] = 40,
-		["Hidden"] = false,
+		["PlayerNum"] = 5,
 		["isBrawl"] = false,
-		["Time"] = 1588774678,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588774678,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7628,8 +7628,6 @@ REFlexDatabase = {
 	}, -- [59]
 	{
 		["Map"] = 617,
-		["PlayerNum"] = 2,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Джонмвп-СтражСмерти", -- [1]
@@ -7746,17 +7744,19 @@ REFlexDatabase = {
 				310, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 160,
-		["Hidden"] = false,
+		["PlayerNum"] = 2,
 		["isBrawl"] = false,
-		["Time"] = 1588775012,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588775012,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
 		["Winner"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7776,8 +7776,6 @@ REFlexDatabase = {
 	}, -- [60]
 	{
 		["Map"] = 1504,
-		["PlayerNum"] = 6,
-		["StatsNum"] = 0,
 		["Players"] = {
 			{
 				"Орктузетоп-СвежевательДуш", -- [1]
@@ -7894,17 +7892,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [6]
 		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
 		["PlayersNum"] = 6,
 		["Duration"] = 204,
-		["Hidden"] = false,
+		["PlayerNum"] = 6,
 		["isBrawl"] = false,
-		["Time"] = 1588775337,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isRated"] = true,
 		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588775337,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
 		["Winner"] = 1,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -7924,19 +7924,6 @@ REFlexDatabase = {
 	}, -- [61]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 248,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588794016,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -8015,6 +8002,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 248,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588794016,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8034,19 +8034,6 @@ REFlexDatabase = {
 	}, -- [62]
 	{
 		["Map"] = 617,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 139,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588794295,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Manchoz-Silvermoon", -- [1]
@@ -8125,6 +8112,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 139,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588794295,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8144,19 +8144,6 @@ REFlexDatabase = {
 	}, -- [63]
 	{
 		["Map"] = 1552,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 198,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588794610,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Зинаремпейдж-Гордунни", -- [1]
@@ -8235,6 +8222,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 198,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588794610,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8254,19 +8254,6 @@ REFlexDatabase = {
 	}, -- [64]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 247,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588794976,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Briruk-Aggra(Português)", -- [1]
@@ -8345,6 +8332,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 247,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588794976,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8364,19 +8364,6 @@ REFlexDatabase = {
 	}, -- [65]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 340,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588795415,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Cropstain-Kor'gall", -- [1]
@@ -8455,6 +8442,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 340,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588795415,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8474,19 +8474,6 @@ REFlexDatabase = {
 	}, -- [66]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 1,
-		["PlayersNum"] = 4,
-		["Duration"] = 274,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588795781,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Хидрамист", -- [1]
@@ -8565,6 +8552,19 @@ REFlexDatabase = {
 				46, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 1,
+		["PlayersNum"] = 4,
+		["Duration"] = 274,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588795781,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8584,19 +8584,6 @@ REFlexDatabase = {
 	}, -- [67]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 119,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588796053,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Mácmilan-Archimonde", -- [1]
@@ -8675,6 +8662,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 119,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588796053,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8694,19 +8694,6 @@ REFlexDatabase = {
 	}, -- [68]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 103,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588796243,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Крилая-Гордунни", -- [1]
@@ -8785,6 +8772,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 103,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588796243,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8804,19 +8804,6 @@ REFlexDatabase = {
 	}, -- [69]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 191,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588796538,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Youguessedit-TwistingNether", -- [1]
@@ -8895,6 +8882,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 191,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588796538,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -8914,19 +8914,6 @@ REFlexDatabase = {
 	}, -- [70]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 268,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588796894,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Mortalstrike-Hyjal", -- [1]
@@ -9005,6 +8992,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 268,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588796894,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9024,19 +9024,6 @@ REFlexDatabase = {
 	}, -- [71]
 	{
 		["Map"] = 1505,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 122,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588797154,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Дезфлеймс-СвежевательДуш", -- [1]
@@ -9115,6 +9102,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 122,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588797154,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9134,19 +9134,6 @@ REFlexDatabase = {
 	}, -- [72]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 77,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588797393,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -9225,6 +9212,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 77,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588797393,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9244,19 +9244,6 @@ REFlexDatabase = {
 	}, -- [73]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 203,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588797710,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -9335,6 +9322,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 203,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588797710,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9354,19 +9354,6 @@ REFlexDatabase = {
 	}, -- [74]
 	{
 		["Map"] = 1552,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 113,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588797916,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Eclipses-Ragnaros", -- [1]
@@ -9445,6 +9432,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 113,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588797916,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9464,19 +9464,6 @@ REFlexDatabase = {
 	}, -- [75]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 224,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588798227,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -9555,6 +9542,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 224,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588798227,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9574,19 +9574,6 @@ REFlexDatabase = {
 	}, -- [76]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 360,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588798679,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Nagatofive-Stormscale", -- [1]
@@ -9665,6 +9652,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 360,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588798679,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9684,19 +9684,6 @@ REFlexDatabase = {
 	}, -- [77]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 127,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588798891,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Крилая-Гордунни", -- [1]
@@ -9775,6 +9762,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 127,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588798891,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9794,19 +9794,6 @@ REFlexDatabase = {
 	}, -- [78]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 223,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588799224,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -9885,6 +9872,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 223,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588799224,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -9904,19 +9904,6 @@ REFlexDatabase = {
 	}, -- [79]
 	{
 		["Map"] = 980,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 165,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588799491,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -9995,6 +9982,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 165,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588799491,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10014,19 +10014,6 @@ REFlexDatabase = {
 	}, -- [80]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 208,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588799791,
-		["Winner"] = 1,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -10105,6 +10092,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 208,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588799791,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10124,19 +10124,6 @@ REFlexDatabase = {
 	}, -- [81]
 	{
 		["Map"] = 1911,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 58,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588800016,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -10215,6 +10202,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 58,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588800016,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10234,19 +10234,6 @@ REFlexDatabase = {
 	}, -- [82]
 	{
 		["Map"] = 572,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 61,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588800168,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -10325,6 +10312,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 61,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588800168,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10344,19 +10344,6 @@ REFlexDatabase = {
 	}, -- [83]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 105,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 1,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588800355,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Clarâh-Azshara", -- [1]
@@ -10435,6 +10422,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 105,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588800355,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10454,19 +10454,6 @@ REFlexDatabase = {
 	}, -- [84]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 78,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588800618,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Пушечка", -- [1]
@@ -10545,6 +10532,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 78,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588800618,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10564,19 +10564,6 @@ REFlexDatabase = {
 	}, -- [85]
 	{
 		["Map"] = 2167,
-		["Hidden"] = false,
-		["StatsNum"] = 0,
-		["PlayerNum"] = 4,
-		["PlayersNum"] = 4,
-		["Duration"] = 238,
-		["Season"] = 29,
-		["isArena"] = true,
-		["PlayerSide"] = 0,
-		["isBrawl"] = false,
-		["Version"] = 275,
-		["isRated"] = true,
-		["Time"] = 1588800987,
-		["Winner"] = 0,
 		["Players"] = {
 			{
 				"Iloveniral-ArgentDawn", -- [1]
@@ -10655,6 +10642,19 @@ REFlexDatabase = {
 				84, -- [17]
 			}, -- [4]
 		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 238,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1588800987,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
 		["TeamData"] = {
 			{
 				"", -- [1]
@@ -10672,12 +10672,10991 @@ REFlexDatabase = {
 			}, -- [2]
 		},
 	}, -- [86]
+	{
+		["Map"] = 1911,
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 6,
+		["Duration"] = 51,
+		["Hidden"] = false,
+		["PlayerNum"] = 2,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Time"] = 1588862532,
+		["isRated"] = false,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["isArena"] = true,
+		["Players"] = {
+			{
+				"Magêbâne-TwistingNether", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				1485079, -- [10]
+				87210, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				168, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				360774, -- [10]
+				534885, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Barween-Dalaran", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				15197, -- [10]
+				561531, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				78, -- [17]
+			}, -- [3]
+			{
+				"Cupidkiller-TwistingNether", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльф крови", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				845027, -- [10]
+				0, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				30, -- [17]
+			}, -- [4]
+			{
+				"Маклэйд-Борейскаятундра", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				144773, -- [10]
+				34906, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				40, -- [17]
+			}, -- [5]
+			{
+				"Макос-Дракономор", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				461497, -- [10]
+				405612, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Защита", -- [16]
+				90, -- [17]
+			}, -- [6]
+		},
+	}, -- [87]
+	{
+		["Map"] = 1911,
+		["StatsNum"] = 0,
+		["Players"] = {
+			{
+				"Mélanouille-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				1902630, -- [10]
+				424099, -- [11]
+				2115, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующая с ветром", -- [16]
+				255, -- [17]
+			}, -- [1]
+			{
+				"Zayke-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				589182, -- [10]
+				1870762, -- [11]
+				2127, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				120, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1966960, -- [10]
+				303121, -- [11]
+				2160, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				539628, -- [10]
+				1833810, -- [11]
+				2106, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["PlayersNum"] = 4,
+		["Duration"] = 129,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1588884305,
+		["isArena"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = false,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
+		["Season"] = 29,
+	}, -- [88]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1859418, -- [10]
+				381735, -- [11]
+				2147, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Joann-Nemesis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				404246, -- [10]
+				1522757, -- [11]
+				2049, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				143, -- [17]
+			}, -- [2]
+			{
+				"Метоцин-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночной эльф", -- [7]
+				"Рыцарь смерти", -- [8]
+				"DEATHKNIGHT", -- [9]
+				1848060, -- [10]
+				226628, -- [11]
+				2128, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Нечестивость", -- [16]
+				39, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				490865, -- [10]
+				1935186, -- [11]
+				2095, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 112,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588884551,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2121, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2113, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [89]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				554554, -- [10]
+				0, -- [11]
+				2158, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Frèiz-Outland", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				311782, -- [10]
+				65807, -- [11]
+				2146, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				190, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				225215, -- [10]
+				293532, -- [11]
+				2108, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [3]
+			{
+				"Эмирис-СвежевательДуш", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Таурен", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				90601, -- [10]
+				183041, -- [11]
+				2147, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				139, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 25,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588884677,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2130, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2141, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [90]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				5231700, -- [10]
+				815463, -- [11]
+				2169, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				2090084, -- [10]
+				4615315, -- [11]
+				2121, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Forgor-Sylvanas", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ворген", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				822851, -- [10]
+				5487244, -- [11]
+				2221, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				72, -- [17]
+			}, -- [3]
+			{
+				"Nulpunktet-Silvermoon", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Гном", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				4884653, -- [10]
+				983232, -- [11]
+				2093, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующий с ветром", -- [16]
+				72, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 313,
+		["PlayerNum"] = 2,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588885116,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2165, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2179, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [91]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Robspierro-Draenor", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				4562505, -- [10]
+				1095123, -- [11]
+				2221, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				80, -- [17]
+			}, -- [1]
+			{
+				"Badriri-Zul'jin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка крови", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				1461205, -- [10]
+				1776986, -- [11]
+				2185, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				15, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2541842, -- [10]
+				801734, -- [11]
+				2181, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				501145, -- [10]
+				4312941, -- [11]
+				2135, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 244,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588885565,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2194, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2215, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [92]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Ðynaa-Outland", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Таурен", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1937742, -- [10]
+				594345, -- [11]
+				2194, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Воздаяние", -- [16]
+				134, -- [17]
+			}, -- [1]
+			{
+				"Trustyv-Frostmane", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				842730, -- [10]
+				1923789, -- [11]
+				2199, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				112, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1800633, -- [10]
+				502685, -- [11]
+				2170, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1095901, -- [10]
+				1773045, -- [11]
+				2126, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 141,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588885875,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2171, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2172, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [93]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				870458, -- [10]
+				2329526, -- [11]
+				2116, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [1]
+			{
+				"Bonniwtf-Archimonde", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				265117, -- [10]
+				2739504, -- [11]
+				2141, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				114, -- [17]
+			}, -- [2]
+			{
+				"Devastating-Sylvanas", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				2707539, -- [10]
+				187906, -- [11]
+				2109, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				240, -- [17]
+			}, -- [3]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2607010, -- [10]
+				302905, -- [11]
+				2158, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 179,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588886172,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2159, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2145, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [94]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1851120, -- [10]
+				4160997, -- [11]
+				2129, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [1]
+			{
+				"Mélanouille-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				4565378, -- [10]
+				996919, -- [11]
+				2145, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующая с ветром", -- [16]
+				255, -- [17]
+			}, -- [2]
+			{
+				"Zayke-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				895348, -- [10]
+				5524816, -- [11]
+				2155, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				120, -- [17]
+			}, -- [3]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				4843893, -- [10]
+				891976, -- [11]
+				2170, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 312,
+		["PlayerNum"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588886566,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2195, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2173, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [95]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1271513, -- [10]
+				190898, -- [11]
+				2159, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Сф-ПиратскаяБухта", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				797303, -- [10]
+				185496, -- [11]
+				2100, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				124, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				651044, -- [10]
+				1154688, -- [11]
+				2119, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [3]
+			{
+				"Холифлэйм-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				618911, -- [10]
+				861263, -- [11]
+				2181, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				80, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 112,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588886772,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2137, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2150, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [96]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Муна-Гордунни", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1021330, -- [10]
+				36277, -- [11]
+				2157, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				87, -- [17]
+			}, -- [1]
+			{
+				"Бёрнсоулх-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				292722, -- [10]
+				595545, -- [11]
+				2156, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				78, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				493641, -- [10]
+				28928, -- [11]
+				2170, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				113756, -- [10]
+				513447, -- [11]
+				2132, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 53,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588886917,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2161, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2174, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [97]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1340396, -- [10]
+				168336, -- [11]
+				2158, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Correforrest-DunModr", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				1665311, -- [10]
+				230661, -- [11]
+				2039, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующий с ветром", -- [16]
+				83, -- [17]
+			}, -- [2]
+			{
+				"Salserox-ColinasPardas", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				216446, -- [10]
+				1090687, -- [11]
+				2041, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				58, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				426512, -- [10]
+				1612580, -- [11]
+				2121, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 121,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588887144,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2146, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2147, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [98]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				5666544, -- [10]
+				952256, -- [11]
+				2170, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Bigxpriest-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Тауренка", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				511985, -- [10]
+				4930527, -- [11]
+				2085, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				356, -- [17]
+			}, -- [2]
+			{
+				"Lockix-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Гоблин", -- [7]
+				"Чернокнижница", -- [8]
+				"WARLOCK", -- [9]
+				5352632, -- [10]
+				1638766, -- [11]
+				2143, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				140, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1769459, -- [10]
+				4614791, -- [11]
+				2134, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 374,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588887638,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2172, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2172, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [99]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Shinymagic-Drak'thul", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Маг'хар", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				654660, -- [10]
+				514654, -- [11]
+				2189, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				146, -- [17]
+			}, -- [1]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				0, -- [10]
+				1457, -- [11]
+				2182, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [2]
+			{
+				"Сиборгус", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				376604, -- [10]
+				12642, -- [11]
+				2161, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				477238, -- [10]
+				389337, -- [11]
+				2147, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 68,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588887799,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2193, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2198, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [100]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Vohiyø-Blackmoore", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2679351, -- [10]
+				427696, -- [11]
+				2153, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				99, -- [17]
+			}, -- [1]
+			{
+				"Lexioqt-TwistingNether", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Гоблин", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1990567, -- [10]
+				3254395, -- [11]
+				2182, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				64, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2039479, -- [10]
+				289587, -- [11]
+				2170, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1620110, -- [10]
+				3247080, -- [11]
+				2137, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 239,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588888124,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2162, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2171, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [101]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				5447633, -- [10]
+				1005198, -- [11]
+				2158, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Rhs-Stormscale", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльф крови", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				3803658, -- [10]
+				1490214, -- [11]
+				2085, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				82, -- [17]
+			}, -- [2]
+			{
+				"Rollagain-Sargeras", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				1647778, -- [10]
+				4603785, -- [11]
+				2058, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				526, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				2006170, -- [10]
+				4446848, -- [11]
+				2126, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 409,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588888616,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2134, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2144, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [102]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Lexioqt-TwistingNether", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Гоблин", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1650895, -- [10]
+				3165882, -- [11]
+				2194, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				64, -- [17]
+			}, -- [1]
+			{
+				"Vohiyø-Blackmoore", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2991435, -- [10]
+				523803, -- [11]
+				2168, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				99, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2455558, -- [10]
+				305841, -- [11]
+				2169, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1215283, -- [10]
+				3287682, -- [11]
+				2138, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 223,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588889058,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2189, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2168, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [103]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Mélanouille-Ravencrest", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				5580620, -- [10]
+				1302617, -- [11]
+				2143, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующая с ветром", -- [16]
+				255, -- [17]
+			}, -- [1]
+			{
+				"Zayke-Ravencrest", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1332736, -- [10]
+				6314726, -- [11]
+				2151, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				120, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				5817972, -- [10]
+				962937, -- [11]
+				2158, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				2391070, -- [10]
+				4976133, -- [11]
+				2128, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 405,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588889627,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2145, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2170, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [104]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1215830, -- [10]
+				17098, -- [11]
+				2146, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				705122, -- [10]
+				1116398, -- [11]
+				2117, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Gazzy-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				1140351, -- [10]
+				218984, -- [11]
+				2120, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				28, -- [17]
+			}, -- [3]
+			{
+				"Mokayw-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орк", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				0, -- [10]
+				657002, -- [11]
+				2088, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				60, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 90,
+		["PlayerNum"] = 2,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588889898,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2123, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2114, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [105]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1142828, -- [10]
+				173143, -- [11]
+				2157, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Сф-ПиратскаяБухта", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				818738, -- [10]
+				95951, -- [11]
+				2116, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				124, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				339425, -- [10]
+				1148577, -- [11]
+				2129, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [3]
+			{
+				"Холифлэйм-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				544678, -- [10]
+				614035, -- [11]
+				2165, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				80, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 79,
+		["PlayerNum"] = 3,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588890071,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2159, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2148, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [106]
+	{
+		["Map"] = 1911,
+		["Players"] = {
+			{
+				"Profeich-Blackrock", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Гоблин", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				1935229, -- [10]
+				239747, -- [11]
+				2168, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Стихии", -- [16]
+				33, -- [17]
+			}, -- [1]
+			{
+				"Raxadin-Blackrock", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				586979, -- [10]
+				1345504, -- [11]
+				2055, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				40, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1079141, -- [10]
+				320411, -- [11]
+				2169, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				309938, -- [10]
+				1394655, -- [11]
+				2142, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 104,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588890270,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2190, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2176, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [107]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Moexd-Stormscale", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1507086, -- [10]
+				201953, -- [11]
+				2122, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				111, -- [17]
+			}, -- [1]
+			{
+				"Cumrags-Kazzak", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1326264, -- [10]
+				1697148, -- [11]
+				2145, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				148, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1306638, -- [10]
+				170947, -- [11]
+				2158, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				924358, -- [10]
+				1799963, -- [11]
+				2132, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 137,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588890493,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2152, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2152, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [108]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Bolderno-TwistingNether", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				393073, -- [10]
+				1792556, -- [11]
+				2135, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				209, -- [17]
+			}, -- [1]
+			{
+				"Clvmachine-Ragnaros", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Рыцарь смерти", -- [8]
+				"DEATHKNIGHT", -- [9]
+				2387554, -- [10]
+				109432, -- [11]
+				2179, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Нечестивость", -- [16]
+				72, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1766252, -- [10]
+				105645, -- [11]
+				2146, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				212033, -- [10]
+				2082218, -- [11]
+				2121, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 109,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588890750,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2126, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2137, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [109]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Alinaxo-Ravencrest", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Охотница", -- [8]
+				"HUNTER", -- [9]
+				3295372, -- [10]
+				382084, -- [11]
+				2140, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Выживание", -- [16]
+				146, -- [17]
+			}, -- [1]
+			{
+				"Árch-ArgentDawn", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Дворф", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				468264, -- [10]
+				3087356, -- [11]
+				2046, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				88, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2650845, -- [10]
+				500090, -- [11]
+				2134, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				580803, -- [10]
+				2192854, -- [11]
+				2110, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 176,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588891037,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2116, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2101, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [110]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2811447, -- [10]
+				581581, -- [11]
+				2121, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Liluzivert-Mazrigos", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Тролль", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				2633876, -- [10]
+				898999, -- [11]
+				2109, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				72, -- [17]
+			}, -- [2]
+			{
+				"Whitebeardp-TwistingNether", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Таурен", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				227300, -- [10]
+				2803836, -- [11]
+				1996, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				63, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1771000, -- [10]
+				2034434, -- [11]
+				2098, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 206,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588891431,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2077, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2103, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [111]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Allenez-Outland", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				336009, -- [10]
+				1326265, -- [11]
+				2067, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				180, -- [17]
+			}, -- [1]
+			{
+				"Grammarly-GrimBatol", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				699625, -- [10]
+				700846, -- [11]
+				2086, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				137, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2068064, -- [10]
+				230113, -- [11]
+				2132, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				490475, -- [10]
+				946975, -- [11]
+				2110, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 122,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588891692,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2107, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2122, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [112]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				5230734, -- [10]
+				569631, -- [11]
+				2144, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				487, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1409644, -- [10]
+				4099663, -- [11]
+				2122, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Alinaxo-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Охотница", -- [8]
+				"HUNTER", -- [9]
+				4581064, -- [10]
+				591919, -- [11]
+				2137, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Выживание", -- [16]
+				146, -- [17]
+			}, -- [3]
+			{
+				"Árch-ArgentDawn", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Дворф", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				206848, -- [10]
+				5093258, -- [11]
+				2055, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				88, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 271,
+		["PlayerNum"] = 2,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588892518,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2113, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2136, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [113]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				947898, -- [10]
+				185225, -- [11]
+				2155, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Eatmycork-Blackmoore", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				206669, -- [10]
+				14401, -- [11]
+				2053, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Скрытность", -- [16]
+				99, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				284698, -- [10]
+				462533, -- [11]
+				2134, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [3]
+			{
+				"Шипвкидней", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				493945, -- [10]
+				446266, -- [11]
+				2091, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				57, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 60,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1588968556,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2161, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2160, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [114]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Jjoke-Draenor", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				2703469, -- [10]
+				722261, -- [11]
+				2161, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующий с ветром", -- [16]
+				23, -- [17]
+			}, -- [1]
+			{
+				"Miraje-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Зандалар", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				756063, -- [10]
+				2141105, -- [11]
+				2020, -- [12]
+				17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				300, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2042934, -- [10]
+				503777, -- [11]
+				2167, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				752538, -- [10]
+				2374866, -- [11]
+				2147, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 185,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1588968832,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2190, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2186, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [115]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3442305, -- [10]
+				965622, -- [11]
+				2156, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Amnésysx-Archimonde", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				4683000, -- [10]
+				824599, -- [11]
+				2119, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				57, -- [17]
+			}, -- [2]
+			{
+				"Stickiahxd-Ysondre", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Зандалар", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				990547, -- [10]
+				3073836, -- [11]
+				2124, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				317, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1074990, -- [10]
+				4109013, -- [11]
+				2136, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 250,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1588969193,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2161, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2152, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [116]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1517511, -- [10]
+				89703, -- [11]
+				2168, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Fogélns-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				330973, -- [10]
+				1050041, -- [11]
+				2098, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				128, -- [17]
+			}, -- [2]
+			{
+				"Mezzami-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночной эльф", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				1184464, -- [10]
+				399130, -- [11]
+				2109, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				81, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				509278, -- [10]
+				1449604, -- [11]
+				2149, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 84,
+		["Hidden"] = false,
+		["isBrawl"] = false,
+		["Time"] = 1588969372,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2177, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2185, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [117]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				923049, -- [10]
+				61142, -- [11]
+				2180, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Sochtum-Blackrock", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				960683, -- [10]
+				56767, -- [11]
+				2196, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				165, -- [17]
+			}, -- [2]
+			{
+				"Varûne-Frostwolf", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				125830, -- [10]
+				455646, -- [11]
+				2184, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				141, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				213431, -- [10]
+				820784, -- [11]
+				2162, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 81,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588969561,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2202, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2210, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [118]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Viloq-BurningLegion", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Чернокнижница", -- [8]
+				"WARLOCK", -- [9]
+				1464692, -- [10]
+				535571, -- [11]
+				2169, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				48, -- [17]
+			}, -- [1]
+			{
+				"Yitte-BurningLegion", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				851207, -- [10]
+				675520, -- [11]
+				2169, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				107, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1164215, -- [10]
+				275336, -- [11]
+				2193, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				265255, -- [10]
+				1106096, -- [11]
+				2175, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 118,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588969762,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2229, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2235, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [119]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				989474, -- [10]
+				3638332, -- [11]
+				2165, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [1]
+			{
+				"Demonrin-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				4097648, -- [10]
+				1112208, -- [11]
+				2154, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				31, -- [17]
+			}, -- [2]
+			{
+				"Wisemanx-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				157596, -- [10]
+				3051724, -- [11]
+				2166, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				161, -- [17]
+			}, -- [3]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				4147304, -- [10]
+				435967, -- [11]
+				2182, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 190,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588970046,
+		["Winner"] = 1,
+		["PlayerNum"] = 1,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2186, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2208, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [120]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3467363, -- [10]
+				670510, -- [11]
+				2194, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Carlocanetti-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				315954, -- [10]
+				4017260, -- [11]
+				2230, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				65, -- [17]
+			}, -- [2]
+			{
+				"Irisviel-Blackmoore", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				3163556, -- [10]
+				199777, -- [11]
+				2219, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				36, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1590314, -- [10]
+				2505775, -- [11]
+				2178, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 263,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588970393,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2232, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2231, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [121]
+	{
+		["Map"] = 1911,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				4292690, -- [10]
+				722316, -- [11]
+				2207, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Screwsloose-TarrenMill", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орк", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				4420774, -- [10]
+				189889, -- [11]
+				2248, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				43, -- [17]
+			}, -- [2]
+			{
+				"Kàrmageddon-Nemesis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				507658, -- [10]
+				4522104, -- [11]
+				2142, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				71, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1587247, -- [10]
+				3370256, -- [11]
+				2192, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 302,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588970850,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2257, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2235, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [122]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3675693, -- [10]
+				928417, -- [11]
+				2220, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Krionel-BurningBlade", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночной эльф", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				2780388, -- [10]
+				854469, -- [11]
+				2331, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				256, -- [17]
+			}, -- [2]
+			{
+				"Sythe-Drak'thul", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1019442, -- [10]
+				3471686, -- [11]
+				2331, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				459, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1353784, -- [10]
+				3298308, -- [11]
+				2205, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 266,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588971207,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2280, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2280, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [123]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Ðøð-Pozzodell'Eternità", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1723517, -- [10]
+				154615, -- [11]
+				2189, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				49, -- [17]
+			}, -- [1]
+			{
+				"Swapjkdead-Aegwynn", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				673131, -- [10]
+				1872188, -- [11]
+				2267, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				139, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1613275, -- [10]
+				172900, -- [11]
+				2234, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				554658, -- [10]
+				1159051, -- [11]
+				2220, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 140,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588971504,
+		["Winner"] = 1,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2306, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2282, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [124]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				810966, -- [10]
+				4020977, -- [11]
+				2210, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [1]
+			{
+				"Demonrin-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				3628805, -- [10]
+				912405, -- [11]
+				2199, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				31, -- [17]
+			}, -- [2]
+			{
+				"Wisemanx-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				1257970, -- [10]
+				3170309, -- [11]
+				2208, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				161, -- [17]
+			}, -- [3]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3856812, -- [10]
+				740521, -- [11]
+				2224, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 185,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588971940,
+		["Winner"] = 1,
+		["PlayerNum"] = 1,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2267, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2276, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [125]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Rubanpala-Ravencrest", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1184937, -- [10]
+				2808577, -- [11]
+				2342, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				211, -- [17]
+			}, -- [1]
+			{
+				"Trillet-GrimBatol", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1908558, -- [10]
+				302840, -- [11]
+				2252, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				171, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2579692, -- [10]
+				519373, -- [11]
+				2237, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				594989, -- [10]
+				1851680, -- [11]
+				2224, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 171,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 1,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588972196,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2307, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2301, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [126]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1691570, -- [10]
+				392003, -- [11]
+				2227, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Rîselol-Nemesis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				322899, -- [10]
+				1367141, -- [11]
+				2092, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				132, -- [17]
+			}, -- [2]
+			{
+				"Xplorush-Silvermoon", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				2842472, -- [10]
+				513562, -- [11]
+				2246, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				135, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				977504, -- [10]
+				2768470, -- [11]
+				2215, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 149,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588972724,
+		["Winner"] = 0,
+		["PlayerNum"] = 4,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2276, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2257, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [127]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				814205, -- [10]
+				851672, -- [11]
+				2228, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [1]
+			{
+				"Finnr-Runetotem", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				773442, -- [10]
+				121845, -- [11]
+				2255, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				357, -- [17]
+			}, -- [2]
+			{
+				"Uncoolguy-ArgentDawn", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				409648, -- [10]
+				1204448, -- [11]
+				2322, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				262, -- [17]
+			}, -- [3]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1381844, -- [10]
+				296346, -- [11]
+				2240, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Hidden"] = false,
+		["PlayersNum"] = 4,
+		["Duration"] = 87,
+		["Season"] = 29,
+		["isArena"] = true,
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1588972918,
+		["Winner"] = 0,
+		["PlayerNum"] = 1,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2299, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2296, -- [4]
+				1, -- [5]
+			}, -- [2]
+		},
+	}, -- [128]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Huntàrt-TarrenMill", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орк", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				2587563, -- [10]
+				273187, -- [11]
+				2292, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Выживание", -- [16]
+				37, -- [17]
+			}, -- [1]
+			{
+				"Nárlek-Blackrock", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				683913, -- [10]
+				2203289, -- [11]
+				2321, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2214162, -- [10]
+				336449, -- [11]
+				2254, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				550036, -- [10]
+				1853897, -- [11]
+				2242, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 142,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588973327,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2325, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2324, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [129]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Immvpx-Draenor", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1413966, -- [10]
+				1954247, -- [11]
+				2322, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				97, -- [17]
+			}, -- [1]
+			{
+				"Ðripgoðx-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Маг'хар", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				1476422, -- [10]
+				348770, -- [11]
+				2184, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующий с ветром", -- [16]
+				134, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2098853, -- [10]
+				423953, -- [11]
+				2244, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				498440, -- [10]
+				1765297, -- [11]
+				2233, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 138,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588973620,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2299, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2274, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [130]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3694312, -- [10]
+				474888, -- [11]
+				2233, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1326249, -- [10]
+				3225802, -- [11]
+				2222, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Djkøntin-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				3146489, -- [10]
+				444475, -- [11]
+				2159, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				68, -- [17]
+			}, -- [3]
+			{
+				"Naturexdlol-Ravencrest", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				452131, -- [10]
+				3363768, -- [11]
+				2262, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				159, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 220,
+		["PlayerNum"] = 2,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588974031,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2269, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2244, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [131]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Kàalyx-Hyjal", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				1028211, -- [10]
+				1440654, -- [11]
+				2261, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				137, -- [17]
+			}, -- [1]
+			{
+				"Тритей-СвежевательДуш", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Таурен", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				1609954, -- [10]
+				306686, -- [11]
+				2250, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				62, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1174075, -- [10]
+				375888, -- [11]
+				2245, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				438681, -- [10]
+				1335170, -- [11]
+				2235, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 121,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588974299,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2291, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2293, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [132]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Эрискай-СвежевательДуш", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				513359, -- [10]
+				241660, -- [11]
+				2315, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Скрытность", -- [16]
+				215, -- [17]
+			}, -- [1]
+			{
+				"Fukksleepx-Outland", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				714996, -- [10]
+				706801, -- [11]
+				2315, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				161, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1073873, -- [10]
+				276388, -- [11]
+				2235, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				240042, -- [10]
+				250818, -- [11]
+				2225, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 109,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588974528,
+		["isRated"] = true,
+		["PlayerSide"] = 0,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2265, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2278, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [133]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Слоуденнс-СвежевательДуш", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				5760642, -- [10]
+				1322996, -- [11]
+				2188, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				76, -- [17]
+			}, -- [1]
+			{
+				"Pokil-Outland", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Таурен", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				536155, -- [10]
+				6031780, -- [11]
+				2180, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				78, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				5869190, -- [10]
+				879121, -- [11]
+				2224, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				2172045, -- [10]
+				4438786, -- [11]
+				2215, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 355,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588975263,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2222, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2241, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [134]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Andzone-Al'Akir", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				71697, -- [10]
+				15234, -- [11]
+				2184, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				40, -- [17]
+			}, -- [1]
+			{
+				"Totemlygodx-Al'Akir", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				0, -- [10]
+				3825, -- [11]
+				2262, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				229, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				360346, -- [10]
+				2043, -- [11]
+				2212, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				159461, -- [10]
+				79722, -- [11]
+				2203, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 37,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588975399,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2233, -- [4]
+				1, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2212, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [135]
+	{
+		["Map"] = 1134,
+		["Players"] = {
+			{
+				"Пушечка", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1049689, -- [10]
+				206959, -- [11]
+				2225, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [1]
+			{
+				"Kàrmageddon-Nemesis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльф крови", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				144598, -- [10]
+				868559, -- [11]
+				2189, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				71, -- [17]
+			}, -- [2]
+			{
+				"Screwsloose-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				1410652, -- [10]
+				36164, -- [11]
+				2257, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				43, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				440926, -- [10]
+				1190642, -- [11]
+				2216, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 95,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588975576,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 1,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2261, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2241, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [136]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Kàalyx-Hyjal", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				1093917, -- [10]
+				1653708, -- [11]
+				2266, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				137, -- [17]
+			}, -- [1]
+			{
+				"Тритей-СвежевательДуш", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Таурен", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				1495036, -- [10]
+				334753, -- [11]
+				2256, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				62, -- [17]
+			}, -- [2]
+			{
+				"Пушечка", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1193714, -- [10]
+				361452, -- [11]
+				2238, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				488, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				763111, -- [10]
+				1323758, -- [11]
+				2230, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["Season"] = 29,
+		["PlayersNum"] = 4,
+		["Duration"] = 112,
+		["PlayerNum"] = 4,
+		["isBrawl"] = false,
+		["Version"] = 275,
+		["isArena"] = true,
+		["Time"] = 1588975780,
+		["isRated"] = true,
+		["PlayerSide"] = 1,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2290, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2271, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [137]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Coolcha-Outland", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3369550, -- [10]
+				251086, -- [11]
+				2086, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				445, -- [17]
+			}, -- [1]
+			{
+				"Ternsa-Outland", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				514092, -- [10]
+				2635103, -- [11]
+				2124, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				49, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2682378, -- [10]
+				265307, -- [11]
+				1892, -- [12]
+				-5, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				548786, -- [10]
+				2339256, -- [11]
+				2220, -- [12]
+				-16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 185,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589202102,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2105, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2105, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [138]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Shiftyr-Arathor", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1477498, -- [10]
+				109225, -- [11]
+				2125, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				211, -- [17]
+			}, -- [1]
+			{
+				"Justix-Arathor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1060425, -- [10]
+				1303479, -- [11]
+				2130, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1012063, -- [10]
+				186360, -- [11]
+				1887, -- [12]
+				-6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				476114, -- [10]
+				1479572, -- [11]
+				2204, -- [12]
+				-16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 123,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589202363,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2074, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2092, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [139]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Vanark-TwistingNether", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Пандаренка", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				3279325, -- [10]
+				292794, -- [11]
+				2081, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				238, -- [17]
+			}, -- [1]
+			{
+				"Whiskeyz-TwistingNether", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Зандаларка", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				947944, -- [10]
+				2214803, -- [11]
+				2062, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				211, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2244808, -- [10]
+				557542, -- [11]
+				1881, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				370743, -- [10]
+				2419528, -- [11]
+				2188, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 183,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589202649,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2048, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2040, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [140]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Jeanpriest-Ysondre", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1145211, -- [10]
+				1774984, -- [11]
+				1952, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				49, -- [17]
+			}, -- [1]
+			{
+				"Únk-Ysondre", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2084812, -- [10]
+				267070, -- [11]
+				1952, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				43, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1752699, -- [10]
+				243295, -- [11]
+				1874, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				452901, -- [10]
+				1845992, -- [11]
+				2171, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 149,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589202883,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2018, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2018, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [141]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Titangrowl-Sylvanas", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				4976021, -- [10]
+				371712, -- [11]
+				1918, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				31, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				4203538, -- [10]
+				390378, -- [11]
+				1867, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Стильныймонк-СтражСмерти", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				787158, -- [10]
+				5149933, -- [11]
+				1935, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				102, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1396811, -- [10]
+				4671720, -- [11]
+				2154, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 301,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589203344,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1986, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1990, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [142]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Аксерк", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3602923, -- [10]
+				253438, -- [11]
+				1859, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [1]
+			{
+				"Illisis-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				3871820, -- [10]
+				947747, -- [11]
+				1933, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				31, -- [17]
+			}, -- [2]
+			{
+				"Аманэть-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Озаренная дренейка", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1051453, -- [10]
+				2991924, -- [11]
+				2009, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				56, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1313796, -- [10]
+				4098726, -- [11]
+				2137, -- [12]
+				6, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 212,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589203646,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1960, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1963, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [143]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Аксерк", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3308966, -- [10]
+				712147, -- [11]
+				1874, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [1]
+			{
+				"Мечь-Гордунни", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1802184, -- [10]
+				1137993, -- [11]
+				1983, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Воздаяние", -- [16]
+				164, -- [17]
+			}, -- [2]
+			{
+				"Пузантуз-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночной эльф", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				2018284, -- [10]
+				1569275, -- [11]
+				2006, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Месть", -- [16]
+				237, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				878829, -- [10]
+				1868556, -- [11]
+				2143, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 305,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589204055,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1975, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1989, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [144]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Hotgril-Blackmoore", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				1687355, -- [10]
+				4561588, -- [11]
+				1989, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				43, -- [17]
+			}, -- [1]
+			{
+				"Inter-Hellscream", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				5161758, -- [10]
+				500506, -- [11]
+				1988, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Выживание", -- [16]
+				114, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				4107348, -- [10]
+				559380, -- [11]
+				1889, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				986209, -- [10]
+				4984582, -- [11]
+				2150, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 293,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589204441,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2007, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				2014, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [145]
+	{
+		["Map"] = 1911,
+		["Players"] = {
+			{
+				"Tïtañia-Archimonde", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3686260, -- [10]
+				404566, -- [11]
+				2012, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				337, -- [17]
+			}, -- [1]
+			{
+				"Nérana-Archimonde", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				348784, -- [10]
+				3164122, -- [11]
+				2026, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				159, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2691951, -- [10]
+				168990, -- [11]
+				1881, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				811736, -- [10]
+				2710574, -- [11]
+				2133, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 202,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589204742,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1991, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1986, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [146]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Muttigartz-Eredar", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1048695, -- [10]
+				3419881, -- [11]
+				1919, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				122, -- [17]
+			}, -- [1]
+			{
+				"Stefanraab-Eredar", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				3595946, -- [10]
+				305935, -- [11]
+				1919, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Стихии", -- [16]
+				74, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1917135, -- [10]
+				486729, -- [11]
+				1873, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1645480, -- [10]
+				3129177, -- [11]
+				2116, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 252,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589205085,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1974, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1960, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [147]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Finnr-Runetotem", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1626075, -- [10]
+				189256, -- [11]
+				2274, -- [12]
+				-21, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				358, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1254645, -- [10]
+				187338, -- [11]
+				1864, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				852897, -- [10]
+				1002368, -- [11]
+				2099, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Soolo-Outland", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Озаренный дреней", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				130416, -- [10]
+				863331, -- [11]
+				1675, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				24, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 119,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589205320,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1936, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1939, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [148]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Monkytls-Draenor", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				1662930, -- [10]
+				437741, -- [11]
+				1965, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующий с ветром", -- [16]
+				91, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1554905, -- [10]
+				135580, -- [11]
+				1879, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Goose-Draenor", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				402493, -- [10]
+				367172, -- [11]
+				1967, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				26, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				208656, -- [10]
+				1029395, -- [11]
+				2099, -- [12]
+				7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 81,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589205526,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1952, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1963, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [149]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Nacon-Pozzodell'Eternità", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орк", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				2918825, -- [10]
+				124019, -- [11]
+				1945, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				51, -- [17]
+			}, -- [1]
+			{
+				"Bensherman-Dalaran", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1569009, -- [10]
+				2440518, -- [11]
+				1942, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				81, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2153376, -- [10]
+				368123, -- [11]
+				1893, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				422053, -- [10]
+				3047522, -- [11]
+				2106, -- [12]
+				-16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 176,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589205788,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1974, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1987, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [150]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Мечь-Гордунни", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1554666, -- [10]
+				381075, -- [11]
+				1968, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Воздаяние", -- [16]
+				164, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1592333, -- [10]
+				85628, -- [11]
+				1884, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Пузантуз-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночной эльф", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				1318366, -- [10]
+				1339700, -- [11]
+				1985, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Месть", -- [16]
+				237, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				919575, -- [10]
+				1634902, -- [11]
+				2090, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 116,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589206007,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1953, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1959, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [151]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Fistsoon-Eredar", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка крови", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				1150622, -- [10]
+				2068369, -- [11]
+				1881, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				32, -- [17]
+			}, -- [1]
+			{
+				"Mercá-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка крови", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2146670, -- [10]
+				137559, -- [11]
+				1886, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				23, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1712381, -- [10]
+				148782, -- [11]
+				1874, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				750437, -- [10]
+				1985120, -- [11]
+				2073, -- [12]
+				-17, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 162,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589206270,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1932, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1928, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [152]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2795496, -- [10]
+				298695, -- [11]
+				1864, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [1]
+			{
+				"Frqdeaa-DefiasBrotherhood", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2169248, -- [10]
+				329955, -- [11]
+				1832, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				48, -- [17]
+			}, -- [2]
+			{
+				"Ulzii-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				1244744, -- [10]
+				2823286, -- [11]
+				1836, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				27, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				977154, -- [10]
+				2625492, -- [11]
+				2056, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 183,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589206569,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1905, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1898, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [153]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				4259982, -- [10]
+				367105, -- [11]
+				1877, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1196731, -- [10]
+				5234470, -- [11]
+				2056, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [2]
+			{
+				"Wheyzz-Gul'dan", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1253265, -- [10]
+				3542972, -- [11]
+				1922, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				127, -- [17]
+			}, -- [3]
+			{
+				"Балверг-СвежевательДуш", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				4478786, -- [10]
+				792565, -- [11]
+				1941, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Воздаяние", -- [16]
+				50, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 2,
+		["PlayersNum"] = 4,
+		["Duration"] = 253,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589207180,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1930, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1932, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [154]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Mythrill-ConseildesOmbres", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				5402228, -- [10]
+				1449129, -- [11]
+				1826, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				163, -- [17]
+			}, -- [1]
+			{
+				"Isakar-CultedelaRivenoire", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Пандарен", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				951874, -- [10]
+				4333600, -- [11]
+				1968, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				294, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				4118979, -- [10]
+				549485, -- [11]
+				1891, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				2008223, -- [10]
+				4696863, -- [11]
+				2064, -- [12]
+				-16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 300,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589207612,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1957, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1956, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [155]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Нейрофрик", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				3384326, -- [10]
+				525808, -- [11]
+				1889, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				92, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1771983, -- [10]
+				284074, -- [11]
+				1881, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				974176, -- [10]
+				3215412, -- [11]
+				2048, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Супернюша", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Тролль", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				360925, -- [10]
+				1390938, -- [11]
+				1919, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				295, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 168,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589207893,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1930, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1938, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [156]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Clarâh-DerRatvonDalaran", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				2844746, -- [10]
+				339708, -- [11]
+				1970, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				389, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2507790, -- [10]
+				217378, -- [11]
+				1895, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Discmoo-Kazzak", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1129438, -- [10]
+				2967972, -- [11]
+				1971, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				224, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				594560, -- [10]
+				2410540, -- [11]
+				2056, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 157,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589208140,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1958, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1955, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [157]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2956947, -- [10]
+				516714, -- [11]
+				1885, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [1]
+			{
+				"Кибермастер-СвежевательДуш", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				2895863, -- [10]
+				785169, -- [11]
+				1837, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				46, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1096878, -- [10]
+				2569314, -- [11]
+				2041, -- [12]
+				8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Bunzor-Sylvanas", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				208411, -- [10]
+				2211857, -- [11]
+				1923, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				44, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 222,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589208447,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1932, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1931, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [158]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				350195, -- [10]
+				318071, -- [11]
+				2049, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [1]
+			{
+				"Eredis-Nemesis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльф крови", -- [7]
+				"Охотник на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				334619, -- [10]
+				112561, -- [11]
+				1985, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				84, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				188027, -- [10]
+				9378, -- [11]
+				1899, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Cane-Nemesis", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Таурен", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				0, -- [10]
+				89264, -- [11]
+				1978, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				157, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 1,
+		["PlayersNum"] = 4,
+		["Duration"] = 33,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589208570,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1967, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1958, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [159]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Emý-Alleria", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				5950507, -- [10]
+				553448, -- [11]
+				1872, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				99, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				4000590, -- [10]
+				269899, -- [11]
+				1913, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1971772, -- [10]
+				5520584, -- [11]
+				2058, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Celî-Alleria", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка Бездны", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				855141, -- [10]
+				5050643, -- [11]
+				1872, -- [12]
+				16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				171, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 234,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589208940,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1985, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1967, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [160]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Tonserjohn-TwistingNether", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Монах", -- [8]
+				"MONK", -- [9]
+				2034794, -- [10]
+				293608, -- [11]
+				1872, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Танцующий с ветром", -- [16]
+				102, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				947730, -- [10]
+				51096, -- [11]
+				1903, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				698315, -- [10]
+				1922822, -- [11]
+				2043, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Oncan-TwistingNether", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Таурен", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				137214, -- [10]
+				895441, -- [11]
+				1874, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				60, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 89,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589209131,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1956, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1955, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [161]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Каэргорн-Гордунни", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Дворф", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				2090443, -- [10]
+				261549, -- [11]
+				2042, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Выживание", -- [16]
+				203, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1559441, -- [10]
+				441332, -- [11]
+				1917, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Korae-DunModr", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				975119, -- [10]
+				2038079, -- [11]
+				1947, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				96, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				714515, -- [10]
+				1417908, -- [11]
+				2052, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 157,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589209376,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1978, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1982, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [162]
+	{
+		["Map"] = 1911,
+		["Players"] = {
+			{
+				"Sitekrico-BurningLegion", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльф крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1501573, -- [10]
+				280846, -- [11]
+				1959, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Воздаяние", -- [16]
+				95, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				989315, -- [10]
+				226640, -- [11]
+				1907, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Skippylol-BurningLegion", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				722079, -- [10]
+				21453, -- [11]
+				1959, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				119, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				333026, -- [10]
+				1793399, -- [11]
+				2037, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 90,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589209554,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1948, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1955, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [163]
+	{
+		["Map"] = 1504,
+		["Players"] = {
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1458865, -- [10]
+				78318, -- [11]
+				1920, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [1]
+			{
+				"Дэдлигаррик-СвежевательДуш", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				1278620, -- [10]
+				428008, -- [11]
+				2021, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Скрытность", -- [16]
+				279, -- [17]
+			}, -- [2]
+			{
+				"Кошмарю-СвежевательДуш", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				925456, -- [10]
+				911798, -- [11]
+				2017, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Тьма", -- [16]
+				82, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				400241, -- [10]
+				1035432, -- [11]
+				2046, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 126,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589210534,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1979, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1981, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [164]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Ángst-Nazjatar", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				691952, -- [10]
+				39725, -- [11]
+				1923, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				182, -- [17]
+			}, -- [1]
+			{
+				"Shadoona-Nazjatar", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				550327, -- [10]
+				293097, -- [11]
+				1916, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				39, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				195259, -- [10]
+				33132, -- [11]
+				1910, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				162116, -- [10]
+				388663, -- [11]
+				2032, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 68,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589210695,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1954, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1958, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [165]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Mwhite-Vol'jin", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				4697942, -- [10]
+				352647, -- [11]
+				1759, -- [12]
+				-7, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				83, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				4200890, -- [10]
+				492577, -- [11]
+				1900, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1850351, -- [10]
+				4750788, -- [11]
+				2017, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Kà-ConseildesOmbres", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Человек", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				1103329, -- [10]
+				4909182, -- [11]
+				2055, -- [12]
+				-16, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				237, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 317,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589211140,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1940, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1928, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [166]
+	{
+		["Map"] = 1552,
+		["Players"] = {
+			{
+				"Лаккеер", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				813744, -- [10]
+				156326, -- [11]
+				1981, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				133, -- [17]
+			}, -- [1]
+			{
+				"Ромастерог-Дракономор", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				781442, -- [10]
+				39360, -- [11]
+				1984, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Скрытность", -- [16]
+				51, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				238146, -- [10]
+				154658, -- [11]
+				1913, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				93007, -- [10]
+				452584, -- [11]
+				2026, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 66,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589211550,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1961, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1956, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [167]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Ayahuascà-Blackmoore", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				2106616, -- [10]
+				380875, -- [11]
+				1954, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				224, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1632249, -- [10]
+				80067, -- [11]
+				1903, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1109860, -- [10]
+				2246101, -- [11]
+				2012, -- [12]
+				9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Viic-TarrenMill", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Монахиня", -- [8]
+				"MONK", -- [9]
+				239981, -- [10]
+				1413760, -- [11]
+				1860, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ткач туманов", -- [16]
+				53, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 109,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589211765,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1931, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1931, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [168]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				674167, -- [10]
+				518728, -- [11]
+				2021, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [1]
+			{
+				"Mugenhz-Sanguino", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Охотница", -- [8]
+				"HUNTER", -- [9]
+				548177, -- [10]
+				121556, -- [11]
+				1890, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Выживание", -- [16]
+				171, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				251518, -- [10]
+				16738, -- [11]
+				1916, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Azadruidjr-Ysondre", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тауренка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				0, -- [10]
+				198030, -- [11]
+				1972, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				163, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 1,
+		["PlayersNum"] = 4,
+		["Duration"] = 63,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589211920,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1968, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1957, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [169]
+	{
+		["Map"] = 1825,
+		["Players"] = {
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				852097, -- [10]
+				623007, -- [11]
+				2031, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [1]
+			{
+				"Netsky-Stormscale", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				755567, -- [10]
+				880657, -- [11]
+				1907, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				445, -- [17]
+			}, -- [2]
+			{
+				"Геттолайф", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				640663, -- [10]
+				145683, -- [11]
+				1728, -- [12]
+				20, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				120, -- [17]
+			}, -- [3]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				245308, -- [10]
+				27424, -- [11]
+				1930, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 1,
+		["PlayersNum"] = 4,
+		["Duration"] = 114,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589212132,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1985, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1984, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [170]
+	{
+		["Map"] = 2167,
+		["Players"] = {
+			{
+				"Trýgødmødé-Stormscale", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Орчиха", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				4147034, -- [10]
+				282926, -- [11]
+				1870, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				106, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2786581, -- [10]
+				215804, -- [11]
+				1920, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1037027, -- [10]
+				3761584, -- [11]
+				2017, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Fakégødmødé-Stormscale", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				898748, -- [10]
+				3345312, -- [11]
+				1884, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				86, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 204,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589212426,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1962, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1959, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [171]
+	{
+		["Map"] = 572,
+		["Players"] = {
+			{
+				"Brujox-Blackrock", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				1226790, -- [10]
+				316792, -- [11]
+				1841, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				139, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				837168, -- [10]
+				197656, -- [11]
+				1909, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Lencox-Blackmoore", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				318276, -- [10]
+				156423, -- [11]
+				1824, -- [12]
+				-8, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				167, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				288026, -- [10]
+				1144741, -- [11]
+				2003, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 61,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589212578,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1936, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1933, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [172]
+	{
+		["Map"] = 617,
+		["Players"] = {
+			{
+				"Mahísha-Blackmoore", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				5833362, -- [10]
+				1927652, -- [11]
+				2030, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				119, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3596592, -- [10]
+				276914, -- [11]
+				1922, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1406578, -- [10]
+				5755428, -- [11]
+				2013, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				85, -- [17]
+			}, -- [3]
+			{
+				"Гевион-СвежевательДуш", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Эльф крови", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				711856, -- [10]
+				2275056, -- [11]
+				1999, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				44, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 290,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589212969,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1960, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1964, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [173]
+	{
+		["Map"] = 1505,
+		["Players"] = {
+			{
+				"Ворчубу", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3190118, -- [10]
+				369818, -- [11]
+				1931, -- [12]
+				14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				37, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2277848, -- [10]
+				255906, -- [11]
+				1935, -- [12]
+				-10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хапнислез-СвежевательДуш", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Гоблин", -- [7]
+				"Жрица", -- [8]
+				"PRIEST", -- [9]
+				1509906, -- [10]
+				2991307, -- [11]
+				1944, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				31, -- [17]
+			}, -- [3]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1104317, -- [10]
+				3289477, -- [11]
+				2023, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 4,
+		["PlayersNum"] = 4,
+		["Duration"] = 194,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589213248,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1988, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1986, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [174]
+	{
+		["Map"] = 1911,
+		["Players"] = {
+			{
+				"Iru-BurningLegion", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				5373011, -- [10]
+				1344662, -- [11]
+				1986, -- [12]
+				11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				56, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3367846, -- [10]
+				833819, -- [11]
+				1925, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1952914, -- [10]
+				5079758, -- [11]
+				2010, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [3]
+			{
+				"Innocentlol-Blackrock", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				1601558, -- [10]
+				3600942, -- [11]
+				1862, -- [12]
+				15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				53, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 361,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589213734,
+		["isBrawl"] = false,
+		["PlayerSide"] = 1,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1943, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1961, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [175]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Olfik-Drak'thul", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Таурен", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				530360, -- [10]
+				20397, -- [11]
+				1836, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Оружие", -- [16]
+				199, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				430804, -- [10]
+				347237, -- [11]
+				1996, -- [12]
+				10, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				379890, -- [10]
+				9824, -- [11]
+				1914, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Kozaak-Drak'thul", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Тролль", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				11954, -- [10]
+				81542, -- [11]
+				1836, -- [12]
+				-9, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				226, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 2,
+		["PlayersNum"] = 4,
+		["Duration"] = 46,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589213943,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 0,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1932, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1936, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [176]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Morbidity-Drak'thul", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Нежить", -- [7]
+				"Рыцарь смерти", -- [8]
+				"DEATHKNIGHT", -- [9]
+				3642930, -- [10]
+				790897, -- [11]
+				1924, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Нечестивость", -- [16]
+				154, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				2359147, -- [10]
+				242860, -- [11]
+				1927, -- [12]
+				-11, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1431242, -- [10]
+				3131491, -- [11]
+				2006, -- [12]
+				-13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [3]
+			{
+				"Teftonas-Stormscale", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Орчиха", -- [7]
+				"Шаманка", -- [8]
+				"SHAMAN", -- [9]
+				727242, -- [10]
+				2749862, -- [11]
+				1929, -- [12]
+				13, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				80, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 183,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589214268,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1959, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1965, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [177]
+	{
+		["Map"] = 980,
+		["Players"] = {
+			{
+				"Sâphírá-Antonidas", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				1517426, -- [10]
+				320250, -- [11]
+				1920, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				131, -- [17]
+			}, -- [1]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1421388, -- [10]
+				1632970, -- [11]
+				1993, -- [12]
+				-15, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [2]
+			{
+				"Аксерк", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				1103321, -- [10]
+				172064, -- [11]
+				1916, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [3]
+			{
+				"Êlysiana-Antonidas", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				979503, -- [10]
+				1602388, -- [11]
+				1926, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Защита", -- [16]
+				142, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 2,
+		["PlayersNum"] = 4,
+		["Duration"] = 227,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589214623,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1933, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1919, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [178]
+	{
+		["Map"] = 1672,
+		["Players"] = {
+			{
+				"Isyxo-Silvermoon", -- [1]
+				2, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				6072284, -- [10]
+				599028, -- [11]
+				1898, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				92, -- [17]
+			}, -- [1]
+			{
+				"Аксерк", -- [1]
+				1, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3787556, -- [10]
+				492682, -- [11]
+				1904, -- [12]
+				-12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				69, -- [17]
+			}, -- [2]
+			{
+				"Хидрамист", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1059426, -- [10]
+				5602814, -- [11]
+				1978, -- [12]
+				-14, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [3]
+			{
+				"Noneedpala-Stormscale", -- [1]
+				0, -- [2]
+				0, -- [3]
+				0, -- [4]
+				0, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1029282, -- [10]
+				3472714, -- [11]
+				1893, -- [12]
+				12, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				116, -- [17]
+			}, -- [4]
+		},
+		["StatsNum"] = 0,
+		["PlayerNum"] = 3,
+		["PlayersNum"] = 4,
+		["Duration"] = 305,
+		["Hidden"] = false,
+		["isArena"] = true,
+		["Time"] = 1589215081,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = true,
+		["Version"] = 275,
+		["Winner"] = 1,
+		["Season"] = 29,
+		["TeamData"] = {
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1905, -- [4]
+				2, -- [5]
+			}, -- [1]
+			{
+				"", -- [1]
+				-1, -- [2]
+				-13, -- [3]
+				1905, -- [4]
+				2, -- [5]
+			}, -- [2]
+		},
+	}, -- [179]
+	{
+		["Map"] = 566,
+		["Players"] = {
+			{
+				"Мргла", -- [1]
+				12, -- [2]
+				65, -- [3]
+				0, -- [4]
+				641, -- [5]
+				0, -- [6]
+				"Тролль", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				12617490, -- [10]
+				1528162, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				34, -- [17]
+			}, -- [1]
+			{
+				"Бельтайн-Дракономор", -- [1]
+				7, -- [2]
+				63, -- [3]
+				0, -- [4]
+				500, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Чернокнижница", -- [8]
+				"WARLOCK", -- [9]
+				4627946, -- [10]
+				1206664, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Колдовство", -- [16]
+				63, -- [17]
+			}, -- [2]
+			{
+				"Висена-Ясеневыйлес", -- [1]
+				6, -- [2]
+				60, -- [3]
+				1, -- [4]
+				638, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Рыцарь смерти", -- [8]
+				"DEATHKNIGHT", -- [9]
+				4974623, -- [10]
+				1870358, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Нечестивость", -- [16]
+				34, -- [17]
+			}, -- [3]
+			{
+				"Джусипупси", -- [1]
+				5, -- [2]
+				44, -- [3]
+				1, -- [4]
+				482, -- [5]
+				0, -- [6]
+				"Ночнорожденная", -- [7]
+				"Чернокнижница", -- [8]
+				"WARLOCK", -- [9]
+				5312363, -- [10]
+				1759971, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				19, -- [17]
+			}, -- [4]
+			{
+				"Моствонтед", -- [1]
+				5, -- [2]
+				52, -- [3]
+				1, -- [4]
+				468, -- [5]
+				0, -- [6]
+				"Маг'хар", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				3195378, -- [10]
+				518235, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Стрельба", -- [16]
+				18, -- [17]
+			}, -- [5]
+			{
+				"Зандалыч-СвежевательДуш", -- [1]
+				5, -- [2]
+				61, -- [3]
+				0, -- [4]
+				490, -- [5]
+				0, -- [6]
+				"Зандалар", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				4049701, -- [10]
+				1839998, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Воздаяние", -- [16]
+				98, -- [17]
+			}, -- [6]
+			{
+				"Ксенорф-Ясеневыйлес", -- [1]
+				4, -- [2]
+				57, -- [3]
+				2, -- [4]
+				634, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				3512471, -- [10]
+				1134282, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				173, -- [17]
+			}, -- [7]
+			{
+				"Магулёчек", -- [1]
+				4, -- [2]
+				46, -- [3]
+				2, -- [4]
+				613, -- [5]
+				0, -- [6]
+				"Гоблин", -- [7]
+				"Маг", -- [8]
+				"MAGE", -- [9]
+				3648222, -- [10]
+				994385, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Огонь", -- [16]
+				6, -- [17]
+			}, -- [8]
+			{
+				"Юрахин-Голдринн", -- [1]
+				4, -- [2]
+				54, -- [3]
+				2, -- [4]
+				489, -- [5]
+				0, -- [6]
+				"Эльф крови", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				4042382, -- [10]
+				1927033, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Демонология", -- [16]
+				46, -- [17]
+			}, -- [9]
+			{
+				"Marrogar-BurningLegion", -- [1]
+				4, -- [2]
+				11, -- [3]
+				2, -- [4]
+				261, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Разбойник", -- [8]
+				"ROGUE", -- [9]
+				3060250, -- [10]
+				1263074, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				34, -- [17]
+			}, -- [10]
+			{
+				"Хексинтраум", -- [1]
+				3, -- [2]
+				39, -- [3]
+				2, -- [4]
+				466, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				4696084, -- [10]
+				2348473, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				129, -- [17]
+			}, -- [11]
+			{
+				"Дельнария", -- [1]
+				3, -- [2]
+				36, -- [3]
+				0, -- [4]
+				617, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница", -- [8]
+				"HUNTER", -- [9]
+				2360012, -- [10]
+				1022086, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Стрельба", -- [16]
+				71, -- [17]
+			}, -- [12]
+			{
+				"Фиррт", -- [1]
+				3, -- [2]
+				32, -- [3]
+				0, -- [4]
+				617, -- [5]
+				0, -- [6]
+				"Таурен", -- [7]
+				"Рыцарь смерти", -- [8]
+				"DEATHKNIGHT", -- [9]
+				2452862, -- [10]
+				1252315, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Нечестивость", -- [16]
+				109, -- [17]
+			}, -- [13]
+			{
+				"Хидрамист", -- [1]
+				2, -- [2]
+				61, -- [3]
+				1, -- [4]
+				637, -- [5]
+				0, -- [6]
+				"Нежить", -- [7]
+				"Жрец", -- [8]
+				"PRIEST", -- [9]
+				1498961, -- [10]
+				4408689, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Послушание", -- [16]
+				86, -- [17]
+			}, -- [14]
+			{
+				"Низкийрейт", -- [1]
+				2, -- [2]
+				49, -- [3]
+				1, -- [4]
+				480, -- [5]
+				0, -- [6]
+				"Эльфийка крови", -- [7]
+				"Охотница на демонов", -- [8]
+				"DEMONHUNTER", -- [9]
+				7664574, -- [10]
+				1052934, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Истребление", -- [16]
+				72, -- [17]
+			}, -- [15]
+			{
+				"Morphirous-BurningBlade", -- [1]
+				2, -- [2]
+				9, -- [3]
+				1, -- [4]
+				248, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				4758068, -- [10]
+				2650667, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				38, -- [17]
+			}, -- [16]
+			{
+				"Chaosman-Silvermoon", -- [1]
+				1, -- [2]
+				8, -- [3]
+				6, -- [4]
+				245, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Чернокнижник", -- [8]
+				"WARLOCK", -- [9]
+				6088092, -- [10]
+				2477814, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Разрушение", -- [16]
+				43, -- [17]
+			}, -- [17]
+			{
+				"Nidorina-BurningLegion", -- [1]
+				1, -- [2]
+				7, -- [3]
+				6, -- [4]
+				240, -- [5]
+				1, -- [6]
+				"Эльфийка Бездны", -- [7]
+				"Охотница", -- [8]
+				"HUNTER", -- [9]
+				3613042, -- [10]
+				1522451, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Повелительница зверей", -- [16]
+				40, -- [17]
+			}, -- [18]
+			{
+				"Farmyard-Draenor", -- [1]
+				1, -- [2]
+				10, -- [3]
+				6, -- [4]
+				164, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				3425200, -- [10]
+				5126338, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Страж", -- [16]
+				48, -- [17]
+			}, -- [19]
+			{
+				"Pácho-DunModr", -- [1]
+				1, -- [2]
+				5, -- [3]
+				5, -- [4]
+				107, -- [5]
+				1, -- [6]
+				"Механогном", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				1329064, -- [10]
+				540282, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Стрельба", -- [16]
+				234, -- [17]
+			}, -- [20]
+			{
+				"Henricus-Auchindoun", -- [1]
+				1, -- [2]
+				1, -- [3]
+				4, -- [4]
+				223, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				1958430, -- [10]
+				1099318, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Неистовство", -- [16]
+				121, -- [17]
+			}, -- [21]
+			{
+				"Krionel-BurningBlade", -- [1]
+				1, -- [2]
+				6, -- [3]
+				3, -- [4]
+				233, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				5991581, -- [10]
+				1850166, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Сила зверя", -- [16]
+				256, -- [17]
+			}, -- [22]
+			{
+				"Costi-Silvermoon", -- [1]
+				0, -- [2]
+				8, -- [3]
+				7, -- [4]
+				246, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Воин", -- [8]
+				"WARRIOR", -- [9]
+				2051932, -- [10]
+				422466, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Неистовство", -- [16]
+				9, -- [17]
+			}, -- [23]
+			{
+				"Marionela-BurningBlade", -- [1]
+				0, -- [2]
+				4, -- [3]
+				7, -- [4]
+				229, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Паладин", -- [8]
+				"PALADIN", -- [9]
+				1091005, -- [10]
+				5986386, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Свет", -- [16]
+				542, -- [17]
+			}, -- [24]
+			{
+				"Sordros-Saurfang", -- [1]
+				0, -- [2]
+				3, -- [3]
+				7, -- [4]
+				226, -- [5]
+				1, -- [6]
+				"Ночной эльф", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				2548001, -- [10]
+				1172580, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Повелитель зверей", -- [16]
+				53, -- [17]
+			}, -- [25]
+			{
+				"Silas-Shadowsong", -- [1]
+				0, -- [2]
+				8, -- [3]
+				6, -- [4]
+				159, -- [5]
+				1, -- [6]
+				"Дворф", -- [7]
+				"Шаман", -- [8]
+				"SHAMAN", -- [9]
+				1670996, -- [10]
+				7821606, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				119, -- [17]
+			}, -- [26]
+			{
+				"Arnó-Auchindoun", -- [1]
+				0, -- [2]
+				4, -- [3]
+				4, -- [4]
+				236, -- [5]
+				1, -- [6]
+				"Человек", -- [7]
+				"Охотник", -- [8]
+				"HUNTER", -- [9]
+				2122034, -- [10]
+				1234284, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Стрельба", -- [16]
+				134, -- [17]
+			}, -- [27]
+			{
+				"Amaririsu-BurningLegion", -- [1]
+				0, -- [2]
+				2, -- [3]
+				4, -- [4]
+				226, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Охотница", -- [8]
+				"HUNTER", -- [9]
+				349630, -- [10]
+				323263, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Повелительница зверей", -- [16]
+				83, -- [17]
+			}, -- [28]
+			{
+				"Llién-Terenas", -- [1]
+				0, -- [2]
+				4, -- [3]
+				2, -- [4]
+				228, -- [5]
+				1, -- [6]
+				"Ночная эльфийка", -- [7]
+				"Разбойница", -- [8]
+				"ROGUE", -- [9]
+				619704, -- [10]
+				314136, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Ликвидация", -- [16]
+				237, -- [17]
+			}, -- [29]
+			{
+				"Ирландиямвп-СвежевательДуш", -- [1]
+				0, -- [2]
+				49, -- [3]
+				0, -- [4]
+				634, -- [5]
+				0, -- [6]
+				"Зандалар", -- [7]
+				"Друид", -- [8]
+				"DRUID", -- [9]
+				1354229, -- [10]
+				10449876, -- [11]
+				0, -- [12]
+				0, -- [13]
+				0, -- [14]
+				0, -- [15]
+				"Исцеление", -- [16]
+				159, -- [17]
+			}, -- [30]
+		},
+		["StatsNum"] = 1,
+		["Version"] = 275,
+		["PlayersNum"] = 30,
+		["Duration"] = 588,
+		["Season"] = 29,
+		["isBrawl"] = false,
+		["PlayersStats"] = {
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [1]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [2]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [3]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [4]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [5]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [6]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [7]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [8]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [9]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [10]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [11]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [12]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [13]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [14]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [15]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [16]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [17]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [18]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [19]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [20]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [21]
+			{
+				{
+					1, -- [1]
+				}, -- [1]
+			}, -- [22]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [23]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [24]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [25]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [26]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [27]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [28]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [29]
+			{
+				{
+					0, -- [1]
+				}, -- [1]
+			}, -- [30]
+		},
+		["isArena"] = false,
+		["PlayerSide"] = 0,
+		["isRated"] = false,
+		["Time"] = 1589223200,
+		["Winner"] = 0,
+		["Hidden"] = false,
+		["PlayerNum"] = 14,
+	}, -- [180]
 }
 REFlexHonorDatabase = {
-	[1588708800] = 1810,
-	[1588795200] = 1900,
-	[1588449600] = 2200,
 	[1588363200] = 1000,
+	[1588881600] = 2420,
+	[1589140800] = 4307,
 	[1588017600] = 3,
+	[1588708800] = 1810,
+	[1588795200] = 2060,
+	[1588449600] = 2200,
 	[1588190400] = 3118,
+	[1588968000] = 2320,
 }

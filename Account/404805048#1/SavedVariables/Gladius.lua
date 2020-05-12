@@ -2,12 +2,13 @@
 Gladius2DB = {
 	["profileKeys"] = {
 		["Ваззапер - Ревущий фьорд"] = "Ваззапер - Ревущий фьорд",
+		["Мушкетерх - Ревущий фьорд"] = "ForEveryBody",
 		["Флинтомист - Ревущий фьорд"] = "Default",
 		["Кендифлоп - Ревущий фьорд"] = "Default",
-		["Мушкетерх - Ревущий фьорд"] = "ForEveryBody",
 		["Калимистх - Ревущий фьорд"] = "Калимистх - Ревущий фьорд",
-		["Соваестдетей - Ревущий фьорд"] = "ForEveryBody",
+		["Сноха - Ревущий фьорд"] = "Сноха - Ревущий фьорд",
 		["Клиндамист - Ревущий фьорд"] = "ForEveryBody",
+		["Соваестдетей - Ревущий фьорд"] = "ForEveryBody",
 		["Хидрамист - Ревущий фьорд"] = "Хидрамист - Ревущий фьорд",
 	},
 	["profiles"] = {
@@ -24,20 +25,44 @@ Gladius2DB = {
 		["Мушкетерх - Ревущий фьорд"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["y"] = {
-				["arena1"] = 509.8667658183331,
-			},
 			["x"] = {
 				["arena1"] = 999.1112221095318,
 			},
-		},
-		["Default"] = {
 			["y"] = {
-				["arena1"] = 504.1778767916912,
+				["arena1"] = 509.8667658183331,
+			},
+		},
+		["Сноха - Ревущий фьорд"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["x"] = {
+				["arena1"] = 1023.200731512188,
+			},
+			["y"] = {
+				["arena1"] = 484.8111547025837,
+			},
+		},
+		["Кендифлоп - Ревущий фьорд"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 434.4888560069921,
 			},
 			["x"] = {
-				["arena1"] = 1003.377715268398,
+				["arena1"] = 950.7554917719608,
 			},
+		},
+		["Флинтомист - Ревущий фьорд"] = {
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+			["y"] = {
+				["arena1"] = 482.8444561362267,
+			},
+			["x"] = {
+				["arena1"] = 994.1333574056625,
+			},
+		},
+		["Default"] = {
 			["tags"] = {
 				["maxhealth"] = {
 					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nend",
@@ -99,41 +124,27 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 			},
-			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-		},
-		["Флинтомист - Ревущий фьорд"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 994.1333574056625,
-			},
 			["y"] = {
-				["arena1"] = 482.8444561362267,
+				["arena1"] = 504.1778767916912,
 			},
-		},
-		["Кендифлоп - Ревущий фьорд"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 			["x"] = {
-				["arena1"] = 950.7554917719608,
+				["arena1"] = 1003.377715268398,
 			},
-			["y"] = {
-				["arena1"] = 434.4888560069921,
-			},
+			["auraVersion"] = 1,
 		},
 		["Калимистх - Ревущий фьорд"] = {
 			["auraVersion"] = 1,
@@ -144,10 +155,6 @@ Gladius2DB = {
 			["x"] = {
 				["arena1"] = 940.0887380414497,
 			},
-		},
-		["Соваестдетей - Ревущий фьорд"] = {
-			["auraVersion"] = 1,
-			["tagsVersion"] = 4,
 		},
 		["Клиндамист - Ревущий фьорд"] = {
 			["y"] = {
@@ -217,40 +224,44 @@ Gladius2DB = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nlocal maxHealth = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nreturn strformat(\"%.1f%%\", (health / maxHealth * 100))\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["maxpower"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
-					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
+				["health"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
+					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
 				["maxhealth:short"] = {
 					["func"] = "function(unit)\nlocal health = not Gladius.test and UnitHealthMax(unit) or Gladius.testing[unit].maxHealth\nif (health > 999) then\nreturn strformat(\"%.1fk\", (health / 1000))\nelse\nreturn health\nend\nend",
 					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
 				},
-				["health"] = {
-					["func"] = "function(unit)\nreturn not Gladius.test and UnitHealth(unit) or Gladius.testing[unit].health\nend",
-					["events"] = "UNIT_HEALTH UNIT_MAXHEALTH UNIT_NAME_UPDATE",
+				["maxpower"] = {
+					["func"] = "function(unit)\nreturn not Gladius.test and UnitPowerMax(unit) or Gladius.testing[unit].maxPower\nend",
+					["events"] = "UNIT_MAXPOWER UNIT_DISPLAYPOWER UNIT_NAME_UPDATE",
 				},
 			},
+			["auraVersion"] = 1,
+			["tagsVersion"] = 4,
+		},
+		["Соваестдетей - Ревущий фьорд"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 		},
 		["ForEveryBody"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
-			["x"] = {
-				["arena1"] = 943.6446409053315,
-			},
 			["y"] = {
 				["arena1"] = 462.2224070257653,
+			},
+			["x"] = {
+				["arena1"] = 943.6446409053315,
 			},
 		},
 		["Хидрамист - Ревущий фьорд"] = {
 			["auraVersion"] = 1,
 			["tagsVersion"] = 4,
 			["y"] = {
-				["arena1"] = 452.977788746357,
+				["arena1"] = 446.5777546157187,
 			},
 			["x"] = {
-				["arena1"] = 1002.667211778971,
+				["arena1"] = 927.289394698164,
 			},
 		},
 	},

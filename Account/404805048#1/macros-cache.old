@@ -1,12 +1,3 @@
-VER 3 0000000000000036 " " "INV_MISC_QUESTIONMARK"
-/cast [nomod] Удар в спину
-/cast [mod:shift]Исчезновение
-/cast [mod:ctrl,@focus] Ошеломление 
-END
-VER 3 0000000000000053 " " "237550"
-#showtooltip Ашжра'камас, Покров Решимости
-/use Ашжра'камас, Покров Решимости
-END
 VER 3 0000000000000059 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Воскрешение
 /закл Нетронутый порчей змей Бездны
@@ -27,6 +18,23 @@ VER 3 000000000000005A " " "INV_MISC_QUESTIONMARK"
 #showtooltip Воскрешение
 /закл Неуклонный ледяной покоритель
 END
+VER 3 000000000000005B " " "INV_MISC_QUESTIONMARK"
+#showtooltip Молитва отчаяния
+/закл Молитва отчаяния
+/cancelaura Молитва отчаяния
+END
+VER 3 0000000000000036 " " "INV_MISC_QUESTIONMARK"
+/cast [nomod] Удар в спину
+/cast [mod:shift]Исчезновение
+/cast [mod:ctrl,@focus] Ошеломление 
+END
+VER 3 0000000000000053 " " "237550"
+#showtooltip Ашжра'камас, Покров Решимости
+/use Ашжра'камас, Покров Решимости
+END
+VER 3 000000000000005D "A2" "INV_MISC_QUESTIONMARK"
+/target party2
+END
 VER 3 0000000000000056 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
 /script print('no button yet')
 END
@@ -44,26 +52,29 @@ VER 3 0000000000000054 "ww" "1322720"
 #showtooltip Воля Отрекшихся(Расовая)
 /закл Воля Отрекшихся(Расовая)
 END
-VER 3 000000000000004E " " "INV_MISC_QUESTIONMARK"
-#showtooltip Слово силы: Утешение
-/закл Очищение
+VER 3 000000000000004A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Схизма
+/cast Рассеивание заклинаний
+END
+VER 3 0000000000000049 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Исповедь
+/cast Кара
 END
 VER 3 000000000000004B " " "INV_MISC_QUESTIONMARK"
 #showtooltip Темное восстановление
 /cast Очищение зла
 END
-VER 3 000000000000004A " " "INV_MISC_QUESTIONMARK"
-#showtooltip Схизма
-/cast Рассеивание заклинаний
+VER 3 000000000000004E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Слово силы: Утешение
+/закл Очищение
 END
 VER 3 0000000000000050 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Архангел(PvP-талант)
 /закл Темный архангел(PvP-талант)
 /use Жетон ужасающего гладиатора
 END
-VER 3 0000000000000049 " " "INV_MISC_QUESTIONMARK"
-#showtooltip Исповедь
-/cast Кара
+VER 3 000000000000005C "А!" "INV_MISC_QUESTIONMARK"
+/target party1
 END
 VER 3 0000000000000052 "ЫЗ" "INV_MISC_QUESTIONMARK"
 /way 24, 41

@@ -3,7 +3,14 @@ Frame: PlayerFrame
 FrameLevel: 1
 Anchor: CENTER
 X: -212
-Y: -139
+Y: -142
+W: 232
+H: 100
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 236
+Y: -142
 W: 232
 H: 100
 Frame: FocusFrame
@@ -20,10 +27,3 @@ X: -6
 Y: -193
 W: 240
 H: 170
-Frame: TargetFrame
-FrameLevel: 1
-Anchor: CENTER
-X: 228
-Y: -141
-W: 232
-H: 100

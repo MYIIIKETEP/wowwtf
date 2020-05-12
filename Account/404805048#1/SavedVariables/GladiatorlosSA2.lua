@@ -1,15 +1,19 @@
 
 GladiatorlosSADB = {
 	["profileKeys"] = {
+		["Ваззапер - Ревущий фьорд"] = "Default",
+		["Флинтомист - Ревущий фьорд"] = "Default",
+		["Кендифлоп - Ревущий фьорд"] = "Default",
 		["Калимистх - Ревущий фьорд"] = "Default",
 		["Соваестдетей - Ревущий фьорд"] = "Default",
-		["Флинтомист - Ревущий фьорд"] = "Default",
+		["Сноха - Ревущий фьорд"] = "Default",
 		["Хидрамист - Ревущий фьорд"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["aimedShot"] = false,
-			["all"] = true,
+			["battleground"] = false,
+			["interruptedfriendly"] = false,
 			["custom"] = {
 				["Новое оповещение"] = {
 					["soundfilepath"] = "Interface\\AddOns\\GladiatorlosSA2\\Voice_Custom\\Will-Demo.ogg",
@@ -28,8 +32,6 @@ GladiatorlosSADB = {
 					},
 				},
 			},
-			["field"] = true,
-			["interruptedfriendly"] = false,
 		},
 	},
 }

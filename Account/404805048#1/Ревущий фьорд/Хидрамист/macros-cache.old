@@ -6,10 +6,6 @@ VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Исповедь
 /закл Слово силы: Щит
 END
-VER 3 0100000000000018 " " "INV_MISC_QUESTIONMARK"
-#showtooltip Слово силы: Барьер
-/закл Темное восстановление
-END
 VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
 #showtooltip Подавление боли
 /закл Очищение зла

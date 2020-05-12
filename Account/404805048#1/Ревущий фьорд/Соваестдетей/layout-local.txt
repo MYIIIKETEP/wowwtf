@@ -13,13 +13,6 @@ X: 346
 Y: 190
 W: 232
 H: 100
-Frame: GladiusButtonFramearena1
-FrameLevel: 1
-Anchor: RIGHT
-X: -433
-Y: 84
-W: 160
-H: 52
 Frame: TargetFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -27,10 +20,3 @@ X: 228
 Y: -142
 W: 232
 H: 100
-Frame: BagnonInventoryFrame1
-FrameLevel: 1
-Anchor: RIGHT
-X: -165
-Y: 19
-W: 482
-H: 564

@@ -1,0 +1,47 @@
+VER 3 010000000000001B "." "INV_MISC_QUESTIONMARK"
+#show
+/cast [@focus] Обезоруживание
+END
+VER 3 010000000000001A "." "INV_MISC_QUESTIONMARK"
+#show Кровопускание
+/startattack
+/cast Кровопускание
+END
+VER 3 0100000000000019 "." "INV_MISC_QUESTIONMARK"
+#show
+/cancelaura Вихрь клинков
+/cast рывок
+END
+VER 3 010000000000001C "." "INV_MISC_QUESTIONMARK"
+#show
+/cast [@focus] Устрашающий крик
+END
+VER 3 0100000000000002 "cam" "INV_MISC_QUESTIONMARK"
+/console cameradistancemaxfactor 5
+END
+VER 3 0100000000000003 "dbm pull" "INV_MISC_QUESTIONMARK"
+/pull 3
+END
+VER 3 0100000000000007 "focuskick" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Зуботычина
+END
+VER 3 0100000000000018 "ms" "INV_MISC_QUESTIONMARK"
+#show Смертельный Удар
+/startattack
+/cast Смертельный Удар
+/cast Заточка клинка(PvP-талант)
+END
+VER 3 0100000000000015 "sb1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Удар громовержца
+END
+VER 3 0100000000000016 "sb2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Удар громовержца
+END
+VER 3 0100000000000017 "sb3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Удар громовержца
+END
+VER 3 010000000000001D "руна крик" "INV_MISC_QUESTIONMARK"
+#show Боевой Крик
+/use Кованая молнией усиливающая руна
+/cast Боевой крик
+END

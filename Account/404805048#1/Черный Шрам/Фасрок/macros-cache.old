@@ -7,11 +7,7 @@ VER 3 010000000000000F " " "Ability_Creature_Cursed_05"
 .haircolor 8
 END
 VER 3 0100000000000019 " " "INV_MISC_QUESTIONMARK"
-#showtooltip Ошеломление
-/console targetNearestDistance 8,000000 
-/targetenemy [noharm][dead] 
-/cast [harm, nomod, nodead] Ошеломление 
-/cleartarget
+цвввввввввввввцв
 END
 VER 3 010000000000001C " " "INV_MISC_QUESTIONMARK"
 /cast [nomod]Шаг сквозь тень

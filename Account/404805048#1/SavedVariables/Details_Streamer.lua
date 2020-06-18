@@ -1,18 +1,11 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Ваззапер - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Мушкетерх - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Флинтомист - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Кендифлоп - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Калимистх - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Сноха - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Клиндамист - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Соваестдетей - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
-		["Хидрамист - Ревущий фьорд"] = "Клиндамист - Ревущий фьорд",
+		["Семеста - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Флинтомист - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
 	},
 	["profiles"] = {
-		["Клиндамист - Ревущий фьорд"] = {
+		["Семеста - Ревущий фьорд"] = {
 			["font_color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -37,22 +30,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["author"] = "Details! Team",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["per_second"] = {
-				["enabled"] = false,
-				["point"] = "CENTER",
-				["scale"] = 1,
-				["font_shadow"] = true,
-				["y"] = 3.0517578125e-05,
-				["x"] = 3.0517578125e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
-				["size"] = 32,
-			},
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -60,22 +43,32 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 4.57763671875e-05,
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.0517578125e-05,
+				["x"] = 3.0517578125e-05,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["font_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["y"] = 4.57763671875e-05,
-			["main_frame_strata"] = "LOW",
-			["point"] = "CENTER",
-			["row_height"] = 20,
-			["scale"] = 1,
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }

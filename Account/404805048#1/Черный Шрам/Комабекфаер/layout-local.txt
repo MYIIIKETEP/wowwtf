@@ -1,1 +1,8 @@
 Version: 1
+Frame: MainFrame
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: 1270
+Y: -440
+W: 1488
+H: 486

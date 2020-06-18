@@ -1,0 +1,8 @@
+VER 3 0100000000000001 "FC" "INV_MISC_QUESTIONMARK"
+#showtooltip Ледяные оковы
+/cast [@focus] Ледяные оковы
+END
+VER 3 0100000000000002 "FG" "INV_MISC_QUESTIONMARK"
+#showtooltip Хватка смерти
+/cast [@focus] Хватка смерти
+END

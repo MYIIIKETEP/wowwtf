@@ -1,0 +1,7 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+RaiderIO_DB_US_A: disabled
+Masque: disabled
+Lorti-UI: enabled
+LootCouncil_Lite: disabled
+ClassicActionBars: enabled

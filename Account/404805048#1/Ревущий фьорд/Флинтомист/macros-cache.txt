@@ -1,28 +1,59 @@
-VER 3 0100000000000005 "A1" "INV_MISC_QUESTIONMARK"
-/cast [@arena1] Превращение(Овца)
-END
-VER 3 0100000000000003 "A1" "INV_MISC_QUESTIONMARK"
-/cast [@arena1] Антимагия
-END
-VER 3 0100000000000001 "A2" "INV_MISC_QUESTIONMARK"
-/cast [@arena2] Превращение(Овца)
-END
-VER 3 0100000000000002 "A2" "INV_MISC_QUESTIONMARK"
-/cast [@arena2] Антимагия
-END
-VER 3 0100000000000004 "A3" "INV_MISC_QUESTIONMARK"
-/cast [@arena3] Антимагия
-END
-VER 3 0100000000000006 "A3" "INV_MISC_QUESTIONMARK"
-/cast [@arena3] Превращение(Овца)
-END
-VER 3 0100000000000007 "Part1" "INV_MISC_QUESTIONMARK"
-/target party1
-END
-VER 3 0100000000000008 "party2" "INV_MISC_QUESTIONMARK"
-/target party2
-END
-VER 3 0100000000000009 "В" "INV_MISC_QUESTIONMARK"
+VER 3 0100000000000009 " " "INV_MISC_QUESTIONMARK"
 /закл Возгорание
 /use Жетон падшего гладиатора
+/закл Кровавое неистовство(Расовая)
+END
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] 13
+/cast [mod:shift] Живая бомба
+/cast [mod:ctrl] Кольцо мороза
+END
+VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Превращение(Овца)
+/cast [mod:shift, @focus]Превращение(Овца)
+/cast [mod:ctrl] Огненный столб
+END
+VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Чарокрад
+/cast [mod:shift, @focus] Чарокрад
+END
+VER 3 0100000000000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Антимагия
+/cast [nomod] Антимагия
+/cast [mod:shift, @focus] Антимагия
+END
+VER 3 0100000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Снятие проклятия
+/cast [mod:shift, @party1] Снятие проклятия
+/cast [mod:ctrl, @party2] Снятие проклятия
+/cast [mod:alt] Призыв элементаля воды
+END
+VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [nomod] 13
+/cast [mod:shift] Шквал
+/cast [mod:ctrl] Кольцо мороза
+END
+VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod] Превращение(Овца)
+/cast [mod:shift, @focus]Превращение(Овца)
+/cast [mod:ctrl] Снежная буря
+END
+VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
+/закл Стылая кровь
+/use Жетон падшего гладиатора
+/закл Кровавое неистовство(Расовая)
+END
+VER 3 0100000000000015 "ARENA" "INV_MISC_QUESTIONMARK"
+/закл Возгорание
+/закл Кровавое неистовство(Расовая)
 END

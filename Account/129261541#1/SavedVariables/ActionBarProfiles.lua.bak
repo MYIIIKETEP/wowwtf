@@ -1,0 +1,25 @@
+
+ActionBarProfilesDBv3 = {
+	["profileKeys"] = {
+		["Agonoíze - Stormscale"] = "PRIEST",
+		["Аганойз - Ревущий фьорд"] = "WARRIOR",
+		["Аганойзи - Ревущий фьорд"] = "DEMONHUNTER",
+		["Аксерк - Ревущий фьорд"] = "ROGUE",
+		["Нойзминау - Ревущий фьорд"] = "SHAMAN",
+	},
+	["profiles"] = {
+		["WARRIOR"] = {
+		},
+		["ROGUE"] = {
+		},
+		["SHAMAN"] = {
+		},
+		["DEMONHUNTER"] = {
+		},
+		["PRIEST"] = {
+			["minimap"] = {
+				["minimapPos"] = 206.6670343561792,
+			},
+		},
+	},
+}

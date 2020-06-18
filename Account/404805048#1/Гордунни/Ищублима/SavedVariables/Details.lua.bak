@@ -5,9 +5,1895 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 6,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007052,
+							["damage_from"] = {
+								["Ворг клана Черной горы"] = true,
+							},
+							["targets"] = {
+								["Ворг клана Черной горы"] = 35,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 35.007052,
+							["spec"] = 256,
+							["dps_started"] = false,
+							["end_time"] = 1587416117,
+							["on_hold"] = false,
+							["last_event"] = 1587416117,
+							["nome"] = "Ищублима",
+							["spells"] = {
+								["_ActorTable"] = {
+									[585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 9,
+										["targets"] = {
+											["Ворг клана Черной горы"] = 35,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 35,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 35,
+										["c_max"] = 0,
+										["id"] = 585,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["friendlyfire_total"] = 0,
+							["last_dps"] = 7.210515344989589,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 5.007052,
+							["start_time"] = 1587416113,
+							["delay"] = 0,
+							["total"] = 35.007052,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.004479,
+							["damage_from"] = {
+								["Алоргар"] = true,
+								["Крэбук"] = true,
+								["Визунька"] = true,
+								["Ищублима"] = true,
+								["Волк"] = true,
+								["Венсандер"] = true,
+							},
+							["targets"] = {
+								["Крэбук"] = 24,
+								["Визунька"] = 21,
+								["Ищублима"] = 5,
+								["Штормградский пехотинец"] = 2444,
+								["Венсандер"] = 13,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2507.004479,
+							["dps_started"] = true,
+							["fight_component"] = true,
+							["total"] = 2507.004479,
+							["serial"] = "Creature-0-1467-0-32419-49871-00001E0B02",
+							["timeMachine"] = 1,
+							["nome"] = "Ворг клана Черной горы",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Крэбук"] = 24,
+											["Визунька"] = 21,
+											["Ищублима"] = 5,
+											["Штормградский пехотинец"] = 2444,
+											["Венсандер"] = 13,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2507,
+										["DODGE"] = 31,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 891,
+										["MISS"] = 18,
+										["r_amt"] = 0,
+										["c_max"] = 0,
+										["b_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 53,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 789,
+										["a_amt"] = 0,
+										["total"] = 2507,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1589756675,
+							["damage_taken"] = 940.004479,
+							["start_time"] = 1589407633,
+							["delay"] = 1589756602,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 6,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 6,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 6,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 256,
+							["grupo"] = true,
+							["last_event"] = 1587416117,
+							["pets"] = {
+							},
+							["nome"] = "Ищублима",
+							["buff_uptime"] = 4,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[585] = 3,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 326419,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["classe"] = "PRIEST",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 6,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Ищублима"] = true,
+				},
+				["CombatStartedAt"] = 108553.495,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 11,
+				["playing_solo"] = true,
+				["totals"] = {
+					2541.936453, -- [1]
+					0, -- [2]
+					{
+						-0.009999999999999787, -- [1]
+						[0] = -0.002618,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					35, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:55:18",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Ворг клана Черной горы",
+				["TotalElapsedCombatTime"] = 4.855000000010477,
+				["CombatEndedAt"] = 108558.35,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:55:13",
+				["end_time"] = 108558.35,
+				["combat_id"] = 6,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ищублима"] = 35.007052,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1587416113,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 108553.495,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Ворг клана Черной горы"] = 1,
+					["Шпион из клана Черной горы"] = 1,
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 5,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005133,
+							["damage_from"] = {
+								["Ворг клана Черной горы"] = true,
+							},
+							["targets"] = {
+								["Ворг клана Черной горы"] = 32,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 32.005133,
+							["spec"] = 256,
+							["dps_started"] = false,
+							["total"] = 32.005133,
+							["on_hold"] = false,
+							["last_event"] = 1587416100,
+							["nome"] = "Ищублима",
+							["spells"] = {
+								["_ActorTable"] = {
+									[585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8,
+										["targets"] = {
+											["Ворг клана Черной горы"] = 32,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 32,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 32,
+										["c_max"] = 0,
+										["id"] = 585,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1587416101,
+							["last_dps"] = 5.690813122322022,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 9.005133,
+							["start_time"] = 1587416095,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.00559,
+							["damage_from"] = {
+								["Ищублима"] = true,
+							},
+							["targets"] = {
+								["Штормградский пехотинец"] = 30,
+								["Ищублима"] = 9,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 39.00559,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 39.00559,
+							["serial"] = "Creature-0-1467-0-32419-49871-00001E0A4D",
+							["damage_taken"] = 32.00559,
+							["nome"] = "Ворг клана Черной горы",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5,
+										["targets"] = {
+											["Штормградский пехотинец"] = 30,
+											["Ищублима"] = 9,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 39,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 15,
+										["total"] = 39,
+										["c_max"] = 0,
+										["a_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1587416113,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1587416112,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1587416096,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 5,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 5,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 5,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 256,
+							["grupo"] = true,
+							["last_event"] = 1587416101,
+							["pets"] = {
+							},
+							["nome"] = "Ищублима",
+							["buff_uptime"] = 6,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[585] = 3,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 6,
+										["id"] = 326419,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["classe"] = "PRIEST",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 5,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Ищублима"] = true,
+				},
+				["CombatStartedAt"] = 108536.359,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 10,
+				["playing_solo"] = true,
+				["totals"] = {
+					70.97088099999999, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.01409,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					32, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:55:02",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Ворг клана Черной горы",
+				["TotalElapsedCombatTime"] = 5.62400000001071,
+				["CombatEndedAt"] = 108541.983,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:54:56",
+				["end_time"] = 108541.983,
+				["combat_id"] = 5,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ищублима"] = 32.005133,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1587416095,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 108536.359,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Ворг клана Черной горы"] = 1,
+					["Шпион из клана Черной горы"] = 1,
+				},
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008532,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Ворг клана Черной горы"] = 29,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 29.008532,
+							["spec"] = 256,
+							["dps_started"] = false,
+							["total"] = 29.008532,
+							["on_hold"] = false,
+							["last_event"] = 1587416090,
+							["nome"] = "Ищублима",
+							["spells"] = {
+								["_ActorTable"] = {
+									[585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8,
+										["targets"] = {
+											["Ворг клана Черной горы"] = 29,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 29,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 29,
+										["c_max"] = 0,
+										["id"] = 585,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1587416091,
+							["last_dps"] = 5.201458131607526,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.008532,
+							["start_time"] = 1587416086,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.003339,
+							["damage_from"] = {
+								["Ищублима"] = true,
+							},
+							["targets"] = {
+								["Штормградский пехотинец"] = 18,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 18.003339,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 18.003339,
+							["serial"] = "Creature-0-1467-0-32419-49871-00001E05D3",
+							["damage_taken"] = 29.003339,
+							["nome"] = "Ворг клана Черной горы",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2,
+										["targets"] = {
+											["Штормградский пехотинец"] = 18,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 18,
+										["c_max"] = 0,
+										["DODGE"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 9,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1587416095,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1587416094,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1587416086,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 256,
+							["grupo"] = true,
+							["last_event"] = 1587416091,
+							["pets"] = {
+							},
+							["nome"] = "Ищублима",
+							["buff_uptime"] = 5,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[585] = 3,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 326419,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["classe"] = "PRIEST",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 4,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Ищублима"] = true,
+				},
+				["tempo_start"] = 1587416086,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 9,
+				["playing_solo"] = true,
+				["totals"] = {
+					46.997959, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:54:52",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Ворг клана Черной горы",
+				["TotalElapsedCombatTime"] = 108532.099,
+				["CombatEndedAt"] = 108532.099,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ищублима"] = 29.008532,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 108532.099,
+				["combat_id"] = 4,
+				["overall_added"] = true,
+				["frags"] = {
+					["Ворг клана Черной горы"] = 1,
+				},
+				["spells_cast_timeline"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					29, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 108526.522,
+				["TimeData"] = {
+				},
+				["data_inicio"] = "22:54:46",
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002046,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Ворг клана Черной горы"] = 30,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 30.002046,
+							["spec"] = 256,
+							["dps_started"] = false,
+							["total"] = 30.002046,
+							["on_hold"] = false,
+							["last_event"] = 1587416082,
+							["nome"] = "Ищублима",
+							["spells"] = {
+								["_ActorTable"] = {
+									[585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8,
+										["targets"] = {
+											["Ворг клана Черной горы"] = 30,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 30,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 30,
+										["c_max"] = 0,
+										["id"] = 585,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1587416082,
+							["last_dps"] = 6.60547027740897,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002046,
+							["start_time"] = 1587416078,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.006584,
+							["damage_from"] = {
+								["Ищублима"] = true,
+							},
+							["targets"] = {
+								["Штормградский пехотинец"] = 16,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 16.006584,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 16.006584,
+							["serial"] = "Creature-0-1467-0-32419-49871-00001E0A47",
+							["damage_taken"] = 30.006584,
+							["nome"] = "Ворг клана Черной горы",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3,
+										["targets"] = {
+											["Штормградский пехотинец"] = 16,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16,
+										["g_dmg"] = 0,
+										["n_min"] = 2,
+										["MISS"] = 1,
+										["counter"] = 11,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+										["c_max"] = 0,
+										["b_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 7,
+										["DODGE"] = 2,
+										["total"] = 16,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1587416086,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1587416084,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1587416078,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 256,
+							["grupo"] = true,
+							["last_event"] = 1587416082,
+							["pets"] = {
+							},
+							["nome"] = "Ищублима",
+							["buff_uptime"] = 4,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[585] = 3,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 326419,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["classe"] = "PRIEST",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Ищублима"] = true,
+				},
+				["CombatStartedAt"] = 108526.522,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 8,
+				["playing_solo"] = true,
+				["totals"] = {
+					45.982584, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.007918,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					30, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:54:43",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Ворг клана Черной горы",
+				["TotalElapsedCombatTime"] = 4.422000000005937,
+				["CombatEndedAt"] = 108523.133,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:54:38",
+				["end_time"] = 108523.133,
+				["combat_id"] = 3,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ищублима"] = 30.002046,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1587416078,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 108518.591,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Ворг клана Черной горы"] = 1,
+				},
+			}, -- [4]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005516,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Ворг клана Черной горы"] = 31,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 31.005516,
+							["spec"] = 256,
+							["dps_started"] = false,
+							["total"] = 31.005516,
+							["on_hold"] = false,
+							["last_event"] = 1587416068,
+							["nome"] = "Ищублима",
+							["spells"] = {
+								["_ActorTable"] = {
+									[585] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 15,
+										["g_amt"] = 0,
+										["n_max"] = 8,
+										["targets"] = {
+											["Ворг клана Черной горы"] = 31,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16,
+										["n_min"] = 8,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 31,
+										["c_max"] = 15,
+										["id"] = 585,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 15,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1587416068,
+							["last_dps"] = 8.771008769439709,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.005516,
+							["start_time"] = 1587416064,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.002063,
+							["damage_from"] = {
+								["Ищублима"] = true,
+								["Ивеонна"] = true,
+							},
+							["targets"] = {
+								["Штормградский пехотинец"] = 43,
+								["Ивеонна"] = 4,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 47.002063,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 47.002063,
+							["serial"] = "Creature-0-1467-0-32419-49871-00001E0A3F",
+							["damage_taken"] = 75.00206299999999,
+							["nome"] = "Ворг клана Черной горы",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4,
+										["targets"] = {
+											["Штормградский пехотинец"] = 43,
+											["Ивеонна"] = 4,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 47,
+										["g_dmg"] = 0,
+										["n_min"] = 2,
+										["a_amt"] = 0,
+										["counter"] = 26,
+										["MISS"] = 1,
+										["r_amt"] = 0,
+										["c_max"] = 0,
+										["b_dmg"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["m_amt"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 1,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 20,
+										["DODGE"] = 4,
+										["total"] = 47,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1587416078,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1587416078,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1587416066,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 256,
+							["grupo"] = true,
+							["last_event"] = 1587416068,
+							["pets"] = {
+							},
+							["nome"] = "Ищублима",
+							["buff_uptime"] = 4,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[585] = 2,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 326419,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["classe"] = "PRIEST",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Ищублима"] = true,
+				},
+				["CombatStartedAt"] = 108505.456,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 7,
+				["playing_solo"] = true,
+				["totals"] = {
+					77.98167199999999, -- [1]
+					-0.01153399999999883, -- [2]
+					{
+						-0.007920999999999623, -- [1]
+						[0] = -0.007622,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					31, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:54:29",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Ворг клана Черной горы",
+				["TotalElapsedCombatTime"] = 3.535000000003493,
+				["CombatEndedAt"] = 108508.991,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:54:25",
+				["end_time"] = 108508.991,
+				["combat_id"] = 2,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ищублима"] = 31.005516,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1587416064,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 108505.456,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Ворг клана Черной горы"] = 2,
+					["Шпион из клана Черной горы"] = 1,
+				},
+			}, -- [5]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006072,
+							["damage_from"] = {
+								["Ворг клана Черной горы"] = true,
+							},
+							["targets"] = {
+								["Ворг клана Черной горы"] = 31,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["pets"] = {
+							},
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["classe"] = "PRIEST",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 31.006072,
+							["spec"] = 256,
+							["dps_started"] = false,
+							["total"] = 31.006072,
+							["on_hold"] = false,
+							["last_event"] = 1587416061,
+							["nome"] = "Ищублима",
+							["spells"] = {
+								["_ActorTable"] = {
+									[585] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8,
+										["targets"] = {
+											["Ворг клана Черной горы"] = 31,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 31,
+										["n_min"] = 7,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 31,
+										["c_max"] = 0,
+										["id"] = 585,
+										["r_dmg"] = 0,
+										["spellschool"] = 2,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["end_time"] = 1587416062,
+							["last_dps"] = 5.376464713015748,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 6.006072,
+							["start_time"] = 1587416057,
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.008735,
+							["damage_from"] = {
+								["Ищублима"] = true,
+							},
+							["targets"] = {
+								["Штормградский пехотинец"] = 36,
+								["Ищублима"] = 6,
+							},
+							["pets"] = {
+							},
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 42.008735,
+							["dps_started"] = false,
+							["fight_component"] = true,
+							["total"] = 42.008735,
+							["serial"] = "Creature-0-1467-0-32419-49871-00001E0A31",
+							["damage_taken"] = 31.008735,
+							["nome"] = "Ворг клана Черной горы",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6,
+										["targets"] = {
+											["Штормградский пехотинец"] = 36,
+											["Ищублима"] = 6,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 42,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 21,
+										["a_amt"] = 0,
+										["total"] = 42,
+										["c_max"] = 0,
+										["DODGE"] = 2,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["PARRY"] = 3,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["m_amt"] = 0,
+										["n_amt"] = 16,
+										["spellschool"] = 1,
+										["r_amt"] = 0,
+									}, -- [1]
+								},
+								["tipo"] = 2,
+							},
+							["on_hold"] = false,
+							["end_time"] = 1587416064,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1587416064,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1587416057,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 256,
+							["grupo"] = true,
+							["last_event"] = 1587416062,
+							["pets"] = {
+							},
+							["nome"] = "Ищублима",
+							["buff_uptime"] = 5,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[585] = 3,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[326419] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 5,
+										["id"] = 326419,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1602-0BF54905",
+							["classe"] = "PRIEST",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 1,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Ищублима"] = true,
+				},
+				["CombatStartedAt"] = 108497.489,
+				["tempo_start"] = 1587416057,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 6,
+				["playing_solo"] = true,
+				["totals"] = {
+					72.98695500000001, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.007635,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "22:54:23",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Ворг клана Черной горы",
+				["TotalElapsedCombatTime"] = 5.767000000007101,
+				["CombatEndedAt"] = 108503.256,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "22:54:17",
+				["end_time"] = 108503.256,
+				["combat_id"] = 1,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ищублима"] = 31.006072,
+						}, -- [1]
+					},
+				},
+				["spells_cast_timeline"] = {
+				},
+				["overall_added"] = true,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					31, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 108497.489,
+				["TimeData"] = {
+				},
+				["frags"] = {
+					["Ворг клана Черной горы"] = 1,
+				},
+			}, -- [6]
 		},
 	},
-	["last_version"] = "v8.3.0.7282",
+	["last_version"] = "v8.3.0.7303",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -15,7 +1901,7 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1588455222,
+		["nextreset"] = 1590703687,
 		["last_version"] = 12,
 	},
 	["last_instance_id"] = 0,
@@ -43,17 +1929,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["useclasscolors"] = false,
-			["animate"] = false,
-			["useplayercolor"] = false,
+			["enabled"] = true,
 			["showamount"] = false,
+			["useplayercolor"] = false,
 			["author"] = "Details! Team",
+			["useclasscolors"] = false,
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["enabled"] = true,
+			["animate"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -68,13 +1954,13 @@ _detalhes_database = {
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
-			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
+			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -87,11 +1973,11 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -118,12 +2004,17 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["point"] = "CENTER",
-			["y"] = 4.57763671875e-05,
+			["use_spark"] = true,
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -133,7 +2024,7 @@ _detalhes_database = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_height"] = 20,
+			["y"] = 4.57763671875e-05,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -141,22 +2032,17 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
+				["attribute_type"] = 1,
 				["update_speed"] = 0.05,
 				["size"] = 32,
-				["attribute_type"] = 1,
 			},
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["arrow_anchor_y"] = 0,
-			["use_spark"] = true,
-			["main_frame_locked"] = false,
 			["font_size"] = 10,
+			["author"] = "Details! Team",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 	["cached_talents"] = {
@@ -166,143 +2052,17 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "17",
+	["last_day"] = "18",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["last_realversion"] = 140,
-	["combat_id"] = 0,
+	["character_data"] = {
+		["logons"] = 4,
+	},
+	["combat_id"] = 6,
 	["savedStyles"] = {
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["combat_counter"] = 2,
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
-	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["tempo_start"] = 23936.409,
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["combat_counter"] = 1,
-		["totals"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-			["frags_total"] = 0,
-			["voidzone_damage"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["data_inicio"] = 0,
-		["spells_cast_timeline"] = {
-		},
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["CombatSkillCache"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["start_time"] = 0,
-		["TimeData"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-			["damage"] = {
-			},
-		},
-	},
-	["force_font_outline"] = "",
 	["local_instances_config"] = {
 		{
 			["segment"] = 0,
@@ -322,10 +2082,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = 21.3333740234375,
-					["x"] = 316.4449462890625,
-					["w"] = 310,
-					["h"] = 158.0000152587891,
+					["y"] = -213.3333740234375,
+					["x"] = -895.2564392089844,
+					["w"] = 310.0000610351563,
+					["h"] = 158.0000610351563,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -336,13 +2096,360 @@ _detalhes_database = {
 			},
 		}, -- [1]
 	},
-	["character_data"] = {
-		["logons"] = 1,
-	},
-	["announce_cooldowns"] = {
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
 		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.037101,
+					["damage_from"] = {
+						["Ворг клана Черной горы"] = true,
+					},
+					["targets"] = {
+						["Ворг клана Черной горы"] = 188,
+					},
+					["pets"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["last_event"] = 0,
+					["classe"] = "PRIEST",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 188.037101,
+					["serial"] = "Player-1602-0BF54905",
+					["dps_started"] = false,
+					["end_time"] = 1587416063,
+					["spec"] = 256,
+					["friendlyfire"] = {
+					},
+					["nome"] = "Ищублима",
+					["spells"] = {
+						["_ActorTable"] = {
+							[585] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 15,
+								["g_amt"] = 0,
+								["n_max"] = 9,
+								["targets"] = {
+									["Ворг клана Черной горы"] = 188,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 173,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 23,
+								["total"] = 188,
+								["c_max"] = 15,
+								["id"] = 585,
+								["r_dmg"] = 0,
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 22,
+								["m_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["total"] = 188.037101,
+					["on_hold"] = false,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1587416032,
+					["delay"] = 0,
+					["damage_taken"] = 20.037101,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.03289900000000001,
+					["damage_from"] = {
+						["Ищублима"] = true,
+						["Ивеонна"] = true,
+					},
+					["targets"] = {
+						["Крэбук"] = 0,
+						["Ивеонна"] = 4,
+						["Ищублима"] = 20,
+						["Штормградский пехотинец"] = 66,
+						["Визунька"] = 0,
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 90.032899,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1587416063,
+					["serial"] = "Creature-0-1467-0-32419-49871-00001E0A31",
+					["damage_taken"] = 219.032899,
+					["nome"] = "Ворг клана Черной горы",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 6,
+								["targets"] = {
+									["Крэбук"] = 0,
+									["Ивеонна"] = 4,
+									["Ищублима"] = 20,
+									["Штормградский пехотинец"] = 66,
+									["Визунька"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 90,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 43,
+								["total"] = 90,
+								["c_max"] = 0,
+								["a_amt"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["DODGE"] = 5,
+								["m_amt"] = 0,
+								["m_crit"] = 0,
+								["PARRY"] = 3,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 35,
+								["a_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["total"] = 90.032899,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1587416035,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["buff_uptime_targets"] = {
+					},
+					["spec"] = 256,
+					["grupo"] = true,
+					["last_event"] = 0,
+					["spell_cast"] = {
+						[585] = 17,
+					},
+					["nome"] = "Ищублима",
+					["pets"] = {
+					},
+					["tipo"] = 4,
+					["buff_uptime"] = 28,
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[326419] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 326419,
+								["uptime"] = 28,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["serial"] = "Player-1602-0BF54905",
+					["classe"] = "PRIEST",
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1587416057,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["spells_cast_timeline"] = {
+		},
+		["combat_counter"] = 5,
+		["totals"] = {
+			432.139154, -- [1]
+			15.011534, -- [2]
+			{
+				3.007921, -- [1]
+				[0] = 0.022008,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "22:54:17",
+		["end_time"] = 108558.35,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["totals_grupo"] = {
+			188.034351, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 0,
+				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
+		["segments_added"] = {
+			{
+				["elapsed"] = 4.855000000010477,
+				["type"] = 0,
+				["name"] = "Ворг клана Черной горы",
+				["clock"] = "22:55:13",
+			}, -- [1]
+			{
+				["elapsed"] = 5.62400000001071,
+				["type"] = 0,
+				["name"] = "Ворг клана Черной горы",
+				["clock"] = "22:54:56",
+			}, -- [2]
+			{
+				["elapsed"] = 5.577000000004773,
+				["type"] = 0,
+				["name"] = "Ворг клана Черной горы",
+				["clock"] = "22:54:46",
+			}, -- [3]
+			{
+				["elapsed"] = 4.542000000001281,
+				["type"] = 0,
+				["name"] = "Ворг клана Черной горы",
+				["clock"] = "22:54:38",
+			}, -- [4]
+			{
+				["elapsed"] = 3.535000000003493,
+				["type"] = 0,
+				["name"] = "Ворг клана Черной горы",
+				["clock"] = "22:54:25",
+			}, -- [5]
+			{
+				["elapsed"] = 5.767000000007101,
+				["type"] = 0,
+				["name"] = "Ворг клана Черной горы",
+				["clock"] = "22:54:17",
+			}, -- [6]
+		},
+		["data_fim"] = "22:55:18",
+		["overall_enemy_name"] = "Ворг клана Черной горы",
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage_section"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 108528.45,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_timeline"] = {
+		},
+	},
+	["combat_counter"] = 13,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 140,
+	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -356,6 +2463,6 @@ _detalhes_database = {
 	},
 	["cached_specs"] = {
 		["Player-1602-0BF54905"] = 256,
-		["Player-1602-0BF548C1"] = 64,
+		["Player-1602-0C07D6D3"] = 71,
 	},
 }

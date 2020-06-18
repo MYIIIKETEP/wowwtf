@@ -1,0 +1,28 @@
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+/cast [harm]Dispel Magic ; Purify
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm]Smite ; Shadow Mend
+END
+VER 3 0100000000000008 "@" "INV_MISC_QUESTIONMARK"
+/cast [@coursor] 
+END
+VER 3 0100000000000003 "cancel desp" "INV_MISC_QUESTIONMARK"
+#showtooltip Desperate Prayer
+/cast Desperate Prayer
+/cancelaura Desperate Prayer
+END
+VER 3 0100000000000002 "EDA" "INV_MISC_QUESTIONMARK"
+/USE Conjured Mana Bun
+END
+VER 3 0100000000000007 "P" "INV_MISC_QUESTIONMARK"
+/target party2
+END
+VER 3 0100000000000006 "P1" "INV_MISC_QUESTIONMARK"
+/target party1
+END
+VER 3 0100000000000001 "pero" "INV_MISC_QUESTIONMARK"
+/cast [@player] Angelic Feather
+/stopspelltarget
+END

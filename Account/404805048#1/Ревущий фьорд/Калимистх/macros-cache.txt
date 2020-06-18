@@ -1,0 +1,17 @@
+VER 3 0100000000000005 " " "INV_MISC_QUESTIONMARK"
+/cast [@focus] Шаг сквозь тень
+END
+VER 3 0100000000000003 " " "INV_MISC_QUESTIONMARK"
+/cast [@focus]Ослепление
+END
+VER 3 0100000000000004 " " "INV_MISC_QUESTIONMARK"
+/cast [@focus] Пинок
+END
+VER 3 0100000000000001 "POISONS" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Смертоносный яд
+/cast [mod:shift] Калечащий яд
+/cast [mod:ctrl] Нейтрализующий яд
+END
+VER 3 0100000000000002 "VV" "INV_MISC_QUESTIONMARK"
+/target Палевый облачный змей
+END

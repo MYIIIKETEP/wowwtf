@@ -1,0 +1,8 @@
+VER 3 0100000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [harm]Рассеивание заклинаний; Очищение
+END
+VER 3 0100000000000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm]Кара ; Темное восстановление
+END

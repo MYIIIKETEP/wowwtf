@@ -6,7 +6,7 @@ BigDebuffs: enabled
 flyPlateBuffs: enabled
 TidyPlates: disabled
 ATT: enabled
-ArenaTrinkets4: enabled
+ArenaTrinkets4: disabled
 BagBrother: disabled
 Bagnon: enabled
 Bagnon_Config: enabled
@@ -95,3 +95,8 @@ DBM-WorldEvents: enabled
 DBM-Uldir: enabled
 DBM-DMF: enabled
 Quartz: enabled
+ActionBarSaver: disabled
+ActionBarProfiles: disabled
+GladiusEx: disabled
+LootCouncil_Lite: disabled
+ClassicActionBars: disabled

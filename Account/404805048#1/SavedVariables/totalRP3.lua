@@ -135,6 +135,51 @@ TRP3_Profiles = {
 		},
 		["profileName"] = "Черный Шрам - Ваззапер",
 	},
+	["0607184331zlJVc"] = {
+		["profileName"] = "Гордунни - Валфрия",
+		["player"] = {
+			["characteristics"] = {
+				["CL"] = "Жрица",
+				["RA"] = "Человек",
+				["FN"] = "Валфрия",
+				["MI"] = {
+				},
+				["PS"] = {
+				},
+				["IC"] = "Achievement_Character_Human_Female",
+				["v"] = 1,
+			},
+			["character"] = {
+				["RP"] = 1,
+				["LC"] = "ruRU",
+				["XP"] = 2,
+				["v"] = 1,
+			},
+			["about"] = {
+				["T2"] = {
+				},
+				["T3"] = {
+					["PH"] = {
+					},
+					["PS"] = {
+					},
+					["HI"] = {
+					},
+				},
+				["TE"] = 1,
+				["T1"] = {
+				},
+				["v"] = 1,
+			},
+			["misc"] = {
+				["ST"] = {
+				},
+				["PE"] = {
+				},
+				["v"] = 1,
+			},
+		},
+	},
 	["0425190457jORux"] = {
 		["player"] = {
 			["characteristics"] = {
@@ -450,51 +495,6 @@ TRP3_Profiles = {
 		},
 		["profileName"] = "Черный Шрам - Плагмейстер",
 	},
-	["0425190554PSrx6"] = {
-		["player"] = {
-			["characteristics"] = {
-				["CL"] = "Шаман",
-				["RA"] = "Дворф",
-				["PS"] = {
-				},
-				["MI"] = {
-				},
-				["FN"] = "Итсафлеймх",
-				["IC"] = "Achievement_Character_Dwarf_Male",
-				["v"] = 1,
-			},
-			["character"] = {
-				["RP"] = 1,
-				["LC"] = "ruRU",
-				["XP"] = 2,
-				["v"] = 1,
-			},
-			["misc"] = {
-				["PE"] = {
-				},
-				["ST"] = {
-				},
-				["v"] = 1,
-			},
-			["about"] = {
-				["T2"] = {
-				},
-				["T3"] = {
-					["PH"] = {
-					},
-					["PS"] = {
-					},
-					["HI"] = {
-					},
-				},
-				["TE"] = 1,
-				["T1"] = {
-				},
-				["v"] = 1,
-			},
-		},
-		["profileName"] = "Черный Шрам - Итсафлеймх",
-	},
 	["0417233431akkOO"] = {
 		["profileName"] = "Гордунни - Ищублима",
 		["player"] = {
@@ -540,6 +540,51 @@ TRP3_Profiles = {
 			},
 		},
 	},
+	["0425190554PSrx6"] = {
+		["player"] = {
+			["characteristics"] = {
+				["CL"] = "Шаман",
+				["RA"] = "Дворф",
+				["PS"] = {
+				},
+				["MI"] = {
+				},
+				["FN"] = "Итсафлеймх",
+				["IC"] = "Achievement_Character_Dwarf_Male",
+				["v"] = 1,
+			},
+			["character"] = {
+				["RP"] = 1,
+				["LC"] = "ruRU",
+				["XP"] = 2,
+				["v"] = 1,
+			},
+			["misc"] = {
+				["PE"] = {
+				},
+				["ST"] = {
+				},
+				["v"] = 1,
+			},
+			["about"] = {
+				["T2"] = {
+				},
+				["T3"] = {
+					["PH"] = {
+					},
+					["PS"] = {
+					},
+					["HI"] = {
+					},
+				},
+				["TE"] = 1,
+				["T1"] = {
+				},
+				["v"] = 1,
+			},
+		},
+		["profileName"] = "Черный Шрам - Итсафлеймх",
+	},
 }
 TRP3_Characters = {
 	["Итсафлеймх-ЧерныйШрам"] = {
@@ -556,6 +601,9 @@ TRP3_Characters = {
 	},
 	["Жрумс-ЧерныйШрам"] = {
 		["profileID"] = "0425190457jORux",
+	},
+	["Валфрия-Гордунни"] = {
+		["profileID"] = "0607184331zlJVc",
 	},
 	["Фасрок-ЧерныйШрам"] = {
 		["profileID"] = "041011203102G4M",
@@ -591,7 +639,7 @@ TRP3_Configuration = {
 	["CONFIG_GLANCE_PARENT"] = "TRP3_TargetFrame",
 	["chat_ooc"] = true,
 	["minimap_icon_position"] = {
-		["minimapPos"] = 2.20691362268989,
+		["minimapPos"] = 319.725874782034,
 		["hide"] = false,
 	},
 	["target_content_aa_player_b_music"] = true,
@@ -896,7 +944,6 @@ TRP3_MatureFilter = {
 		["хуй пинать"] = 1,
 	},
 }
-TRP3_StashedData = nil
 TRP3_Colors = {
 }
 TRP3_Notes = {

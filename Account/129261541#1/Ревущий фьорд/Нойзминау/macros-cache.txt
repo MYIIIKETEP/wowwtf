@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "elem dlya tupih" "INV_MISC_QUESTIONMARK"
+/cast Элементаль огня 
+/cast око шторма
+/cast Призыв молнии
+END

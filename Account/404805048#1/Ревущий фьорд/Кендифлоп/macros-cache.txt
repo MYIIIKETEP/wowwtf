@@ -4,13 +4,13 @@ VER 3 010000000000000A "AGRO" "INV_MISC_QUESTIONMARK"
 /cast [@arenapet2] Длань расплаты
 /cast [@arenapet3] Длань расплаты
 END
-VER 3 0100000000000005 "F" "INV_MISC_QUESTIONMARK"
-#showtooltip Молот Правосудия
-/cast [@focus] Молот правосудия
-END
 VER 3 0100000000000004 "F" "135942"
 #showtooltip Покаяние
 /cast [@focus] Покаяние
+END
+VER 3 0100000000000005 "F" "INV_MISC_QUESTIONMARK"
+#showtooltip Молот Правосудия
+/cast [@focus] Молот правосудия
 END
 VER 3 0100000000000008 "fMe" "INV_MISC_QUESTIONMARK"
 #showtooltip Благословенная свобода
@@ -29,12 +29,12 @@ VER 3 0100000000000007 "Rep" "135942"
 #showtooltip Покаяние
 /cast Покаяние
 END
+VER 3 0100000000000009 "s" "INV_MISC_QUESTIONMARK"
+#showtooltip Дарование веры
+/закл Дарование веры
+END
 VER 3 010000000000000B "s" "INV_MISC_QUESTIONMARK"
 /cleartarget
 /targetenemy [noharm]
 /cast Правосудие
-END
-VER 3 0100000000000009 "s" "INV_MISC_QUESTIONMARK"
-#showtooltip Дарование веры
-/закл Дарование веры
 END

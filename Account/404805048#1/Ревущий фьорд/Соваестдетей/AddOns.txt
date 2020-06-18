@@ -33,7 +33,7 @@ Lorti UI: enabled
 Lorti-UI: disabled
 flyPlateBuffs: enabled
 TidyPlates: disabled
-ArenaTrinkets4: enabled
+ArenaTrinkets4: disabled
 Bagnon: enabled
 Bagnon_Config: enabled
 Bagnon_GuildBank: enabled
@@ -103,3 +103,6 @@ DBM-WorldEvents: enabled
 DBM-Uldir: enabled
 DBM-DMF: enabled
 Quartz: enabled
+ActionBarSaver: disabled
+ActionBarProfiles: disabled
+GladiusEx: disabled

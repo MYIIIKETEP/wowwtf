@@ -7,21 +7,23 @@ MasqueDB = {
 	["profileKeys"] = {
 		["Ваззапер - Ревущий фьорд"] = "Default",
 		["Мушкетерх - Ревущий фьорд"] = "Default",
+		["Валфрия - Гордунни"] = "Default",
 		["Жрумс - Черный Шрам"] = "Default",
 		["Ваззапер - Черный Шрам"] = "Default",
 		["Итсафлейм - Черный Шрам"] = "Default",
 		["Плагмейстер - Черный Шрам"] = "Default",
-		["Клиндамист - Ревущий фьорд"] = "Default",
 		["Соваестдетей - Ревущий фьорд"] = "Default",
-		["Мушкетер - Черный Шрам"] = "Default",
 		["Семеста - Черный Шрам"] = "Default",
+		["Мушкетер - Черный Шрам"] = "Default",
+		["Клиндамист - Ревущий фьорд"] = "Default",
 		["Ищублима - Гордунни"] = "Default",
 		["Кварик - Черный Шрам"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["Groups"] = {
-				["WeakAuras_shining_force"] = {
+				["WeakAuras_bM7aBlW9IyZ"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -32,17 +34,17 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_F4VU34T2lj8"] = {
+				["WeakAuras_7feqjHhwoPA"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_rG2SIwtnuUY"] = {
+				["WeakAuras_OwGooknholS"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_Bu1ugHAJC6j"] = {
 					["Upgraded"] = true,
@@ -55,19 +57,8 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_qxho371sBxH"] = {
+				["WeakAuras_cnBujgUS0zx"] = {
 					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_byDDOPusq9k"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_penance_up_sound"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -83,7 +74,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_wBpFYJHm2xC"] = {
+				["WeakAuras_Ij0BqbfTPwI"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -95,22 +86,17 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_YI6pWq(1hYF"] = {
+				["WeakAuras_S36BTkOSfrr"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Молот правосудия"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_hALAJfK9CV2"] = {
+				["WeakAuras_JUyB7ImhykJ"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_schism_up_sound"] = {
 					["Inherit"] = false,
@@ -122,7 +108,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_hwUiqr0LoFd"] = {
+				["WeakAuras_btWfec3)bxE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_72n7lw8YaRU"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -139,11 +131,23 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_LUDkR)wYXED"] = {
+				["WeakAuras_HLkK3kzKKB4"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+				},
+				["WeakAuras_SvfGx(q8mdo"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_hWYoPic3DnV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_wRfMnCGtlYs"] = {
 					["Upgraded"] = true,
@@ -151,13 +155,25 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_T3Od4jxJs8E"] = {
+				["WeakAuras_XxzSJfic)mX"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Y7CmlXas9lm"] = {
+				["WeakAuras_KRoElTgfYGT"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_9ARWSVbz(9c"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_1h6fQrCasf4"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -174,24 +190,24 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Uwc8Grks55M"] = {
+				["WeakAuras_4Em499oQXXa"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_power_word:_barrier_-_cd_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Vwv(uP2CTP1"] = {
+				["WeakAuras_sjH)Bw1AtFa"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_y3nDzm6gxqB"] = {
+				["WeakAuras_Vwv(uP2CTP1"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -203,11 +219,11 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_DdFmat9fMaB"] = {
+				["WeakAuras_yZi81I6n2lp"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_1WmeJqdlQC1"] = {
 					["Upgraded"] = true,
@@ -215,8 +231,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_B)4GCbJAo3o"] = {
-					["Upgraded"] = true,
+				["OmniBar_Призыв инфернала"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -238,8 +253,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_DUZFmB3ZJfz"] = {
-					["Upgraded"] = true,
+				["WeakAuras_30_-_t1-_passive_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -256,6 +270,12 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
+				["WeakAuras_ETBlcwELKYv"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
 				["OmniBar_Неистовство Тьмы"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -266,8 +286,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_uH1Up8pggjX"] = {
-					["Upgraded"] = true,
+				["OmniBar_Паралич"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -283,40 +302,18 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Шипы"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
 				["WeakAuras_purify_-_off_cd_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_B2fTZ3AIsED"] = {
+				["WeakAuras_IYuCJ0XCq(c"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
 				["WeakAuras_6Vx8xu0cLQL"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_rapture_-_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_255eYUgP7K("] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_yUfYylZN99k"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -334,17 +331,6 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_barrier"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Cupx(YFbA7n"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
 				["WeakAuras_kZOKjtQeEeB"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
@@ -357,7 +343,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_tQxQXTlgEH("] = {
+				["WeakAuras_uwu4iyPPRT6"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -381,24 +367,30 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
+				["WeakAuras_oAEWVsqqjRx"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
 				["OmniBar_Вой ужаса"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_pyEZwdpQYnx"] = {
+				["WeakAuras_(AdlT)32nim"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_WU0spv)2yYG"] = {
+				["WeakAuras_nzQZX5jPXvj"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_aFtlnUCKznc"] = {
+				["WeakAuras_426zhODp8kO"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -410,22 +402,24 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Глухая оборона"] = {
+				["WeakAuras_p33s4v9EAh2"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_30_-_t3_-_cd_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_rapture_-_off_cd_-_discipline"] = {
+				["WeakAuras_SRHt9vzTK1N"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_60_-_t2_-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Зуботычина"] = {
+				["WeakAuras_30_-_t3_-_button_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -436,40 +430,43 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Намордник"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_FLdirp1r0Xz"] = {
+				["WeakAuras_OPfOLC(sw6q"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Wk(hqCKC6YC"] = {
+				["WeakAuras_A67RCt40cgB"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_fun5X8T920w"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_dm0F4khiGgw"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_ccrf)(Ct3rE"] = {
+				["WeakAuras_5BR6CrD2rL4"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
-				["OmniBar_Безмолвие"] = {
+				["WeakAuras_xXd0ZsGGk7m"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
-				},
-				["WeakAuras_power_word:_barrier_-_off_cd_-_discipline"] = {
-					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "Dream",
 				},
-				["WeakAuras_cPoNsgIwnwE"] = {
+				["WeakAuras_WBLACXM8s5G"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -481,7 +478,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Sa2qbGZSzed"] = {
+				["WeakAuras_vPX4vcyjuKC"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -493,19 +490,14 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_k9MV3cglyE6"] = {
+				["WeakAuras_AF1Nc7NEmfE"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_OMNY0PsZhHV"] = {
+				["WeakAuras_RTzyvN5IbM7"] = {
 					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Ослепление"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -516,43 +508,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_mJCzfNzj9KO"] = {
+				["WeakAuras_CFVgoSM5Ld("] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_BkeDPB8StQz"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_ZwEv66MiNcA"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Jpgq0LYyp5a"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_UYxE5(uiVcm"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_x5dae4t)FYh"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_vc)WOpMPC9L"] = {
+				["WeakAuras_atv8kD24qyZ"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -564,13 +526,12 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_lazy_atonement_background"] = {
+				["OmniBar_Дух черепахи"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_FFNF9jNPdZ1"] = {
-					["Upgraded"] = true,
+				["OmniBar_Гнев карателя"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -586,11 +547,11 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_mJD1Sx)nq)I"] = {
+				["WeakAuras_(eJHmE)vZhg"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_yiS0PXrYBel"] = {
 					["Upgraded"] = true,
@@ -610,13 +571,8 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_3L4cBQabsi3"] = {
+				["WeakAuras_udvvwG7PFYm"] = {
 					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Тотем конденсации"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -627,7 +583,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_kPdDzZcne5W"] = {
+				["WeakAuras_z4dnPjcsvnC"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -639,13 +595,2021 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_J5TKFiOolNS"] = {
+				["WeakAuras_y(hFWXWyPgs"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
 				["WeakAuras_kaSX(ez0xc7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Хватка смерти"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_At4u(Mb96mV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_N13uKQphQGD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_D))iUJlgd0N"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_T4purXGB7yi"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_FJmLTvQryeo"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Замораживающая ловушка"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_nxotIFr6W6j"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_L7Kx4iGY(XK"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_YVppE548ipF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_teilXaWeAdM"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_2zt061hvSC3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_psychic_scream_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_jQ37)UlK2SZ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_72gjQNDmueI"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_fAYLkGCmb0q"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Мощь тайной магии"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Дубовая кожа"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_BEpLRCZoQyE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_D8BqguD2vne"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_RwSZmG1gZQ7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_TNnpNAVIxLv"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_8AImOS0SqPG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_iS8NorHnjwE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_r016C8FpLXP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_E9(dldf48bZ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_NWKiZUjMGmW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_4ar4gavbuyY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_VvWtjZ3gVcl"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Z8OE5VirNta"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Z)158U2uIcg"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Стылая кровь"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_lqLmV7Yyv(o"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_desperate_prayer_-_button_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_HBxVn3jEYMm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_w3FXVkIDHAn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_fxd5xo67DWk"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_tod6MW6isv1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pain_suppression_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Тотем небесной ярости"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_purify_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_W3n00NAcBf2"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_z83RasPtZy("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_aFM0bY9rKEO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_RaC(Eiq8zhY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_18ySTZZiFac"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Божественное одобрение"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Жажда крови"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_MQosfvv7Maf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Cz)IWIJl0Tu"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_frZnAq0kDyj"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Благословение защиты"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_tFKLGEkMpIU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_H7sY20nQD5y"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Воплощение: король джунглей"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_2Eg650ZIUl4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_TjfF9YQzLVd"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_QVDiqhhkLf1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_A8uqpwl1hVj"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_8WcV2Yw81xF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_F5FNqiVU8zR"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_LYmyOEDAQA("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_WxMoxZFJDNY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Столп солнечного света"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_m6fu9urqYKN"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_(lZjqak1JeH"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_WOOx0HGG9HY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Шаг сквозь тень"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_lZfSKO)QirY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_U21)VUV(nwb"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_LecDuZkkVrq"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_vOsx(qM0MXT"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_P5)K02wLlAU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_RvwPEXVfULH"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_eMfGV4SZP0G"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Смертельное касание"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Ледяной столп"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Исчезновение"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Стремительный рывок"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_GquV6EtZ9c("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Черная душа: страдание"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_shadow_fiend"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_C8hAHy9pxoW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_NBfov7AVg9p"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_MJDCDXxRjpt"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_td7WTVplcTf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Подавление боли"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_DjTpl9F)D6o"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Рука-копье"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_A)9qhGPSmRo"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_psychic_scream_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_DRqqUJ7)wLO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_IjTOcvEUAlz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Мыслебомба"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_WD6(PfIzuZM"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_5z)ohas0Mrg"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Fq5)svRNEe3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_mceLN2nnM9T"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_7skhlvX)Ll3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_IrpsDM3hc8s"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_MZhGzn5bqnh"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_vYr63wK6RNC"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Инстинкты выживания"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Vu92xtOzfUG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_dtH)k8gctk2"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_afcIicq(Wz)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_Nh3xDzcGPLP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_4LuXQV)j2UO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pw:solace"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_shadowfiend_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_5rPuJdRD1yI"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Благословение святилища"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_jijCl4cyXE("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_HzqphVMVkbD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_30_-_t3_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_OdupVvWfvsi"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_2OzsVQMJ6Io"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_NqlRf8IbHA5"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_7efO3b3w01E"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_2Mim4tQPURe"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_WNYOXWC(fjE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Лобовая атака"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_3RVPxdgmQ)m"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_T202aLa5lkU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_4Y)Co(MwkUC"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Fl0llO42Dzq"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_desperate_prayer_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Q(emZ3B7n7R"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_5caV9Q3y6b1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_15_-_t3_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_is9TiP7XVHe"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Ледяная глыба"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_67Z1fdYbe33"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Nn8KRUU1mEx"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Th52kr1WAsW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_f)ElOBDSuIq"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_ZZzcqdXGrC3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_pG7FRzwcGzs"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_McpYzS4O0vC"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_SlEnrdSnDDd"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_xgfdYBVjMmY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_8gslbtuatcw"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_pMj9XXfiuOg"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_orK(XGcDxsF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_XqYn(AMHQUT"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Исцеляющий кокон"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_60_-_t3_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_afYpJhGgbdb"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_x(84Vg5rbEG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_9BXGvR2oJvk"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_u0zVKITToHU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_LXvhwmiKENz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_100_-_t2_-_passive_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_1GSGK7NtE9)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_jgHHStWcPf5"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_7sEV2csZHdP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Незыблемость льда"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_kR4)W08sNxq"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Сглаз"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_f(C956)k21r"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_ikdimD9NlWd"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_2QPcLuFb)3I"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_PSdcsCWUC7o"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_vGY9msT7BE8"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_EByVUrYvZN)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_DouSS50Qea9"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_0gUzCvGccbW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_bvYjRNG3f7)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Wmv0mVYPySl"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_MAF0fCFX0KC"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Ys4(5Q0BK6l"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ptw"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_1B5EHR6EDTS"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_kIi0coUzmfs"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_dy8Bf51Kl4W"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_ao0o7bqJ8Mz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_wi3XUskRx4u"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_851UIXIwouV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_23I3Sbao1A0"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_2KOQ71jUuiS"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Закон кармы"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_shining_force"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_suP4F40hFhE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_m30)9PJY8EQ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_rG2SIwtnuUY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_qxho371sBxH"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_byDDOPusq9k"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_N7SxWg(cIVK"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_penance_up_sound"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_(51yplYUMYP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_wBpFYJHm2xC"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_7dRI9k2UTqE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_YI6pWq(1hYF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_D2)zmXTxwyt"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ndDu06G9(Dg"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_UNYxmUIOwd1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_hALAJfK9CV2"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_WRELKR8OMgu"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_93Km4P4M1CS"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_75_-_t3_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_gkNgjazlmml"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Y0I84)yydlX"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_EegHKdq5Due"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_tHnrY83fyA3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_LUDkR)wYXED"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_qBA7lc5v7F9"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ogDBYlT)DYS"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_T3Od4jxJs8E"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_)KNAtI)ixAe"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Y7CmlXas9lm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Uhl0aTHlSKc"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_xFMmM7JLSYo"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Тотем заземления"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Uwc8Grks55M"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_qjSkdH46WCG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_mFkC(JGwDEU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_fAnRivcp9xN"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Скачок"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pQ(Eoa6Cy9T"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_y3nDzm6gxqB"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_C3pbfwHK0u7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_DdFmat9fMaB"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Щит возмездия"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_B)4GCbJAo3o"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ux4xCQ7xGDA"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_o9WaroLylCO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Хаос"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_mk)CVq9oOkU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Жатва душ"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Круговой удар ногой"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_6jwwmWUGApH"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_DUZFmB3ZJfz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_E(iUfeJVLKj"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["flyPlateBuffs"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Smdo9CRDFK)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_)TYW43FRZN0"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_)qGVm(BnSSH"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_l0L1nv158Gv"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_mjXDJ(7r87n"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_76vTI)S9PdN"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_QtMo6b8Bub3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ESBNiYntKpf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_NBtcuO3Z8ar"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_32TJReuhQ60"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Шипы"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_SyIr683UYNw"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_LXwUlWAfQAm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pASNyxb0WO)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_B2fTZ3AIsED"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_qClTapAg03I"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_rapture_-_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_255eYUgP7K("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_yUfYylZN99k"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_KRqSwk3dEJh"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Молния-лассо"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_barrier"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Cupx(YFbA7n"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Zc67(RfE4aP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_KKYD9ic7Mhx"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_tQxQXTlgEH("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_dRmOHVzMwYy"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_)rBb1IFNIjN"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_SX)T5kp(oQT"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_SRlEHHptIIU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_z8Gl55on3Ax"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ffPKLGs)9r4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_v7jfoujGJ56"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_DXLZsJqxn6i"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_75_-_t2_-_passive_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Jb3hcMQBa1u"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_pyEZwdpQYnx"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Ментальный крик"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_rZwtLgrZKdU"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_aFtlnUCKznc"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_odtMOyCByvd"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_15_-_t3_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_30_-_t2_-_passive_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_FWlICquYu4e"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Зуботычина"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_M6sLNvDgv)X"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_tucyZL2x5Cn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_ujxoBs(vxnX"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Намордник"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_67lOOzO8ynP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_FLdirp1r0Xz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_jT4XQkSwZw1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_Wk(hqCKC6YC"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ccrf)(Ct3rE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pTeIG8VbNCZ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pFImv5qOIrw"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_YCp7sQKWh5W"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_Sf2t3JKGeWk"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ZGf3VOdjqKk"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_cPoNsgIwnwE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_NyfSceV54uV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_IEbM9rRajM0"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_Sa2qbGZSzed"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Xcev8XUdtvQ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_vmy13moAAr("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_wUsxTDI26hv"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_OMNY0PsZhHV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Gy91z9i354D"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["GladiusEx_Debuffs"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Rg5m2kN7fwy"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Ослепление"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_NTZz7wxBv)A"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_fSfDx7SOzO1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_18nJK(EUVyh"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_PiceK4Io6y3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_kT2XPhxzUAQ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_PC96979EGY0"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_0h(Jv0q0Xrp"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_WU0spv)2yYG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Vh4uCv)p(Ny"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_BkeDPB8StQz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_9Nz6FPv5Fim"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_ZwEv66MiNcA"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Jpgq0LYyp5a"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_VdzETLhB0n3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_UYxE5(uiVcm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_x5dae4t)FYh"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ubZq6vYdrVD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_vc)WOpMPC9L"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_lK9bt)03HP3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_MN(jUlScy3J"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_lazy_atonement_background"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Астральный сдвиг"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_J8TuEOLJr38"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_wANA4VHku)a"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_4ZbvYs5SXe1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_mJD1Sx)nq)I"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_c2aR8iKw06d"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_wERK56jzZX)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Воплощение: избранный Элуны"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_YgRUMhPGw5b"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_3L4cBQabsi3"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_yVBDvo4C8Lf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_9Ts41(1tet8"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_kPdDzZcne5W"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_F(ZqiH)7L79"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_9QssLAz0mYh"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_vy7JvFXlRqJ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Черная душа: нестабильность"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_75u4PaKz)PO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_qU8nKUu5IZf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_S9vgDqaQibl"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -680,7 +2644,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_D))iUJlgd0N"] = {
+				["WeakAuras_hZrbmVbVkQu"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -703,8 +2667,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_F(ZqiH)7L79"] = {
+				["WeakAuras_NktPJsNuM(I"] = {
 					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Звериный гнев"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -714,11 +2683,21 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_YVppE548ipF"] = {
+				["WeakAuras_DJ9JFJwWrzb"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["Masque"] = {
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_F(ezI78YWpm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_Ehen8KbHt8s"] = {
 					["Upgraded"] = true,
@@ -726,12 +2705,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_power_word:_barrier_-_button_-_discipline"] = {
+				["WeakAuras_smE9of4bZCw"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_psychic_scream_-_cd_-_discipline"] = {
+				["OmniBar_Укус виверны"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -742,12 +2722,24 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
+				["WeakAuras_0gJpWYt0(wd"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
 				["WeakAuras_fade_-_cd_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_jQ37)UlK2SZ"] = {
+				["WeakAuras_oZs8NV1ogEn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_RdKBdJAuEua"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -765,11 +2757,11 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_72gjQNDmueI"] = {
+				["WeakAuras_Ac5gQCit4(g"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_KDMRM2Kwech"] = {
 					["Upgraded"] = true,
@@ -783,27 +2775,35 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_fAYLkGCmb0q"] = {
+				["WeakAuras_BkZtJdpsian"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_RIRGkBAcjl4"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Мощь тайной магии"] = {
+				["WeakAuras_HKozdrJdVbw"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
-				},
-				["OmniBar_Дубовая кожа"] = {
-					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "Dream",
 				},
 				["WeakAuras_Plv7LQefr6n"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+				},
+				["WeakAuras_G0UkgqVUA7v"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_jjcGiMeiS7V"] = {
 					["Upgraded"] = true,
@@ -823,18 +2823,31 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_BEpLRCZoQyE"] = {
+				["WeakAuras_QJIVEPU1nAS"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_HJrYC(pPRtd"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_Qa8GBKvtU5J"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_rapture_-_button_-_discipline"] = {
+				["OmniBar_Антимагический панцирь"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_100_-_t3_-_button_-_discipline"] = {
+				["WeakAuras_zXMWl7tz6JD"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -845,7 +2858,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_RwSZmG1gZQ7"] = {
+				["WeakAuras_C24NEewb(3p"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_z6QvnH5qKOh"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -856,91 +2875,70 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_7feqjHhwoPA"] = {
+				["WeakAuras_pJfwpjgULKw"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_(H0pTsAe(Cs"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Дух черепахи"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_r016C8FpLXP"] = {
+				["WeakAuras_xs)O2X7QNle"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_wUsxTDI26hv"] = {
+				["WeakAuras_8SpSb3lp()g"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_f)BanC0xTiI"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Черная душа: нестабильность"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_6jwwmWUGApH"] = {
+				["WeakAuras_BTCEiWtGo0Z"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Тотем заземления"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Хватка смерти"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_TkbNFC930bq"] = {
+				["WeakAuras_z9ys2tU7Z9A"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_rb(I6171cgx"] = {
+				["GladiusEx_Buffs"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Вендетта"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_yxZuSNeC5Y)"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_ptw"] = {
+				["OmniBar_Удар по почкам"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_VvWtjZ3gVcl"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_FCcZbhpN3pG"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Плащ Теней"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Z8OE5VirNta"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Призыв инфернала"] = {
+				["WeakAuras_15_-_t2_-_passive_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -951,24 +2949,19 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Fq5)svRNEe3"] = {
+				["WeakAuras_100_-_t1_-_passive_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_qeKmUqs30aZ"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Укус виверны"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_lqLmV7Yyv(o"] = {
+				["WeakAuras_dugpO8fBK6K"] = {
 					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_desperate_prayer_-_button_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -990,17 +2983,12 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Паралич"] = {
+				["OmniBar"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
 				["OmniBar_Антимагия"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Затуманивание"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1011,7 +2999,8 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_pain_suppression_-_cd_-_discipline"] = {
+				["WeakAuras_w7BU5rC(bb7"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1022,22 +3011,19 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Тотем небесной ярости"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
 				["OmniBar_Придание сил"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Покаяние"] = {
+				["WeakAuras_zGm9WDYK45E"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_purify_-_cd_-_discipline"] = {
+				["WeakAuras_3r7vfPJLnon"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1048,7 +3034,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_GJkX1KbRNAN"] = {
+				["WeakAuras_u5bpawJEJSy"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1059,29 +3045,29 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_aFM0bY9rKEO"] = {
+				["WeakAuras_g8A0(pLQDp6"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["OmniBar_Божественный щит"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_AF1Nc7NEmfE"] = {
+				["WeakAuras_Po0h464Bg29"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Возгорание"] = {
+				["OmniBar_Заморозка разума"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_F7S(nQ34Yj8"] = {
+				["WeakAuras_OPib6Ovs6zt"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1093,28 +3079,30 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_18ySTZZiFac"] = {
+				["WeakAuras_CTnqzgkLiS2"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Ледяной столп"] = {
+				["WeakAuras_BM7GVZHkuyI"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Божественное одобрение"] = {
+				["OmniBar_Железная кора"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Жажда крови"] = {
+				["WeakAuras_SDc47C(FlIZ"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_vGY9msT7BE8"] = {
+				["WeakAuras_Q)H9TzXHHgt"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1137,27 +3125,30 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Астральный сдвиг"] = {
+				["WeakAuras_38GFj9GuB1u"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Благословение защиты"] = {
+				["WeakAuras_75_-_t1_-_passive_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Удар по почкам"] = {
+				["WeakAuras_rRaUF2DR1H4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_xkkHk(I9lQS"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Щит возмездия"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_tFKLGEkMpIU"] = {
+				["WeakAuras_ZWK83KXwy9c"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1175,32 +3166,34 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Слияние с Тьмой"] = {
+				["WeakAuras_100_-_t3_-_button_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Воплощение: король джунглей"] = {
+				["WeakAuras_7XrBJe4MsX5"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
-				["WeakAuras_ptNMfhs4aIv"] = {
+				["WeakAuras_EU5bNksiREn"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_2Eg650ZIUl4"] = {
+				["WeakAuras_SN1I30xW3s1"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_100_-_t3_-_off_cd_-_discipline"] = {
+				["WeakAuras_49C4cEKkfI("] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_3hlgczI(fEj"] = {
 					["Upgraded"] = true,
@@ -1208,7 +3201,8 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_15_-_t3_-_off_cd_-_discipline"] = {
+				["WeakAuras_EKjz(fLO2Tc"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1219,81 +3213,85 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Дымовая шашка"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_JFw1ggiWA8R"] = {
+				["WeakAuras_F7S(nQ34Yj8"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_ffPKLGs)9r4"] = {
+				["WeakAuras_h)O7rKO1pDw"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_xkkHk(I9lQS"] = {
+				["WeakAuras_iGtanznMJYv"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_8WcV2Yw81xF"] = {
+				["WeakAuras_7Kg9DEmdHuK"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_F5FNqiVU8zR"] = {
+				["WeakAuras_qd1syA7sWfO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_C(vWtaCSNWM"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_3mM6xNumJ(e"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_LBllQr5XzfX"] = {
+				["WeakAuras_UC25h6IRc)Z"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_100_-_t2_-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_fade_-_button_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_LlHxKgQEKnZ"] = {
+				["WeakAuras_2oWUUpgWqak"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_23I3Sbao1A0"] = {
+				["WeakAuras_100_-_t3_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_tlhxWvRoRWE"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_5rPuJdRD1yI"] = {
+				["WeakAuras_uH1Up8pggjX"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Столп солнечного света"] = {
+				["WeakAuras_an2no5bQOAA"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_twist_of_fate"] = {
+				["WeakAuras_AS5s3dkYIIB"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1310,50 +3308,54 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_z9ys2tU7Z9A"] = {
+				["WeakAuras_ptNMfhs4aIv"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_(lZjqak1JeH"] = {
+				["WeakAuras_pYx72amKoom"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_30_-_t2_-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Замораживающая ловушка"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Звериный гнев"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_75u4PaKz)PO"] = {
+				["WeakAuras_aXavAC1iGH6"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Шаг сквозь тень"] = {
+				["WeakAuras_6ysp74l6cxZ"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Воплощение: избранный Элуны"] = {
+				["WeakAuras_3EbLMJU1dGr"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Qa8GBKvtU5J"] = {
+				["WeakAuras_psychic_scream_-_button_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_0QeT53IaHcF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_SwsS36GOL)g"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Yx8gX9TuqXq"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1365,16 +3367,16 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_pMj9XXfiuOg"] = {
-					["Upgraded"] = true,
+				["OmniBar_Камень огня"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Гнев карателя"] = {
+				["WeakAuras_iPIsS1pu)Km"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_Upyv9oA6IWs"] = {
 					["Upgraded"] = true,
@@ -1387,7 +3389,7 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_LecDuZkkVrq"] = {
+				["WeakAuras_dreQxjpV)2D"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1399,31 +3401,31 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_vOsx(qM0MXT"] = {
+				["WeakAuras_ABdmR9KFuSF"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Камень огня"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_P5)K02wLlAU"] = {
+				["WeakAuras_iAk7AElG)ss"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_MN(jUlScy3J"] = {
+				["WeakAuras_l4TSMwp7FsP"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_yxZuSNeC5Y)"] = {
+				["WeakAuras_1ioLeTQ9cub"] = {
 					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Покаяние"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1434,54 +3436,37 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_ogP6APiPnVt"] = {
+				["WeakAuras_4gVWs9ytq6)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_1vq6px7aEpT"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Смертельное касание"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_ShNYrFfTkzD"] = {
+				["WeakAuras_l2IGIxRCHDH"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_3mM6xNumJ(e"] = {
+				["WeakAuras_bzriZuUsNYv"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["Masque"] = {
-					["SkinID"] = "Dream",
-					["Backdrop"] = true,
-				},
-				["OmniBar_Асфиксия"] = {
+				["WeakAuras_bcsQSptL86H"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
-				},
-				["OmniBar_Исчезновение"] = {
-					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "Dream",
 				},
-				["OmniBar_Стремительный рывок"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_30_-_t3_-_button_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_p6gjFSBeWN6"] = {
+				["WeakAuras_0TS(5hp1ruc"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -1493,18 +3478,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_HBxVn3jEYMm"] = {
+				["WeakAuras_tuWhC3KtBFA"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_psychic_scream_-_off_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Черная душа: страдание"] = {
+				["OmniBar_Молот правосудия"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1514,73 +3494,86 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Стылая кровь"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_is9TiP7XVHe"] = {
+				["WeakAuras_h8PTru)LaJX"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_shadow_fiend"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_C8hAHy9pxoW"] = {
+				["WeakAuras_lH1gFXaq3fn"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Жатва душ"] = {
+				["OmniBar_Прерывание"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_(pIlo2))ctV"] = {
+				["OmniBar_Укор"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_DMHKzLklM5a"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_MJDCDXxRjpt"] = {
+				["OmniBar_Затуманивание"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_t0flzGeOZy6"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_75_-_t2_-_passive_-_discipline"] = {
+				["OmniBar_Тотем конденсации"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Подавление боли"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_desperate_prayer_-_off_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_OPib6Ovs6zt"] = {
+				["WeakAuras_)RskGc6TLip"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_SN1I30xW3s1"] = {
+				["WeakAuras_F4VU34T2lj8"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Молния-лассо"] = {
+				["WeakAuras_ekdOpx7HJ39"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_FFNF9jNPdZ1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ArwauWtfxng"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Возгорание"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["GladiusEx"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1590,14 +3583,13 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_67Z1fdYbe33"] = {
+				["WeakAuras_ogP6APiPnVt"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_A)9qhGPSmRo"] = {
-					["Upgraded"] = true,
+				["WeakAuras_60_-_t3_-_cd_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1608,41 +3600,38 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_DRqqUJ7)wLO"] = {
+				["WeakAuras_E4deSoDOJj7"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_IjTOcvEUAlz"] = {
+				["WeakAuras_TkbNFC930bq"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Мыслебомба"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_15_-_t2_-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Yx8gX9TuqXq"] = {
+				["WeakAuras_qenOtbHaEpK"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_ZoJN3ycuwHz"] = {
+				["WeakAuras_Qfn967n2oZz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_J5TKFiOolNS"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Ментальный крик"] = {
+				["WeakAuras_k9MV3cglyE6"] = {
+					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -1658,329 +3647,71 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Рука-копье"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_32TJReuhQ60"] = {
+				["WeakAuras_BL1rSnLxoF2"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_mceLN2nnM9T"] = {
+				["WeakAuras_GJkX1KbRNAN"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_3RVPxdgmQ)m"] = {
+				["WeakAuras_FX2Sc1NTwB4"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_67lOOzO8ynP"] = {
+				["WeakAuras_jTRFvoW)uy7"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_7skhlvX)Ll3"] = {
+				["WeakAuras_VsnE7MWV3RF"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_30_-_t1-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_KRqSwk3dEJh"] = {
+				["WeakAuras_6GFhoC9QTdD"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_30_-_t3_-_off_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_mk)CVq9oOkU"] = {
+				["WeakAuras_vG6OjygBe4N"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_IrpsDM3hc8s"] = {
+				["WeakAuras_whcrRZwmjRm"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_rb(I6171cgx"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_MZhGzn5bqnh"] = {
+				["WeakAuras_e5AWT6qlFja"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_jijCl4cyXE("] = {
+				["WeakAuras_WV45gACEFNH"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
-				},
-				["WeakAuras_h8PTru)LaJX"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Ускользание"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Железная кора"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Инстинкты выживания"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Vu92xtOzfUG"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_dtH)k8gctk2"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_shadowfiend_-_button_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_pw:solace"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_RvwPEXVfULH"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_BTCEiWtGo0Z"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_SDc47C(FlIZ"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_shadowfiend_-_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_CTnqzgkLiS2"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Благословение святилища"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_pNE2jCQ67xW"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_xs)O2X7QNle"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Заморозка разума"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_OdupVvWfvsi"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Хаос"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Скачок"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_hZrbmVbVkQu"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_EegHKdq5Due"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Лобовая атака"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Q)H9TzXHHgt"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_o9WaroLylCO"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Вендетта"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Fl0llO42Dzq"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_pw:solace_filler"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_4ZJPOaususe"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_eMfGV4SZP0G"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_15_-_t3_-_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_2J2Kn2IckSF"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Прерывание"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Ледяная глыба"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_75_-_t1_-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Nn8KRUU1mEx"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_30_-_t3_-_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_GbFe1cQleJn"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_St9k0hOvCj0"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_(peCcGDhdWp"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_McpYzS4O0vC"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Антимагический панцирь"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_)RskGc6TLip"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_60_-_t3_-_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
 				},
 				["OmniBar_Пронизывающий ветер"] = {
 					["Inherit"] = false,
@@ -1992,40 +3723,262 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
+				["WeakAuras_mJCzfNzj9KO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_bNPQpivw3fj"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_power_word:_barrier_-_off_cd_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_q9N3XptEBKP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_shadowfiend_-_button_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_FCcZbhpN3pG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Глухая оборона"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_CvsbgKOnG6A"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Ускользание"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_twist_of_fate"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pNE2jCQ67xW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_4ZJPOaususe"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_9BlfZSKGY0P"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_p6gjFSBeWN6"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_HlWRoBOc9da"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_(peCcGDhdWp"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_LUJvwH1DwnO"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_3A9)Y9BBfEF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_zSa0FMHb6Ih"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_nrGZDrHCajn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_JFw1ggiWA8R"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ZoJN3ycuwHz"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_pw:solace_filler"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_y0FMkXt)HRE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_FqJ3zuHsAK4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_(pIlo2))ctV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_2J2Kn2IckSF"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_Y1zweRziZsQ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_NjAPh8YIHsf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ShNYrFfTkzD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_(1nGug1EtxW"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_LlHxKgQEKnZ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_GbFe1cQleJn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_mSEioz6WGE7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Асфиксия"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_xHGkOskRIBs"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_D7XXScq9XY9"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ITqMtz0qusM"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_hwE2tpvei)2"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
 				["OmniBar_Вхождение в Бездну"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_dugpO8fBK6K"] = {
+				["WeakAuras_SoanlJdc5dY"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["OmniBar_Плащ Теней"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_ptTHLgczAw8"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_BL1rSnLxoF2"] = {
+				["WeakAuras_cQu5AOosLym"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
-				},
-				["WeakAuras_XqYn(AMHQUT"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
 					["Backdrop"] = true,
-					["SkinID"] = "Dream",
 				},
-				["OmniBar_Исцеляющий кокон"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_60_-_t3_-_off_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_afYpJhGgbdb"] = {
+				["WeakAuras_hwUiqr0LoFd"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -2037,70 +3990,65 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_SwsS36GOL)g"] = {
+				["WeakAuras_mM(kBl1srDN"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_lZfSKO)QirY"] = {
+				["WeakAuras_rapture_-_button_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_fade_-_button_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["OmniBar_Дымовая шашка"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_5PgqUIFXO9H"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_u0zVKITToHU"] = {
+				["WeakAuras_vJS(gDv1CUn"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_LXvhwmiKENz"] = {
+				["WeakAuras_m22eBv0cFOI"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_100_-_t1_-_passive_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_1ioLeTQ9cub"] = {
+				["WeakAuras_cmFpeCODCSc"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_1GSGK7NtE9)"] = {
+				["WeakAuras_LBllQr5XzfX"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_3EbLMJU1dGr"] = {
+				["WeakAuras_DrJjZ2Jvtfk"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Круговой удар ногой"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Незыблемость льда"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_kR4)W08sNxq"] = {
+				["WeakAuras_1)(6IvbKzyl"] = {
 					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["flyPlateBuffs"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
@@ -2116,27 +4064,27 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Сглаз"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_psychic_scream_-_button_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_PSdcsCWUC7o"] = {
+				["WeakAuras_hGl6XYQiSsU"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_gkNgjazlmml"] = {
-					["Upgraded"] = true,
+				["OmniBar_Слияние с Тьмой"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+				},
+				["WeakAuras_60_-_t2_-_passive_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_WjFvU69fnry"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["WeakAuras_wGFgbGe3A6("] = {
 					["Upgraded"] = true,
@@ -2144,77 +4092,75 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_cnBujgUS0zx"] = {
+				["WeakAuras_St9k0hOvCj0"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_2QPcLuFb)3I"] = {
-					["Upgraded"] = true,
+				["OmniBar_Безмолвие"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_oZs8NV1ogEn"] = {
-					["Upgraded"] = true,
+				["WeakAuras_rapture_-_off_cd_-_discipline"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_0gUzCvGccbW"] = {
+				["WeakAuras_fnEo1DUD0RV"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
 				["OmniBar_Предчувствие"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_72n7lw8YaRU"] = {
+				["WeakAuras_OdlpTh8gdz9"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_bvYjRNG3f7)"] = {
+				["WeakAuras_4sEsdV4SDir"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_xFMmM7JLSYo"] = {
+				["WeakAuras_ucFqyJUX76I"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["OmniBar_Укор"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_Wmv0mVYPySl"] = {
+				["WeakAuras_lO)Kge3kwQC"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_MAF0fCFX0KC"] = {
+				["WeakAuras_qCDaA2FCtIo"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_h)O7rKO1pDw"] = {
+				["WeakAuras_(w1n41(YY)N"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_Ys4(5Q0BK6l"] = {
+				["WeakAuras_power_word:_barrier_-_button_-_discipline"] = {
+					["Inherit"] = false,
+					["Backdrop"] = true,
+					["SkinID"] = "Dream",
+				},
+				["WeakAuras_QxQarY2Fwdp"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -2226,31 +4172,31 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_1B5EHR6EDTS"] = {
+				["WeakAuras_BTOy1RLD4oV"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_kIi0coUzmfs"] = {
+				["WeakAuras_ZN8MhyxMv5K"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "Dream",
+					["Backdrop"] = true,
+				},
+				["WeakAuras_rWpUiWTREQm"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_426zhODp8kO"] = {
+				["WeakAuras_LJW9UFQlEKY"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_pASNyxb0WO)"] = {
-					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_FX2Sc1NTwB4"] = {
+				["WeakAuras_36Sea7Hjvrs"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
@@ -2261,30 +4207,20 @@ MasqueDB = {
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_75_-_t3_-_cd_-_discipline"] = {
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["WeakAuras_(51yplYUMYP"] = {
+				["WeakAuras_BC4vv4ekmaf"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",
 				},
-				["WeakAuras_NjAPh8YIHsf"] = {
+				["WeakAuras_J3gq1t8Gfyn"] = {
 					["Upgraded"] = true,
 					["Inherit"] = false,
-					["Backdrop"] = true,
 					["SkinID"] = "Dream",
+					["Backdrop"] = true,
 				},
-				["WeakAuras_atv8kD24qyZ"] = {
+				["WeakAuras_j)(mSIZYv2F"] = {
 					["Upgraded"] = true,
-					["Inherit"] = false,
-					["Backdrop"] = true,
-					["SkinID"] = "Dream",
-				},
-				["OmniBar_Закон кармы"] = {
 					["Inherit"] = false,
 					["Backdrop"] = true,
 					["SkinID"] = "Dream",

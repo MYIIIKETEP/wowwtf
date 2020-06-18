@@ -49,7 +49,7 @@ VER 3 0100000000000023 " " "INV_MISC_QUESTIONMARK"
 /cast [mod:ctrl]Похищающий жизнь яд
 END
 VER 3 0100000000000024 " " "INV_MISC_QUESTIONMARK"
-/cast [nomod]Почетный медальон(Талант чести)
+/cast [nomod] Медальон гладиатора
 /cast [mod:shift]Вендетта
 /cast [mod:ctrl]Каждый за себя(Расовая)
 END

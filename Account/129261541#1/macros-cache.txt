@@ -1,0 +1,85 @@
+VER 3 000000000000003E "ColorFrames" "INV_MISC_QUESTIONMARK"
+/run local p="zCo" for i=1,10 do RunScript(GetMacroBody(p..i)) end
+END
+VER 3 0000000000000053 "compactDebufFram" "INV_MISC_QUESTIONMARK"
+/run function CBF(f,i) bf=CreateFrame("Button",f:GetName().."Debuff"..i,f,"CompactDebuffTemplate");bf.baseSize=22;bf:SetSize(f.buffFrames[1]:GetSize()) end;function mv(f) for i=4,12 do sp(f,i) end end
+END
+VER 3 0000000000000054 "cpUF" "INV_MISC_QUESTIONMARK"
+/run function mv3(f) CompactUnitFrame_SetMaxDebuffs(f,12); if not f.debuffFrames[4] then for i=4,12 do CBF(f,i) end end mv(f) end;hooksecurefunc("CompactUnitFrame_UpdateDebuffs",function(f) if f:GetName():match("^Compact") then mv3(f) end end);
+END
+VER 3 0000000000000052 "debufFrames" "INV_MISC_QUESTIONMARK"
+/run function sp(f,i) tr="TOPRIGHT";f2=f.debuffFrames;s=f2[1]:GetWidth();f3=f2[i];f3:SetSize(s,s);f3:ClearAllPoints();if i>6 then f3:SetPoint("BOTTOMRIGHT",f2[i-3],tr,0,0) else f3:SetPoint(tr,f2[1],tr,-(s*(i-3)),0) end end
+END
+VER 3 000000000000004A "RaidFrames" "INV_MISC_QUESTIONMARK"
+/run local p="zRaid" for i=1,6 do RunScript(GetMacroBody(p..i)) end
+END
+VER 3 0000000000000051 "Resizebuttons" "INV_MISC_QUESTIONMARK"
+/run ActionButton5:SetScale(1.4)
+/run ActionButton8:SetScale(1.4)
+/run ActionButton2:SetScale(1.5)
+/run ActionBarUpButton:SetScale(1.25)
+/run ActionBarDownButton:SetScale(1.25)
+/run MultiBarBottomLeftButton2:SetScale(0.9)
+END
+VER 3 000000000000003F "zCo1" "INV_MISC_QUESTIONMARK"
+UIP=UnitIsPlayer RCC=RAID_CLASS_COLORS UC=UnitClass TFNB=TargetFrameHealthBar FFNB=FocusFrameNameBackground
+PlayerFrameTexture:SetVertexColor(.5,.5,.5)TargetFrameTextureFrameTexture: SetVertexColor(.5,.5,.5)
+END
+VER 3 0000000000000048 "zCo10" "INV_MISC_QUESTIONMARK"
+TargetFrameHealthBar:ClearAllPoints()
+ TargetFrameHealthBar:SetHeight(31)
+TargetFrameHealthBar:SetPoint("TOP", TargetFrame, "CENTER", -52, 27)
+TargetFrameHealthBar.SetPoint = function () end
+END
+VER 3 0000000000000040 "zCo2" "INV_MISC_QUESTIONMARK"
+f=CreateFrame("FRAME") f:RegisterEvent("PARTY_MEMBERS_CHANGED") f: RegisterEvent("PLAYER_TARGET_CHANGED") f:RegisterEvent ("PLAYER_FOCUS_CHANGED") f:RegisterEvent("UNIT_FACTION")
+END
+VER 3 0000000000000041 "zCo3" "INV_MISC_QUESTIONMARK"
+function e(self,event,...) if UIP("target") then c=RCC[select(2,UC("target"))] TFNB:SetVertexColor(c.r,c.g,c.b) end if UIP("focus") then c=RCC[select(2,UC("focus"))] FFNB:SetVertexColor(c.r,c.g,c.b) end end f:SetScript("OnEvent",e)
+END
+VER 3 0000000000000042 "zCo4" "INV_MISC_QUESTIONMARK"
+UIP=UnitIsPlayer RCC=RAID_CLASS_COLORS UC=UnitClass TFNB=TargetFrameNameBackground FFNB=FocusFrameNameBackground
+FocusFrameTextureFrameTexture:SetVertexColor(.5,.5,.5)
+TargetFrameNameBackground:Hide()
+END
+VER 3 0000000000000043 "zCo5" "INV_MISC_QUESTIONMARK"
+unction e(self,event,...) if UIP("target") then c=RCC[select(2,UC("target"))] TFNB:Hide() end if UIP("focus") then c=RCC[select(2,UC("focus"))] FFNB:SetVertexColor(c.r,c.g,c.b) end end f:SetScript("OnEvent",e)
+END
+VER 3 0000000000000044 "zCo6" "INV_MISC_QUESTIONMARK"
+UIP=UnitIsPlayer UIC=UnitIsConnected RCC=RAID_CLASS_COLORS PFHB=PlayerFrameHealthBar UC=UnitClass
+ArenaEnemyFrame1Texture:SetVertexColor(.5,.5,.5)ArenaEnemyFrame2Texture:
+SetVertexColor(.5,.5,.5)ArenaEnemyFrame3Texture:SetVertexColor(.5,.5,.5)
+END
+VER 3 0000000000000045 "zCo7" "INV_MISC_QUESTIONMARK"
+function colour(sb,unit) if UIP(unit) and UIC(unit) and unit==sb.unit and UC(unit) then _,cl=UC(unit) c=RAID_CLASS_COLORS[cl] sb:SetStatusBarColor(c.r,c.g,c.b) PFHB: SetStatusBarColor(0,1,0) end end
+END
+VER 3 0000000000000046 "zCo8" "INV_MISC_QUESTIONMARK"
+hooksecurefunc("UnitFrameHealthBar_Update", colour) hooksecurefunc ("HealthBar_OnValueChanged", function(self) colour(self, self.unit) end)
+END
+VER 3 0000000000000047 "zCo9" "INV_MISC_QUESTIONMARK"
+PlayerFrameHealthBar:ClearAllPoints()
+ PlayerFrameHealthBar:SetHeight(31)
+PlayerFrameHealthBar:SetPoint("TOP", PlayerFrame, "RIGHT", -66, 27)
+PlayerFrameHealthBar.SetPoint = function () end
+PlayerFrameHealthBar:SetFrameLevel(2)
+END
+VER 3 000000000000004B "zRaid1" "INV_MISC_QUESTIONMARK"
+function sp(f,i) tr="TOPRIGHT";f2=f.debuffFrames;s=f2[1]:GetWidth();f3=f2[i];f3:
+SetSize(s,s);f3:ClearAllPoints();if i>6 then f3:SetPoint("BOTTOMRIGHT",f2[i-3],tr,0,0)
+else f3:SetPoint(tr,f2[1],tr,-(s*(i-3)),0) end end
+END
+VER 3 000000000000004C "zRaid2" "INV_MISC_QUESTIONMARK"
+function CBF(f,i) bf=CreateFrame("Button",f:GetName().."Debuff"..i,f,"CompactDebuffTemplate");bf.baseSize=22;bf:SetSize(f.buffFrames[1]:GetSize()) end;function mv(f) for i=4,12 do sp(f,i) end end
+END
+VER 3 000000000000004D "zRaid3" "INV_MISC_QUESTIONMARK"
+function mv3(f) CompactUnitFrame_SetMaxDebuffs(f,12); if not f.debuffFrames[4] then for i=4,12 do CBF(f,i) end end mv(f)end;hooksecurefunc("CompactUnitFrame_UpdateDebuffs",function(f) if f:GetName():match("^Compact") then mv3(f) end end);
+END
+VER 3 000000000000004E "zRaid4" "INV_MISC_QUESTIONMARK"
+CBT="CompactDebuffTemplate";function mb(ff3) for p=7,12 do ff3.debuffFrames[p]:ClearAllPoints();ff3.debuffFrames[p]:SetPoint("BOTTOMRIGHT", ff3.debuffFrames[p-3], "TOPRIGHT", 0, 0) end end;
+END
+VER 3 000000000000004F "zRaid5" "INV_MISC_QUESTIONMARK"
+function CBF(pr,i) bf=CreateFrame("Button",pr:GetName().."Debuff"..i,pr,CBT);bf.baseSize=22;end;function mv(u) mb(u);for k=4,6 do f2=u.debuffFrames[k];f2:ClearAllPoints();f2:SetPoint("TOPRIGHT", u.debuffFrames[1], "TOPRIGHT", -(22*(k-3)), 0) end end
+END
+VER 3 0000000000000050 "zRaid6" "INV_MISC_QUESTIONMARK"
+function mv3(f) CompactUnitFrame_SetMaxDebuffs(f,12); if not f.debuffFrames[4]then for i=4,12 do CBF(f,i) end end mv(f) end;hooksecurefunc("CompactUnitFrame_UpdateDebuffs",function(f) if f:GetName():match("^Compact")then mv3(f) end end);
+END

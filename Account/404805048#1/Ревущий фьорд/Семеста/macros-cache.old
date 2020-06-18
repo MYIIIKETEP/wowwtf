@@ -1,0 +1,61 @@
+VER 3 0100000000000030 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [harm]Кара ; Темное восстановление
+END
+VER 3 0100000000000033 " " "571554"
+#showtooltip Сияющая мощь
+/закл Сияющая мощь
+END
+VER 3 0100000000000035 " " "136149"
+/console ScriptErrors 0
+END
+VER 3 0100000000000036 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Массовое рассеивание
+/закл [@cursor]Массовое рассеивание
+END
+VER 3 0100000000000037 " " "135944"
+#showtooltip Божественное Перышко
+/cast [@player]  Божественное Перышко
+END
+VER 3 0100000000000038 " " "135894"
+#showtooltip 
+/cast [harm]Рассеивание заклинаний; Очищение
+END
+VER 3 0100000000000039 " " "135944"
+#showtooltip Божественное Перышко
+/cast  Божественное Перышко
+END
+VER 3 010000000000003B " " "612968"
+#showtooltip
+/cast Схизма
+END
+VER 3 010000000000003C " " "3015740"
+#showtooltip
+/use Сущность сердца
+END
+VER 3 010000000000003D " " "538239"
+#showtooltip Предвестие(PvP-талант)
+/закл Предвестие(PvP-талант)
+END
+VER 3 010000000000003E " " "253400"
+#showtooltip Слово силы: Барьер
+/cast [@cursor]Слово силы: Барьер
+END
+VER 3 0100000000000041 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Контроль над разумом
+/cast [@focus] Контроль над разумом
+END
+VER 3 0100000000000042 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+END
+VER 3 0100000000000043 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 13
+END
+VER 3 0100000000000040 "FS" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Безмолвие
+END
+VER 3 010000000000003F "FS" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Глубинный ужас
+END

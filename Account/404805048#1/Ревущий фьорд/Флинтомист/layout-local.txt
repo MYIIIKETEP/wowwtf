@@ -6,13 +6,6 @@ X: -114
 Y: -191
 W: 232
 H: 100
-Frame: DetailsPlayerDetailsWindow
-FrameLevel: 1
-Anchor: CENTER
-X: 1
-Y: 0
-W: 890
-H: 574
 Frame: FocusFrame
 FrameLevel: 1
 Anchor: CENTER

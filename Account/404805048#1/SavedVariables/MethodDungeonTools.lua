@@ -18,30 +18,30 @@ MethodDungeonToolsDB = {
 					["objects"] = {
 					},
 					["week"] = 11,
-					["difficulty"] = 10,
-					["mdi"] = {
-						["freeholdJoined"] = false,
-						["beguiling"] = 1,
-						["freehold"] = 1,
-					},
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
-						["riftOffsets"] = {
-							[11] = {
-							},
+						["pulls"] = {
+							{
+								["color"] = "ff3eff",
+							}, -- [1]
 						},
 						["currentDungeonIdx"] = 15,
 						["teeming"] = false,
 						["selection"] = {
 							1, -- [1]
 						},
-						["pulls"] = {
-							{
-								["color"] = "ff3eff",
-							}, -- [1]
+						["riftOffsets"] = {
+							[11] = {
+							},
 						},
 					},
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["freehold"] = 1,
+						["beguiling"] = 1,
+					},
+					["difficulty"] = 10,
 				}, -- [1]
 			},
 		},

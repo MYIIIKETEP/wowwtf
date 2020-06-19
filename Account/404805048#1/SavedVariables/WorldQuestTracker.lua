@@ -6,6 +6,9 @@ WQTrackerDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["groupfinder"] = {
+				["enabled"] = false,
+			},
 			["TutorialPopupID"] = 1,
 			["is_BFA_version"] = true,
 			["quests_tracked"] = {
@@ -16,30 +19,65 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-1615-09CB8534"] = {
-					[55887] = {
-						["expireAt"] = 1592550115,
-						["rewardAmount"] = "|cffc557FF385",
-						["rewardTexture"] = 1002877,
-					},
-					[55896] = {
-						["expireAt"] = 1592550115,
-						["rewardAmount"] = 468,
+					[55304] = {
+						["expireAt"] = 1592550136,
+						["rewardAmount"] = 190,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[56036] = {
-						["expireAt"] = 1592550115,
-						["rewardAmount"] = "|cffc557FF385",
-						["rewardTexture"] = 1002874,
+					[58747] = {
+						["expireAt"] = 1592550114,
+						["rewardAmount"] = "15",
+						["rewardTexture"] = 133675,
 					},
-					[51050] = {
-						["expireAt"] = 1592550135,
-						["rewardAmount"] = 187,
+					[51450] = {
+						["expireAt"] = 1592550136,
+						["rewardAmount"] = 229,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 					[56041] = {
 						["expireAt"] = 1592550115,
 						["rewardAmount"] = "|cffc557FF385",
 						["rewardTexture"] = 1002881,
+					},
+					[58743] = {
+						["expireAt"] = 1592550133,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 667492,
+					},
+					[56036] = {
+						["expireAt"] = 1592550115,
+						["rewardAmount"] = "|cffc557FF385",
+						["rewardTexture"] = 1002874,
+					},
+					[50854] = {
+						["expireAt"] = 1592593336,
+						["rewardAmount"] = 191,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[55887] = {
+						["expireAt"] = 1592550115,
+						["rewardAmount"] = "|cffc557FF385",
+						["rewardTexture"] = 1002877,
+					},
+					[51050] = {
+						["expireAt"] = 1592550124,
+						["rewardAmount"] = 187,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50846] = {
+						["expireAt"] = 1592550136,
+						["rewardAmount"] = 319,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[55896] = {
+						["expireAt"] = 1592550115,
+						["rewardAmount"] = 468,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[50864] = {
+						["expireAt"] = 1592550136,
+						["rewardAmount"] = 156,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},
 			},

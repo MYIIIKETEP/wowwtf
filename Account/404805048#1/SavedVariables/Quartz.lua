@@ -17,8 +17,6 @@ Quartz3DB = {
 				},
 			},
 		},
-		["EnemyCasts"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -26,6 +24,8 @@ Quartz3DB = {
 					["x"] = 785.7693481445312,
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -48,9 +48,9 @@ Quartz3DB = {
 				},
 			},
 		},
-		["Range"] = {
-		},
 		["Mirror"] = {
+		},
+		["Range"] = {
 		},
 		["Latency"] = {
 		},

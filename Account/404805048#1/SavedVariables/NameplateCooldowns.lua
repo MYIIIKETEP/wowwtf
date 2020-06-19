@@ -1270,32 +1270,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 136120,
 				},
-				["Призыв повелителя Скверны"] = {
+				["Святой каратель"] = {
 					["enabled"] = true,
-					["refSpellID"] = 212459,
+					["refSpellID"] = 105809,
 					["spellIDs"] = {
-						[212459] = true,
+						[105809] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 1113433,
+					["texture"] = 571555,
 				},
-				["Буря, земля и огонь"] = {
+				["Ледяная глыба"] = {
 					["enabled"] = true,
-					["refSpellID"] = 137639,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[137639] = true,
+						[45438] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 136038,
+					["cooldown"] = 240,
+					["texture"] = 135841,
 				},
-				["Благословение защиты"] = {
+				["Удар с небес"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1022,
+					["refSpellID"] = 206803,
 					["spellIDs"] = {
-						[1022] = true,
+						[206803] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135964,
+					["cooldown"] = 60,
+					["texture"] = 1380371,
 				},
 				["Кольцо льда"] = {
 					["enabled"] = true,
@@ -1306,14 +1306,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 135848,
 				},
-				["Порыв ветра"] = {
+				["Паралич"] = {
 					["enabled"] = true,
-					["refSpellID"] = 192063,
+					["refSpellID"] = 115078,
 					["spellIDs"] = {
-						[192063] = true,
+						[115078] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 1029585,
+					["cooldown"] = 45,
+					["texture"] = 629534,
 				},
 				["Удар могучего быка"] = {
 					["enabled"] = true,
@@ -1351,14 +1351,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 136059,
 				},
-				["Твердая решимость"] = {
+				["Метаморфоза"] = {
 					["enabled"] = true,
-					["refSpellID"] = 104773,
+					["refSpellID"] = 191427,
 					["spellIDs"] = {
-						[104773] = true,
+						[191427] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 136150,
+					["cooldown"] = 120,
+					["texture"] = 1247262,
 				},
 				["Дыхание дракона"] = {
 					["enabled"] = true,
@@ -1378,14 +1378,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 608951,
 				},
-				["Зуботычина"] = {
+				["Дуэль в тенях"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6552,
+					["refSpellID"] = 207736,
 					["spellIDs"] = {
-						[6552] = true,
+						[207736] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 132938,
+					["cooldown"] = 120,
+					["texture"] = 1020341,
 				},
 				["Укус виверны"] = {
 					["enabled"] = true,
@@ -1396,14 +1396,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 135125,
 				},
-				["Оберегающий дух"] = {
+				["Смещение"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47788,
+					["refSpellID"] = 195676,
 					["spellIDs"] = {
-						[47788] = true,
+						[195676] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 237542,
+					["cooldown"] = 30,
+					["texture"] = 132171,
 				},
 				["Исчезновение"] = {
 					["enabled"] = true,
@@ -1441,32 +1441,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 236299,
 				},
-				["Камень огня"] = {
+				["Выброс адреналина"] = {
 					["enabled"] = true,
-					["refSpellID"] = 212284,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[212284] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 134085,
+					["cooldown"] = 180,
+					["texture"] = 136206,
 				},
-				["Путь Журавля"] = {
+				["Темный симулякр"] = {
 					["enabled"] = true,
-					["refSpellID"] = 216113,
+					["refSpellID"] = 77606,
 					["spellIDs"] = {
-						[216113] = true,
+						[77606] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 977169,
+					["cooldown"] = 20,
+					["texture"] = 135888,
 				},
-				["Гнев карателя"] = {
+				["Астральный облик"] = {
 					["enabled"] = true,
-					["refSpellID"] = 31884,
+					["refSpellID"] = 210918,
 					["spellIDs"] = {
-						[31884] = true,
+						[210918] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
+					["cooldown"] = 45,
+					["texture"] = 237572,
 				},
 				["Молитва отчаяния"] = {
 					["enabled"] = true,
@@ -1540,14 +1540,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 236316,
 				},
-				["Миротворец"] = {
+				["Божественный скакун"] = {
 					["enabled"] = true,
-					["refSpellID"] = 262161,
+					["refSpellID"] = 190784,
 					["spellIDs"] = {
-						[262161] = true,
+						[190784] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 2065633,
+					["cooldown"] = 22,
+					["texture"] = 1360759,
 				},
 				["Ревностный защитник"] = {
 					["enabled"] = true,
@@ -1558,14 +1558,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 84,
 					["texture"] = 135870,
 				},
-				["Массовое оплетение"] = {
+				["Трансцендентность: перенос"] = {
 					["enabled"] = true,
-					["refSpellID"] = 102359,
+					["refSpellID"] = 119996,
 					["spellIDs"] = {
-						[102359] = true,
+						[119996] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 538515,
+					["cooldown"] = 25,
+					["texture"] = 237585,
 				},
 				["Тотем заземления"] = {
 					["enabled"] = true,
@@ -1585,6 +1585,24 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 132358,
 				},
+				["Прилив сил"] = {
+					["enabled"] = true,
+					["refSpellID"] = 12051,
+					["spellIDs"] = {
+						[12051] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 136075,
+				},
+				["Безмолвие"] = {
+					["enabled"] = true,
+					["refSpellID"] = 15487,
+					["spellIDs"] = {
+						[15487] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 458230,
+				},
 				["Владение аурами"] = {
 					["enabled"] = true,
 					["refSpellID"] = 31821,
@@ -1593,24 +1611,6 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 180,
 					["texture"] = 135872,
-				},
-				["Гром и молния"] = {
-					["enabled"] = true,
-					["refSpellID"] = 51490,
-					["spellIDs"] = {
-						[51490] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 237589,
-				},
-				["Зона антимагии"] = {
-					["enabled"] = true,
-					["refSpellID"] = 51052,
-					["spellIDs"] = {
-						[51052] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 237510,
 				},
 				["Узы Пустоты"] = {
 					["enabled"] = true,
@@ -1621,23 +1621,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1450144,
 				},
-				["Замораживающая ловушка"] = {
+				["Боевое знамя"] = {
 					["enabled"] = true,
-					["refSpellID"] = 187650,
+					["refSpellID"] = 236320,
 					["spellIDs"] = {
-						[187650] = true,
+						[236320] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["cooldown"] = 90,
+					["texture"] = 603532,
 				},
-				["Связующий выстрел"] = {
+				["Молния-лассо"] = {
 					["enabled"] = true,
-					["refSpellID"] = 109248,
+					["refSpellID"] = 204437,
 					["spellIDs"] = {
-						[109248] = true,
+						[204437] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 462650,
+					["cooldown"] = 30,
+					["texture"] = 1385911,
 				},
 				["Страж забытой королевы"] = {
 					["enabled"] = true,
@@ -1666,14 +1666,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Защитник древних королей"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[86659] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -1702,15 +1702,6 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 300,
 					["texture"] = 132220,
 				},
-				["Молния-лассо"] = {
-					["enabled"] = true,
-					["refSpellID"] = 204437,
-					["spellIDs"] = {
-						[204437] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 1385911,
-				},
 				["Ни шагу назад"] = {
 					["enabled"] = true,
 					["refSpellID"] = 12975,
@@ -1719,6 +1710,15 @@ NameplateCooldownsAceDB = {
 					},
 					["cooldown"] = 120,
 					["texture"] = 135871,
+				},
+				["Защитник древних королей"] = {
+					["enabled"] = true,
+					["refSpellID"] = 86659,
+					["spellIDs"] = {
+						[86659] = true,
+					},
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Слиться с тенью"] = {
 					["enabled"] = true,
@@ -1729,6 +1729,15 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132089,
 				},
+				["Печать страдания"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207684,
+					["spellIDs"] = {
+						[207684] = true,
+					},
+					["cooldown"] = 50,
+					["texture"] = 1418287,
+				},
 				["Ярость берсерка"] = {
 					["enabled"] = true,
 					["refSpellID"] = 18499,
@@ -1738,32 +1747,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 136009,
 				},
-				["Слияние с Тьмой"] = {
+				["Реактивный прыжок"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47585,
+					["refSpellID"] = 69070,
 					["spellIDs"] = {
-						[47585] = true,
+						[69070] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 237563,
-				},
-				["Благосклонность предков"] = {
-					["enabled"] = true,
-					["refSpellID"] = 79206,
-					["spellIDs"] = {
-						[79206] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 451170,
-				},
-				["Дымовая шашка"] = {
-					["enabled"] = true,
-					["refSpellID"] = 212182,
-					["spellIDs"] = {
-						[212182] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 458733,
+					["texture"] = 370769,
 				},
 				["Кровавая баня"] = {
 					["enabled"] = true,
@@ -1774,6 +1765,15 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 236304,
 				},
+				["Железная кора"] = {
+					["enabled"] = true,
+					["refSpellID"] = 102342,
+					["spellIDs"] = {
+						[102342] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 572025,
+				},
 				["Глухая оборона"] = {
 					["enabled"] = true,
 					["refSpellID"] = 871,
@@ -1783,14 +1783,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 240,
 					["texture"] = 132362,
 				},
-				["Эгида Света"] = {
+				["Сверхновая"] = {
 					["enabled"] = true,
-					["refSpellID"] = 204150,
+					["refSpellID"] = 157980,
 					["spellIDs"] = {
-						[204150] = true,
+						[157980] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 135909,
+					["cooldown"] = 25,
+					["texture"] = 1033912,
 				},
 				["Закон кармы"] = {
 					["enabled"] = true,
@@ -1801,32 +1801,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Дух черепахи"] = {
+				["Звериный гнев"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 19574,
 					["spellIDs"] = {
-						[186265] = true,
-					},
-					["cooldown"] = 144,
-					["texture"] = 132199,
-				},
-				["Укрепляющий отвар"] = {
-					["enabled"] = true,
-					["refSpellID"] = 201318,
-					["spellIDs"] = {
-						[201318] = true,
+						[19574] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 1616072,
+					["texture"] = 132127,
 				},
-				["Ужасный зверь: василиск"] = {
+				["Дух дикого зверя"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205691,
+					["refSpellID"] = 51533,
 					["spellIDs"] = {
-						[205691] = true,
+						[51533] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1412204,
+					["cooldown"] = 90,
+					["texture"] = 237577,
+				},
+				["Приказ хозяина"] = {
+					["enabled"] = true,
+					["refSpellID"] = 53271,
+					["spellIDs"] = {
+						[53271] = true,
+					},
+					["cooldown"] = 45,
+					["texture"] = 236189,
 				},
 				["Затуманивание"] = {
 					["enabled"] = true,
@@ -1864,14 +1864,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 135936,
 				},
-				["Хватка Иллидана"] = {
+				["Вой ужаса"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205630,
+					["refSpellID"] = 5484,
 					["spellIDs"] = {
-						[205630] = true,
+						[5484] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1380367,
+					["cooldown"] = 40,
+					["texture"] = 607852,
 				},
 				["Сила природы"] = {
 					["enabled"] = true,
@@ -1882,14 +1882,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132129,
 				},
-				["Героический прыжок"] = {
+				["Благословение защиты от заклинаний"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6544,
+					["refSpellID"] = 204018,
 					["spellIDs"] = {
-						[6544] = true,
+						[204018] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 236171,
+					["cooldown"] = 180,
+					["texture"] = 135880,
 				},
 				["Воплощение: древо жизни"] = {
 					["enabled"] = true,
@@ -1900,32 +1900,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 236157,
 				},
-				["Безрассудство"] = {
+				["Стылая кровь"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1719,
+					["refSpellID"] = 12472,
 					["spellIDs"] = {
-						[1719] = true,
+						[12472] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 458972,
+					["cooldown"] = 180,
+					["texture"] = 135838,
 				},
-				["Смертельное касание"] = {
+				["Оскверненная земля"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115080,
+					["refSpellID"] = 108201,
 					["spellIDs"] = {
-						[115080] = true,
+						[108201] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 538768,
+				},
+				["Спокойствие"] = {
+					["enabled"] = true,
+					["refSpellID"] = 740,
+					["spellIDs"] = {
+						[740] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 606552,
-				},
-				["Череда убийств"] = {
-					["enabled"] = true,
-					["refSpellID"] = 51690,
-					["spellIDs"] = {
-						[51690] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 236277,
+					["texture"] = 136107,
 				},
 				["Вихрь Урсола"] = {
 					["enabled"] = true,
@@ -1936,14 +1936,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Антимагия"] = {
+				["Лобовая атака"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 106839,
 					["spellIDs"] = {
-						[2139] = true,
+						[106839] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 15,
+					["texture"] = 236946,
 				},
 				["Отрыв"] = {
 					["enabled"] = true,
@@ -1972,50 +1972,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136028,
 				},
-				["Лобовая атака"] = {
+				["Антимагия"] = {
 					["enabled"] = true,
-					["refSpellID"] = 106839,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[106839] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 236946,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
-				["Спокойствие"] = {
+				["Череда убийств"] = {
 					["enabled"] = true,
-					["refSpellID"] = 740,
+					["refSpellID"] = 51690,
 					["spellIDs"] = {
-						[740] = true,
+						[51690] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 136107,
+					["texture"] = 236277,
 				},
-				["Оскверненная земля"] = {
+				["Смертельное касание"] = {
 					["enabled"] = true,
-					["refSpellID"] = 108201,
+					["refSpellID"] = 115080,
 					["spellIDs"] = {
-						[108201] = true,
+						[115080] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 538768,
+					["cooldown"] = 120,
+					["texture"] = 606552,
 				},
-				["Стылая кровь"] = {
+				["Безрассудство"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12472,
+					["refSpellID"] = 1719,
 					["spellIDs"] = {
-						[12472] = true,
+						[1719] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 135838,
+					["cooldown"] = 90,
+					["texture"] = 458972,
 				},
-				["Благословение защиты от заклинаний"] = {
+				["Героический прыжок"] = {
 					["enabled"] = true,
-					["refSpellID"] = 204018,
+					["refSpellID"] = 6544,
 					["spellIDs"] = {
-						[204018] = true,
+						[6544] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 135880,
+					["cooldown"] = 45,
+					["texture"] = 236171,
 				},
 				["Исцеляющий кокон"] = {
 					["enabled"] = true,
@@ -2026,14 +2026,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 55,
 					["texture"] = 627485,
 				},
-				["Вой ужаса"] = {
+				["Хватка Иллидана"] = {
 					["enabled"] = true,
-					["refSpellID"] = 5484,
+					["refSpellID"] = 205630,
 					["spellIDs"] = {
-						[5484] = true,
+						[205630] = true,
 					},
-					["cooldown"] = 40,
-					["texture"] = 607852,
+					["cooldown"] = 60,
+					["texture"] = 1380367,
 				},
 				["Леденящая стрела"] = {
 					["enabled"] = true,
@@ -2053,41 +2053,41 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 1118739,
 				},
-				["Приказ хозяина"] = {
+				["Ужасный зверь: василиск"] = {
 					["enabled"] = true,
-					["refSpellID"] = 53271,
+					["refSpellID"] = 205691,
 					["spellIDs"] = {
-						[53271] = true,
+						[205691] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 236189,
+					["cooldown"] = 120,
+					["texture"] = 1412204,
 				},
-				["Дух дикого зверя"] = {
+				["Укрепляющий отвар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51533,
+					["refSpellID"] = 201318,
 					["spellIDs"] = {
-						[51533] = true,
+						[201318] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 237577,
+					["texture"] = 1616072,
 				},
-				["Звериный гнев"] = {
+				["Дух черепахи"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19574,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[19574] = true,
+						[186265] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 132127,
+					["cooldown"] = 144,
+					["texture"] = 132199,
 				},
-				["Сверхновая"] = {
+				["Эгида Света"] = {
 					["enabled"] = true,
-					["refSpellID"] = 157980,
+					["refSpellID"] = 204150,
 					["spellIDs"] = {
-						[157980] = true,
+						[204150] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 1033912,
+					["cooldown"] = 180,
+					["texture"] = 135909,
 				},
 				["Ослепляющая наледь"] = {
 					["enabled"] = true,
@@ -2098,32 +2098,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 135836,
 				},
-				["Железная кора"] = {
+				["Дымовая шашка"] = {
 					["enabled"] = true,
-					["refSpellID"] = 102342,
+					["refSpellID"] = 212182,
 					["spellIDs"] = {
-						[102342] = true,
+						[212182] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 572025,
+					["cooldown"] = 180,
+					["texture"] = 458733,
 				},
-				["Реактивный прыжок"] = {
+				["Благосклонность предков"] = {
 					["enabled"] = true,
-					["refSpellID"] = 69070,
+					["refSpellID"] = 79206,
 					["spellIDs"] = {
-						[69070] = true,
+						[79206] = true,
+					},
+					["cooldown"] = 60,
+					["texture"] = 451170,
+				},
+				["Слияние с Тьмой"] = {
+					["enabled"] = true,
+					["refSpellID"] = 47585,
+					["spellIDs"] = {
+						[47585] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 370769,
-				},
-				["Печать страдания"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207684,
-					["spellIDs"] = {
-						[207684] = true,
-					},
-					["cooldown"] = 50,
-					["texture"] = 1418287,
+					["texture"] = 237563,
 				},
 				["Отражение ударов"] = {
 					["enabled"] = true,
@@ -2134,14 +2134,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Ледяной шар"] = {
+				["Связующий выстрел"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 109248,
 					["spellIDs"] = {
-						[84714] = true,
+						[109248] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 45,
+					["texture"] = 462650,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -2152,32 +2152,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Боевое знамя"] = {
+				["Замораживающая ловушка"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236320,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[236320] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 603532,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Безмолвие"] = {
+				["Зона антимагии"] = {
 					["enabled"] = true,
-					["refSpellID"] = 15487,
+					["refSpellID"] = 51052,
 					["spellIDs"] = {
-						[15487] = true,
+						[51052] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 237510,
+				},
+				["Гром и молния"] = {
+					["enabled"] = true,
+					["refSpellID"] = 51490,
+					["spellIDs"] = {
+						[51490] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 458230,
-				},
-				["Прилив сил"] = {
-					["enabled"] = true,
-					["refSpellID"] = 12051,
-					["spellIDs"] = {
-						[12051] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 136075,
+					["texture"] = 237589,
 				},
 				["Темное превращение"] = {
 					["enabled"] = true,
@@ -2188,23 +2188,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Трансцендентность: перенос"] = {
+				["Массовое оплетение"] = {
 					["enabled"] = true,
-					["refSpellID"] = 119996,
+					["refSpellID"] = 102359,
 					["spellIDs"] = {
-						[119996] = true,
+						[102359] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 237585,
+					["cooldown"] = 30,
+					["texture"] = 538515,
 				},
-				["Божественный скакун"] = {
+				["Миротворец"] = {
 					["enabled"] = true,
-					["refSpellID"] = 190784,
+					["refSpellID"] = 262161,
 					["spellIDs"] = {
-						[190784] = true,
+						[262161] = true,
 					},
-					["cooldown"] = 22,
-					["texture"] = 1360759,
+					["cooldown"] = 45,
+					["texture"] = 2065633,
 				},
 				["Пронизывающий ветер"] = {
 					["enabled"] = true,
@@ -2224,32 +2224,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 33,
 					["texture"] = 1418288,
 				},
-				["Астральный облик"] = {
+				["Гнев карателя"] = {
 					["enabled"] = true,
-					["refSpellID"] = 210918,
+					["refSpellID"] = 31884,
 					["spellIDs"] = {
-						[210918] = true,
+						[31884] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 237572,
+					["cooldown"] = 120,
+					["texture"] = 135875,
 				},
-				["Темный симулякр"] = {
+				["Путь Журавля"] = {
 					["enabled"] = true,
-					["refSpellID"] = 77606,
+					["refSpellID"] = 216113,
 					["spellIDs"] = {
-						[77606] = true,
+						[216113] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 135888,
+					["cooldown"] = 60,
+					["texture"] = 977169,
 				},
-				["Выброс адреналина"] = {
+				["Камень огня"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 212284,
 					["spellIDs"] = {
-						[13750] = true,
+						[212284] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 136206,
+					["cooldown"] = 25,
+					["texture"] = 134085,
 				},
 				["Каменная форма"] = {
 					["enabled"] = true,
@@ -2260,23 +2260,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 136225,
 				},
-				["Смещение"] = {
+				["Оберегающий дух"] = {
 					["enabled"] = true,
-					["refSpellID"] = 195676,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[195676] = true,
-					},
-					["cooldown"] = 30,
-					["texture"] = 132171,
-				},
-				["Дуэль в тенях"] = {
-					["enabled"] = true,
-					["refSpellID"] = 207736,
-					["spellIDs"] = {
-						[207736] = true,
+						[47788] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["texture"] = 237542,
+				},
+				["Зуботычина"] = {
+					["enabled"] = true,
+					["refSpellID"] = 6552,
+					["spellIDs"] = {
+						[6552] = true,
+					},
+					["cooldown"] = 15,
+					["texture"] = 132938,
 				},
 				["Глаз Леотераса"] = {
 					["enabled"] = true,
@@ -2287,23 +2287,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 1380366,
 				},
-				["Метаморфоза"] = {
+				["Твердая решимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 191427,
+					["refSpellID"] = 104773,
 					["spellIDs"] = {
-						[191427] = true,
+						[104773] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1247262,
+					["cooldown"] = 180,
+					["texture"] = 136150,
 				},
-				["Паралич"] = {
+				["Порыв ветра"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115078,
+					["refSpellID"] = 192063,
 					["spellIDs"] = {
-						[115078] = true,
+						[192063] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 629534,
+					["cooldown"] = 15,
+					["texture"] = 1029585,
 				},
 				["Смягчение удара"] = {
 					["enabled"] = true,
@@ -2314,32 +2314,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 620827,
 				},
-				["Удар с небес"] = {
+				["Благословение защиты"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206803,
+					["refSpellID"] = 1022,
 					["spellIDs"] = {
-						[206803] = true,
+						[1022] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1380371,
+					["cooldown"] = 300,
+					["texture"] = 135964,
 				},
-				["Ледяная глыба"] = {
+				["Буря, земля и огонь"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 137639,
 					["spellIDs"] = {
-						[45438] = true,
-					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
-				},
-				["Святой каратель"] = {
-					["enabled"] = true,
-					["refSpellID"] = 105809,
-					["spellIDs"] = {
-						[105809] = true,
+						[137639] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 571555,
+					["texture"] = 136038,
+				},
+				["Призыв повелителя Скверны"] = {
+					["enabled"] = true,
+					["refSpellID"] = 212459,
+					["spellIDs"] = {
+						[212459] = true,
+					},
+					["cooldown"] = 90,
+					["texture"] = 1113433,
 				},
 			},
 			["IconYOffset"] = 1,
@@ -3606,32 +3606,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 136120,
 				},
-				["Святой каратель"] = {
+				["Призыв повелителя Скверны"] = {
 					["enabled"] = true,
-					["refSpellID"] = 105809,
+					["refSpellID"] = 212459,
 					["spellIDs"] = {
-						[105809] = true,
+						[212459] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 571555,
+					["texture"] = 1113433,
 				},
-				["Ледяная глыба"] = {
+				["Буря, земля и огонь"] = {
 					["enabled"] = true,
-					["refSpellID"] = 45438,
+					["refSpellID"] = 137639,
 					["spellIDs"] = {
-						[45438] = true,
+						[137639] = true,
 					},
-					["cooldown"] = 240,
-					["texture"] = 135841,
+					["cooldown"] = 90,
+					["texture"] = 136038,
 				},
-				["Удар с небес"] = {
+				["Благословение защиты"] = {
 					["enabled"] = true,
-					["refSpellID"] = 206803,
+					["refSpellID"] = 1022,
 					["spellIDs"] = {
-						[206803] = true,
+						[1022] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1380371,
+					["cooldown"] = 300,
+					["texture"] = 135964,
 				},
 				["Кольцо льда"] = {
 					["enabled"] = true,
@@ -3642,14 +3642,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 135848,
 				},
-				["Паралич"] = {
+				["Порыв ветра"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115078,
+					["refSpellID"] = 192063,
 					["spellIDs"] = {
-						[115078] = true,
+						[192063] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 629534,
+					["cooldown"] = 15,
+					["texture"] = 1029585,
 				},
 				["Удар могучего быка"] = {
 					["enabled"] = true,
@@ -3687,14 +3687,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 136059,
 				},
-				["Метаморфоза"] = {
+				["Твердая решимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 191427,
+					["refSpellID"] = 104773,
 					["spellIDs"] = {
-						[191427] = true,
+						[104773] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1247262,
+					["cooldown"] = 180,
+					["texture"] = 136150,
 				},
 				["Дыхание дракона"] = {
 					["enabled"] = true,
@@ -3714,14 +3714,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 608951,
 				},
-				["Дуэль в тенях"] = {
+				["Зуботычина"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207736,
+					["refSpellID"] = 6552,
 					["spellIDs"] = {
-						[207736] = true,
+						[6552] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1020341,
+					["cooldown"] = 15,
+					["texture"] = 132938,
 				},
 				["Укус виверны"] = {
 					["enabled"] = true,
@@ -3732,14 +3732,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 135125,
 				},
-				["Смещение"] = {
+				["Оберегающий дух"] = {
 					["enabled"] = true,
-					["refSpellID"] = 195676,
+					["refSpellID"] = 47788,
 					["spellIDs"] = {
-						[195676] = true,
+						[47788] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 132171,
+					["cooldown"] = 120,
+					["texture"] = 237542,
 				},
 				["Исчезновение"] = {
 					["enabled"] = true,
@@ -3777,32 +3777,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 236299,
 				},
-				["Выброс адреналина"] = {
+				["Камень огня"] = {
 					["enabled"] = true,
-					["refSpellID"] = 13750,
+					["refSpellID"] = 212284,
 					["spellIDs"] = {
-						[13750] = true,
+						[212284] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 136206,
+					["cooldown"] = 25,
+					["texture"] = 134085,
 				},
-				["Темный симулякр"] = {
+				["Путь Журавля"] = {
 					["enabled"] = true,
-					["refSpellID"] = 77606,
+					["refSpellID"] = 216113,
 					["spellIDs"] = {
-						[77606] = true,
+						[216113] = true,
 					},
-					["cooldown"] = 20,
-					["texture"] = 135888,
+					["cooldown"] = 60,
+					["texture"] = 977169,
 				},
-				["Астральный облик"] = {
+				["Гнев карателя"] = {
 					["enabled"] = true,
-					["refSpellID"] = 210918,
+					["refSpellID"] = 31884,
 					["spellIDs"] = {
-						[210918] = true,
+						[31884] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 237572,
+					["cooldown"] = 120,
+					["texture"] = 135875,
 				},
 				["Молитва отчаяния"] = {
 					["enabled"] = true,
@@ -3876,14 +3876,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 236316,
 				},
-				["Божественный скакун"] = {
+				["Миротворец"] = {
 					["enabled"] = true,
-					["refSpellID"] = 190784,
+					["refSpellID"] = 262161,
 					["spellIDs"] = {
-						[190784] = true,
+						[262161] = true,
 					},
-					["cooldown"] = 22,
-					["texture"] = 1360759,
+					["cooldown"] = 45,
+					["texture"] = 2065633,
 				},
 				["Ревностный защитник"] = {
 					["enabled"] = true,
@@ -3894,14 +3894,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 84,
 					["texture"] = 135870,
 				},
-				["Трансцендентность: перенос"] = {
+				["Массовое оплетение"] = {
 					["enabled"] = true,
-					["refSpellID"] = 119996,
+					["refSpellID"] = 102359,
 					["spellIDs"] = {
-						[119996] = true,
+						[102359] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 237585,
+					["cooldown"] = 30,
+					["texture"] = 538515,
 				},
 				["Тотем заземления"] = {
 					["enabled"] = true,
@@ -3921,23 +3921,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 132358,
 				},
-				["Прилив сил"] = {
+				["Гром и молния"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12051,
+					["refSpellID"] = 51490,
 					["spellIDs"] = {
-						[12051] = true,
-					},
-					["cooldown"] = 180,
-					["texture"] = 136075,
-				},
-				["Безмолвие"] = {
-					["enabled"] = true,
-					["refSpellID"] = 15487,
-					["spellIDs"] = {
-						[15487] = true,
+						[51490] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 458230,
+					["texture"] = 237589,
+				},
+				["Владение аурами"] = {
+					["enabled"] = true,
+					["refSpellID"] = 31821,
+					["spellIDs"] = {
+						[31821] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 135872,
 				},
 				["Зона антимагии"] = {
 					["enabled"] = true,
@@ -3957,23 +3957,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 1450144,
 				},
-				["Невидимость"] = {
+				["Замораживающая ловушка"] = {
 					["enabled"] = true,
-					["refSpellID"] = 66,
+					["refSpellID"] = 187650,
 					["spellIDs"] = {
-						[66] = true,
+						[187650] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 132220,
+					["cooldown"] = 25,
+					["texture"] = 135834,
 				},
-				["Спринт"] = {
+				["Молния-лассо"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2983,
+					["refSpellID"] = 204437,
 					["spellIDs"] = {
-						[2983] = true,
+						[204437] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 132307,
+					["cooldown"] = 30,
+					["texture"] = 1385911,
 				},
 				["Страж забытой королевы"] = {
 					["enabled"] = true,
@@ -4002,14 +4002,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 135824,
 				},
-				["Боевое знамя"] = {
+				["Спринт"] = {
 					["enabled"] = true,
-					["refSpellID"] = 236320,
+					["refSpellID"] = 2983,
 					["spellIDs"] = {
-						[236320] = true,
+						[2983] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 603532,
+					["cooldown"] = 60,
+					["texture"] = 132307,
 				},
 				["Заморозка разума"] = {
 					["enabled"] = true,
@@ -4029,23 +4029,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 462650,
 				},
-				["Ледяной шар"] = {
+				["Невидимость"] = {
 					["enabled"] = true,
-					["refSpellID"] = 84714,
+					["refSpellID"] = 66,
 					["spellIDs"] = {
-						[84714] = true,
+						[66] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 629077,
+					["cooldown"] = 300,
+					["texture"] = 132220,
 				},
-				["Молния-лассо"] = {
+				["Защитник древних королей"] = {
 					["enabled"] = true,
-					["refSpellID"] = 204437,
+					["refSpellID"] = 86659,
 					["spellIDs"] = {
-						[204437] = true,
+						[86659] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 1385911,
+					["cooldown"] = 300,
+					["texture"] = 135919,
 				},
 				["Ни шагу назад"] = {
 					["enabled"] = true,
@@ -4065,14 +4065,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132089,
 				},
-				["Печать страдания"] = {
+				["Ярость берсерка"] = {
 					["enabled"] = true,
-					["refSpellID"] = 207684,
+					["refSpellID"] = 18499,
 					["spellIDs"] = {
-						[207684] = true,
+						[18499] = true,
 					},
-					["cooldown"] = 50,
-					["texture"] = 1418287,
+					["cooldown"] = 60,
+					["texture"] = 136009,
 				},
 				["Слияние с Тьмой"] = {
 					["enabled"] = true,
@@ -4083,23 +4083,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 237563,
 				},
-				["Реактивный прыжок"] = {
+				["Благосклонность предков"] = {
 					["enabled"] = true,
-					["refSpellID"] = 69070,
+					["refSpellID"] = 79206,
 					["spellIDs"] = {
-						[69070] = true,
+						[79206] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 370769,
-				},
-				["Кровавая баня"] = {
-					["enabled"] = true,
-					["refSpellID"] = 12292,
-					["spellIDs"] = {
-						[12292] = true,
-					},
-					["cooldown"] = 120,
-					["texture"] = 236304,
+					["cooldown"] = 60,
+					["texture"] = 451170,
 				},
 				["Железная кора"] = {
 					["enabled"] = true,
@@ -4110,6 +4101,15 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 572025,
 				},
+				["Дымовая шашка"] = {
+					["enabled"] = true,
+					["refSpellID"] = 212182,
+					["spellIDs"] = {
+						[212182] = true,
+					},
+					["cooldown"] = 180,
+					["texture"] = 458733,
+				},
 				["Глухая оборона"] = {
 					["enabled"] = true,
 					["refSpellID"] = 871,
@@ -4119,14 +4119,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 240,
 					["texture"] = 132362,
 				},
-				["Сверхновая"] = {
+				["Эгида Света"] = {
 					["enabled"] = true,
-					["refSpellID"] = 157980,
+					["refSpellID"] = 204150,
 					["spellIDs"] = {
-						[157980] = true,
+						[204150] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 1033912,
+					["cooldown"] = 180,
+					["texture"] = 135909,
 				},
 				["Закон кармы"] = {
 					["enabled"] = true,
@@ -4137,32 +4137,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 90,
 					["texture"] = 651728,
 				},
-				["Звериный гнев"] = {
+				["Дух черепахи"] = {
 					["enabled"] = true,
-					["refSpellID"] = 19574,
+					["refSpellID"] = 186265,
 					["spellIDs"] = {
-						[19574] = true,
+						[186265] = true,
+					},
+					["cooldown"] = 144,
+					["texture"] = 132199,
+				},
+				["Укрепляющий отвар"] = {
+					["enabled"] = true,
+					["refSpellID"] = 201318,
+					["spellIDs"] = {
+						[201318] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 132127,
+					["texture"] = 1616072,
 				},
-				["Дух дикого зверя"] = {
+				["Ужасный зверь: василиск"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51533,
+					["refSpellID"] = 205691,
 					["spellIDs"] = {
-						[51533] = true,
+						[205691] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 237577,
-				},
-				["Приказ хозяина"] = {
-					["enabled"] = true,
-					["refSpellID"] = 53271,
-					["spellIDs"] = {
-						[53271] = true,
-					},
-					["cooldown"] = 45,
-					["texture"] = 236189,
+					["cooldown"] = 120,
+					["texture"] = 1412204,
 				},
 				["Затуманивание"] = {
 					["enabled"] = true,
@@ -4200,14 +4200,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 135936,
 				},
-				["Вой ужаса"] = {
+				["Хватка Иллидана"] = {
 					["enabled"] = true,
-					["refSpellID"] = 5484,
+					["refSpellID"] = 205630,
 					["spellIDs"] = {
-						[5484] = true,
+						[205630] = true,
 					},
-					["cooldown"] = 40,
-					["texture"] = 607852,
+					["cooldown"] = 60,
+					["texture"] = 1380367,
 				},
 				["Сила природы"] = {
 					["enabled"] = true,
@@ -4218,14 +4218,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 132129,
 				},
-				["Благословение защиты от заклинаний"] = {
+				["Героический прыжок"] = {
 					["enabled"] = true,
-					["refSpellID"] = 204018,
+					["refSpellID"] = 6544,
 					["spellIDs"] = {
-						[204018] = true,
+						[6544] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 135880,
+					["cooldown"] = 45,
+					["texture"] = 236171,
 				},
 				["Воплощение: древо жизни"] = {
 					["enabled"] = true,
@@ -4236,32 +4236,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 180,
 					["texture"] = 236157,
 				},
-				["Стылая кровь"] = {
+				["Безрассудство"] = {
 					["enabled"] = true,
-					["refSpellID"] = 12472,
+					["refSpellID"] = 1719,
 					["spellIDs"] = {
-						[12472] = true,
+						[1719] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 135838,
+					["cooldown"] = 90,
+					["texture"] = 458972,
 				},
-				["Оскверненная земля"] = {
+				["Смертельное касание"] = {
 					["enabled"] = true,
-					["refSpellID"] = 108201,
+					["refSpellID"] = 115080,
 					["spellIDs"] = {
-						[108201] = true,
-					},
-					["cooldown"] = 60,
-					["texture"] = 538768,
-				},
-				["Спокойствие"] = {
-					["enabled"] = true,
-					["refSpellID"] = 740,
-					["spellIDs"] = {
-						[740] = true,
+						[115080] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 136107,
+					["texture"] = 606552,
+				},
+				["Череда убийств"] = {
+					["enabled"] = true,
+					["refSpellID"] = 51690,
+					["spellIDs"] = {
+						[51690] = true,
+					},
+					["cooldown"] = 120,
+					["texture"] = 236277,
 				},
 				["Вихрь Урсола"] = {
 					["enabled"] = true,
@@ -4272,14 +4272,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 571588,
 				},
-				["Лобовая атака"] = {
+				["Антимагия"] = {
 					["enabled"] = true,
-					["refSpellID"] = 106839,
+					["refSpellID"] = 2139,
 					["spellIDs"] = {
-						[106839] = true,
+						[2139] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 236946,
+					["cooldown"] = 24,
+					["texture"] = 135856,
 				},
 				["Отрыв"] = {
 					["enabled"] = true,
@@ -4308,50 +4308,50 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 24,
 					["texture"] = 136028,
 				},
-				["Антимагия"] = {
+				["Лобовая атака"] = {
 					["enabled"] = true,
-					["refSpellID"] = 2139,
+					["refSpellID"] = 106839,
 					["spellIDs"] = {
-						[2139] = true,
+						[106839] = true,
 					},
-					["cooldown"] = 24,
-					["texture"] = 135856,
+					["cooldown"] = 15,
+					["texture"] = 236946,
 				},
-				["Череда убийств"] = {
+				["Спокойствие"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51690,
+					["refSpellID"] = 740,
 					["spellIDs"] = {
-						[51690] = true,
+						[740] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 236277,
+					["texture"] = 136107,
 				},
-				["Смертельное касание"] = {
+				["Оскверненная земля"] = {
 					["enabled"] = true,
-					["refSpellID"] = 115080,
+					["refSpellID"] = 108201,
 					["spellIDs"] = {
-						[115080] = true,
+						[108201] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 606552,
+					["cooldown"] = 60,
+					["texture"] = 538768,
 				},
-				["Безрассудство"] = {
+				["Стылая кровь"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1719,
+					["refSpellID"] = 12472,
 					["spellIDs"] = {
-						[1719] = true,
+						[12472] = true,
 					},
-					["cooldown"] = 90,
-					["texture"] = 458972,
+					["cooldown"] = 180,
+					["texture"] = 135838,
 				},
-				["Героический прыжок"] = {
+				["Благословение защиты от заклинаний"] = {
 					["enabled"] = true,
-					["refSpellID"] = 6544,
+					["refSpellID"] = 204018,
 					["spellIDs"] = {
-						[6544] = true,
+						[204018] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 236171,
+					["cooldown"] = 180,
+					["texture"] = 135880,
 				},
 				["Исцеляющий кокон"] = {
 					["enabled"] = true,
@@ -4362,14 +4362,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 55,
 					["texture"] = 627485,
 				},
-				["Хватка Иллидана"] = {
+				["Вой ужаса"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205630,
+					["refSpellID"] = 5484,
 					["spellIDs"] = {
-						[205630] = true,
+						[5484] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 1380367,
+					["cooldown"] = 40,
+					["texture"] = 607852,
 				},
 				["Леденящая стрела"] = {
 					["enabled"] = true,
@@ -4389,41 +4389,41 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 1118739,
 				},
-				["Ужасный зверь: василиск"] = {
+				["Приказ хозяина"] = {
 					["enabled"] = true,
-					["refSpellID"] = 205691,
+					["refSpellID"] = 53271,
 					["spellIDs"] = {
-						[205691] = true,
+						[53271] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 1412204,
+					["cooldown"] = 45,
+					["texture"] = 236189,
 				},
-				["Укрепляющий отвар"] = {
+				["Дух дикого зверя"] = {
 					["enabled"] = true,
-					["refSpellID"] = 201318,
+					["refSpellID"] = 51533,
 					["spellIDs"] = {
-						[201318] = true,
+						[51533] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 1616072,
+					["texture"] = 237577,
 				},
-				["Дух черепахи"] = {
+				["Звериный гнев"] = {
 					["enabled"] = true,
-					["refSpellID"] = 186265,
+					["refSpellID"] = 19574,
 					["spellIDs"] = {
-						[186265] = true,
+						[19574] = true,
 					},
-					["cooldown"] = 144,
-					["texture"] = 132199,
+					["cooldown"] = 90,
+					["texture"] = 132127,
 				},
-				["Эгида Света"] = {
+				["Сверхновая"] = {
 					["enabled"] = true,
-					["refSpellID"] = 204150,
+					["refSpellID"] = 157980,
 					["spellIDs"] = {
-						[204150] = true,
+						[157980] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 135909,
+					["cooldown"] = 25,
+					["texture"] = 1033912,
 				},
 				["Ослепляющая наледь"] = {
 					["enabled"] = true,
@@ -4434,32 +4434,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 135836,
 				},
-				["Дымовая шашка"] = {
+				["Кровавая баня"] = {
 					["enabled"] = true,
-					["refSpellID"] = 212182,
+					["refSpellID"] = 12292,
 					["spellIDs"] = {
-						[212182] = true,
+						[12292] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 458733,
+					["cooldown"] = 120,
+					["texture"] = 236304,
 				},
-				["Благосклонность предков"] = {
+				["Реактивный прыжок"] = {
 					["enabled"] = true,
-					["refSpellID"] = 79206,
+					["refSpellID"] = 69070,
 					["spellIDs"] = {
-						[79206] = true,
+						[69070] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 451170,
+					["cooldown"] = 90,
+					["texture"] = 370769,
 				},
-				["Ярость берсерка"] = {
+				["Печать страдания"] = {
 					["enabled"] = true,
-					["refSpellID"] = 18499,
+					["refSpellID"] = 207684,
 					["spellIDs"] = {
-						[18499] = true,
+						[207684] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 136009,
+					["cooldown"] = 50,
+					["texture"] = 1418287,
 				},
 				["Отражение ударов"] = {
 					["enabled"] = true,
@@ -4470,14 +4470,14 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 132269,
 				},
-				["Защитник древних королей"] = {
+				["Ледяной шар"] = {
 					["enabled"] = true,
-					["refSpellID"] = 86659,
+					["refSpellID"] = 84714,
 					["spellIDs"] = {
-						[86659] = true,
+						[84714] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135919,
+					["cooldown"] = 60,
+					["texture"] = 629077,
 				},
 				["Неуклюжий рывок"] = {
 					["enabled"] = true,
@@ -4488,32 +4488,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 30,
 					["texture"] = 237569,
 				},
-				["Замораживающая ловушка"] = {
+				["Боевое знамя"] = {
 					["enabled"] = true,
-					["refSpellID"] = 187650,
+					["refSpellID"] = 236320,
 					["spellIDs"] = {
-						[187650] = true,
+						[236320] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 135834,
+					["cooldown"] = 90,
+					["texture"] = 603532,
 				},
-				["Гром и молния"] = {
+				["Безмолвие"] = {
 					["enabled"] = true,
-					["refSpellID"] = 51490,
+					["refSpellID"] = 15487,
 					["spellIDs"] = {
-						[51490] = true,
+						[15487] = true,
 					},
 					["cooldown"] = 30,
-					["texture"] = 237589,
+					["texture"] = 458230,
 				},
-				["Владение аурами"] = {
+				["Прилив сил"] = {
 					["enabled"] = true,
-					["refSpellID"] = 31821,
+					["refSpellID"] = 12051,
 					["spellIDs"] = {
-						[31821] = true,
+						[12051] = true,
 					},
 					["cooldown"] = 180,
-					["texture"] = 135872,
+					["texture"] = 136075,
 				},
 				["Темное превращение"] = {
 					["enabled"] = true,
@@ -4524,23 +4524,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 60,
 					["texture"] = 342913,
 				},
-				["Массовое оплетение"] = {
+				["Трансцендентность: перенос"] = {
 					["enabled"] = true,
-					["refSpellID"] = 102359,
+					["refSpellID"] = 119996,
 					["spellIDs"] = {
-						[102359] = true,
+						[119996] = true,
 					},
-					["cooldown"] = 30,
-					["texture"] = 538515,
+					["cooldown"] = 25,
+					["texture"] = 237585,
 				},
-				["Миротворец"] = {
+				["Божественный скакун"] = {
 					["enabled"] = true,
-					["refSpellID"] = 262161,
+					["refSpellID"] = 190784,
 					["spellIDs"] = {
-						[262161] = true,
+						[190784] = true,
 					},
-					["cooldown"] = 45,
-					["texture"] = 2065633,
+					["cooldown"] = 22,
+					["texture"] = 1360759,
 				},
 				["Пронизывающий ветер"] = {
 					["enabled"] = true,
@@ -4560,32 +4560,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 33,
 					["texture"] = 1418288,
 				},
-				["Гнев карателя"] = {
+				["Астральный облик"] = {
 					["enabled"] = true,
-					["refSpellID"] = 31884,
+					["refSpellID"] = 210918,
 					["spellIDs"] = {
-						[31884] = true,
+						[210918] = true,
 					},
-					["cooldown"] = 120,
-					["texture"] = 135875,
+					["cooldown"] = 45,
+					["texture"] = 237572,
 				},
-				["Путь Журавля"] = {
+				["Темный симулякр"] = {
 					["enabled"] = true,
-					["refSpellID"] = 216113,
+					["refSpellID"] = 77606,
 					["spellIDs"] = {
-						[216113] = true,
+						[77606] = true,
 					},
-					["cooldown"] = 60,
-					["texture"] = 977169,
+					["cooldown"] = 20,
+					["texture"] = 135888,
 				},
-				["Камень огня"] = {
+				["Выброс адреналина"] = {
 					["enabled"] = true,
-					["refSpellID"] = 212284,
+					["refSpellID"] = 13750,
 					["spellIDs"] = {
-						[212284] = true,
+						[13750] = true,
 					},
-					["cooldown"] = 25,
-					["texture"] = 134085,
+					["cooldown"] = 180,
+					["texture"] = 136206,
 				},
 				["Каменная форма"] = {
 					["enabled"] = true,
@@ -4596,23 +4596,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 136225,
 				},
-				["Оберегающий дух"] = {
+				["Смещение"] = {
 					["enabled"] = true,
-					["refSpellID"] = 47788,
+					["refSpellID"] = 195676,
 					["spellIDs"] = {
-						[47788] = true,
+						[195676] = true,
+					},
+					["cooldown"] = 30,
+					["texture"] = 132171,
+				},
+				["Дуэль в тенях"] = {
+					["enabled"] = true,
+					["refSpellID"] = 207736,
+					["spellIDs"] = {
+						[207736] = true,
 					},
 					["cooldown"] = 120,
-					["texture"] = 237542,
-				},
-				["Зуботычина"] = {
-					["enabled"] = true,
-					["refSpellID"] = 6552,
-					["spellIDs"] = {
-						[6552] = true,
-					},
-					["cooldown"] = 15,
-					["texture"] = 132938,
+					["texture"] = 1020341,
 				},
 				["Глаз Леотераса"] = {
 					["enabled"] = true,
@@ -4623,23 +4623,23 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 45,
 					["texture"] = 1380366,
 				},
-				["Твердая решимость"] = {
+				["Метаморфоза"] = {
 					["enabled"] = true,
-					["refSpellID"] = 104773,
+					["refSpellID"] = 191427,
 					["spellIDs"] = {
-						[104773] = true,
+						[191427] = true,
 					},
-					["cooldown"] = 180,
-					["texture"] = 136150,
+					["cooldown"] = 120,
+					["texture"] = 1247262,
 				},
-				["Порыв ветра"] = {
+				["Паралич"] = {
 					["enabled"] = true,
-					["refSpellID"] = 192063,
+					["refSpellID"] = 115078,
 					["spellIDs"] = {
-						[192063] = true,
+						[115078] = true,
 					},
-					["cooldown"] = 15,
-					["texture"] = 1029585,
+					["cooldown"] = 45,
+					["texture"] = 629534,
 				},
 				["Смягчение удара"] = {
 					["enabled"] = true,
@@ -4650,32 +4650,32 @@ NameplateCooldownsAceDB = {
 					["cooldown"] = 120,
 					["texture"] = 620827,
 				},
-				["Благословение защиты"] = {
+				["Удар с небес"] = {
 					["enabled"] = true,
-					["refSpellID"] = 1022,
+					["refSpellID"] = 206803,
 					["spellIDs"] = {
-						[1022] = true,
+						[206803] = true,
 					},
-					["cooldown"] = 300,
-					["texture"] = 135964,
+					["cooldown"] = 60,
+					["texture"] = 1380371,
 				},
-				["Буря, земля и огонь"] = {
+				["Ледяная глыба"] = {
 					["enabled"] = true,
-					["refSpellID"] = 137639,
+					["refSpellID"] = 45438,
 					["spellIDs"] = {
-						[137639] = true,
+						[45438] = true,
+					},
+					["cooldown"] = 240,
+					["texture"] = 135841,
+				},
+				["Святой каратель"] = {
+					["enabled"] = true,
+					["refSpellID"] = 105809,
+					["spellIDs"] = {
+						[105809] = true,
 					},
 					["cooldown"] = 90,
-					["texture"] = 136038,
-				},
-				["Призыв повелителя Скверны"] = {
-					["enabled"] = true,
-					["refSpellID"] = 212459,
-					["spellIDs"] = {
-						[212459] = true,
-					},
-					["cooldown"] = 90,
-					["texture"] = 1113433,
+					["texture"] = 571555,
 				},
 			},
 			["IconXOffset"] = 11,

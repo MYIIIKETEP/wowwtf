@@ -29,6 +29,8 @@ Bagnon_Sets = {
 	["mineColor"] = {
 	},
 	["version"] = "8.3.5",
+	["fridgeColor"] = {
+	},
 	["global"] = {
 		["inventory"] = {
 			["rules"] = {
@@ -64,8 +66,8 @@ Bagnon_Sets = {
 			["x"] = -134.5635986328125,
 			["borderColor"] = {
 			},
-			["showBags"] = true,
 			["columns"] = 12,
+			["showBags"] = true,
 		},
 		["vault"] = {
 			["y"] = 249.0000305175781,
@@ -96,11 +98,11 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
+			["x"] = 95,
 			["hiddenRules"] = {
 			},
-			["x"] = 95,
+			["borderColor"] = {
+			},
 		},
 		["guild"] = {
 			["rules"] = {
@@ -172,7 +174,5 @@ Bagnon_Sets = {
 			},
 			["showBags"] = true,
 		},
-	},
-	["fridgeColor"] = {
 	},
 }

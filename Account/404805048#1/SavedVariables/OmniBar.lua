@@ -4,6 +4,19 @@ OmniBarDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["global"] = {
+		["cooldowns"] = {
+			[305498] = {
+				["custom"] = true,
+				["name"] = "Предвестие",
+				["duration"] = {
+					["default"] = 12,
+				},
+				["icon"] = 538239,
+				["class"] = "PRIEST",
+			},
+		},
+	},
 	["profileKeys"] = {
 		["Семеста - Ревущий фьорд"] = "Default",
 		["Флинтомист - Ревущий фьорд"] = "Default",
@@ -14,15 +27,16 @@ OmniBarDB = {
 				["OmniBar1"] = {
 					["glow"] = true,
 					["scenario"] = true,
+					["tooltips"] = true,
 					["border"] = true,
 					["names"] = false,
 					["multiple"] = true,
-					["spell209780"] = true,
-					["highlightFocus"] = false,
+					["spell209780"] = false,
 					["center"] = false,
+					["spell305498"] = true,
 					["locked"] = false,
-					["growUpward"] = true,
-					["padding"] = 2,
+					["arena"] = true,
+					["ratedBattleground"] = true,
 					["world"] = true,
 					["cooldownCount"] = true,
 					["highlightTarget"] = true,
@@ -43,9 +57,9 @@ OmniBarDB = {
 						["xOfs"] = -85.90569305419922,
 						["frameStrata"] = "MEDIUM",
 					},
-					["ratedBattleground"] = true,
-					["arena"] = true,
-					["tooltips"] = true,
+					["growUpward"] = true,
+					["padding"] = 2,
+					["highlightFocus"] = false,
 					["battleground"] = true,
 				},
 			},

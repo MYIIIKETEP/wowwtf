@@ -1,8 +1,3 @@
-VER 3 0000000000000077 " " "237550"
-#showtooltip Молитва отчаяния
-/закл Молитва отчаяния
-/cancelaura Молитва отчаяния
-END
 VER 3 0000000000000078 " " "135955"
 #showtooltip Воскрешение
 /закл Нетронутый порчей змей Бездны
@@ -24,6 +19,30 @@ VER 3 0000000000000075 " " "237550"
 #showtooltip Ашжра'камас, Покров Решимости
 /use Ашжра'камас, Покров Решимости
 END
+VER 3 0000000000000077 " " "237550"
+#showtooltip Молитва отчаяния
+/закл Молитва отчаяния
+/cancelaura Молитва отчаяния
+END
+VER 3 0000000000000083 " NP" "INV_MISC_QUESTIONMARK"
+/run local U=UnitIsUnit hooksecurefunc("CompactUnitFrame_UpdateName",function(F)if IsActiveBattlefieldArena()and F.unit:find("nameplate")then for i=1,5 do if U(F.unit,"arena"..i)then F.name:SetText(i)F.name:SetTextColor(1,1,0)break end end end end)
+END
+VER 3 0000000000000087 "A" "INV_MISC_QUESTIONMARK"
+/console weatherDensity 0
+/run CombatText:SetScale(.7)
+END
+VER 3 0000000000000086 "AH" "INV_MISC_QUESTIONMARK"
+/run ArenaEnemyFrame1:SetAlpha(0)
+/run ArenaEnemyFrame2:SetAlpha(0)
+/run ArenaEnemyFrame3:SetAlpha(0)
+END
+VER 3 0000000000000085 "GP" "INV_MISC_QUESTIONMARK"
+/script MainMenuBarArtFrame.LeftEndCap:Hide()
+/script MainMenuBarArtFrame.RightEndCap:Hide()
+END
+VER 3 0000000000000084 "LP" "INV_MISC_QUESTIONMARK"
+/run LoadAddOn("Blizzard_CompactRaidFrames") CRFSort_Group=function(t1, t2) if UnitIsUnit(t1,"player") then return false elseif UnitIsUnit(t2,"player") then return true else return t1 < t2 end end CompactRaidFrameContainer.flowSortFunc=CRFSort_Group
+END
 VER 3 0000000000000082 "MF" "INV_MISC_QUESTIONMARK"
 /target Искаженный отросток
 /cast Очищение зла
@@ -34,16 +53,19 @@ END
 VER 3 0000000000000073 "P2" "136072"
 /target party2
 END
-VER 3 000000000000007E " " "612968"
-#showtooltip Слово силы: Утешение
-/закл Очищение
-END
-VER 3 0000000000000080 " " "134400"
-#showtooltip Схизма
-/cast Рассеивание заклинаний
+VER 3 0000000000000088 "s" "INV_MISC_QUESTIONMARK"
+/run AddTrackedAchievement(13967)
 END
 VER 3 000000000000007F " " "134400"
 #showtooltip Архангел(PvP-талант)
 /закл Темный архангел(PvP-талант)
 /use Жетон ужасающего гладиатора
+END
+VER 3 0000000000000080 " " "134400"
+#showtooltip Схизма
+/cast Рассеивание заклинаний
+END
+VER 3 000000000000007E " " "612968"
+#showtooltip Слово силы: Утешение
+/закл Очищение
 END

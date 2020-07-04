@@ -106,18 +106,18 @@ REFlexDatabase = {
 			}, -- [4]
 		},
 		["StatsNum"] = 0,
-		["Season"] = 29,
+		["Hidden"] = false,
 		["PlayersNum"] = 4,
 		["Duration"] = 81,
-		["PlayerNum"] = 1,
+		["Season"] = 29,
 		["isBrawl"] = false,
-		["Version"] = 275,
-		["isArena"] = true,
-		["Time"] = 1591725645,
-		["isRated"] = true,
 		["PlayerSide"] = 0,
+		["isArena"] = true,
+		["Version"] = 275,
+		["isRated"] = true,
+		["Time"] = 1591725645,
 		["Winner"] = 0,
-		["Hidden"] = false,
+		["PlayerNum"] = 1,
 		["TeamData"] = {
 			{
 				"", -- [1]

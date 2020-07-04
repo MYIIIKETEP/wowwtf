@@ -1,8 +1,7 @@
 
 RaiderIO_Config = {
+	["displayWeeklyGuildBest"] = false,
 }
-RaiderIO_LastCharacter = "eu-Флинтомист-howling-fjord"
+RaiderIO_LastCharacter = "eu-Семеста-howling-fjord"
 RaiderIO_MissingCharacters = {
-	["eu-Азитта-soulflayer"] = true,
-	["eu-Клейрина-soulflayer"] = true,
 }

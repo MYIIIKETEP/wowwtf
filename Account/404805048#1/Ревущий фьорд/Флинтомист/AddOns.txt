@@ -100,3 +100,6 @@ ActionBarProfiles: disabled
 GladiusEx: disabled
 LootCouncil_Lite: disabled
 ClassicActionBars: disabled
+Bartender4: disabled
+Grid2: disabled
+NetherwingEggs: disabled

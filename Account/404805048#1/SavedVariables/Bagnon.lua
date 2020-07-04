@@ -62,8 +62,8 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = 110.4959106445313,
-			["x"] = -134.5635986328125,
+			["y"] = 166.290771484375,
+			["x"] = -17.50439453125,
 			["borderColor"] = {
 			},
 			["columns"] = 12,
@@ -159,17 +159,17 @@ Bagnon_Sets = {
 				"quest", -- [19]
 				"misc", -- [20]
 			},
-			["point"] = "TOPLEFT",
+			["point"] = "BOTTOMLEFT",
 			["hiddenBags"] = {
 				[8] = true,
-				[-3] = true,
+				[-3] = false,
 			},
 			["color"] = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -16.8375244140625,
-			["x"] = 588.4022827148438,
+			["y"] = 0,
+			["x"] = 690.1458740234375,
 			["borderColor"] = {
 			},
 			["showBags"] = true,

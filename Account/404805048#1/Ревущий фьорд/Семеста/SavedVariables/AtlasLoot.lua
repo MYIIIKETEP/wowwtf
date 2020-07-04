@@ -11,8 +11,8 @@ AtlasLootCharDB = {
 		["selected"] = {
 			"AtlasLoot_Collections", -- [1]
 			"TIERSETS", -- [2]
-			7, -- [3]
-			4, -- [4]
+			nil, -- [3]
+			1, -- [4]
 			0, -- [5]
 		},
 		["point"] = {
@@ -25,6 +25,6 @@ AtlasLootCharDB = {
 	},
 	["__addonrevision"] = 4772,
 	["minimap"] = {
-		["minimapPos"] = 9.317049193419116,
+		["minimapPos"] = 152.3615177455293,
 	},
 }

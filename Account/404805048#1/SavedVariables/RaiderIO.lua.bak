@@ -1,6 +1,13 @@
 
 RaiderIO_Config = {
+	["displayWeeklyGuildBest"] = false,
 }
 RaiderIO_LastCharacter = "eu-Семеста-howling-fjord"
 RaiderIO_MissingCharacters = {
+	["eu-Ктулатан-soulflayer"] = true,
+	["eu-Дизабр-deathguard"] = true,
+	["eu-Косоглазь-blackscar"] = true,
+	["eu-Неизвестно-howling-fjord"] = true,
+	["eu-Тадгад-howling-fjord"] = true,
+	["eu-Кесельтас-soulflayer"] = true,
 }

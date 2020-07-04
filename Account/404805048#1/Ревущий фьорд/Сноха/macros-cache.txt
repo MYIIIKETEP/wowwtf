@@ -1,0 +1,3 @@
+VER 3 0100000000000001 "фывыф" "INV_MISC_QUESTIONMARK"
+/target Тотем заземления
+END

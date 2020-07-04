@@ -6,4 +6,7 @@ AtlasLootCharDB = {
 			[5] = 0,
 		},
 	},
+	["minimap"] = {
+		["minimapPos"] = 143.4977927147713,
+	},
 }

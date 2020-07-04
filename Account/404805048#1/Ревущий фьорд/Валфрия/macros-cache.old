@@ -1,6 +1,9 @@
 VER 3 0100000000000004 " " "136022"
 /cast [@focus] Смерч(PvP-талант)
 END
+VER 3 0100000000000008 " " "INV_MISC_QUESTIONMARK"
+/cast [@focus] Мощное оглушение
+END
 VER 3 0100000000000001 " " "136022"
 /cast Смерч(PvP-талант)
 END

@@ -11,8 +11,8 @@ VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 010000000000000E " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomod] Превращение(Овца)
-/cast [mod:shift, @focus]Превращение(Овца)
+/cast [nomod] Превращение(Обезьяна)
+/cast [mod:shift, @focus]Превращение(Обезьяна)
 /cast [mod:ctrl] Огненный столб
 END
 VER 3 010000000000000F " " "INV_MISC_QUESTIONMARK"
@@ -40,8 +40,8 @@ VER 3 0100000000000012 " " "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000013 " " "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [nomod] Превращение(Овца)
-/cast [mod:shift, @focus]Превращение(Овца)
+/cast [nomod] Превращение(Обезьяна)
+/cast [mod:shift, @focus]Превращение(Обезьяна)
 /cast [mod:ctrl] Снежная буря
 END
 VER 3 0100000000000014 " " "INV_MISC_QUESTIONMARK"
@@ -53,7 +53,15 @@ VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
 /use Жетон падшего гладиатора
 /закл Кровавое неистовство(Расовая)
 END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/закл Ледяная стрела
+/закл Водяная стрела
+END
 VER 3 0100000000000015 "ARENA" "INV_MISC_QUESTIONMARK"
 /закл Возгорание
 /закл Кровавое неистовство(Расовая)
+END
+VER 3 0100000000000018 "цвц" "INV_MISC_QUESTIONMARK"
+/Target Морденай
 END

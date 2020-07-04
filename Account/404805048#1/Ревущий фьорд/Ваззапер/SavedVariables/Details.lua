@@ -7,8 +7,8 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 321,
 					["tipo"] = 2,
+					["combatId"] = 321,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -25,28 +25,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-								["Ваззапер"] = {
-									["spells"] = {
-										[312246] = 37012,
-									},
-									["total"] = 37012,
-								},
-							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 37012,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 487608.00184,
-							["end_time"] = 1592310325,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 487608.00184,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
+							["last_dps"] = 23095.15473120695,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 3,
@@ -64,22 +44,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 14,
 										["MISS"] = 2,
-										["total"] = 37508,
+										["r_amt"] = 0,
 										["c_max"] = 7304,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
 										["c_min"] = 3442,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 9,
+										["id"] = 1,
+										["total"] = 37508,
 									}, -- [1]
 									[310690] = {
 										["c_amt"] = 0,
@@ -102,15 +82,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 3,
@@ -134,15 +114,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 12,
-										["r_amt"] = 0,
 										["c_min"] = 20599,
+										["n_amt"] = 12,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 2,
@@ -165,15 +145,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 15928,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 1,
@@ -196,15 +176,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 4075,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -228,15 +208,46 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[311192] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 24746,
+										["targets"] = {
+											["Вил'тик - ваятель янтаря"] = 48441,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 48441,
+										["n_min"] = 23695,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 48441,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 0,
@@ -259,15 +270,46 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[261977] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 7836,
+										["g_amt"] = 0,
+										["n_max"] = 7810,
+										["targets"] = {
+											["Вил'тик - янтарный целитель"] = 15646,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7810,
+										["n_min"] = 7810,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 15646,
+										["c_max"] = 7836,
+										["spellschool"] = 1,
+										["id"] = 261977,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["c_min"] = 7836,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 1,
@@ -291,95 +333,52 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 5976,
-									},
-									[261977] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 7836,
-										["g_amt"] = 0,
-										["n_max"] = 7810,
-										["targets"] = {
-											["Вил'тик - янтарный целитель"] = 15646,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 7810,
-										["n_min"] = 7810,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 15646,
-										["c_max"] = 7836,
-										["spellschool"] = 1,
-										["id"] = 261977,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["n_amt"] = 4,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
 										["r_amt"] = 0,
-										["c_min"] = 7836,
-									},
-									[311192] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 24746,
-										["targets"] = {
-											["Вил'тик - ваятель янтаря"] = 48441,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 48441,
-										["n_min"] = 23695,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 48441,
-										["c_max"] = 0,
-										["spellschool"] = 4,
-										["id"] = 311192,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 269,
+							["friendlyfire_total"] = 37012,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 487608.00184,
+							["friendlyfire"] = {
+								["Ваззапер"] = {
+									["spells"] = {
+										[312246] = 37012,
+									},
+									["total"] = 37012,
+								},
+							},
 							["serial"] = "Player-1615-09C24DE1",
-							["last_dps"] = 24403.58349632179,
-							["custom"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
+							["end_time"] = 1592310325,
+							["classe"] = "MONK",
 							["damage_taken"] = 147021.00184,
+							["nome"] = "Ваззапер",
+							["spec"] = 269,
+							["grupo"] = true,
+							["dps_started"] = false,
+							["total"] = 487608.00184,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1592310324,
+							["on_hold"] = false,
 							["start_time"] = 1592310304,
 							["delay"] = 0,
-							["last_event"] = 1592310324,
+							["colocacao"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
 							["totalabsorbed"] = 27283.005203,
-							["monster"] = true,
 							["damage_from"] = {
 								["Ваззапер"] = true,
 							},
@@ -388,19 +387,20 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 68963.00520300001,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 68963.00520300001,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-153255-000068AD39",
+							["fight_component"] = true,
+							["total"] = 68963.00520300001,
+							["monster"] = true,
+							["damage_taken"] = 270983.005203,
 							["nome"] = "Вил'тик - янтарный целитель",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -417,22 +417,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 6,
 										["a_amt"] = 0,
-										["total"] = 27283,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 2,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 4,
+										["id"] = 1,
+										["total"] = 27283,
 									}, -- [1]
 									[312257] = {
 										["c_amt"] = 0,
@@ -456,31 +456,30 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 9610,
 										["m_crit"] = 0,
-										["a_amt"] = 1,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 4,
 										["b_dmg"] = 0,
 										["n_amt"] = 4,
+										["a_amt"] = 1,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592310325,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 270983.005203,
+							["last_event"] = 1592310322,
+							["on_hold"] = false,
 							["start_time"] = 1592310305,
 							["delay"] = 0,
-							["last_event"] = 1592310322,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 10028.001384,
-							["monster"] = true,
 							["damage_from"] = {
 								["Ваззапер"] = true,
 							},
@@ -489,19 +488,20 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 31233.001384,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 31233.001384,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-157757-000068ADBB",
+							["fight_component"] = true,
+							["total"] = 31233.001384,
+							["monster"] = true,
+							["damage_taken"] = 216625.001384,
 							["nome"] = "Вил'тик - ваятель янтаря",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -520,21 +520,21 @@ _detalhes_database = {
 										["counter"] = 2,
 										["DODGE"] = 1,
 										["total"] = 0,
-										["c_max"] = 0,
 										["spellschool"] = 1,
+										["b_dmg"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 1,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 0,
+										["c_max"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[312257] = {
 										["c_amt"] = 0,
@@ -558,13 +558,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[312262] = {
 										["c_amt"] = 0,
@@ -588,31 +588,30 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592310325,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 216625.001384,
+							["last_event"] = 1592310321,
+							["on_hold"] = false,
 							["start_time"] = 1592310309,
 							["delay"] = 0,
-							["last_event"] = 1592310321,
+							["friendlyfire_total"] = 0,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
 							["totalabsorbed"] = 4975.004984,
-							["monster"] = true,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -620,19 +619,20 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 9813.004984,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 9813.004984,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-153267-000068B868",
+							["fight_component"] = true,
+							["total"] = 9813.004984,
+							["monster"] = true,
+							["damage_taken"] = 0.004984,
 							["nome"] = "Вил'тик - хранитель роя",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[172193] = {
 										["c_amt"] = 0,
@@ -656,49 +656,104 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 2,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592310325,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.004984,
+							["last_event"] = 1592310317,
+							["on_hold"] = false,
 							["start_time"] = 1592310313,
 							["delay"] = 0,
-							["last_event"] = 1592310317,
+							["friendlyfire_total"] = 0,
 						}, -- [4]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 321,
 					["tipo"] = 3,
+					["combatId"] = 321,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Отрекшийся - боевой страж"] = 24686,
+								["Батрак"] = 7795,
+								["Озерми"] = 19523,
+								["Артрейдер"] = 31111,
+								["Маминосолнце"] = 21380,
+								["Ваззапер"] = 2527587,
+								["Демджин-Азурегос"] = 6078,
+							},
+							["pets"] = {
+								"Статуя Нефритовой Змеи <Ваззапер>", -- [1]
+							},
+							["iniciar_hps"] = true,
+							["classe"] = "MONK",
+							["totalover"] = 2737120.005739,
+							["total_without_pet"] = 165352.005739,
+							["total"] = 165352.005739,
+							["spec"] = 270,
+							["heal_enemy"] = {
+								[191840] = 0,
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1615-09C24DE1",
 							["totalabsorb"] = 43919.005739,
 							["last_hps"] = 0,
+							["targets"] = {
+								["Ваззапер"] = 145017,
+								["Демджин-Азурегос"] = 20335,
+							},
+							["totalover_without_pet"] = 0.005739,
+							["healing_taken"] = 145017.005739,
+							["fight_component"] = true,
+							["targets_absorbs"] = {
+								["Ваззапер"] = 43919,
+							},
 							["healing_from"] = {
 								["Ваззапер"] = true,
 							},
-							["targets_overheal"] = {
-								["Ваззапер"] = 79419,
-							},
-							["targets"] = {
-								["Ваззапер"] = 145017,
-							},
+							["timeMachine"] = 5,
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
+									[295375] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 18802,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 18802,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 295375,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
 									[269279] = {
 										["c_amt"] = 0,
 										["totalabsorb"] = 43919,
@@ -717,10 +772,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 43919,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 43919,
 										["n_amt"] = 7,
@@ -729,18 +784,18 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 									[132463] = {
-										["c_amt"] = 1,
+										["c_amt"] = 2,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Ваззапер"] = 6325,
+											["Ваззапер"] = 15541,
 										},
 										["n_max"] = 3033,
 										["targets"] = {
 											["Ваззапер"] = 9100,
 										},
 										["n_min"] = 0,
-										["counter"] = 4,
-										["overheal"] = 6325,
+										["counter"] = 6,
+										["overheal"] = 15541,
 										["total"] = 9100,
 										["c_max"] = 6067,
 										["id"] = 132463,
@@ -748,66 +803,96 @@ _detalhes_database = {
 										},
 										["c_curado"] = 6067,
 										["m_crit"] = 0,
-										["c_min"] = 6067,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 3033,
-										["n_amt"] = 3,
+										["n_amt"] = 4,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
 									},
-									[298318] = {
-										["c_amt"] = 2,
+									[119611] = {
+										["c_amt"] = 9,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Ваззапер"] = 53986,
+											["Ваззапер"] = 122874,
+											["Демджин-Азурегос"] = 6078,
+										},
+										["n_max"] = 2261,
+										["targets"] = {
+											["Ваззапер"] = 0,
+											["Демджин-Азурегос"] = 20335,
+										},
+										["n_min"] = 0,
+										["counter"] = 53,
+										["overheal"] = 128952,
+										["total"] = 20335,
+										["c_max"] = 4519,
+										["id"] = 119611,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 9038,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 11297,
+										["n_amt"] = 44,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[124682] = {
+										["c_amt"] = 11,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 328633,
 										},
 										["n_max"] = 0,
 										["targets"] = {
-											["Ваззапер"] = 33269,
+											["Ваззапер"] = 0,
 										},
 										["n_min"] = 0,
-										["counter"] = 2,
-										["overheal"] = 53986,
-										["total"] = 33269,
-										["c_max"] = 33269,
-										["id"] = 298318,
+										["counter"] = 49,
+										["overheal"] = 328633,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 124682,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 33269,
+										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 33269,
+										["c_min"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 0,
-										["n_amt"] = 0,
+										["n_amt"] = 38,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
 									},
-									[125355] = {
-										["c_amt"] = 1,
+									[266018] = {
+										["c_amt"] = 6,
 										["totalabsorb"] = 0,
 										["targets_overheal"] = {
-											["Ваззапер"] = 19058,
+											["Ваззапер"] = 149755,
 										},
-										["n_max"] = 20687,
+										["n_max"] = 0,
 										["targets"] = {
-											["Ваззапер"] = 42725,
+											["Ваззапер"] = 0,
 										},
-										["n_min"] = 20687,
-										["counter"] = 2,
-										["overheal"] = 19058,
-										["total"] = 42725,
-										["c_max"] = 22038,
-										["id"] = 125355,
+										["n_min"] = 0,
+										["counter"] = 16,
+										["overheal"] = 149755,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 266018,
 										["targets_absorbs"] = {
 										},
-										["c_curado"] = 22038,
+										["c_curado"] = 0,
 										["m_crit"] = 0,
-										["c_min"] = 22038,
+										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 20687,
-										["n_amt"] = 1,
+										["n_curado"] = 0,
+										["n_amt"] = 10,
 										["totaldenied"] = 0,
 										["m_healed"] = 0,
 										["absorbed"] = 0,
@@ -840,48 +925,306 @@ _detalhes_database = {
 										["m_healed"] = 0,
 										["absorbed"] = 0,
 									},
+									[116670] = {
+										["c_amt"] = 7,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 743730,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 33,
+										["overheal"] = 743730,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 116670,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 26,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[115310] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 63184,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 63184,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 115310,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 0,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[191894] = {
+										["c_amt"] = 9,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 506880,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 34,
+										["overheal"] = 506880,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 191894,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 25,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[298318] = {
+										["c_amt"] = 4,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 233656,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 33269,
+										},
+										["n_min"] = 0,
+										["counter"] = 8,
+										["overheal"] = 233656,
+										["total"] = 33269,
+										["c_max"] = 33269,
+										["id"] = 298318,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 33269,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 4,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[125355] = {
+										["c_amt"] = 1,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 19058,
+										},
+										["n_max"] = 20687,
+										["targets"] = {
+											["Ваззапер"] = 42725,
+										},
+										["n_min"] = 20687,
+										["counter"] = 2,
+										["overheal"] = 19058,
+										["total"] = 42725,
+										["c_max"] = 22038,
+										["id"] = 125355,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 22038,
+										["m_crit"] = 0,
+										["c_min"] = 22038,
+										["m_amt"] = 0,
+										["n_curado"] = 20687,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[191840] = {
+										["c_amt"] = 9,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Отрекшийся - боевой страж"] = 24686,
+											["Батрак"] = 7795,
+											["Озерми"] = 19523,
+											["Маминосолнце"] = 21380,
+											["Ваззапер"] = 27588,
+											["Артрейдер"] = 31111,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Отрекшийся - боевой страж"] = 0,
+											["Батрак"] = 0,
+											["Озерми"] = 0,
+											["Маминосолнце"] = 0,
+											["Ваззапер"] = 0,
+											["Артрейдер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 58,
+										["overheal"] = 132083,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 191840,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 49,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[115175] = {
+										["c_amt"] = 5,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 297836,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 37,
+										["overheal"] = 297836,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 115175,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 32,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
 								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["nome"] = "Ваззапер",
+							["heal_enemy_amt"] = 0,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["start_time"] = 1592310372,
+							["totaldenied"] = 0.005739,
+							["delay"] = 1593380983,
+							["last_event"] = 1593436564,
+						}, -- [1]
+						{
+							["flag_original"] = 8465,
+							["totalabsorb"] = 0.006403,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[198533] = {
+										["c_amt"] = 6,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Ваззапер"] = 98960,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 37,
+										["overheal"] = 98960,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 198533,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 31,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["targets"] = {
+							},
+							["targets_overheal"] = {
+								["Ваззапер"] = 98960,
 							},
 							["pets"] = {
 							},
-							["totalover_without_pet"] = 0.005739,
-							["iniciar_hps"] = false,
-							["healing_taken"] = 145017.005739,
-							["totalover"] = 79419.005739,
-							["total_without_pet"] = 145017.005739,
-							["end_time"] = 1592310325,
+							["totalover_without_pet"] = 0.006403,
+							["start_time"] = 1593436103,
+							["classe"] = "PET",
+							["totalover"] = 98960.006403,
+							["total_without_pet"] = 0.006403,
+							["iniciar_hps"] = true,
+							["timeMachine"] = 2,
 							["heal_enemy_amt"] = 0,
-							["fight_component"] = true,
-							["total"] = 145017.005739,
-							["classe"] = "MONK",
-							["start_time"] = 1592310305,
-							["nome"] = "Ваззапер",
-							["spec"] = 269,
-							["grupo"] = true,
+							["total"] = 0.006403,
 							["targets_absorbs"] = {
-								["Ваззапер"] = 43919,
 							},
+							["ownerName"] = "Ваззапер",
+							["nome"] = "Статуя Нефритовой Змеи <Ваззапер>",
+							["healing_taken"] = 0.006403,
 							["heal_enemy"] = {
 							},
-							["serial"] = "Player-1615-09C24DE1",
+							["serial"] = "Creature-0-3891-1642-25230-60849-000079E74E",
 							["custom"] = 0,
-							["last_event"] = 1592310325,
-							["on_hold"] = false,
-							["totaldenied"] = 0.005739,
-							["delay"] = 0,
+							["last_event"] = 1593436132,
+							["on_hold"] = true,
+							["totaldenied"] = 0.006403,
+							["delay"] = 1593436132,
 							["tipo"] = 2,
-						}, -- [1]
+						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 321,
 					["tipo"] = 7,
+					["combatId"] = 321,
 					["_ActorTable"] = {
 						{
-							["received"] = 50.001267,
+							["received"] = 3120.001267,
 							["resource"] = 10.001267,
 							["targets"] = {
-								["Ваззапер"] = 50,
+								["Ваззапер"] = 3120,
 							},
 							["pets"] = {
 							},
@@ -889,10 +1232,9 @@ _detalhes_database = {
 							["classe"] = "MONK",
 							["passiveover"] = 8.001267,
 							["fight_component"] = true,
-							["total"] = 50.001267,
+							["total"] = 3120.001267,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 50,
@@ -903,13 +1245,23 @@ _detalhes_database = {
 										},
 										["counter"] = 2,
 									},
+									[298324] = {
+										["total"] = 3070,
+										["id"] = 298324,
+										["totalover"] = 0,
+										["targets"] = {
+											["Ваззапер"] = 3070,
+										},
+										["counter"] = 6,
+									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
 							["flag_original"] = 1297,
 							["alternatepower"] = 0.001267,
-							["last_event"] = 1592310321,
+							["last_event"] = 1593436538,
 							["spec"] = 269,
 							["tipo"] = 3,
 							["serial"] = "Player-1615-09C24DE1",
@@ -918,88 +1270,85 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 321,
 					["tipo"] = 9,
+					["combatId"] = 321,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 15,
-										["appliedamt"] = 2,
+										["id"] = 115804,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 19,
-										["appliedamt"] = 3,
+										["id"] = 228287,
 										["refreshamt"] = 7,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 3,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 295367,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[119381] = {
-										["activedamt"] = 0,
-										["id"] = 119381,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 3,
-										["appliedamt"] = 3,
+										["id"] = 119381,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113746] = {
-										["activedamt"] = 0,
-										["id"] = 113746,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 20,
-										["appliedamt"] = 3,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
-							},
-							["interrupt_targets"] = {
-								["Вил'тик - ваятель янтаря"] = 1,
-							},
-							["buff_uptime"] = 197,
-							["cc_done_spells"] = {
 								["tipo"] = 9,
+							},
+							["buff_uptime"] = 226,
+							["spec"] = 269,
+							["cc_done_spells"] = {
 								["_ActorTable"] = {
 									[119381] = {
 										["id"] = 119381,
@@ -1010,10 +1359,10 @@ _detalhes_database = {
 										["counter"] = 3,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["classe"] = "MONK",
 							["interrupt_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[116705] = {
 										["id"] = 116705,
@@ -1026,154 +1375,168 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 1,
-										["id"] = 113656,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 4,
-										["appliedamt"] = 1,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 2,
-										["id"] = 196742,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 10,
-										["appliedamt"] = 2,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 2,
-										["id"] = 261769,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 17,
-										["appliedamt"] = 2,
+										["id"] = 261769,
 										["refreshamt"] = 8,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298343] = {
-										["activedamt"] = 2,
-										["id"] = 298343,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 16,
-										["appliedamt"] = 2,
+										["id"] = 298343,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[269083] = {
+									[198533] = {
 										["activedamt"] = 1,
-										["id"] = 269083,
+										["id"] = 198533,
 										["targets"] = {
 										},
-										["uptime"] = 21,
+										["uptime"] = 29,
 										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269083] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 21,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 2,
-										["id"] = 196741,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 20,
-										["appliedamt"] = 2,
+										["id"] = 196741,
 										["refreshamt"] = 6,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201318] = {
-										["activedamt"] = 1,
-										["id"] = 201318,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 201318,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[279928] = {
-										["activedamt"] = 1,
-										["id"] = 279928,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
+										["id"] = 279928,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 21,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["interrompeu_oque"] = {
 								[276888] = 1,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 65,
-							["interrupt"] = 1.002229,
-							["cc_done"] = 3.002433,
-							["buff_uptime_targets"] = {
+							["pets"] = {
 							},
-							["spec"] = 269,
+							["cc_done"] = 3.002433,
+							["interrupt"] = 1.002229,
+							["interrupt_targets"] = {
+								["Вил'тик - ваятель янтаря"] = 1,
+							},
 							["grupo"] = true,
 							["spell_cast"] = {
 								[310690] = 1,
@@ -1193,17 +1556,17 @@ _detalhes_database = {
 							},
 							["debuff_uptime_targets"] = {
 							},
-							["last_event"] = 1592310325,
-							["nome"] = "Ваззапер",
-							["pets"] = {
-							},
-							["serial"] = "Player-1615-09C24DE1",
+							["last_event"] = 1593436132,
 							["tipo"] = 4,
+							["nome"] = "Ваззапер",
+							["serial"] = "Player-1615-09C24DE1",
+							["buff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик - ваятель янтаря",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик - ваятель янтаря",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -1218,8 +1581,8 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик - хранитель роя",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик - хранитель роя",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -1233,8 +1596,8 @@ _detalhes_database = {
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик - янтарный целитель",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик - янтарный целитель",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -1249,31 +1612,27 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 321,
 					["tipo"] = 2,
+					["combatId"] = 321,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
 					["Ваззапер"] = true,
 				},
-				["last_events_tables"] = {
-				},
 				["overall_added"] = true,
-				["cleu_timeline"] = {
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["tempo_start"] = 1592310304,
-				["enemy"] = "Вил'тик - янтарный целитель",
 				["combat_counter"] = 367,
 				["playing_solo"] = true,
 				["totals"] = {
-					597616.997084, -- [1]
-					145017, -- [2]
+					597616.933527, -- [1]
+					165351.875268, -- [2]
 					{
 						0, -- [1]
-						[0] = 0,
+						[0] = 3069.997178,
 						["alternatepower"] = 0,
 						[3] = 50,
 						[6] = 0,
@@ -1281,10 +1640,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -1292,10 +1651,338 @@ _detalhes_database = {
 					["voidzone_damage"] = 0,
 				},
 				["player_last_events"] = {
+					["Ваззапер"] = {
+						{
+							false, -- [1]
+							119611, -- [2]
+							4522, -- [3]
+							1593436549.39, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [1]
+						{
+							false, -- [1]
+							119611, -- [2]
+							2260, -- [3]
+							1593436551.016, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [2]
+						{
+							false, -- [1]
+							119611, -- [2]
+							2260, -- [3]
+							1593436552.726, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [3]
+						{
+							false, -- [1]
+							119611, -- [2]
+							4521, -- [3]
+							1593436554.392, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [4]
+						{
+							false, -- [1]
+							119611, -- [2]
+							4521, -- [3]
+							1593436556.096, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [5]
+						{
+							false, -- [1]
+							119611, -- [2]
+							4521, -- [3]
+							1593436557.851, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [6]
+						{
+							false, -- [1]
+							119611, -- [2]
+							2261, -- [3]
+							1593436559.571, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [7]
+						{
+							false, -- [1]
+							119611, -- [2]
+							2261, -- [3]
+							1593436561.284, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [8]
+						{
+							false, -- [1]
+							119611, -- [2]
+							2261, -- [3]
+							1593436562.931, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [9]
+						{
+							false, -- [1]
+							119611, -- [2]
+							2260, -- [3]
+							1593436564.694, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [10]
+						{
+							false, -- [1]
+							119611, -- [2]
+							116, -- [3]
+							1593436564.694, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [11]
+						{
+							false, -- [1]
+							116670, -- [2]
+							15183, -- [3]
+							1593436543.552, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [12]
+						{
+							false, -- [1]
+							191894, -- [2]
+							13930, -- [3]
+							1593436543.552, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [13]
+						{
+							false, -- [1]
+							119611, -- [2]
+							3304, -- [3]
+							1593436544.193, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [14]
+						{
+							false, -- [1]
+							115175, -- [2]
+							8207, -- [3]
+							1593436544.307, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [15]
+						{
+							false, -- [1]
+							124682, -- [2]
+							5804, -- [3]
+							1593436544.307, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [16]
+						{
+							false, -- [1]
+							116670, -- [2]
+							20723, -- [3]
+							1593436544.76, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [17]
+						{
+							false, -- [1]
+							116670, -- [2]
+							15184, -- [3]
+							1593436544.76, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [18]
+						{
+							false, -- [1]
+							191894, -- [2]
+							27861, -- [3]
+							1593436544.76, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [19]
+						{
+							false, -- [1]
+							115175, -- [2]
+							8207, -- [3]
+							1593436545.161, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [20]
+						{
+							false, -- [1]
+							124682, -- [2]
+							11608, -- [3]
+							1593436545.161, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [21]
+						{
+							false, -- [1]
+							119611, -- [2]
+							3303, -- [3]
+							1593436545.837, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [22]
+						{
+							false, -- [1]
+							115175, -- [2]
+							8208, -- [3]
+							1593436546.061, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [23]
+						{
+							false, -- [1]
+							124682, -- [2]
+							11608, -- [3]
+							1593436546.061, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [24]
+						{
+							false, -- [1]
+							116670, -- [2]
+							20723, -- [3]
+							1593436546.061, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [25]
+						{
+							false, -- [1]
+							116670, -- [2]
+							15183, -- [3]
+							1593436546.061, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [26]
+						{
+							false, -- [1]
+							191894, -- [2]
+							13930, -- [3]
+							1593436546.061, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [27]
+						{
+							false, -- [1]
+							115175, -- [2]
+							7863, -- [3]
+							1593436546.92, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [28]
+						{
+							false, -- [1]
+							124682, -- [2]
+							5560, -- [3]
+							1593436546.92, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [29]
+						{
+							false, -- [1]
+							119611, -- [2]
+							3164, -- [3]
+							1593436547.587, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [30]
+						{
+							false, -- [1]
+							124682, -- [2]
+							5560, -- [3]
+							1593436547.77, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [31]
+						{
+							false, -- [1]
+							124682, -- [2]
+							1041, -- [3]
+							1593436547.89, -- [4]
+							332600, -- [5]
+							"Ваззапер", -- [6]
+							nil, -- [7]
+							0, -- [8]
+						}, -- [32]
+						["n"] = 12,
+					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:25:26",
+				["cleu_timeline"] = {
 				},
+				["enemy"] = "Вил'тик - янтарный целитель",
+				["TotalElapsedCombatTime"] = 9861.835000000001,
 				["CombatEndedAt"] = 9861.835000000001,
 				["aura_timeline"] = {
 				},
@@ -1303,12 +1990,26 @@ _detalhes_database = {
 				},
 				["data_inicio"] = "14:25:04",
 				["end_time"] = 9861.835000000001,
+				["combat_id"] = 321,
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1592310304,
+				["frags"] = {
+					["Вил'тик - янтарный целитель"] = 2,
+					["Вил'тик - ваятель янтаря"] = 1,
+				},
+				["contra"] = "Вил'тик - янтарный целитель",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					524620, -- [1]
-					145017, -- [2]
+					165352, -- [2]
 					{
 						0, -- [1]
-						[0] = 0,
+						[0] = 3070,
 						["alternatepower"] = 0,
 						[3] = 50,
 						[6] = 0,
@@ -1316,22 +2017,24 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["combat_id"] = 321,
-				["TotalElapsedCombatTime"] = 9861.835000000001,
-				["frags_need_refresh"] = true,
+				["start_time"] = 9840.722,
+				["TimeData"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -1339,33 +2042,17 @@ _detalhes_database = {
 							["Ваззапер"] = 145017.005739,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 487608.00184,
 						}, -- [1]
 					},
 				},
-				["frags"] = {
-					["Вил'тик - янтарный целитель"] = 2,
-					["Вил'тик - ваятель янтаря"] = 1,
-				},
-				["data_fim"] = "14:25:26",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["start_time"] = 9840.722,
-				["contra"] = "Вил'тик - янтарный целитель",
-				["TimeData"] = {
-				},
 			}, -- [1]
 			{
 				{
-					["combatId"] = 320,
 					["tipo"] = 2,
+					["combatId"] = 320,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -1376,23 +2063,16 @@ _detalhes_database = {
 							["targets"] = {
 								["Кри'вин"] = 383425,
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["colocacao"] = 1,
+							["end_time"] = 1592310287,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 383425.00703,
-							["end_time"] = 1592310287,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 383425.00703,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 5,
@@ -1409,22 +2089,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 17,
 										["MISS"] = 2,
-										["total"] = 52710,
+										["r_amt"] = 0,
 										["c_max"] = 7012,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
 										["c_min"] = 3145,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["id"] = 1,
+										["total"] = 52710,
 									}, -- [1]
 									[201787] = {
 										["c_amt"] = 0,
@@ -1441,22 +2121,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 9,
 										["IMMUNE"] = 9,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 201787,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 201787,
+										["total"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 2,
@@ -1479,15 +2159,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 18355,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 1,
@@ -1510,15 +2190,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 20022,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 2,
@@ -1541,15 +2221,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 3889,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -1572,15 +2252,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 2,
@@ -1603,15 +2283,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 13507,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 2,
@@ -1634,15 +2314,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 5599,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 2,
@@ -1665,15 +2345,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 4290,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[261977] = {
 										["c_amt"] = 0,
@@ -1696,28 +2376,35 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
+							["dps_started"] = false,
+							["total"] = 383425.00703,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Ваззапер",
 							["spec"] = 269,
-							["serial"] = "Player-1615-09C24DE1",
+							["grupo"] = true,
+							["classe"] = "MONK",
 							["last_dps"] = 15330.86793402626,
 							["custom"] = 0,
-							["tipo"] = 1,
+							["last_event"] = 1592310286,
 							["damage_taken"] = 17385.00703,
 							["start_time"] = 1592310261,
 							["delay"] = 0,
-							["last_event"] = 1592310286,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -1733,20 +2420,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-161672-000068B7D4",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 127236.001422,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-161672-000068B7D4",
 							["dps_started"] = false,
 							["total"] = 127236.001422,
 							["end_time"] = 1592310287,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Кри'вин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -1763,22 +2449,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 9,
 										["a_amt"] = 2,
-										["total"] = 52991,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 12302,
 										["m_crit"] = 0,
 										["PARRY"] = 1,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 8,
+										["id"] = 1,
+										["total"] = 52991,
 									}, -- [1]
 									[312211] = {
 										["c_amt"] = 0,
@@ -1801,13 +2487,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[315761] = {
 										["c_amt"] = 0,
@@ -1832,32 +2518,33 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 27,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["last_event"] = 1592310285,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310285,
+							["tipo"] = 1,
 							["damage_taken"] = 1801049.001422,
 							["start_time"] = 1592310263,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 320,
 					["tipo"] = 3,
+					["combatId"] = 320,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1304,
@@ -1871,9 +2558,7 @@ _detalhes_database = {
 							["totalover"] = 22741.001827,
 							["total_without_pet"] = 348514.001827,
 							["total"] = 348514.001827,
-							["targets_absorbs"] = {
-								["Баллрус-Ясеневыйлес"] = 100095,
-							},
+							["spec"] = 70,
 							["heal_enemy"] = {
 							},
 							["on_hold"] = false,
@@ -1887,10 +2572,8 @@ _detalhes_database = {
 							["healing_taken"] = 351527.001827,
 							["fight_component"] = true,
 							["end_time"] = 1592310287,
-							["heal_enemy_amt"] = 0,
 							["nome"] = "Баллрус-Ясеневыйлес",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[184662] = {
 										["c_amt"] = 0,
@@ -1910,10 +2593,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Баллрус-Ясеневыйлес"] = 62699,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 62699,
 										["n_amt"] = 18,
@@ -1994,10 +2677,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Баллрус-Ясеневыйлес"] = 37396,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 37396,
 										["n_amt"] = 12,
@@ -2088,16 +2771,20 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["healing_from"] = {
 								["Ваззапер"] = true,
 								["Баллрус-Ясеневыйлес"] = true,
 							},
 							["need_refresh"] = true,
-							["start_time"] = 1592310262,
+							["targets_absorbs"] = {
+								["Баллрус-Ясеневыйлес"] = 100095,
+							},
+							["heal_enemy_amt"] = 0,
 							["custom"] = 0,
 							["last_event"] = 1592310285,
-							["spec"] = 70,
+							["start_time"] = 1592310262,
 							["totaldenied"] = 0.001827,
 							["delay"] = 0,
 							["tipo"] = 2,
@@ -2110,7 +2797,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 36833.004452,
 							["total_without_pet"] = 43053.004452,
 							["total"] = 43053.004452,
@@ -2131,10 +2818,11 @@ _detalhes_database = {
 							["healing_taken"] = 40040.004452,
 							["fight_component"] = true,
 							["end_time"] = 1592310287,
-							["start_time"] = 1592310278,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[132463] = {
 										["c_amt"] = 1,
@@ -2182,10 +2870,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 13455,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 13455,
 										["n_amt"] = 4,
@@ -2249,24 +2937,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592310275,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592310278,
 							["totaldenied"] = 0.004452,
 							["delay"] = 1592310275,
-							["last_event"] = 1592310275,
+							["spec"] = 269,
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 320,
 					["tipo"] = 7,
+					["combatId"] = 320,
 					["_ActorTable"] = {
 						{
 							["received"] = 320.003506,
@@ -2283,7 +2970,6 @@ _detalhes_database = {
 							["total"] = 320.003506,
 							["nome"] = "Баллрус-Ясеневыйлес",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[203539] = {
 										["total"] = 320,
@@ -2295,6 +2981,7 @@ _detalhes_database = {
 										["counter"] = 8,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["need_refresh"] = true,
 							["resource_type"] = 9,
@@ -2321,7 +3008,6 @@ _detalhes_database = {
 							["total"] = 25.00107,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 25,
@@ -2333,6 +3019,7 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -2347,198 +3034,198 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 320,
 					["tipo"] = 9,
+					["combatId"] = 320,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
-									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+									[115804] = {
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
-										["uptime"] = 9,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
+										["activedamt"] = 0,
+										["uptime"] = 23,
+										["id"] = 115804,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[113746] = {
-										["activedamt"] = 0,
-										["id"] = 113746,
+									[295367] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 25,
-										["appliedamt"] = 1,
+										["activedamt"] = 0,
+										["uptime"] = 9,
+										["id"] = 295367,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 25,
-										["appliedamt"] = 1,
+										["id"] = 228287,
 										["refreshamt"] = 14,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+									[113746] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
-										["uptime"] = 23,
-										["appliedamt"] = 2,
-										["refreshamt"] = 1,
+										["activedamt"] = 0,
+										["uptime"] = 25,
+										["id"] = 113746,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 234,
 							["classe"] = "MONK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 2,
-										["id"] = 113656,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 8,
-										["appliedamt"] = 2,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 4,
-										["id"] = 196742,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 4,
 										["uptime"] = 17,
-										["appliedamt"] = 4,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 2,
-										["id"] = 261769,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 24,
-										["appliedamt"] = 2,
+										["id"] = 261769,
 										["refreshamt"] = 9,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298343] = {
-										["activedamt"] = 1,
-										["id"] = 298343,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 298343,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[152175] = {
-										["activedamt"] = 1,
-										["id"] = 152175,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 1,
-										["appliedamt"] = 1,
+										["id"] = 152175,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 1,
-										["id"] = 196741,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 196741,
 										["refreshamt"] = 5,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[279928] = {
-										["activedamt"] = 1,
-										["id"] = 279928,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 279928,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 26,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 82,
@@ -2574,23 +3261,23 @@ _detalhes_database = {
 								[35395] = 7,
 								[19750] = 1,
 								[184575] = 2,
+								[24275] = 4,
 								[285489] = 1,
 								[20271] = 3,
-								[24275] = 4,
 							},
 							["flag_original"] = 1304,
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "PALADIN",
 							["pets"] = {
 								"Искаженный отросток <Баллрус-Ясеневыйлес>", -- [1]
 							},
 							["serial"] = "Player-1923-0B528384",
-							["tipo"] = 4,
+							["classe"] = "PALADIN",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Кри'вин",
 							["tipo"] = 4,
+							["nome"] = "Кри'вин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -2603,25 +3290,11 @@ _detalhes_database = {
 							["serial"] = "Creature-0-3769-870-9747-161672-000068B7D4",
 							["classe"] = "UNKNOW",
 						}, -- [3]
-						{
-							["flag_original"] = 8472,
-							["ownerName"] = "Баллрус-Ясеневыйлес",
-							["nome"] = "Искаженный отросток <Баллрус-Ясеневыйлес>",
-							["pets"] = {
-							},
-							["classe"] = "PET",
-							["tipo"] = 4,
-							["spell_cast"] = {
-								[316826] = 1,
-							},
-							["serial"] = "Creature-0-3769-870-9747-162764-000068B9C9",
-							["last_event"] = 0,
-						}, -- [4]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 320,
 					["tipo"] = 2,
+					["combatId"] = 320,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -2649,15 +3322,46 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:24:47",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Кри'вин",
+				["TotalElapsedCombatTime"] = 25.95000000000073,
+				["CombatEndedAt"] = 9823.645,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:24:21",
+				["end_time"] = 9823.645,
+				["combat_id"] = 320,
+				["frags"] = {
+					["Кри'вин"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["TimeData"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
 					383425, -- [1]
@@ -2672,31 +3376,23 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["data_fim"] = "14:24:47",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Кри'вин",
-				["TotalElapsedCombatTime"] = 25.95000000000073,
-				["CombatEndedAt"] = 9823.645,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
+				["start_time"] = 9797.695,
+				["contra"] = "Кри'вин",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -2704,47 +3400,25 @@ _detalhes_database = {
 							["Ваззапер"] = 43053.004452,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 383425.00703,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 9823.645,
-				["combat_id"] = 320,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "14:24:21",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Кри'вин"] = 1,
-				},
-				["start_time"] = 9797.695,
-				["TimeData"] = {
-				},
-				["contra"] = "Кри'вин",
 			}, -- [2]
 			{
 				{
-					["combatId"] = 319,
 					["tipo"] = 2,
+					["combatId"] = 319,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.003112,
 							["damage_from"] = {
+								["Спогоста-СвежевательДуш"] = true,
 								["Мир (падение)"] = true,
 								["Вил'тик-воин"] = true,
-								["Спогоста-СвежевательДуш"] = true,
 							},
 							["targets"] = {
 								["Куньчун-разрушитель"] = 179755,
@@ -2754,24 +3428,17 @@ _detalhes_database = {
 								["Спогоста-СвежевательДуш"] = 3824,
 								["Вил'тик - янтарный целитель"] = 36176,
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 								"Ваззапер <Ваззапер>", -- [1]
 							},
-							["friendlyfire"] = {
-							},
+							["colocacao"] = 1,
+							["end_time"] = 1592310233,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 518738.003112,
-							["end_time"] = 1592310233,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 696053.003112,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 8,
@@ -2790,22 +3457,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 30,
 										["MISS"] = 6,
-										["total"] = 67911,
+										["r_amt"] = 0,
 										["c_max"] = 6766,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 16,
-										["r_amt"] = 0,
 										["c_min"] = 1576,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 16,
+										["id"] = 1,
+										["total"] = 67911,
 									}, -- [1]
 									[201787] = {
 										["c_amt"] = 0,
@@ -2822,22 +3489,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 4,
 										["IMMUNE"] = 4,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 201787,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 201787,
+										["total"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 5,
@@ -2863,15 +3530,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 8505,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 0,
@@ -2895,15 +3562,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[229980] = {
 										["c_amt"] = 0,
@@ -2926,15 +3593,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 2,
@@ -2959,15 +3626,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 1643,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[261977] = {
 										["c_amt"] = 3,
@@ -2991,15 +3658,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 6797,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -3023,15 +3690,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 0,
@@ -3055,15 +3722,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 2,
@@ -3088,15 +3755,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 2397,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[119381] = {
 										["c_amt"] = 0,
@@ -3113,22 +3780,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 1,
 										["IMMUNE"] = 1,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 119381,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 119381,
+										["total"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 1,
@@ -3151,28 +3818,35 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 2507,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
+							["dps_started"] = false,
+							["total"] = 696053.003112,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Ваззапер",
 							["spec"] = 269,
-							["serial"] = "Player-1615-09C24DE1",
+							["grupo"] = true,
+							["classe"] = "MONK",
 							["last_dps"] = 15152.00929757496,
 							["custom"] = 0,
-							["tipo"] = 1,
+							["last_event"] = 1592310227,
 							["damage_taken"] = 163233.003112,
 							["start_time"] = 1592310187,
 							["delay"] = 0,
-							["last_event"] = 1592310227,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -3194,19 +3868,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 352115.004635,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592310261,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 352115.004635,
+							["serial"] = "Creature-0-3769-870-9747-157724-0000E8B6E5",
+							["monster"] = true,
+							["total"] = 352115.004635,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик - янтарный целитель",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 1,
@@ -3215,8 +3889,8 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 9169,
 										["targets"] = {
-											["Ваззапер"] = 0,
 											["Дарнелла-СвежевательДуш"] = 11053,
+											["Ваззапер"] = 0,
 											["Шаарм-СвежевательДуш"] = 12197,
 											["Ксиренион"] = 238337,
 										},
@@ -3228,21 +3902,21 @@ _detalhes_database = {
 										["counter"] = 38,
 										["DODGE"] = 4,
 										["total"] = 261587,
-										["c_max"] = 15488,
 										["spellschool"] = 1,
+										["b_dmg"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 190112,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 1,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 32,
-										["r_amt"] = 0,
 										["c_min"] = 15488,
+										["successful_casted"] = 0,
+										["a_dmg"] = 190112,
+										["n_amt"] = 32,
+										["c_max"] = 15488,
+										["r_amt"] = 0,
 									}, -- [1]
 									[312257] = {
 										["c_amt"] = 0,
@@ -3268,13 +3942,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 40767,
 										["m_crit"] = 0,
-										["a_amt"] = 3,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 6,
 										["b_dmg"] = 0,
 										["n_amt"] = 7,
+										["a_amt"] = 3,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[307742] = {
 										["c_amt"] = 0,
@@ -3297,32 +3971,31 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 352115.004635,
-							["serial"] = "Creature-0-3769-870-9747-157724-0000E8B6E5",
+							["last_event"] = 1592310235,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310235,
+							["tipo"] = 1,
 							["damage_taken"] = 1894882.004635,
 							["start_time"] = 1592310215,
 							["delay"] = 1592310235,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 1352,
 							["totalabsorbed"] = 35034.00884,
-							["serial"] = "Player-1604-0B58FB4D",
 							["damage_from"] = {
 								["Ваззапер"] = true,
 							},
@@ -3340,19 +4013,8 @@ _detalhes_database = {
 							["enemy"] = true,
 							["pets"] = {
 							},
-							["fight_component"] = true,
 							["classe"] = "DEATHKNIGHT",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 298007.00884,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1592310261,
-							["on_hold"] = false,
-							["spec"] = 252,
-							["nome"] = "Спогоста-СвежевательДуш",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[127802] = {
 										["c_amt"] = 1,
@@ -3376,46 +4038,49 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 7938,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 1,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 7938,
+										["n_amt"] = 2,
+										["a_dmg"] = 7938,
+										["r_amt"] = 0,
 									},
-									[295367] = {
-										["c_amt"] = 1,
+									[318187] = {
+										["c_amt"] = 0,
 										["b_amt"] = 0,
-										["c_dmg"] = 2450,
+										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1633,
+										["n_max"] = 8599,
 										["targets"] = {
-											["Ваззапер"] = 8982,
+											["Куньчун-разрушитель"] = 17152,
+											["Вил'тик-воин"] = 8122,
+											["Призыватель роя"] = 0,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 6532,
-										["n_min"] = 1633,
+										["n_dmg"] = 25274,
+										["n_min"] = 8122,
 										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 8982,
-										["c_max"] = 2450,
-										["spellschool"] = 4,
-										["id"] = 295367,
-										["r_dmg"] = 0,
+										["counter"] = 4,
+										["IMMUNE"] = 1,
+										["r_amt"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 32,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 2450,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["id"] = 318187,
+										["total"] = 25274,
 									},
 									[311192] = {
 										["c_amt"] = 0,
@@ -3439,46 +4104,46 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
-									[77575] = {
-										["c_amt"] = 0,
+									[295367] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 2450,
 										["g_amt"] = 0,
-										["n_max"] = 2393,
+										["n_max"] = 1633,
 										["targets"] = {
-											["Куньчун-разрушитель"] = 2393,
-											["Призыватель роя"] = 2084,
+											["Ваззапер"] = 8982,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 4477,
-										["n_min"] = 2084,
+										["n_dmg"] = 6532,
+										["n_min"] = 1633,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 4477,
-										["c_max"] = 0,
-										["id"] = 77575,
+										["counter"] = 5,
+										["total"] = 8982,
+										["c_max"] = 2450,
+										["spellschool"] = 4,
+										["id"] = 295367,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 2,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
+										["successful_casted"] = 0,
+										["c_min"] = 2450,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[310690] = {
 										["c_amt"] = 0,
@@ -3502,13 +4167,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 79960,
 										["m_crit"] = 0,
-										["a_amt"] = 1,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
+										["a_amt"] = 1,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[191587] = {
 										["c_amt"] = 2,
@@ -3535,15 +4200,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 28,
-										["r_amt"] = 0,
 										["c_min"] = 3597,
+										["n_amt"] = 28,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[191685] = {
 										["c_amt"] = 3,
@@ -3573,67 +4238,75 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 34,
-										["r_amt"] = 0,
 										["c_min"] = 1666,
+										["n_amt"] = 34,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
-									[318187] = {
+									[77575] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 8599,
+										["n_max"] = 2393,
 										["targets"] = {
-											["Куньчун-разрушитель"] = 17152,
-											["Вил'тик-воин"] = 8122,
-											["Призыватель роя"] = 0,
+											["Куньчун-разрушитель"] = 2393,
+											["Призыватель роя"] = 2084,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 25274,
-										["n_min"] = 8122,
+										["n_dmg"] = 4477,
+										["n_min"] = 2084,
 										["g_dmg"] = 0,
-										["counter"] = 4,
-										["IMMUNE"] = 1,
-										["total"] = 25274,
+										["counter"] = 2,
+										["total"] = 4477,
 										["c_max"] = 0,
-										["spellschool"] = 32,
-										["id"] = 318187,
+										["id"] = 77575,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["a_amt"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 298007.00884,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 298007.00884,
+							["serial"] = "Player-1604-0B58FB4D",
+							["fight_component"] = true,
+							["end_time"] = 1592310261,
+							["dps_started"] = false,
+							["on_hold"] = false,
+							["nome"] = "Спогоста-СвежевательДуш",
+							["spec"] = 252,
+							["last_event"] = 1592310239,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310239,
+							["tipo"] = 1,
 							["damage_taken"] = 3824.00884,
 							["start_time"] = 1592310218,
 							["delay"] = 1592310239,
-							["tipo"] = 1,
+							["total"] = 298007.00884,
 						}, -- [3]
 						{
 							["flag_original"] = 8465,
 							["totalabsorbed"] = 0.006511,
-							["on_hold"] = false,
 							["damage_from"] = {
 								["Спогоста-СвежевательДуш"] = true,
 							},
@@ -3644,20 +4317,22 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 177315.006511,
-							["spec"] = 269,
+							["serial"] = "Creature-0-3769-870-9747-69792-000068B97C",
 							["classe"] = "MONK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 177315.006511,
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
+							["total"] = 177315.006511,
 							["end_time"] = 1592310233,
-							["serial"] = "Creature-0-3769-870-9747-69792-000068B97C",
 							["ownerName"] = "Ваззапер",
 							["nome"] = "Ваззапер <Ваззапер>",
+							["spec"] = 269,
+							["last_dps"] = 0,
+							["need_refresh"] = true,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 6,
@@ -3674,22 +4349,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 19,
 										["MISS"] = 1,
-										["total"] = 28434,
+										["r_amt"] = 0,
 										["c_max"] = 3092,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 12,
-										["r_amt"] = 0,
 										["c_min"] = 1526,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 12,
+										["id"] = 1,
+										["total"] = 28434,
 									}, -- [1]
 									[117418] = {
 										["c_amt"] = 11,
@@ -3714,15 +4389,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
 										["c_min"] = 4308,
+										["n_amt"] = 9,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -3745,15 +4420,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 0,
@@ -3776,15 +4451,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 1,
@@ -3807,15 +4482,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 8265,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 3,
@@ -3838,28 +4513,27 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 2397,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["need_refresh"] = true,
+							["last_event"] = 1592310222,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1592310222,
-							["damage_taken"] = 922.006511,
 							["start_time"] = 1592310218,
 							["delay"] = 1592310222,
-							["tipo"] = 1,
+							["damage_taken"] = 922.006511,
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -3868,31 +4542,31 @@ _detalhes_database = {
 								["Таргами"] = true,
 								["Инфернал <Ксиренион>"] = true,
 								["Ксиренион"] = true,
-								["Ваззапер"] = true,
-								["Ваззапер <Ваззапер>"] = true,
-								["Шаарм-СвежевательДуш"] = true,
 								["Спогоста-СвежевательДуш"] = true,
+								["Ваззапер <Ваззапер>"] = true,
+								["Ваззапер"] = true,
+								["Шаарм-СвежевательДуш"] = true,
 							},
 							["targets"] = {
+								["Шаарм-СвежевательДуш"] = 40862,
 								["Инфернал <Ксиренион>"] = 4823,
 								["Ваззапер"] = 22103,
-								["Шаарм-СвежевательДуш"] = 40862,
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 67788.00893,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592310233,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 67788.00893,
+							["serial"] = "Creature-0-3769-870-9747-157748-000068B5E7",
+							["monster"] = true,
+							["total"] = 67788.00893,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик-воин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -3901,34 +4575,34 @@ _detalhes_database = {
 										["g_amt"] = 0,
 										["n_max"] = 7102,
 										["targets"] = {
+											["Шаарм-СвежевательДуш"] = 17429,
 											["Инфернал <Ксиренион>"] = 4823,
 											["Ваззапер"] = 7102,
-											["Шаарм-СвежевательДуш"] = 17429,
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 29354,
-										["MISS"] = 1,
 										["DODGE"] = 1,
+										["MISS"] = 1,
 										["n_min"] = 4823,
-										["g_dmg"] = 0,
-										["counter"] = 10,
 										["a_amt"] = 0,
+										["counter"] = 10,
+										["r_amt"] = 0,
 										["total"] = 29354,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
 										["a_dmg"] = 0,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 3,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["id"] = 1,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["g_dmg"] = 0,
 									}, -- [1]
 									[288813] = {
 										["c_amt"] = 0,
@@ -3953,27 +4627,27 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 7651,
 										["m_crit"] = 0,
-										["a_amt"] = 2,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 12,
+										["a_amt"] = 2,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 67788.00893,
-							["serial"] = "Creature-0-3769-870-9747-157748-000068B5E7",
+							["last_event"] = 1592310229,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310229,
+							["tipo"] = 1,
 							["damage_taken"] = 1352216.00893,
 							["start_time"] = 1592310213,
 							["delay"] = 1592310198,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [5]
 						{
 							["flag_original"] = 68168,
@@ -3988,20 +4662,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-153278-000068B92F",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 38202.001469,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-153278-000068B92F",
 							["dps_started"] = false,
 							["total"] = 38202.001469,
 							["end_time"] = 1592310233,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Куньчун-разрушитель",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -4018,22 +4691,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 3,
 										["DODGE"] = 1,
-										["total"] = 26708,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 12701,
 										["m_crit"] = 0,
-										["a_amt"] = 1,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 1,
+										["n_amt"] = 2,
+										["id"] = 1,
+										["total"] = 26708,
 									}, -- [1]
 									[312211] = {
 										["c_amt"] = 0,
@@ -4056,13 +4729,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[312213] = {
 										["c_amt"] = 0,
@@ -4085,15 +4758,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[276876] = {
 										["c_amt"] = 0,
@@ -4116,26 +4789,27 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["last_event"] = 1592310196,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310196,
+							["tipo"] = 1,
 							["damage_taken"] = 483663.001469,
 							["start_time"] = 1592310223,
 							["delay"] = 1592310196,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [6]
 						{
 							["flag_original"] = -2147483648,
@@ -4147,19 +4821,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
+							["tipo"] = 1,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1746.004764,
-							["on_hold"] = false,
+							["fight_component"] = true,
 							["dps_started"] = false,
 							["total"] = 1746.004764,
-							["classe"] = "UNKNOW",
 							["serial"] = "",
+							["friendlyfire"] = {
+							},
 							["nome"] = "Мир (падение)",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									[3] = {
 										["c_amt"] = 0,
@@ -4182,70 +4856,70 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["damage_taken"] = 0.004764,
 							["end_time"] = 1592310233,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 0.004764,
+							["last_event"] = 1592310230,
+							["on_hold"] = false,
 							["start_time"] = 1592310230,
 							["delay"] = 0,
-							["last_event"] = 1592310230,
+							["classe"] = "UNKNOW",
 						}, -- [7]
 						{
 							["flag_original"] = 68168,
 							["totalabsorbed"] = 0.008921,
 							["damage_from"] = {
 								["Дарнелла-СвежевательДуш"] = true,
-								["Шаарм-СвежевательДуш"] = true,
-								["Ваззапер <Ваззапер>"] = true,
-								["Ваззапер"] = true,
 								["Спогоста-СвежевательДуш"] = true,
+								["Ваззапер <Ваззапер>"] = true,
+								["Шаарм-СвежевательДуш"] = true,
+								["Ваззапер"] = true,
 							},
 							["targets"] = {
 							},
-							["monster"] = true,
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.008921,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.008921,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-157718-000068B727",
+							["fight_component"] = true,
+							["total"] = 0.008921,
+							["monster"] = true,
+							["damage_taken"] = 724648.008921,
 							["nome"] = "Призыватель роя",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592310233,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 724648.008921,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1592310233,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [8]
 						{
 							["flag_original"] = 4424,
@@ -4258,38 +4932,38 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["fight_component"] = true,
+							["tipo"] = 1,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005754,
-							["on_hold"] = false,
+							["fight_component"] = true,
 							["dps_started"] = false,
 							["total"] = 0.005754,
-							["classe"] = "PET",
 							["serial"] = "Pet-0-3769-870-9747-26125-06027E7968",
-							["nome"] = "Скалопой",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
 							["friendlyfire"] = {
 							},
+							["nome"] = "Скалопой",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 4285.005754,
 							["end_time"] = 1592310233,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 4285.005754,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1592310233,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["classe"] = "PET",
 						}, -- [9]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 319,
 					["tipo"] = 3,
+					["combatId"] = 319,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -4298,7 +4972,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.008286,
 							["total_without_pet"] = 35332.008286,
 							["total"] = 35332.008286,
@@ -4319,10 +4993,11 @@ _detalhes_database = {
 							["healing_taken"] = 26304.008286,
 							["fight_component"] = true,
 							["end_time"] = 1592310233,
-							["start_time"] = 1592310187,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[132463] = {
 										["c_amt"] = 1,
@@ -4370,10 +5045,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 8713,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 8713,
 										["n_amt"] = 1,
@@ -4409,18 +5084,17 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592310231,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592310187,
 							["totaldenied"] = 0.008286,
 							["delay"] = 0,
-							["last_event"] = 1592310231,
+							["spec"] = 269,
 						}, -- [1]
 						{
 							["flag_original"] = 1304,
@@ -4433,8 +5107,23 @@ _detalhes_database = {
 							["targets"] = {
 								["Дарнелла-СвежевательДуш"] = 37241,
 							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.008143,
+							["targets_overheal"] = {
+								["Дарнелла-СвежевательДуш"] = 6700,
+							},
+							["classe"] = "UNGROUPPLAYER",
+							["totalover"] = 6700.008143,
+							["total_without_pet"] = 37241.008143,
+							["end_time"] = 1592310233,
+							["iniciar_hps"] = false,
+							["fight_component"] = true,
+							["total"] = 37241.008143,
+							["heal_enemy_amt"] = 0,
+							["serial"] = "Player-1604-0905DAF2",
+							["nome"] = "Дарнелла-СвежевательДуш",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[298318] = {
 										["c_amt"] = 0,
@@ -4519,41 +5208,26 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
-							["pets"] = {
-							},
-							["totalover_without_pet"] = 0.008143,
-							["targets_overheal"] = {
-								["Дарнелла-СвежевательДуш"] = 6700,
-							},
-							["classe"] = "UNGROUPPLAYER",
-							["totalover"] = 6700.008143,
-							["total_without_pet"] = 37241.008143,
-							["serial"] = "Player-1604-0905DAF2",
-							["iniciar_hps"] = false,
-							["fight_component"] = true,
-							["total"] = 37241.008143,
-							["heal_enemy_amt"] = 0,
-							["end_time"] = 1592310233,
-							["nome"] = "Дарнелла-СвежевательДуш",
 							["targets_absorbs"] = {
 							},
 							["healing_taken"] = 46269.008143,
 							["heal_enemy"] = {
 							},
-							["start_time"] = 1592310223,
+							["totaldenied"] = 0.008143,
 							["custom"] = 0,
 							["last_event"] = 1592310231,
 							["on_hold"] = false,
-							["totaldenied"] = 0.008143,
+							["start_time"] = 1592310223,
 							["delay"] = 1592310188,
 							["tipo"] = 2,
 						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 319,
 					["tipo"] = 7,
+					["combatId"] = 319,
 					["_ActorTable"] = {
 						{
 							["received"] = 15.002005,
@@ -4570,7 +5244,6 @@ _detalhes_database = {
 							["total"] = 15.002005,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 15,
@@ -4582,6 +5255,7 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -4607,9 +5281,9 @@ _detalhes_database = {
 							["total"] = 0.002552,
 							["nome"] = "Дарнелла-СвежевательДуш",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["resource_type"] = 11,
 							["flag_original"] = 1304,
@@ -4635,7 +5309,6 @@ _detalhes_database = {
 							["total"] = 18.10172138146973,
 							["nome"] = "Спогоста-СвежевательДуш",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[77575] = {
 										["total"] = 18.10000038146973,
@@ -4647,6 +5320,7 @@ _detalhes_database = {
 										["counter"] = 2,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["flag_original"] = 1352,
 							["alternatepower"] = 0.001721,
@@ -4659,13 +5333,12 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 319,
 					["tipo"] = 9,
+					["combatId"] = 319,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[113746] = {
 										["activedamt"] = -2,
@@ -4680,88 +5353,88 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 37,
-										["appliedamt"] = 3,
+										["id"] = 228287,
 										["refreshamt"] = 25,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[119381] = {
-										["activedamt"] = 0,
-										["id"] = 119381,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 3,
-										["appliedamt"] = 3,
+										["id"] = 119381,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 6,
-										["appliedamt"] = 3,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[122470] = {
-										["activedamt"] = 0,
-										["id"] = 122470,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 1,
-										["appliedamt"] = 1,
+										["id"] = 122470,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 295367,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115080] = {
-										["activedamt"] = 0,
-										["id"] = 115080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 115080,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 20,
-										["appliedamt"] = 2,
+										["id"] = 115804,
 										["refreshamt"] = 2,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["cooldowns_defensive"] = 1.00138,
 							["buff_uptime"] = 315,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[119381] = {
 										["id"] = 119381,
@@ -4772,142 +5445,142 @@ _detalhes_database = {
 										["counter"] = 3,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["classe"] = "MONK",
 							["cooldowns_defensive_targets"] = {
 								["Призыватель роя"] = 1,
 							},
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 46,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 46,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 2,
-										["id"] = 113656,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 5,
-										["appliedamt"] = 2,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 4,
-										["id"] = 196742,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 4,
 										["uptime"] = 21,
-										["appliedamt"] = 4,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 3,
-										["id"] = 261769,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 27,
-										["appliedamt"] = 3,
+										["id"] = 261769,
 										["refreshamt"] = 10,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[279928] = {
-										["activedamt"] = 0,
-										["id"] = 279928,
-										["targets"] = {
-										},
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[152175] = {
-										["activedamt"] = 1,
-										["id"] = 152175,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[116841] = {
-										["activedamt"] = 1,
-										["id"] = 116841,
-										["targets"] = {
-										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 152175,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[116768] = {
-										["activedamt"] = 2,
-										["id"] = 116768,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 12,
-										["appliedamt"] = 2,
+										["id"] = 116768,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116841] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 2,
+										["id"] = 116841,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279928] = {
+										["appliedamt"] = 0,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 0,
+										["id"] = 279928,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[137639] = {
-										["activedamt"] = 1,
-										["id"] = 137639,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 137639,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 1,
-										["id"] = 196741,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 46,
-										["appliedamt"] = 1,
+										["id"] = 196741,
 										["refreshamt"] = 5,
 										["actived"] = false,
 										["counter"] = 0,
@@ -4925,33 +5598,58 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 46,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 46,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 114,
+							["spell_cast"] = {
+								[107428] = 4,
+								[100784] = 3,
+								[115080] = 1,
+								[113656] = 2,
+								[261947] = 2,
+								[115098] = 1,
+								[152175] = 1,
+								[116841] = 1,
+								[109132] = 2,
+								[137639] = 1,
+								[122470] = 1,
+								[100780] = 9,
+								[119381] = 1,
+								[221771] = 1,
+							},
+							["cc_done"] = 3.00839,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 269,
+							["grupo"] = true,
+							["cc_done_targets"] = {
+								["Вил'тик - янтарный целитель"] = 1,
+								["Вил'тик-воин"] = 2,
+							},
 							["cooldowns_defensive_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[122470] = {
 										["id"] = 122470,
@@ -4961,49 +5659,21 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
-							},
-							["cc_done"] = 3.00839,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 269,
-							["grupo"] = true,
-							["spell_cast"] = {
-								[107428] = 4,
-								[100784] = 3,
-								[115080] = 1,
-								[113656] = 2,
-								[261947] = 2,
-								[115098] = 1,
-								[122470] = 1,
-								[116841] = 1,
-								[109132] = 2,
-								[137639] = 1,
-								[152175] = 1,
-								[100780] = 9,
-								[119381] = 1,
-								[221771] = 1,
-							},
-							["cc_done_targets"] = {
-								["Вил'тик - янтарный целитель"] = 1,
-								["Вил'тик-воин"] = 2,
+								["tipo"] = 9,
 							},
 							["debuff_uptime_targets"] = {
 							},
 							["last_event"] = 1592310233,
 							["nome"] = "Ваззапер",
+							["tipo"] = 4,
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 							},
-							["serial"] = "Player-1615-09C24DE1",
-							["tipo"] = 4,
 						}, -- [1]
 						{
 							["flag_original"] = 1304,
 							["nome"] = "Дарнелла-СвежевательДуш",
-							["pets"] = {
-							},
-							["tipo"] = 4,
-							["fight_component"] = true,
-							["last_event"] = 0,
+							["classe"] = "UNGROUPPLAYER",
 							["spell_cast"] = {
 								[51505] = 4,
 								[2645] = 1,
@@ -5012,13 +5682,17 @@ _detalhes_database = {
 								[196840] = 1,
 								[188196] = 7,
 							},
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["last_event"] = 0,
 							["serial"] = "Player-1604-0905DAF2",
-							["classe"] = "UNGROUPPLAYER",
+							["pets"] = {
+							},
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Куньчун-разрушитель",
 							["tipo"] = 4,
+							["nome"] = "Куньчун-разрушитель",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -5033,8 +5707,8 @@ _detalhes_database = {
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик-воин",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик-воин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -5056,17 +5730,17 @@ _detalhes_database = {
 								[310690] = 1,
 							},
 							["flag_original"] = 1352,
+							["tipo"] = 4,
 							["last_event"] = 0,
-							["classe"] = "DEATHKNIGHT",
 							["pets"] = {
 							},
 							["serial"] = "Player-1604-0B58FB4D",
-							["tipo"] = 4,
+							["classe"] = "DEATHKNIGHT",
 						}, -- [5]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик - янтарный целитель",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик - янтарный целитель",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -5082,8 +5756,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 319,
 					["tipo"] = 2,
+					["combatId"] = 319,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -5111,76 +5785,15 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 1,
-						["interrupt"] = -0.006496000000000057,
 						["dispell"] = 0,
+						["interrupt"] = -0.006496000000000057,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					518738, -- [1]
-					35332, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 15,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 1,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["data_fim"] = "14:23:53",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Спогоста-СвежевательДуш",
-				["TotalElapsedCombatTime"] = 11.42399999999907,
-				["CombatEndedAt"] = 9795.578,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Ваззапер"] = 35332.008286,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Ваззапер"] = 696053.003112,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 9769.23,
-				["combat_id"] = 319,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
 				},
 				["player_last_events"] = {
 					["Ваззапер"] = {
@@ -5311,9 +5924,22 @@ _detalhes_database = {
 						["n"] = 7,
 					},
 				},
-				["data_inicio"] = "14:23:07",
-				["CombatSkillCache"] = {
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:23:53",
+				["cleu_timeline"] = {
 				},
+				["enemy"] = "Спогоста-СвежевательДуш",
+				["TotalElapsedCombatTime"] = 11.42399999999907,
+				["CombatEndedAt"] = 9795.578,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:23:07",
+				["end_time"] = 9769.23,
+				["combat_id"] = 319,
 				["frags"] = {
 					["Вил'тик-роерожденный"] = 1,
 					["Вил'тик - быстрый клинок"] = 1,
@@ -5322,20 +5948,68 @@ _detalhes_database = {
 					["Куньчун-разрушитель"] = 1,
 					["Вил'тик - янтарный целитель"] = 12,
 				},
-				["start_time"] = 9723.292,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
 				["TimeData"] = {
 				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					518738, -- [1]
+					35332, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 15,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 1,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 9723.292,
 				["contra"] = "Куньчун-разрушитель",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Ваззапер"] = 35332.008286,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ваззапер"] = 696053.003112,
+						}, -- [1]
+					},
+				},
 			}, -- [3]
 			{
 				{
-					["combatId"] = 318,
 					["tipo"] = 2,
+					["combatId"] = 318,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.00855,
-							["total"] = 395372.00855,
 							["damage_from"] = {
 								["Куньчун-разрушитель"] = true,
 								["Игольщик Жезалла"] = true,
@@ -5346,23 +6020,23 @@ _detalhes_database = {
 								["Вил'тик-воин"] = 150545,
 								["Куньчун-разрушитель"] = 49495,
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
-							},
-							["friendlyfire"] = {
 							},
 							["colocacao"] = 1,
 							["classe"] = "MONK",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 395372.00855,
-							["friendlyfire_total"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1592310155,
-							["on_hold"] = false,
 							["spec"] = 269,
+							["dps_started"] = false,
+							["total"] = 395372.00855,
+							["friendlyfire"] = {
+							},
+							["last_event"] = 1592310147,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 2,
@@ -5379,22 +6053,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 7,
 										["MISS"] = 3,
-										["total"] = 17216,
+										["r_amt"] = 0,
 										["c_max"] = 6170,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 6073,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["id"] = 1,
+										["total"] = 17216,
 									}, -- [1]
 									[117418] = {
 										["c_amt"] = 4,
@@ -5420,15 +6094,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
 										["c_min"] = 18255,
+										["n_amt"] = 10,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[311192] = {
 										["c_amt"] = 0,
@@ -5451,15 +6125,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 1,
@@ -5482,15 +6156,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 3934,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 0,
@@ -5513,15 +6187,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 2,
@@ -5546,15 +6220,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
 										["c_min"] = 14095,
+										["n_amt"] = 10,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -5577,15 +6251,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 2,
@@ -5608,27 +6282,28 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 4106,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1615-09C24DE1",
+							["end_time"] = 1592310155,
 							["last_dps"] = 20454.86101453611,
 							["custom"] = 0,
-							["last_event"] = 1592310147,
+							["tipo"] = 1,
 							["damage_taken"] = 399312.00855,
 							["start_time"] = 1592310135,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -5643,19 +6318,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 485365.002323,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592310187,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 485365.002323,
+							["serial"] = "Creature-0-3769-870-9747-153278-000068B92F",
+							["monster"] = true,
+							["total"] = 485365.002323,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Куньчун-разрушитель",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 1,
@@ -5675,21 +6350,21 @@ _detalhes_database = {
 										["counter"] = 7,
 										["DODGE"] = 1,
 										["total"] = 86262,
-										["c_max"] = 27577,
 										["spellschool"] = 1,
+										["b_dmg"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 28281,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 1,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 27577,
+										["successful_casted"] = 0,
+										["a_dmg"] = 28281,
+										["n_amt"] = 4,
+										["c_max"] = 27577,
+										["r_amt"] = 0,
 									}, -- [1]
 									[312211] = {
 										["c_amt"] = 0,
@@ -5712,13 +6387,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[276876] = {
 										["c_amt"] = 0,
@@ -5741,13 +6416,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[312213] = {
 										["c_amt"] = 0,
@@ -5771,29 +6446,29 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 87356,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 2,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 13,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 13,
+										["a_dmg"] = 87356,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 485365.002323,
-							["serial"] = "Creature-0-3769-870-9747-153278-000068B92F",
+							["last_event"] = 1592310186,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310186,
+							["tipo"] = 1,
 							["damage_taken"] = 758793.002323,
 							["start_time"] = 1592310160,
 							["delay"] = 1592310156,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 68168,
@@ -5809,19 +6484,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 328641.005143,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592310155,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 328641.005143,
+							["serial"] = "Creature-0-3769-870-9747-160922-000068B8D2",
+							["monster"] = true,
+							["total"] = 328641.005143,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Игольщик Жезалла",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -5844,15 +6519,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[313939] = {
 										["c_amt"] = 0,
@@ -5876,15 +6551,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 87550,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 2,
 										["m_amt"] = 0,
 										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 9,
+										["a_dmg"] = 87550,
+										["r_amt"] = 0,
 									},
 									[313665] = {
 										["c_amt"] = 0,
@@ -5907,15 +6582,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[308190] = {
 										["c_amt"] = 0,
@@ -5939,13 +6614,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 8254,
 										["m_crit"] = 0,
-										["a_amt"] = 1,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 5,
 										["b_dmg"] = 0,
 										["n_amt"] = 5,
+										["a_amt"] = 1,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[313666] = {
 										["c_amt"] = 0,
@@ -5968,27 +6643,27 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 328641.005143,
-							["serial"] = "Creature-0-3769-870-9747-160922-000068B8D2",
+							["last_event"] = 1592310154,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310154,
+							["tipo"] = 1,
 							["damage_taken"] = 1224215.005143,
 							["start_time"] = 1592310136,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -6006,19 +6681,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 162788.00839,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592310187,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 162788.00839,
+							["serial"] = "Creature-0-3769-870-9747-157748-0000E8B8E9",
+							["monster"] = true,
+							["total"] = 162788.00839,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик-воин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 3,
@@ -6036,22 +6711,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 19,
 										["a_amt"] = 0,
-										["total"] = 113854,
+										["r_amt"] = 0,
 										["c_max"] = 16007,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 4,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 12,
-										["r_amt"] = 0,
 										["c_min"] = 10145,
+										["n_amt"] = 12,
+										["id"] = 1,
+										["total"] = 113854,
 									}, -- [1]
 									[288813] = {
 										["c_amt"] = 0,
@@ -6069,36 +6744,36 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 19,
 										["DODGE"] = 1,
-										["total"] = 48934,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["a_amt"] = 0,
-										["id"] = 288813,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 2,
 										["m_amt"] = 0,
 										["successful_casted"] = 4,
-										["b_dmg"] = 0,
-										["n_amt"] = 16,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 16,
+										["id"] = 288813,
+										["total"] = 48934,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 162788.00839,
-							["serial"] = "Creature-0-3769-870-9747-157748-0000E8B8E9",
+							["last_event"] = 1592310184,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310184,
+							["tipo"] = 1,
 							["damage_taken"] = 1203695.00839,
 							["start_time"] = 1592310137,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -6113,19 +6788,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 35489.003101,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592310187,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 35489.003101,
+							["serial"] = "Creature-0-3769-870-9747-157808-00006899E1",
+							["monster"] = true,
+							["total"] = 35489.003101,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик-роерожденный",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -6143,42 +6818,42 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 14,
 										["MISS"] = 4,
-										["total"] = 35489,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 1526,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 1526,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["id"] = 1,
+										["total"] = 35489,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 35489.003101,
-							["serial"] = "Creature-0-3769-870-9747-157808-00006899E1",
+							["last_event"] = 1592310185,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310185,
+							["tipo"] = 1,
 							["damage_taken"] = 42520.003101,
 							["start_time"] = 1592310155,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [5]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 318,
 					["tipo"] = 3,
+					["combatId"] = 318,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -6212,7 +6887,6 @@ _detalhes_database = {
 							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[298318] = {
 										["c_amt"] = 1,
@@ -6259,10 +6933,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 45868,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 45868,
 										["n_amt"] = 1,
@@ -6298,22 +6972,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["heal_enemy_amt"] = 0,
-							["start_time"] = 1592310143,
+							["tipo"] = 2,
 							["custom"] = 0,
 							["last_event"] = 1592310150,
-							["spec"] = 269,
+							["start_time"] = 1592310143,
 							["totaldenied"] = 0.001244,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 318,
 					["tipo"] = 7,
+					["combatId"] = 318,
 					["_ActorTable"] = {
 						{
 							["received"] = 25.003798,
@@ -6330,7 +7005,6 @@ _detalhes_database = {
 							["total"] = 25.003798,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 25,
@@ -6342,6 +7016,7 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -6356,65 +7031,64 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 318,
 					["tipo"] = 9,
+					["combatId"] = 318,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[113746] = {
-										["activedamt"] = 1,
-										["id"] = 113746,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
-										["appliedamt"] = 5,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 19,
-										["appliedamt"] = 1,
+										["id"] = 228287,
 										["refreshamt"] = 5,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 12,
-										["appliedamt"] = 1,
+										["id"] = 295367,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 115804,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 4,
-										["appliedamt"] = 5,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -6432,118 +7106,118 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 128,
 							["classe"] = "MONK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 1,
-										["id"] = 113656,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 1,
-										["id"] = 196742,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 1,
-										["id"] = 261769,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 9,
-										["appliedamt"] = 1,
+										["id"] = 261769,
 										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298343] = {
-										["activedamt"] = 1,
-										["id"] = 298343,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 298343,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[152175] = {
-										["activedamt"] = 1,
-										["id"] = 152175,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 1,
-										["appliedamt"] = 1,
+										["id"] = 152175,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 1,
-										["id"] = 196741,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 196741,
 										["refreshamt"] = 5,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -6561,17 +7235,18 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 20,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 65,
@@ -6597,8 +7272,8 @@ _detalhes_database = {
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Игольщик Жезалла",
 							["tipo"] = 4,
+							["nome"] = "Игольщик Жезалла",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -6614,8 +7289,8 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик-воин",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик-воин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -6629,8 +7304,8 @@ _detalhes_database = {
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Куньчун-разрушитель",
 							["tipo"] = 4,
+							["nome"] = "Куньчун-разрушитель",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -6646,8 +7321,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 318,
 					["tipo"] = 2,
+					["combatId"] = 318,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -6950,15 +7625,48 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = -0.001112000000000002,
 						["dispell"] = 0,
+						["interrupt"] = -0.001112000000000002,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 1,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:22:35",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Игольщик Жезалла",
+				["TotalElapsedCombatTime"] = 9691.121000000001,
+				["CombatEndedAt"] = 9691.121000000001,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:22:15",
+				["end_time"] = 9691.121000000001,
+				["combat_id"] = 318,
+				["frags"] = {
+					["Вил'тик-роерожденный"] = 1,
+					["Вил'тик-воин"] = 2,
+					["Игольщик Жезалла"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["TimeData"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
 					395372, -- [1]
@@ -6973,31 +7681,23 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 1,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["data_fim"] = "14:22:35",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Игольщик Жезалла",
-				["TotalElapsedCombatTime"] = 9691.121000000001,
-				["CombatEndedAt"] = 9691.121000000001,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
+				["start_time"] = 9671.792,
+				["contra"] = "Игольщик Жезалла",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -7005,41 +7705,17 @@ _detalhes_database = {
 							["Ваззапер"] = 112895.001244,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 395372.00855,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 9691.121000000001,
-				["combat_id"] = 318,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "14:22:15",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Вил'тик-роерожденный"] = 1,
-					["Вил'тик-воин"] = 2,
-					["Игольщик Жезалла"] = 1,
-				},
-				["start_time"] = 9671.792,
-				["TimeData"] = {
-				},
-				["contra"] = "Игольщик Жезалла",
 			}, -- [4]
 			{
 				{
-					["combatId"] = 317,
 					["tipo"] = 2,
+					["combatId"] = 317,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -7053,24 +7729,17 @@ _detalhes_database = {
 								["Вил'тик-воин"] = 249208,
 								["Призыватель роя"] = 403149,
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 								"Ваззапер <Ваззапер>", -- [1]
 							},
-							["friendlyfire"] = {
-							},
+							["colocacao"] = 1,
+							["end_time"] = 1592310106,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1324996.006147,
-							["end_time"] = 1592310106,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 1501223.006147,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 13,
@@ -7089,22 +7758,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 52,
 										["MISS"] = 8,
-										["total"] = 132371,
+										["r_amt"] = 0,
 										["c_max"] = 7291,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 31,
-										["r_amt"] = 0,
 										["c_min"] = 1458,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 31,
+										["id"] = 1,
+										["total"] = 132371,
 									}, -- [1]
 									[201787] = {
 										["c_amt"] = 0,
@@ -7121,22 +7790,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 5,
 										["IMMUNE"] = 5,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 201787,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 201787,
+										["total"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 7,
@@ -7161,15 +7830,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 21,
-										["r_amt"] = 0,
 										["c_min"] = 9148,
+										["n_amt"] = 21,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 2,
@@ -7193,15 +7862,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 14240,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[229980] = {
 										["c_amt"] = 0,
@@ -7224,15 +7893,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[261977] = {
 										["c_amt"] = 0,
@@ -7256,15 +7925,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[124280] = {
 										["c_amt"] = 0,
@@ -7287,47 +7956,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 12,
-										["r_amt"] = 0,
 										["c_min"] = 0,
-									},
-									[311192] = {
-										["c_amt"] = 1,
-										["b_amt"] = 0,
-										["c_dmg"] = 47390,
-										["g_amt"] = 0,
-										["n_max"] = 23695,
-										["targets"] = {
-											["Игольщик Жезалла"] = 47390,
-											["Призыватель роя"] = 47390,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 47390,
-										["n_min"] = 23695,
-										["g_dmg"] = 0,
-										["counter"] = 3,
-										["total"] = 94780,
-										["c_max"] = 47390,
-										["spellschool"] = 4,
-										["id"] = 311192,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["n_amt"] = 12,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
 										["r_amt"] = 0,
-										["c_min"] = 47390,
 									},
 									[132467] = {
 										["c_amt"] = 2,
@@ -7351,15 +7988,47 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 3836,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[311192] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 47390,
+										["g_amt"] = 0,
+										["n_max"] = 23695,
+										["targets"] = {
+											["Игольщик Жезалла"] = 47390,
+											["Призыватель роя"] = 47390,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 47390,
+										["n_min"] = 23695,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 94780,
+										["c_max"] = 47390,
+										["spellschool"] = 4,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["c_min"] = 47390,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 2,
@@ -7383,15 +8052,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
 										["c_min"] = 50645,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 1,
@@ -7415,15 +8084,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
 										["c_min"] = 14097,
+										["n_amt"] = 8,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 4,
@@ -7447,15 +8116,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 4290,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[119381] = {
 										["c_amt"] = 0,
@@ -7472,22 +8141,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 1,
 										["IMMUNE"] = 1,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 119381,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 119381,
+										["total"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 3,
@@ -7511,28 +8180,35 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
 										["c_min"] = 5618,
+										["n_amt"] = 11,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
+							["dps_started"] = false,
+							["total"] = 1501223.006147,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Ваззапер",
 							["spec"] = 269,
-							["serial"] = "Player-1615-09C24DE1",
+							["grupo"] = true,
+							["classe"] = "MONK",
 							["last_dps"] = 22192.33962314144,
 							["custom"] = 0,
-							["tipo"] = 1,
+							["last_event"] = 1592310106,
 							["damage_taken"] = 904485.006147,
 							["start_time"] = 1592310038,
 							["delay"] = 0,
-							["last_event"] = 1592310106,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -7549,20 +8225,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-160922-000068B8D2",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 759299.005509,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-160922-000068B8D2",
 							["dps_started"] = false,
 							["end_time"] = 1592310135,
-							["friendlyfire_total"] = 0,
+							["total"] = 759299.005509,
 							["on_hold"] = false,
 							["nome"] = "Игольщик Жезалла",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -7585,15 +8260,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[313939] = {
 										["c_amt"] = 0,
@@ -7618,13 +8293,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 71124,
 										["m_crit"] = 0,
-										["a_amt"] = 2,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 19,
+										["a_amt"] = 2,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[313666] = {
 										["c_amt"] = 0,
@@ -7647,13 +8322,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 4,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[313665] = {
 										["c_amt"] = 0,
@@ -7676,15 +8351,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 31222,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 1,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 31222,
+										["r_amt"] = 0,
 									},
 									[308190] = {
 										["c_amt"] = 0,
@@ -7708,28 +8383,29 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 16,
-										["b_dmg"] = 0,
-										["n_amt"] = 14,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 14,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 759299.005509,
+							["last_event"] = 1592310135,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310135,
+							["tipo"] = 1,
 							["damage_taken"] = 1436025.005509,
 							["start_time"] = 1592310053,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -7745,20 +8421,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-157748-000068B8E9",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 344688.002517,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-157748-000068B8E9",
 							["dps_started"] = false,
 							["end_time"] = 1592310135,
-							["friendlyfire_total"] = 0,
+							["total"] = 344688.002517,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик-воин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 4,
@@ -7772,28 +8447,28 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 147322,
-										["a_amt"] = 0,
 										["DODGE"] = 6,
+										["a_amt"] = 0,
 										["n_min"] = 5783,
-										["g_dmg"] = 0,
-										["counter"] = 36,
 										["MISS"] = 1,
+										["counter"] = 36,
+										["r_amt"] = 0,
 										["total"] = 199368,
 										["c_max"] = 13651,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
 										["a_dmg"] = 0,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 5,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 20,
-										["r_amt"] = 0,
 										["c_min"] = 12446,
+										["successful_casted"] = 0,
+										["id"] = 1,
+										["n_amt"] = 20,
+										["b_dmg"] = 0,
+										["g_dmg"] = 0,
 									}, -- [1]
 									[288813] = {
 										["c_amt"] = 0,
@@ -7811,40 +8486,40 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 42,
 										["DODGE"] = 2,
-										["total"] = 145320,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["a_amt"] = 2,
-										["id"] = 288813,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 15481,
 										["m_crit"] = 0,
 										["PARRY"] = 2,
 										["m_amt"] = 0,
 										["successful_casted"] = 12,
-										["b_dmg"] = 0,
-										["n_amt"] = 38,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 38,
+										["id"] = 288813,
+										["total"] = 145320,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 344688.002517,
+							["last_event"] = 1592310135,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310135,
+							["tipo"] = 1,
 							["damage_taken"] = 558898.0025170001,
 							["start_time"] = 1592310065,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [3]
 						{
 							["flag_original"] = 8465,
 							["totalabsorbed"] = 0.002059,
-							["on_hold"] = false,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -7853,20 +8528,22 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 176227.002059,
-							["spec"] = 269,
+							["serial"] = "Creature-0-3769-870-9747-69791-000068B8EF",
 							["classe"] = "MONK",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 176227.002059,
+							["on_hold"] = false,
 							["friendlyfire_total"] = 0,
 							["dps_started"] = false,
+							["total"] = 176227.002059,
 							["end_time"] = 1592310106,
-							["serial"] = "Creature-0-3769-870-9747-69791-000068B8EF",
 							["ownerName"] = "Ваззапер",
 							["nome"] = "Ваззапер <Ваззапер>",
+							["spec"] = 269,
+							["last_dps"] = 0,
+							["need_refresh"] = true,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 1,
@@ -7884,22 +8561,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 19,
 										["MISS"] = 1,
-										["total"] = 22599,
+										["r_amt"] = 0,
 										["c_max"] = 3188,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 17,
-										["r_amt"] = 0,
 										["c_min"] = 3188,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 17,
+										["id"] = 1,
+										["total"] = 22599,
 									}, -- [1]
 									[261977] = {
 										["c_amt"] = 1,
@@ -7922,15 +8599,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 6849,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 2,
@@ -7953,15 +8630,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 2597,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -7984,15 +8661,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 8,
@@ -8016,28 +8693,27 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 17,
-										["r_amt"] = 0,
 										["c_min"] = 4650,
+										["n_amt"] = 17,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["need_refresh"] = true,
+							["last_event"] = 1592310081,
+							["custom"] = 0,
+							["tipo"] = 1,
 							["friendlyfire"] = {
 							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1592310081,
-							["damage_taken"] = 0.002059,
 							["start_time"] = 1592310091,
 							["delay"] = 1592310081,
-							["tipo"] = 1,
+							["damage_taken"] = 0.002059,
 						}, -- [4]
 						{
 							["flag_original"] = 68168,
@@ -8047,41 +8723,41 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["monster"] = true,
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.003074,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.003074,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-157718-000068B727",
+							["fight_component"] = true,
+							["total"] = 0.003074,
+							["monster"] = true,
+							["damage_taken"] = 403149.003074,
 							["nome"] = "Призыватель роя",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592310106,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 403149.003074,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1592310106,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [5]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 317,
 					["tipo"] = 3,
+					["combatId"] = 317,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -8091,7 +8767,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 130630.00425,
 							["total_without_pet"] = 548594.00425,
 							["total"] = 548594.00425,
@@ -8111,10 +8787,11 @@ _detalhes_database = {
 							["healing_taken"] = 548594.00425,
 							["fight_component"] = true,
 							["end_time"] = 1592310106,
-							["start_time"] = 1592310047,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[269279] = {
 										["c_amt"] = 0,
@@ -8134,10 +8811,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 107885,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 107885,
 										["n_amt"] = 8,
@@ -8244,10 +8921,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 169170,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 169170,
 										["n_amt"] = 11,
@@ -8339,24 +9016,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592310104,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592310047,
 							["totaldenied"] = 0.00425,
 							["delay"] = 0,
-							["last_event"] = 1592310104,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 317,
 					["tipo"] = 7,
+					["combatId"] = 317,
 					["_ActorTable"] = {
 						{
 							["received"] = 90.004394,
@@ -8373,7 +9049,6 @@ _detalhes_database = {
 							["total"] = 90.004394,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 90,
@@ -8385,6 +9060,7 @@ _detalhes_database = {
 										["counter"] = 4,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -8399,119 +9075,118 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 317,
 					["tipo"] = 9,
+					["combatId"] = 317,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 9,
-										["appliedamt"] = 6,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115080] = {
-										["activedamt"] = 0,
-										["id"] = 115080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 115080,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113746] = {
-										["activedamt"] = 3,
-										["id"] = 113746,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 42,
-										["appliedamt"] = 3,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 1,
-										["id"] = 228287,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 68,
-										["appliedamt"] = 2,
+										["id"] = 228287,
 										["refreshamt"] = 39,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115804] = {
-										["activedamt"] = 1,
-										["id"] = 115804,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 50,
-										["appliedamt"] = 4,
+										["id"] = 115804,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[124280] = {
-										["activedamt"] = 0,
-										["id"] = 124280,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 12,
-										["appliedamt"] = 1,
+										["id"] = 124280,
 										["refreshamt"] = 10,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[122470] = {
-										["activedamt"] = 0,
-										["id"] = 122470,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 122470,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[119381] = {
-										["activedamt"] = 0,
-										["id"] = 119381,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 3,
-										["appliedamt"] = 2,
+										["id"] = 119381,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 20,
-										["appliedamt"] = 2,
+										["id"] = 295367,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["cooldowns_defensive"] = 1.001327,
 							["buff_uptime"] = 546,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[119381] = {
 										["id"] = 119381,
@@ -8521,43 +9196,142 @@ _detalhes_database = {
 										["counter"] = 2,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["classe"] = "MONK",
 							["cooldowns_defensive_targets"] = {
 								["Игольщик Жезалла"] = 1,
 							},
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 68,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 2,
-										["id"] = 269279,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 28,
-										["appliedamt"] = 2,
+										["id"] = 269279,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 68,
+										["id"] = 264408,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[113656] = {
+										["appliedamt"] = 3,
+										["targets"] = {
+										},
+										["activedamt"] = 3,
+										["uptime"] = 10,
+										["id"] = 113656,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[152175] = {
 										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 152175,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196742] = {
+										["appliedamt"] = 9,
+										["targets"] = {
+										},
+										["activedamt"] = 9,
+										["uptime"] = 40,
+										["id"] = 196742,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[261769] = {
+										["appliedamt"] = 4,
+										["targets"] = {
+										},
+										["activedamt"] = 4,
+										["uptime"] = 59,
+										["id"] = 261769,
+										["refreshamt"] = 12,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[298343] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 5,
+										["uptime"] = 30,
+										["id"] = 298343,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196741] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 62,
+										["id"] = 196741,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[201318] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 201318,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[303380] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 4,
+										["id"] = 303380,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[137639] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 137639,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -8574,159 +9348,44 @@ _detalhes_database = {
 										["actived"] = true,
 										["counter"] = 0,
 									},
-									[113656] = {
-										["activedamt"] = 3,
-										["id"] = 113656,
+									[122470] = {
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 10,
-										["appliedamt"] = 3,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[196742] = {
-										["activedamt"] = 9,
-										["id"] = 196742,
-										["targets"] = {
-										},
-										["uptime"] = 40,
-										["appliedamt"] = 9,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[261769] = {
-										["activedamt"] = 4,
-										["id"] = 261769,
-										["targets"] = {
-										},
-										["uptime"] = 59,
-										["appliedamt"] = 4,
-										["refreshamt"] = 12,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[298343] = {
-										["activedamt"] = 5,
-										["id"] = 298343,
-										["targets"] = {
-										},
-										["uptime"] = 30,
-										["appliedamt"] = 5,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[152175] = {
-										["activedamt"] = 1,
-										["id"] = 152175,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[201318] = {
-										["activedamt"] = 1,
-										["id"] = 201318,
-										["targets"] = {
-										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[303380] = {
-										["activedamt"] = 1,
-										["id"] = 303380,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[137639] = {
-										["activedamt"] = 1,
-										["id"] = 137639,
-										["targets"] = {
-										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 122470,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 68,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[122470] = {
-										["activedamt"] = 1,
-										["id"] = 122470,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 68,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[196741] = {
-										["activedamt"] = 2,
-										["id"] = 196741,
-										["targets"] = {
-										},
-										["uptime"] = 62,
-										["appliedamt"] = 2,
-										["refreshamt"] = 5,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 222,
-							["cooldowns_defensive_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[122470] = {
-										["id"] = 122470,
-										["targets"] = {
-											["Игольщик Жезалла"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
-							["cc_done"] = 2.001139,
-							["buff_uptime_targets"] = {
-							},
-							["spec"] = 269,
-							["grupo"] = true,
 							["spell_cast"] = {
 								[107428] = 7,
 								[100784] = 7,
@@ -8743,22 +9402,39 @@ _detalhes_database = {
 								[119381] = 1,
 								[221771] = 3,
 							},
+							["cc_done"] = 2.001139,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 269,
+							["grupo"] = true,
 							["cc_done_targets"] = {
 								["Вил'тик-воин"] = 2,
+							},
+							["cooldowns_defensive_spells"] = {
+								["_ActorTable"] = {
+									[122470] = {
+										["id"] = 122470,
+										["targets"] = {
+											["Игольщик Жезалла"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 9,
 							},
 							["debuff_uptime_targets"] = {
 							},
 							["last_event"] = 1592310106,
 							["nome"] = "Ваззапер",
+							["tipo"] = 4,
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 							},
-							["serial"] = "Player-1615-09C24DE1",
-							["tipo"] = 4,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Игольщик Жезалла",
 							["tipo"] = 4,
+							["nome"] = "Игольщик Жезалла",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -8774,8 +9450,8 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик-воин",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик-воин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -8790,8 +9466,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 317,
 					["tipo"] = 2,
+					["combatId"] = 317,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -9222,15 +9898,45 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 1,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 1,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:21:47",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Игольщик Жезалла",
+				["TotalElapsedCombatTime"] = 67.64599999999882,
+				["CombatEndedAt"] = 9643.123,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:20:39",
+				["end_time"] = 9643.123,
+				["combat_id"] = 317,
+				["frags"] = {
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["TimeData"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
 					1324996, -- [1]
@@ -9245,31 +9951,23 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 1,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 1,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["data_fim"] = "14:21:47",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Игольщик Жезалла",
-				["TotalElapsedCombatTime"] = 67.64599999999882,
-				["CombatEndedAt"] = 9643.123,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
+				["start_time"] = 9575.477,
+				["contra"] = "Призыватель роя",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -9277,38 +9975,17 @@ _detalhes_database = {
 							["Ваззапер"] = 548594.00425,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 1501223.006147,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 9643.123,
-				["combat_id"] = 317,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "14:20:39",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-				},
-				["start_time"] = 9575.477,
-				["TimeData"] = {
-				},
-				["contra"] = "Призыватель роя",
 			}, -- [5]
 			{
 				{
-					["combatId"] = 316,
 					["tipo"] = 2,
+					["combatId"] = 316,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -9322,23 +9999,16 @@ _detalhes_database = {
 								["Вил'тик-воин"] = 726021,
 								["Призыватель роя"] = 510829,
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["colocacao"] = 1,
+							["end_time"] = 1592310037,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 1362827.008717,
-							["end_time"] = 1592310037,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 1362827.008717,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 8,
@@ -9357,22 +10027,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 44,
 										["MISS"] = 10,
-										["total"] = 113660,
+										["r_amt"] = 0,
 										["c_max"] = 7326,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 26,
-										["r_amt"] = 0,
 										["c_min"] = 3426,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 26,
+										["id"] = 1,
+										["total"] = 113660,
 									}, -- [1]
 									[310690] = {
 										["c_amt"] = 1,
@@ -9396,15 +10066,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 116806,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 9,
@@ -9429,15 +10099,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 28,
-										["r_amt"] = 0,
 										["c_min"] = 19720,
+										["n_amt"] = 28,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 1,
@@ -9462,15 +10132,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 20023,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[261977] = {
 										["c_amt"] = 0,
@@ -9494,15 +10164,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 2,
@@ -9526,15 +10196,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 4108,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 4,
@@ -9559,15 +10229,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 50645,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 6,
@@ -9592,15 +10262,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 13454,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 2,
@@ -9625,15 +10295,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 10,
-										["r_amt"] = 0,
 										["c_min"] = 5581,
+										["n_amt"] = 10,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[311192] = {
 										["c_amt"] = 0,
@@ -9657,15 +10327,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[201787] = {
 										["c_amt"] = 0,
@@ -9682,35 +10352,42 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 13,
 										["IMMUNE"] = 13,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 201787,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 201787,
+										["total"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
+							["dps_started"] = false,
+							["total"] = 1362827.008717,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Ваззапер",
 							["spec"] = 269,
-							["serial"] = "Player-1615-09C24DE1",
+							["grupo"] = true,
+							["classe"] = "MONK",
 							["last_dps"] = 24239.67075248566,
 							["custom"] = 0,
-							["tipo"] = 1,
+							["last_event"] = 1592310036,
 							["damage_taken"] = 217359.008717,
 							["start_time"] = 1592309980,
 							["delay"] = 0,
-							["last_event"] = 1592310036,
+							["on_hold"] = false,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -9720,35 +10397,35 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["monster"] = true,
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.005465,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.005465,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-157718-000068B727",
+							["fight_component"] = true,
+							["total"] = 0.005465,
+							["monster"] = true,
+							["damage_taken"] = 510829.005465,
 							["nome"] = "Призыватель роя",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592310037,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 510829.005465,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1592310037,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
@@ -9761,20 +10438,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-157808-000068B6F2",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 69323.008103,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-157808-000068B6F2",
 							["dps_started"] = false,
 							["total"] = 69323.008103,
 							["end_time"] = 1592310037,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Вил'тик-роерожденный",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 1,
@@ -9787,41 +10463,42 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 64293,
-										["a_amt"] = 0,
-										["MISS"] = 9,
-										["n_min"] = 2771,
 										["g_dmg"] = 0,
+										["a_amt"] = 0,
+										["n_min"] = 2771,
+										["MISS"] = 9,
 										["counter"] = 32,
-										["DODGE"] = 9,
+										["r_amt"] = 0,
 										["total"] = 69323,
 										["c_max"] = 5030,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
 										["a_dmg"] = 0,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 2,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 11,
-										["r_amt"] = 0,
 										["c_min"] = 5030,
+										["successful_casted"] = 0,
+										["id"] = 1,
+										["n_amt"] = 11,
+										["b_dmg"] = 0,
+										["DODGE"] = 9,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["last_event"] = 1592310025,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310025,
+							["tipo"] = 1,
 							["damage_taken"] = 125977.008103,
 							["start_time"] = 1592310011,
 							["delay"] = 1592310025,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [3]
 						{
 							["flag_original"] = 2632,
@@ -9834,20 +10511,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-157748-0000E8B8AD",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 148036.007642,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-157748-0000E8B8AD",
 							["dps_started"] = false,
 							["total"] = 148036.007642,
 							["end_time"] = 1592310037,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Вил'тик-воин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 2,
@@ -9866,21 +10542,21 @@ _detalhes_database = {
 										["counter"] = 20,
 										["DODGE"] = 7,
 										["total"] = 105981,
-										["c_max"] = 18389,
 										["spellschool"] = 1,
+										["b_dmg"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 3,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
 										["c_min"] = 14464,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 8,
+										["c_max"] = 18389,
+										["r_amt"] = 0,
 									}, -- [1]
 									[288813] = {
 										["c_amt"] = 0,
@@ -9897,41 +10573,42 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 17,
 										["a_amt"] = 1,
-										["total"] = 42055,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["DODGE"] = 3,
-										["id"] = 288813,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 8905,
 										["m_crit"] = 0,
 										["PARRY"] = 2,
 										["m_amt"] = 0,
 										["successful_casted"] = 8,
-										["b_dmg"] = 0,
-										["n_amt"] = 12,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 12,
+										["id"] = 288813,
+										["total"] = 42055,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["last_event"] = 1592310034,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592310034,
+							["tipo"] = 1,
 							["damage_taken"] = 726021.007642,
 							["start_time"] = 1592310001,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [4]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 316,
 					["tipo"] = 3,
+					["combatId"] = 316,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -9940,7 +10617,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.002136,
 							["total_without_pet"] = 265467.002136,
 							["total"] = 265467.002136,
@@ -9960,10 +10637,11 @@ _detalhes_database = {
 							["healing_taken"] = 265467.002136,
 							["fight_component"] = true,
 							["end_time"] = 1592310037,
-							["start_time"] = 1592310000,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[269279] = {
 										["c_amt"] = 0,
@@ -9983,10 +10661,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 57827,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 57827,
 										["n_amt"] = 8,
@@ -10103,24 +10781,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592310034,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592310000,
 							["totaldenied"] = 0.002136,
 							["delay"] = 0,
-							["last_event"] = 1592310034,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 316,
 					["tipo"] = 7,
+					["combatId"] = 316,
 					["_ActorTable"] = {
 						{
 							["received"] = 50.00363,
@@ -10137,7 +10814,6 @@ _detalhes_database = {
 							["total"] = 50.00363,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 50,
@@ -10149,6 +10825,7 @@ _detalhes_database = {
 										["counter"] = 2,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -10163,231 +10840,231 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 316,
 					["tipo"] = 9,
+					["combatId"] = 316,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 51,
-										["appliedamt"] = 4,
+										["id"] = 115804,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 54,
-										["appliedamt"] = 4,
+										["id"] = 228287,
 										["refreshamt"] = 24,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 12,
-										["appliedamt"] = 2,
+										["id"] = 295367,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 11,
-										["appliedamt"] = 5,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113746] = {
-										["activedamt"] = 0,
-										["id"] = 113746,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 44,
-										["appliedamt"] = 3,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 502,
 							["classe"] = "MONK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 57,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[33697] = {
-										["activedamt"] = 1,
-										["id"] = 33697,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 15,
-										["appliedamt"] = 1,
+										["id"] = 33697,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 57,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 3,
-										["id"] = 113656,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 9,
-										["appliedamt"] = 3,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 9,
-										["id"] = 196742,
+										["appliedamt"] = 9,
 										["targets"] = {
 										},
+										["activedamt"] = 9,
 										["uptime"] = 43,
-										["appliedamt"] = 9,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 4,
-										["id"] = 261769,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 4,
 										["uptime"] = 55,
-										["appliedamt"] = 4,
+										["id"] = 261769,
 										["refreshamt"] = 14,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298343] = {
-										["activedamt"] = 2,
-										["id"] = 298343,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 13,
-										["appliedamt"] = 2,
+										["id"] = 298343,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[152175] = {
-										["activedamt"] = 2,
-										["id"] = 152175,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 2,
-										["appliedamt"] = 2,
+										["id"] = 152175,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 2,
-										["id"] = 269279,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 23,
-										["appliedamt"] = 2,
+										["id"] = 269279,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[116768] = {
-										["activedamt"] = 2,
-										["id"] = 116768,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 3,
-										["appliedamt"] = 2,
+										["id"] = 116768,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 57,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[279928] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
 										["activedamt"] = 1,
+										["uptime"] = 57,
 										["id"] = 279928,
-										["targets"] = {
-										},
-										["uptime"] = 57,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
-										["targets"] = {
-										},
-										["uptime"] = 57,
-										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 3,
-										["id"] = 196741,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 54,
-										["appliedamt"] = 3,
+										["id"] = 196741,
 										["refreshamt"] = 10,
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[166646] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 57,
+										["id"] = 166646,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 172,
@@ -10417,8 +11094,8 @@ _detalhes_database = {
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Вил'тик-воин",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик-воин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -10433,8 +11110,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 316,
 					["tipo"] = 2,
+					["combatId"] = 316,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -10462,15 +11139,47 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:20:38",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Вил'тик-роерожденный",
+				["TotalElapsedCombatTime"] = 56.85000000000036,
+				["CombatEndedAt"] = 9573.946,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:19:41",
+				["end_time"] = 9573.946,
+				["combat_id"] = 316,
+				["frags"] = {
+					["Вил'тик-роерожденный"] = 1,
+					["Вил'тик-воин"] = 2,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["TimeData"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
 					1362827, -- [1]
@@ -10485,31 +11194,23 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["data_fim"] = "14:20:38",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Вил'тик-роерожденный",
-				["TotalElapsedCombatTime"] = 56.85000000000036,
-				["CombatEndedAt"] = 9573.946,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
+				["start_time"] = 9517.096,
+				["contra"] = "Призыватель роя",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -10517,45 +11218,21 @@ _detalhes_database = {
 							["Ваззапер"] = 265467.002136,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 1362827.008717,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 9573.946,
-				["combat_id"] = 316,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "14:19:41",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Вил'тик-роерожденный"] = 1,
-					["Вил'тик-воин"] = 2,
-				},
-				["start_time"] = 9517.096,
-				["TimeData"] = {
-				},
-				["contra"] = "Призыватель роя",
 			}, -- [6]
 			{
 				{
-					["combatId"] = 315,
 					["tipo"] = 2,
+					["combatId"] = 315,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
 							["totalabsorbed"] = 0.002626,
-							["spec"] = 269,
 							["damage_from"] = {
 								["Вил'тик - ваятель янтаря"] = true,
 								["Вил'тик-воин"] = true,
@@ -10569,6 +11246,12 @@ _detalhes_database = {
 							["pets"] = {
 								"Ваззапер <Ваззапер>", -- [1]
 							},
+							["last_dps"] = 20584.66721340577,
+							["spec"] = 269,
+							["friendlyfire_total"] = 44435,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 872561.002626,
 							["friendlyfire"] = {
 								["Ваззапер"] = {
 									["spells"] = {
@@ -10577,20 +11260,13 @@ _detalhes_database = {
 									["total"] = 44435,
 								},
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["fight_component"] = true,
-							["friendlyfire_total"] = 44435,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 872561.002626,
 							["end_time"] = 1592309977,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 1027566.002626,
 							["classe"] = "MONK",
-							["on_hold"] = false,
+							["damage_taken"] = 443754.002626,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 11,
@@ -10608,22 +11284,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 33,
 										["MISS"] = 5,
-										["total"] = 80990,
+										["r_amt"] = 0,
 										["c_max"] = 7255,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 17,
-										["r_amt"] = 0,
 										["c_min"] = 1157,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 17,
+										["id"] = 1,
+										["total"] = 80990,
 									}, -- [1]
 									[201787] = {
 										["c_amt"] = 0,
@@ -10640,22 +11316,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 4,
 										["IMMUNE"] = 4,
-										["total"] = 0,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 201787,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["id"] = 201787,
+										["total"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 6,
@@ -10680,15 +11356,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 20,
-										["r_amt"] = 0,
 										["c_min"] = 7258,
+										["n_amt"] = 20,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 1,
@@ -10711,15 +11387,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
 										["c_min"] = 18926,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[229980] = {
 										["c_amt"] = 0,
@@ -10742,15 +11418,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 1,
@@ -10774,15 +11450,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 3814,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[124280] = {
 										["c_amt"] = 0,
@@ -10805,46 +11481,46 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
-									[311192] = {
-										["c_amt"] = 0,
+									[295367] = {
+										["c_amt"] = 4,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 16976,
 										["g_amt"] = 0,
-										["n_max"] = 23695,
+										["n_max"] = 2144,
 										["targets"] = {
-											["Вил'тик-воин"] = 47390,
+											["Вил'тик-воин"] = 35732,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 47390,
-										["n_min"] = 23695,
+										["n_dmg"] = 18756,
+										["n_min"] = 2054,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 47390,
-										["c_max"] = 0,
+										["counter"] = 13,
+										["total"] = 35732,
+										["c_max"] = 4290,
 										["spellschool"] = 4,
-										["id"] = 311192,
+										["id"] = 295367,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
+										["c_min"] = 4106,
+										["n_amt"] = 9,
+										["a_dmg"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 2,
@@ -10868,15 +11544,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 22638,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 0,
@@ -10899,15 +11575,77 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[311192] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 23695,
+										["targets"] = {
+											["Вил'тик-воин"] = 47390,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 47390,
+										["n_min"] = 23695,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 47390,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[261977] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7513,
+										["targets"] = {
+											["Вил'тик-воин"] = 11269,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11269,
+										["n_min"] = 3756,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 11269,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 261977,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 3,
@@ -10931,89 +11669,29 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
 										["c_min"] = 1922,
-									},
-									[261977] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 7513,
-										["targets"] = {
-											["Вил'тик-воин"] = 11269,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 11269,
-										["n_min"] = 3756,
-										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 11269,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 261977,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
+										["n_amt"] = 8,
 										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
 										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[295367] = {
-										["c_amt"] = 4,
-										["b_amt"] = 0,
-										["c_dmg"] = 16976,
-										["g_amt"] = 0,
-										["n_max"] = 2144,
-										["targets"] = {
-											["Вил'тик-воин"] = 35732,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 18756,
-										["n_min"] = 2054,
-										["g_dmg"] = 0,
-										["counter"] = 13,
-										["total"] = 35732,
-										["c_max"] = 4290,
-										["spellschool"] = 4,
-										["id"] = 295367,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
-										["c_min"] = 4106,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1615-09C24DE1",
-							["last_dps"] = 20584.66721340577,
-							["custom"] = 0,
+							["dps_started"] = false,
+							["total"] = 1027566.002626,
 							["tipo"] = 1,
-							["damage_taken"] = 443754.002626,
+							["custom"] = 0,
+							["last_event"] = 1592309977,
+							["on_hold"] = false,
 							["start_time"] = 1592309927,
 							["delay"] = 0,
-							["last_event"] = 1592309977,
+							["colocacao"] = 1,
 						}, -- [1]
 						{
 							["flag_original"] = 2632,
@@ -11027,19 +11705,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 314069.008093,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592309980,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 314069.008093,
+							["serial"] = "Creature-0-3769-870-9747-157748-000068B5D3",
+							["monster"] = true,
+							["total"] = 314069.008093,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик-воин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 2,
@@ -11052,28 +11730,28 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 136673,
-										["MISS"] = 1,
-										["a_amt"] = 3,
-										["n_min"] = 6530,
 										["g_dmg"] = 0,
+										["MISS"] = 1,
+										["n_min"] = 6530,
+										["a_amt"] = 3,
 										["counter"] = 28,
-										["DODGE"] = 5,
+										["r_amt"] = 0,
 										["total"] = 170696,
 										["c_max"] = 18585,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
 										["a_dmg"] = 35673,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 4,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 16,
-										["r_amt"] = 0,
 										["c_min"] = 15438,
+										["successful_casted"] = 0,
+										["id"] = 1,
+										["n_amt"] = 16,
+										["b_dmg"] = 0,
+										["DODGE"] = 5,
 									}, -- [1]
 									[288813] = {
 										["c_amt"] = 0,
@@ -11097,32 +11775,31 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 10,
 										["b_dmg"] = 0,
 										["n_amt"] = 40,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 314069.008093,
-							["serial"] = "Creature-0-3769-870-9747-157748-000068B5D3",
+							["last_event"] = 1592309978,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592309978,
+							["tipo"] = 1,
 							["damage_taken"] = 754735.0080929999,
 							["start_time"] = 1592309929,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
 							["flag_original"] = 8465,
 							["totalabsorbed"] = 0.004411,
-							["total"] = 155005.004411,
 							["damage_from"] = {
 							},
 							["targets"] = {
@@ -11131,20 +11808,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["on_hold"] = false,
-							["spec"] = 269,
 							["classe"] = "MONK",
+							["last_event"] = 1592309968,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 155005.004411,
-							["friendlyfire_total"] = 0,
+							["serial"] = "Creature-0-3769-870-9747-69791-000068B87F",
 							["dps_started"] = false,
 							["end_time"] = 1592309977,
-							["serial"] = "Creature-0-3769-870-9747-69791-000068B87F",
+							["spec"] = 269,
 							["ownerName"] = "Ваззапер",
 							["nome"] = "Ваззапер <Ваззапер>",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 3,
@@ -11162,22 +11838,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 13,
 										["MISS"] = 3,
-										["total"] = 14059,
+										["r_amt"] = 0,
 										["c_max"] = 2427,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 1213,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["id"] = 1,
+										["total"] = 14059,
 									}, -- [1]
 									[117418] = {
 										["c_amt"] = 2,
@@ -11201,15 +11877,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 9807,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 1,
@@ -11232,15 +11908,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 18394,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 0,
@@ -11263,15 +11939,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 5,
@@ -11294,15 +11970,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 6345,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 0,
@@ -11326,27 +12002,29 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
+							["on_hold"] = false,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592309968,
+							["tipo"] = 1,
 							["damage_taken"] = 0.004411,
 							["start_time"] = 1592309955,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["total"] = 155005.004411,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -11360,20 +12038,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-157757-000068B7AC",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 85250.002738,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-157757-000068B7AC",
 							["dps_started"] = false,
 							["total"] = 85250.002738,
 							["end_time"] = 1592309977,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Вил'тик - ваятель янтаря",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -11396,15 +12073,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[312262] = {
 										["c_amt"] = 0,
@@ -11428,13 +12105,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[312257] = {
 										["c_amt"] = 0,
@@ -11458,13 +12135,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 3,
 										["b_dmg"] = 0,
 										["n_amt"] = 3,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[276888] = {
 										["c_amt"] = 0,
@@ -11487,26 +12164,27 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 2,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["last_event"] = 1592309958,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592309958,
+							["tipo"] = 1,
 							["damage_taken"] = 235043.002738,
 							["start_time"] = 1592309958,
 							["delay"] = 1592309958,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [4]
 						{
 							["flag_original"] = 2632,
@@ -11516,41 +12194,41 @@ _detalhes_database = {
 							},
 							["targets"] = {
 							},
-							["monster"] = true,
 							["pets"] = {
 							},
-							["fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["friendlyfire"] = {
+							},
+							["classe"] = "UNKNOW",
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 0.00171,
-							["on_hold"] = false,
-							["dps_started"] = false,
-							["total"] = 0.00171,
-							["classe"] = "UNKNOW",
 							["serial"] = "Creature-0-3769-870-9747-157718-000068B727",
+							["fight_component"] = true,
+							["total"] = 0.00171,
+							["monster"] = true,
+							["damage_taken"] = 37788.00171,
 							["nome"] = "Призыватель роя",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 2,
 							},
-							["friendlyfire"] = {
-							},
+							["tipo"] = 1,
 							["end_time"] = 1592309977,
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 37788.00171,
+							["last_event"] = 0,
+							["on_hold"] = false,
 							["start_time"] = 1592309977,
 							["delay"] = 0,
-							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
 						}, -- [5]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 315,
 					["tipo"] = 3,
+					["combatId"] = 315,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -11559,7 +12237,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 0.00884,
 							["total_without_pet"] = 342668.00884,
 							["total"] = 342668.00884,
@@ -11579,10 +12257,11 @@ _detalhes_database = {
 							["healing_taken"] = 342668.00884,
 							["fight_component"] = true,
 							["end_time"] = 1592309977,
-							["start_time"] = 1592309927,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[269279] = {
 										["c_amt"] = 0,
@@ -11602,10 +12281,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 87838,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 87838,
 										["n_amt"] = 19,
@@ -11685,10 +12364,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 40682,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 40682,
 										["n_amt"] = 8,
@@ -11778,24 +12457,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592309977,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592309927,
 							["totaldenied"] = 0.00884,
 							["delay"] = 0,
-							["last_event"] = 1592309977,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 315,
 					["tipo"] = 7,
+					["combatId"] = 315,
 					["_ActorTable"] = {
 						{
 							["received"] = 50.0047,
@@ -11812,7 +12490,6 @@ _detalhes_database = {
 							["total"] = 50.0047,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 50,
@@ -11824,6 +12501,7 @@ _detalhes_database = {
 										["counter"] = 2,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -11838,309 +12516,116 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 315,
 					["tipo"] = 9,
+					["combatId"] = 315,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 6,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 6,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115080] = {
-										["activedamt"] = 0,
-										["id"] = 115080,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 115080,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113746] = {
-										["activedamt"] = 1,
-										["id"] = 113746,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 50,
-										["appliedamt"] = 4,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 5,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 48,
-										["appliedamt"] = 5,
+										["id"] = 228287,
 										["refreshamt"] = 25,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 36,
-										["appliedamt"] = 4,
+										["id"] = 115804,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[124280] = {
-										["activedamt"] = 0,
-										["id"] = 124280,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 124280,
 										["refreshamt"] = 6,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 26,
-										["appliedamt"] = 2,
+										["id"] = 295367,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[119381] = {
-										["activedamt"] = 0,
-										["id"] = 119381,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 3,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[122470] = {
-										["activedamt"] = 0,
-										["id"] = 122470,
-										["targets"] = {
-										},
-										["uptime"] = 5,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-								},
-							},
-							["cooldowns_defensive"] = 1.006434,
-							["pets"] = {
-							},
-							["interrupt_targets"] = {
-								["Вил'тик - ваятель янтаря"] = 1,
-							},
-							["cc_done_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[119381] = {
 										["id"] = 119381,
-										["targets"] = {
-											["Вил'тик-воин"] = 2,
-										},
-										["counter"] = 2,
-									},
-								},
-							},
-							["classe"] = "MONK",
-							["cooldowns_defensive_targets"] = {
-								["Вил'тик - ваятель янтаря"] = 1,
-							},
-							["buff_uptime_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269279] = {
-										["activedamt"] = 2,
-										["id"] = 269279,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[113656] = {
-										["activedamt"] = 2,
-										["id"] = 113656,
-										["targets"] = {
-										},
-										["uptime"] = 4,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[196742] = {
-										["activedamt"] = 5,
-										["id"] = 196742,
-										["targets"] = {
-										},
-										["uptime"] = 31,
-										["appliedamt"] = 5,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[261769] = {
-										["activedamt"] = 4,
-										["id"] = 261769,
-										["targets"] = {
-										},
-										["uptime"] = 34,
-										["appliedamt"] = 4,
-										["refreshamt"] = 16,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[298343] = {
-										["activedamt"] = 2,
-										["id"] = 298343,
-										["targets"] = {
-										},
-										["uptime"] = 16,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[152175] = {
-										["activedamt"] = 1,
-										["id"] = 152175,
-										["targets"] = {
-										},
-										["uptime"] = 1,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[279928] = {
-										["activedamt"] = 1,
-										["id"] = 279928,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[137639] = {
-										["activedamt"] = 1,
-										["id"] = 137639,
-										["targets"] = {
-										},
-										["uptime"] = 15,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[116768] = {
-										["activedamt"] = 2,
-										["id"] = 116768,
-										["targets"] = {
-										},
-										["uptime"] = 9,
-										["appliedamt"] = 2,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[122470] = {
-										["activedamt"] = 1,
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 5,
 										["id"] = 122470,
-										["targets"] = {
-										},
-										["uptime"] = 10,
-										["appliedamt"] = 1,
 										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
-										["targets"] = {
-										},
-										["uptime"] = 50,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[196741] = {
-										["activedamt"] = 4,
-										["id"] = 196741,
-										["targets"] = {
-										},
-										["uptime"] = 46,
-										["appliedamt"] = 4,
-										["refreshamt"] = 18,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["cooldowns_defensive_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[122470] = {
 										["id"] = 122470,
@@ -12150,20 +12635,226 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
+							},
+							["cc_done_targets"] = {
+								["Вил'тик-воин"] = 2,
+							},
+							["cooldowns_defensive"] = 1.006434,
+							["pets"] = {
+							},
+							["buff_uptime"] = 427,
+							["cc_done_spells"] = {
+								["_ActorTable"] = {
+									[119381] = {
+										["id"] = 119381,
+										["targets"] = {
+											["Вил'тик-воин"] = 2,
+										},
+										["counter"] = 2,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["classe"] = "MONK",
+							["interrupt_spells"] = {
+								["_ActorTable"] = {
+									[116705] = {
+										["id"] = 116705,
+										["interrompeu_oque"] = {
+											[312257] = 1,
+										},
+										["targets"] = {
+											["Вил'тик - ваятель янтаря"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[225787] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 50,
+										["id"] = 225787,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 11,
+										["id"] = 269279,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[264408] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 50,
+										["id"] = 264408,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[113656] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 4,
+										["id"] = 113656,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196742] = {
+										["appliedamt"] = 5,
+										["targets"] = {
+										},
+										["activedamt"] = 5,
+										["uptime"] = 31,
+										["id"] = 196742,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[261769] = {
+										["appliedamt"] = 4,
+										["targets"] = {
+										},
+										["activedamt"] = 4,
+										["uptime"] = 34,
+										["id"] = 261769,
+										["refreshamt"] = 16,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[298343] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 16,
+										["id"] = 298343,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[152175] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 1,
+										["id"] = 152175,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[137639] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 15,
+										["id"] = 137639,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279928] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 50,
+										["id"] = 279928,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116768] = {
+										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 9,
+										["id"] = 116768,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269083] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 50,
+										["id"] = 269083,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[122470] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 10,
+										["id"] = 122470,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[196741] = {
+										["appliedamt"] = 4,
+										["targets"] = {
+										},
+										["activedamt"] = 4,
+										["uptime"] = 46,
+										["id"] = 196741,
+										["refreshamt"] = 18,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[166646] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 50,
+										["id"] = 166646,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+								["tipo"] = 9,
 							},
 							["interrompeu_oque"] = {
 								[312257] = 1,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 187,
-							["buff_uptime"] = 427,
+							["interrupt_targets"] = {
+								["Вил'тик - ваятель янтаря"] = 1,
+							},
 							["cc_done"] = 2.004937,
-							["nome"] = "Ваззапер",
+							["debuff_uptime_targets"] = {
+							},
 							["spec"] = 269,
 							["grupo"] = true,
-							["cc_done_targets"] = {
-								["Вил'тик-воин"] = 2,
-							},
 							["spell_cast"] = {
 								[107428] = 5,
 								[100784] = 6,
@@ -12180,34 +12871,21 @@ _detalhes_database = {
 								[119381] = 1,
 								[221771] = 2,
 							},
-							["interrupt_spells"] = {
-								["tipo"] = 9,
-								["_ActorTable"] = {
-									[116705] = {
-										["id"] = 116705,
-										["interrompeu_oque"] = {
-											[312257] = 1,
-										},
-										["targets"] = {
-											["Вил'тик - ваятель янтаря"] = 1,
-										},
-										["counter"] = 1,
-									},
-								},
-							},
+							["tipo"] = 4,
 							["buff_uptime_targets"] = {
 							},
-							["tipo"] = 4,
-							["interrupt"] = 1.007261,
-							["debuff_uptime_targets"] = {
-							},
-							["serial"] = "Player-1615-09C24DE1",
 							["last_event"] = 1592309977,
+							["interrupt"] = 1.007261,
+							["nome"] = "Ваззапер",
+							["serial"] = "Player-1615-09C24DE1",
+							["cooldowns_defensive_targets"] = {
+								["Вил'тик - ваятель янтаря"] = 1,
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Вил'тик - ваятель янтаря",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик - ваятель янтаря",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -12223,8 +12901,8 @@ _detalhes_database = {
 						}, -- [2]
 						{
 							["flag_original"] = 2632,
-							["nome"] = "Вил'тик-воин",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик-воин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -12239,23 +12917,19 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 315,
 					["tipo"] = 2,
+					["combatId"] = 315,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
 					["Ваззапер"] = true,
 				},
-				["last_events_tables"] = {
-				},
 				["overall_added"] = true,
-				["cleu_timeline"] = {
+				["last_events_tables"] = {
 				},
 				["alternate_power"] = {
 				},
-				["tempo_start"] = 1592309927,
-				["enemy"] = "Вил'тик - ваятель янтаря",
 				["combat_counter"] = 361,
 				["playing_solo"] = true,
 				["totals"] = {
@@ -12271,10 +12945,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 1,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -12360,9 +13034,14 @@ _detalhes_database = {
 						["n"] = 2,
 					},
 				},
-				["cleu_events"] = {
-					["n"] = 1,
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:19:38",
+				["cleu_timeline"] = {
 				},
+				["enemy"] = "Вил'тик - ваятель янтаря",
+				["TotalElapsedCombatTime"] = 9514.297,
 				["CombatEndedAt"] = 9514.297,
 				["aura_timeline"] = {
 				},
@@ -12370,6 +13049,20 @@ _detalhes_database = {
 				},
 				["data_inicio"] = "14:18:48",
 				["end_time"] = 9514.297,
+				["combat_id"] = 315,
+				["spells_cast_timeline"] = {
+				},
+				["tempo_start"] = 1592309927,
+				["frags"] = {
+					["Вил'тик - ваятель янтаря"] = 1,
+					["Вил'тик-воин"] = 2,
+				},
+				["contra"] = "Вил'тик - ваятель янтаря",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
 				["totals_grupo"] = {
 					916996, -- [1]
 					342668, -- [2]
@@ -12383,22 +13076,24 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 1,
-						["interrupt"] = 1,
 						["dispell"] = 0,
+						["interrupt"] = 1,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["combat_id"] = 315,
-				["TotalElapsedCombatTime"] = 9514.297,
-				["frags_need_refresh"] = true,
+				["start_time"] = 9464.378,
+				["TimeData"] = {
+				},
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -12406,33 +13101,17 @@ _detalhes_database = {
 							["Ваззапер"] = 342668.00884,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 1027566.002626,
 						}, -- [1]
 					},
 				},
-				["frags"] = {
-					["Вил'тик - ваятель янтаря"] = 1,
-					["Вил'тик-воин"] = 2,
-				},
-				["data_fim"] = "14:19:38",
-				["instance_type"] = "none",
-				["CombatSkillCache"] = {
-				},
-				["spells_cast_timeline"] = {
-				},
-				["start_time"] = 9464.378,
-				["contra"] = "Вил'тик - ваятель янтаря",
-				["TimeData"] = {
-				},
 			}, -- [7]
 			{
 				{
-					["combatId"] = 314,
 					["tipo"] = 2,
+					["combatId"] = 314,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 68168,
@@ -12445,19 +13124,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 33857.003428,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592309922,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 33857.003428,
+							["serial"] = "Creature-0-3769-870-9747-157757-000068B621",
+							["monster"] = true,
+							["total"] = 33857.003428,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик - ваятель янтаря",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -12480,15 +13159,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 									[312262] = {
 										["c_amt"] = 0,
@@ -12512,13 +13191,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[312257] = {
 										["c_amt"] = 0,
@@ -12542,13 +13221,13 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 1,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 									[276888] = {
 										["c_amt"] = 0,
@@ -12571,27 +13250,27 @@ _detalhes_database = {
 										},
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
+										["c_min"] = 0,
 										["successful_casted"] = 1,
 										["b_dmg"] = 0,
 										["n_amt"] = 0,
+										["a_amt"] = 0,
 										["r_amt"] = 0,
-										["c_min"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 33857.003428,
-							["serial"] = "Creature-0-3769-870-9747-157757-000068B621",
+							["last_event"] = 1592309915,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592309915,
+							["tipo"] = 1,
 							["damage_taken"] = 240921.003428,
 							["start_time"] = 1592309908,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -12605,28 +13284,8 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["total"] = 240921.00482,
-							["friendlyfire"] = {
-								["Ваззапер"] = {
-									["spells"] = {
-										[312246] = 32184,
-									},
-									["total"] = 32184,
-								},
-							},
-							["friendlyfire_total"] = 32184,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 240921.00482,
-							["fight_component"] = true,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["end_time"] = 1592309922,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
+							["last_dps"] = 17554.72200670338,
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 5,
@@ -12643,22 +13302,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 12,
 										["MISS"] = 1,
-										["total"] = 37740,
+										["r_amt"] = 0,
 										["c_max"] = 7068,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 2813,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["id"] = 1,
+										["total"] = 37740,
 									}, -- [1]
 									[261977] = {
 										["c_amt"] = 1,
@@ -12681,15 +13340,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 7962,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[311192] = {
 										["c_amt"] = 0,
@@ -12712,15 +13371,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 4,
@@ -12743,15 +13402,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 4108,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 1,
@@ -12774,15 +13433,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 20326,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[310690] = {
 										["c_amt"] = 0,
@@ -12805,15 +13464,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 2,
@@ -12836,15 +13495,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 3328,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -12867,34 +13526,54 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 2,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 2,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
-							["spec"] = 269,
+							["friendlyfire_total"] = 32184,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 240921.00482,
+							["friendlyfire"] = {
+								["Ваззапер"] = {
+									["spells"] = {
+										[312246] = 32184,
+									},
+									["total"] = 32184,
+								},
+							},
 							["serial"] = "Player-1615-09C24DE1",
-							["last_dps"] = 17554.72200670338,
-							["custom"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
+							["total"] = 240921.00482,
+							["classe"] = "MONK",
 							["damage_taken"] = 55979.00482,
+							["nome"] = "Ваззапер",
+							["spec"] = 269,
+							["grupo"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1592309922,
+							["tipo"] = 1,
+							["custom"] = 0,
+							["last_event"] = 1592309921,
+							["on_hold"] = false,
 							["start_time"] = 1592309908,
 							["delay"] = 0,
-							["last_event"] = 1592309921,
+							["colocacao"] = 1,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 314,
 					["tipo"] = 3,
+					["combatId"] = 314,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -12929,7 +13608,6 @@ _detalhes_database = {
 							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[298318] = {
 										["c_amt"] = 0,
@@ -12977,10 +13655,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 43919,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 43919,
 										["n_amt"] = 4,
@@ -13016,22 +13694,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
 							["heal_enemy_amt"] = 0,
-							["start_time"] = 1592309908,
+							["tipo"] = 2,
 							["custom"] = 0,
 							["last_event"] = 1592309915,
-							["spec"] = 269,
+							["start_time"] = 1592309908,
 							["totaldenied"] = 0.001835,
 							["delay"] = 0,
-							["tipo"] = 2,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 314,
 					["tipo"] = 7,
+					["combatId"] = 314,
 					["_ActorTable"] = {
 						{
 							["received"] = 25.005451,
@@ -13048,7 +13727,6 @@ _detalhes_database = {
 							["total"] = 25.005451,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 25,
@@ -13060,6 +13738,7 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -13074,48 +13753,13 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 314,
 					["tipo"] = 9,
+					["combatId"] = 314,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
-									[113746] = {
-										["activedamt"] = -1,
-										["id"] = 113746,
-										["targets"] = {
-										},
-										["actived_at"] = 1592309921,
-										["uptime"] = 0,
-										["appliedamt"] = 0,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
-										["targets"] = {
-										},
-										["uptime"] = 12,
-										["appliedamt"] = 1,
-										["refreshamt"] = 1,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
-										["targets"] = {
-										},
-										["uptime"] = 13,
-										["appliedamt"] = 1,
-										["refreshamt"] = 8,
-										["actived"] = false,
-										["counter"] = 0,
-									},
 									[295367] = {
 										["activedamt"] = -1,
 										["id"] = 295367,
@@ -13128,113 +13772,148 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[113746] = {
+										["activedamt"] = -1,
+										["id"] = 113746,
+										["targets"] = {
+										},
+										["actived_at"] = 1592309921,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[228287] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 13,
+										["id"] = 228287,
+										["refreshamt"] = 8,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[115804] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 0,
+										["uptime"] = 12,
+										["id"] = 115804,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 110,
 							["classe"] = "MONK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 7,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 2,
-										["id"] = 261769,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 13,
-										["appliedamt"] = 2,
+										["id"] = 261769,
 										["refreshamt"] = 4,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298343] = {
-										["activedamt"] = 1,
-										["id"] = 298343,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 8,
-										["appliedamt"] = 1,
+										["id"] = 298343,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[279928] = {
-										["activedamt"] = 1,
-										["id"] = 279928,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 279928,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 14,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 1,
-										["id"] = 196741,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 12,
-										["appliedamt"] = 1,
+										["id"] = 196741,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 25,
@@ -13260,8 +13939,8 @@ _detalhes_database = {
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Вил'тик - ваятель янтаря",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик - ваятель янтаря",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -13278,8 +13957,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 314,
 					["tipo"] = 2,
+					["combatId"] = 314,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -13307,15 +13986,46 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:18:43",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Вил'тик - ваятель янтаря",
+				["TotalElapsedCombatTime"] = 9459.106,
+				["CombatEndedAt"] = 9459.106,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:18:29",
+				["end_time"] = 9459.106,
+				["combat_id"] = 314,
+				["frags"] = {
+					["Вил'тик - ваятель янтаря"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["TimeData"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
 				},
 				["totals_grupo"] = {
 					273105, -- [1]
@@ -13330,31 +14040,23 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["data_fim"] = "14:18:43",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Вил'тик - ваятель янтаря",
-				["TotalElapsedCombatTime"] = 9459.106,
-				["CombatEndedAt"] = 9459.106,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
+				["start_time"] = 9444.997,
+				["contra"] = "Вил'тик - ваятель янтаря",
 				["PhaseData"] = {
 					{
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
@@ -13362,39 +14064,17 @@ _detalhes_database = {
 							["Ваззапер"] = 63394.001835,
 						}, -- [1]
 					},
-					["damage_section"] = {
-					},
 					["damage"] = {
 						{
 							["Ваззапер"] = 240921.00482,
 						}, -- [1]
 					},
 				},
-				["end_time"] = 9459.106,
-				["combat_id"] = 314,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "14:18:29",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Вил'тик - ваятель янтаря"] = 1,
-				},
-				["start_time"] = 9444.997,
-				["TimeData"] = {
-				},
-				["contra"] = "Вил'тик - ваятель янтаря",
 			}, -- [8]
 			{
 				{
-					["combatId"] = 313,
 					["tipo"] = 2,
+					["combatId"] = 313,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -13406,24 +14086,23 @@ _detalhes_database = {
 								["Вил'тик-воин"] = 752715,
 								["Вил'тик - ваятель янтаря"] = 629,
 							},
-							["total"] = 753344.004357,
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 							},
+							["colocacao"] = 1,
 							["on_hold"] = false,
-							["classe"] = "MONK",
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 753344.004357,
-							["colocacao"] = 1,
+							["spec"] = 269,
+							["dps_started"] = false,
+							["total"] = 753344.004357,
 							["friendlyfire"] = {
 							},
-							["dps_started"] = false,
-							["end_time"] = 1592309908,
-							["friendlyfire_total"] = 0,
-							["spec"] = 269,
+							["last_event"] = 1592309907,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 8,
@@ -13440,22 +14119,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 34,
 										["MISS"] = 4,
-										["total"] = 96638,
+										["r_amt"] = 0,
 										["c_max"] = 6988,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 22,
-										["r_amt"] = 0,
 										["c_min"] = 3291,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 22,
+										["id"] = 1,
+										["total"] = 96638,
 									}, -- [1]
 									[310690] = {
 										["c_amt"] = 1,
@@ -13478,15 +14157,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 121989,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 0,
@@ -13509,15 +14188,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100784] = {
 										["c_amt"] = 4,
@@ -13540,15 +14219,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 19302,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 1,
@@ -13571,15 +14250,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 7,
-										["r_amt"] = 0,
 										["c_min"] = 3826,
+										["n_amt"] = 7,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[261977] = {
 										["c_amt"] = 1,
@@ -13602,15 +14281,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 6846,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[117952] = {
 										["c_amt"] = 0,
@@ -13633,15 +14312,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 0,
@@ -13664,15 +14343,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[158221] = {
 										["c_amt"] = 0,
@@ -13695,15 +14374,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[295367] = {
 										["c_amt"] = 2,
@@ -13726,15 +14405,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
 										["c_min"] = 4290,
+										["n_amt"] = 5,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[311192] = {
 										["c_amt"] = 3,
@@ -13757,15 +14436,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
 										["c_min"] = 47390,
+										["n_amt"] = 0,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 5,
@@ -13788,27 +14467,28 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 5541,
+										["n_amt"] = 6,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
 							["grupo"] = true,
-							["serial"] = "Player-1615-09C24DE1",
+							["end_time"] = 1592309908,
 							["last_dps"] = 15696.62883604181,
 							["custom"] = 0,
-							["last_event"] = 1592309907,
+							["tipo"] = 1,
 							["damage_taken"] = 103005.004357,
 							["start_time"] = 1592309856,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "MONK",
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
@@ -13821,19 +14501,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 103005.008138,
-							["monster"] = true,
-							["fight_component"] = true,
 							["dps_started"] = false,
 							["end_time"] = 1592309908,
 							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 103005.008138,
+							["serial"] = "Creature-0-3769-870-9747-157748-000168B5ED",
+							["monster"] = true,
+							["total"] = 103005.008138,
+							["fight_component"] = true,
 							["on_hold"] = false,
 							["nome"] = "Вил'тик-воин",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -13846,28 +14526,28 @@ _detalhes_database = {
 										},
 										["m_dmg"] = 0,
 										["n_dmg"] = 75370,
-										["a_amt"] = 1,
 										["DODGE"] = 2,
+										["a_amt"] = 1,
 										["n_min"] = 6521,
-										["g_dmg"] = 0,
-										["counter"] = 14,
 										["MISS"] = 2,
+										["counter"] = 14,
+										["r_amt"] = 0,
 										["total"] = 75370,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
 										["a_dmg"] = 7543,
+										["m_amt"] = 0,
 										["m_crit"] = 0,
 										["PARRY"] = 1,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 9,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["id"] = 1,
+										["n_amt"] = 9,
+										["b_dmg"] = 0,
+										["g_dmg"] = 0,
 									}, -- [1]
 									[288813] = {
 										["c_amt"] = 0,
@@ -13890,35 +14570,35 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 6,
-										["b_dmg"] = 0,
-										["n_amt"] = 8,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 8,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["total"] = 103005.008138,
-							["serial"] = "Creature-0-3769-870-9747-157748-000168B5ED",
+							["last_event"] = 1592309905,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592309905,
+							["tipo"] = 1,
 							["damage_taken"] = 752715.008138,
 							["start_time"] = 1592309862,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["classe"] = "UNKNOW",
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 313,
 					["tipo"] = 3,
+					["combatId"] = 313,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -13928,7 +14608,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 150248.001965,
 							["total_without_pet"] = 88139.001965,
 							["total"] = 88139.001965,
@@ -13948,10 +14628,11 @@ _detalhes_database = {
 							["healing_taken"] = 88139.001965,
 							["fight_component"] = true,
 							["end_time"] = 1592309904,
-							["start_time"] = 1592309873,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[298318] = {
 										["c_amt"] = 2,
@@ -13999,10 +14680,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 77644,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 77644,
 										["n_amt"] = 12,
@@ -14067,24 +14748,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592309900,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592309873,
 							["totaldenied"] = 0.001965,
 							["delay"] = 1592309871,
-							["last_event"] = 1592309900,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 313,
 					["tipo"] = 7,
+					["combatId"] = 313,
 					["_ActorTable"] = {
 						{
 							["received"] = 70.00833,
@@ -14101,7 +14781,6 @@ _detalhes_database = {
 							["total"] = 70.00833,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 									[298325] = {
 										["total"] = 70,
@@ -14113,6 +14792,7 @@ _detalhes_database = {
 										["counter"] = 3,
 									},
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -14127,85 +14807,84 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 313,
 					["tipo"] = 9,
+					["combatId"] = 313,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 35,
-										["appliedamt"] = 2,
+										["id"] = 115804,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 40,
-										["appliedamt"] = 2,
+										["id"] = 228287,
 										["refreshamt"] = 23,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 2,
-										["appliedamt"] = 1,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[119381] = {
-										["activedamt"] = 0,
-										["id"] = 119381,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 119381,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[295367] = {
-										["activedamt"] = 0,
-										["id"] = 295367,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 16,
-										["appliedamt"] = 2,
+										["id"] = 295367,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113746] = {
-										["activedamt"] = 0,
-										["id"] = 113746,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 40,
-										["appliedamt"] = 2,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 411,
 							["cc_done_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[119381] = {
 										["id"] = 119381,
@@ -14215,144 +14894,145 @@ _detalhes_database = {
 										["counter"] = 1,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["classe"] = "MONK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 48,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 37,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 48,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 1,
-										["id"] = 113656,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 4,
-										["appliedamt"] = 1,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 4,
-										["id"] = 196742,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 4,
 										["uptime"] = 19,
-										["appliedamt"] = 4,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 4,
-										["id"] = 261769,
+										["appliedamt"] = 4,
 										["targets"] = {
 										},
+										["activedamt"] = 4,
 										["uptime"] = 41,
-										["appliedamt"] = 4,
+										["id"] = 261769,
 										["refreshamt"] = 13,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[298343] = {
-										["activedamt"] = 3,
-										["id"] = 298343,
+										["appliedamt"] = 3,
 										["targets"] = {
 										},
+										["activedamt"] = 3,
 										["uptime"] = 24,
-										["appliedamt"] = 3,
+										["id"] = 298343,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[152175] = {
-										["activedamt"] = 1,
-										["id"] = 152175,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 1,
-										["appliedamt"] = 1,
+										["id"] = 152175,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 48,
-										["appliedamt"] = 1,
+										["id"] = 269083,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[279928] = {
-										["activedamt"] = 1,
-										["id"] = 279928,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 48,
-										["appliedamt"] = 1,
+										["id"] = 279928,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 48,
-										["appliedamt"] = 1,
+										["id"] = 166646,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196741] = {
-										["activedamt"] = 2,
-										["id"] = 196741,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 45,
-										["appliedamt"] = 2,
+										["id"] = 196741,
 										["refreshamt"] = 5,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 136,
@@ -14375,19 +15055,19 @@ _detalhes_database = {
 							["cc_done_targets"] = {
 								["Вил'тик-воин"] = 1,
 							},
-							["debuff_uptime_targets"] = {
-							},
 							["last_event"] = 1592309904,
+							["tipo"] = 4,
 							["nome"] = "Ваззапер",
 							["pets"] = {
 							},
 							["serial"] = "Player-1615-09C24DE1",
-							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "Вил'тик-воин",
 							["tipo"] = 4,
+							["nome"] = "Вил'тик-воин",
 							["pets"] = {
 							},
 							["fight_component"] = true,
@@ -14402,8 +15082,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 313,
 					["tipo"] = 2,
+					["combatId"] = 313,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -14431,76 +15111,15 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					753344, -- [1]
-					88139, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 70,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = true,
-				["instance_type"] = "none",
-				["data_fim"] = "14:18:25",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Вил'тик-воин",
-				["TotalElapsedCombatTime"] = 9441.291000000001,
-				["CombatEndedAt"] = 9441.291000000001,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-							["Ваззапер"] = 88139.001965,
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Ваззапер"] = 752715.004357,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 9441.291000000001,
-				["combat_id"] = 313,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
 				},
 				["player_last_events"] = {
 					["Ваззапер"] = {
@@ -14581,21 +15200,83 @@ _detalhes_database = {
 						["n"] = 2,
 					},
 				},
-				["data_inicio"] = "14:17:37",
-				["CombatSkillCache"] = {
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "14:18:25",
+				["cleu_timeline"] = {
 				},
+				["enemy"] = "Вил'тик-воин",
+				["TotalElapsedCombatTime"] = 9441.291000000001,
+				["CombatEndedAt"] = 9441.291000000001,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "14:17:37",
+				["end_time"] = 9441.291000000001,
+				["combat_id"] = 313,
 				["frags"] = {
 					["Вил'тик-воин"] = 2,
 				},
-				["start_time"] = 9393.297,
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
 				["TimeData"] = {
 				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					753344, -- [1]
+					88139, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 70,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["cooldowns_defensive"] = 0,
+						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 9393.297,
 				["contra"] = "Вил'тик-воин",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage_section"] = {
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Ваззапер"] = 88139.001965,
+						}, -- [1]
+					},
+					["damage"] = {
+						{
+							["Ваззапер"] = 752715.004357,
+						}, -- [1]
+					},
+				},
 			}, -- [9]
 			{
 				{
-					["combatId"] = 312,
 					["tipo"] = 2,
+					["combatId"] = 312,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 2632,
@@ -14608,20 +15289,19 @@ _detalhes_database = {
 							},
 							["pets"] = {
 							},
-							["serial"] = "Creature-0-3769-870-9747-157808-000068B709",
 							["classe"] = "UNKNOW",
+							["monster"] = true,
+							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 30028.00162,
-							["monster"] = true,
-							["fight_component"] = true,
+							["serial"] = "Creature-0-3769-870-9747-157808-000068B709",
 							["dps_started"] = false,
 							["total"] = 30028.00162,
 							["end_time"] = 1592309853,
-							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
 							["nome"] = "Вил'тик-роерожденный",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -14640,34 +15320,35 @@ _detalhes_database = {
 										["counter"] = 11,
 										["MISS"] = 2,
 										["total"] = 30028,
-										["c_max"] = 0,
 										["spellschool"] = 1,
+										["b_dmg"] = 0,
 										["id"] = 1,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
 										["a_amt"] = 0,
+										["m_crit"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 6,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 6,
+										["c_max"] = 0,
+										["r_amt"] = 0,
 									}, -- [1]
 								},
+								["tipo"] = 2,
 							},
-							["on_hold"] = false,
+							["last_event"] = 1592309850,
 							["friendlyfire"] = {
 							},
 							["last_dps"] = 0,
 							["custom"] = 0,
-							["last_event"] = 1592309850,
+							["tipo"] = 1,
 							["damage_taken"] = 164715.00162,
 							["start_time"] = 1592309836,
 							["delay"] = 0,
-							["tipo"] = 1,
+							["fight_component"] = true,
 						}, -- [1]
 						{
 							["flag_original"] = 1297,
@@ -14678,23 +15359,16 @@ _detalhes_database = {
 							["targets"] = {
 								["Вил'тик-роерожденный"] = 164715,
 							},
+							["serial"] = "Player-1615-09C24DE1",
 							["pets"] = {
 							},
-							["friendlyfire"] = {
-							},
+							["colocacao"] = 1,
+							["end_time"] = 1592309853,
 							["friendlyfire_total"] = 0,
 							["raid_targets"] = {
 							},
 							["total_without_pet"] = 164715.00725,
-							["end_time"] = 1592309853,
-							["colocacao"] = 1,
-							["dps_started"] = false,
-							["total"] = 164715.00725,
-							["classe"] = "MONK",
-							["on_hold"] = false,
-							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 2,
 								["_ActorTable"] = {
 									{
 										["c_amt"] = 0,
@@ -14711,22 +15385,22 @@ _detalhes_database = {
 										["g_dmg"] = 0,
 										["counter"] = 6,
 										["MISS"] = 1,
-										["total"] = 11397,
+										["r_amt"] = 0,
 										["c_max"] = 0,
 										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
 										["extra"] = {
 										},
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
 										["a_dmg"] = 0,
 										["m_crit"] = 0,
-										["a_amt"] = 0,
 										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 5,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["id"] = 1,
+										["total"] = 11397,
 									}, -- [1]
 									[261977] = {
 										["c_amt"] = 1,
@@ -14749,15 +15423,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 7009,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[117418] = {
 										["c_amt"] = 1,
@@ -14780,15 +15454,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 3,
-										["r_amt"] = 0,
 										["c_min"] = 19281,
+										["n_amt"] = 3,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[185099] = {
 										["c_amt"] = 1,
@@ -14811,15 +15485,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 50814,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[132467] = {
 										["c_amt"] = 0,
@@ -14842,15 +15516,15 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
 										["c_min"] = 0,
+										["n_amt"] = 4,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 									[100780] = {
 										["c_amt"] = 1,
@@ -14873,34 +15547,41 @@ _detalhes_database = {
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
-										["a_dmg"] = 0,
+										["b_dmg"] = 0,
 										["m_crit"] = 0,
 										["a_amt"] = 0,
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
 										["c_min"] = 5581,
+										["n_amt"] = 1,
+										["a_dmg"] = 0,
+										["r_amt"] = 0,
 									},
 								},
+								["tipo"] = 2,
 							},
-							["grupo"] = true,
+							["dps_started"] = false,
+							["total"] = 164715.00725,
+							["friendlyfire"] = {
+							},
+							["tipo"] = 1,
+							["nome"] = "Ваззапер",
 							["spec"] = 269,
-							["serial"] = "Player-1615-09C24DE1",
+							["grupo"] = true,
+							["classe"] = "MONK",
 							["last_dps"] = 9685.699591320013,
 							["custom"] = 0,
-							["tipo"] = 1,
+							["last_event"] = 1592309852,
 							["damage_taken"] = 30028.00725,
 							["start_time"] = 1592309842,
 							["delay"] = 0,
-							["last_event"] = 1592309852,
+							["on_hold"] = false,
 						}, -- [2]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 312,
 					["tipo"] = 3,
+					["combatId"] = 312,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1297,
@@ -14910,7 +15591,7 @@ _detalhes_database = {
 							["pets"] = {
 							},
 							["iniciar_hps"] = false,
-							["classe"] = "MONK",
+							["heal_enemy_amt"] = 0,
 							["totalover"] = 15004.004703,
 							["total_without_pet"] = 30028.004703,
 							["total"] = 30028.004703,
@@ -14930,10 +15611,11 @@ _detalhes_database = {
 							["healing_taken"] = 30028.004703,
 							["fight_component"] = true,
 							["end_time"] = 1592309853,
-							["start_time"] = 1592309836,
+							["healing_from"] = {
+								["Ваззапер"] = true,
+							},
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 3,
 								["_ActorTable"] = {
 									[269279] = {
 										["c_amt"] = 0,
@@ -14953,10 +15635,10 @@ _detalhes_database = {
 										["targets_absorbs"] = {
 											["Ваззапер"] = 30028,
 										},
-										["m_healed"] = 0,
 										["c_curado"] = 0,
-										["m_crit"] = 0,
 										["c_min"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
 										["m_amt"] = 0,
 										["n_curado"] = 30028,
 										["n_amt"] = 6,
@@ -14993,24 +15675,23 @@ _detalhes_database = {
 										["absorbed"] = 0,
 									},
 								},
+								["tipo"] = 3,
 							},
 							["grupo"] = true,
-							["healing_from"] = {
-								["Ваззапер"] = true,
-							},
-							["heal_enemy_amt"] = 0,
+							["classe"] = "MONK",
+							["last_event"] = 1592309850,
 							["custom"] = 0,
 							["tipo"] = 2,
-							["spec"] = 269,
+							["start_time"] = 1592309836,
 							["totaldenied"] = 0.004703,
 							["delay"] = 0,
-							["last_event"] = 1592309850,
+							["spec"] = 269,
 						}, -- [1]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 312,
 					["tipo"] = 7,
+					["combatId"] = 312,
 					["_ActorTable"] = {
 						{
 							["received"] = 0.007109,
@@ -15026,9 +15707,9 @@ _detalhes_database = {
 							["total"] = 0.007109,
 							["nome"] = "Ваззапер",
 							["spells"] = {
-								["tipo"] = 7,
 								["_ActorTable"] = {
 								},
+								["tipo"] = 7,
 							},
 							["grupo"] = true,
 							["resource_type"] = 12,
@@ -15043,116 +15724,115 @@ _detalhes_database = {
 					},
 				}, -- [3]
 				{
-					["combatId"] = 312,
 					["tipo"] = 9,
+					["combatId"] = 312,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
 							["debuff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[201787] = {
-										["activedamt"] = 0,
-										["id"] = 201787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 4,
-										["appliedamt"] = 1,
+										["id"] = 201787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113746] = {
-										["activedamt"] = 0,
-										["id"] = 113746,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 113746,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[228287] = {
-										["activedamt"] = 0,
-										["id"] = 228287,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 10,
-										["appliedamt"] = 1,
+										["id"] = 228287,
 										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[115804] = {
-										["activedamt"] = 0,
-										["id"] = 115804,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 0,
 										["uptime"] = 9,
-										["appliedamt"] = 1,
+										["id"] = 115804,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
+								["tipo"] = 9,
 							},
 							["buff_uptime"] = 132,
 							["classe"] = "MONK",
 							["buff_uptime_spells"] = {
-								["tipo"] = 9,
 								["_ActorTable"] = {
 									[225787] = {
-										["activedamt"] = 1,
-										["id"] = 225787,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 225787,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[269279] = {
-										["activedamt"] = 1,
-										["id"] = 269279,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 269279,
 										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[264408] = {
-										["activedamt"] = 1,
-										["id"] = 264408,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 17,
-										["appliedamt"] = 1,
+										["id"] = 264408,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[113656] = {
-										["activedamt"] = 1,
-										["id"] = 113656,
+										["appliedamt"] = 1,
 										["targets"] = {
 										},
+										["activedamt"] = 1,
 										["uptime"] = 3,
-										["appliedamt"] = 1,
+										["id"] = 113656,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 									[196742] = {
-										["activedamt"] = 2,
-										["id"] = 196742,
+										["appliedamt"] = 2,
 										["targets"] = {
 										},
+										["activedamt"] = 2,
 										["uptime"] = 7,
-										["appliedamt"] = 2,
+										["id"] = 196742,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -15170,57 +15850,13 @@ _detalhes_database = {
 										["counter"] = 0,
 									},
 									[261769] = {
-										["activedamt"] = 2,
-										["id"] = 261769,
-										["targets"] = {
-										},
-										["uptime"] = 9,
 										["appliedamt"] = 2,
+										["targets"] = {
+										},
+										["activedamt"] = 2,
+										["uptime"] = 9,
+										["id"] = 261769,
 										["refreshamt"] = 5,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[196741] = {
-										["activedamt"] = 1,
-										["id"] = 196741,
-										["targets"] = {
-										},
-										["uptime"] = 11,
-										["appliedamt"] = 1,
-										["refreshamt"] = 5,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269083] = {
-										["activedamt"] = 1,
-										["id"] = 269083,
-										["targets"] = {
-										},
-										["uptime"] = 17,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[279928] = {
-										["activedamt"] = 1,
-										["id"] = 279928,
-										["targets"] = {
-										},
-										["uptime"] = 17,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[166646] = {
-										["activedamt"] = 1,
-										["id"] = 166646,
-										["targets"] = {
-										},
-										["uptime"] = 17,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -15236,7 +15872,52 @@ _detalhes_database = {
 										["actived"] = true,
 										["counter"] = 0,
 									},
+									[196741] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 11,
+										["id"] = 196741,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279928] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 17,
+										["id"] = 279928,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269083] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 17,
+										["id"] = 269083,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[166646] = {
+										["appliedamt"] = 1,
+										["targets"] = {
+										},
+										["activedamt"] = 1,
+										["uptime"] = 17,
+										["id"] = 166646,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 								},
+								["tipo"] = 9,
 							},
 							["fight_component"] = true,
 							["debuff_uptime"] = 33,
@@ -15263,8 +15944,8 @@ _detalhes_database = {
 					},
 				}, -- [4]
 				{
-					["combatId"] = 312,
 					["tipo"] = 2,
+					["combatId"] = 312,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
@@ -15292,10 +15973,10 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
@@ -15315,16 +15996,17 @@ _detalhes_database = {
 					{
 						["buff_uptime"] = 0,
 						["ress"] = 0,
-						["debuff_uptime"] = 0,
 						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
 						["dispell"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
 						["cc_break"] = 0,
 						["dead"] = 0,
 					}, -- [4]
 				},
 				["frags_need_refresh"] = true,
 				["instance_type"] = "none",
+				["hasSaved"] = true,
 				["data_fim"] = "14:17:34",
 				["cleu_timeline"] = {
 				},
@@ -15340,14 +16022,14 @@ _detalhes_database = {
 						1, -- [1]
 						1, -- [2]
 					}, -- [1]
+					["damage_section"] = {
+					},
 					["heal_section"] = {
 					},
 					["heal"] = {
 						{
 							["Ваззапер"] = 30028.004703,
 						}, -- [1]
-					},
-					["damage_section"] = {
 					},
 					["damage"] = {
 						{
@@ -15357,24 +16039,24 @@ _detalhes_database = {
 				},
 				["end_time"] = 9390.071,
 				["combat_id"] = 312,
-				["cleu_events"] = {
-					["n"] = 1,
+				["frags"] = {
+					["Вил'тик-роерожденный"] = 1,
 				},
 				["overall_added"] = true,
 				["spells_cast_timeline"] = {
 				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "14:17:17",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-					["Вил'тик-роерожденный"] = 1,
-				},
-				["start_time"] = 9373.017,
 				["TimeData"] = {
 				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+				},
+				["start_time"] = 9373.017,
 				["contra"] = "Вил'тик-роерожденный",
+				["data_inicio"] = "14:17:17",
 			}, -- [10]
 		},
 	},
@@ -15386,7 +16068,7 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1593216460,
+		["nextreset"] = 1594676384,
 		["last_version"] = 12,
 	},
 	["last_instance_id"] = 1754,
@@ -15491,15 +16173,10 @@ _detalhes_database = {
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -15507,8 +16184,17 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["y"] = 4.57763671875e-05,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -15520,16 +16206,13 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["font_size"] = 10,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["use_spark"] = true,
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,
 		},
 	},
+	["last_day"] = "29",
 	["cached_talents"] = {
 	},
 	["announce_prepots"] = {
@@ -15537,13 +16220,12 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "16",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
 	["character_data"] = {
-		["logons"] = 22,
+		["logons"] = 26,
 	},
 	["combat_id"] = 321,
 	["savedStyles"] = {
@@ -15607,19 +16289,18 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["dps_started"] = false,
+					["damage_taken"] = 440492.021006,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 115904.021006,
-					["last_event"] = 0,
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3769-870-9747-157808-000068B709",
 					["monster"] = true,
 					["total"] = 115904.021006,
-					["fight_component"] = true,
 					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["nome"] = "Вил'тик-роерожденный",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 2,
@@ -15641,33 +16322,34 @@ _detalhes_database = {
 								["MISS"] = 16,
 								["total"] = 115904,
 								["c_max"] = 5065,
-								["DODGE"] = 12,
+								["b_dmg"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["m_amt"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 2,
-								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
+								["a_dmg"] = 0,
 								["n_amt"] = 20,
 								["r_amt"] = 0,
-								["c_min"] = 0,
+								["DODGE"] = 12,
 							}, -- [1]
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
 					["end_time"] = 1592309854,
-					["serial"] = "Creature-0-3769-870-9747-157808-000068B709",
+					["fight_component"] = true,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1592309803,
 					["delay"] = 0,
-					["damage_taken"] = 440492.021006,
+					["on_hold"] = false,
 				}, -- [1]
 				{
 					["flag_original"] = 1297,
@@ -15697,31 +16379,30 @@ _detalhes_database = {
 						["Спогоста-СвежевательДуш"] = 3824,
 						["Вил'тик-роерожденный"] = 309403,
 					},
-					["on_hold"] = false,
+					["serial"] = "Player-1615-09C24DE1",
 					["pets"] = {
 						"Ваззапер <Ваззапер>", -- [1]
 					},
+					["damage_taken"] = 2457881.056837,
 					["friendlyfire"] = {
 						["Ваззапер"] = {
 							["spells"] = {
-								[312246] = 113631,
+								[312246] = 0,
 							},
 							["total"] = 113631,
 						},
 					},
-					["friendlyfire_total"] = 113631,
+					["classe"] = "MONK",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 6503878.056837001,
-					["fight_component"] = true,
-					["last_event"] = 0,
-					["dps_started"] = false,
 					["total"] = 7012425.056837,
-					["classe"] = "MONK",
+					["fight_component"] = true,
 					["end_time"] = 1592309854,
+					["last_dps"] = 0,
+					["last_event"] = 0,
 					["nome"] = "Ваззапер",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 63,
@@ -15751,15 +16432,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 144,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 144,
+								["a_dmg"] = 0,
+								["r_amt"] = 0,
 							}, -- [1]
 							[310690] = {
 								["c_amt"] = 2,
@@ -15786,13 +16467,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[117418] = {
 								["c_amt"] = 37,
@@ -15823,13 +16504,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 110,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[100784] = {
 								["c_amt"] = 12,
@@ -15859,13 +16540,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 31,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[229980] = {
 								["c_amt"] = 0,
@@ -15891,13 +16572,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[132467] = {
 								["c_amt"] = 9,
@@ -15928,80 +16609,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 28,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[295367] = {
-								["c_amt"] = 21,
-								["b_amt"] = 0,
-								["c_dmg"] = 86663,
-								["g_amt"] = 0,
-								["n_max"] = 2145,
-								["targets"] = {
-									["Вил'тик-роерожденный"] = 2054,
-									["Вил'тик-воин"] = 55032,
-									["Призыватель роя"] = 34667,
-									["Вил'тик - ваятель янтаря"] = 18486,
-									["Вил'тик - янтарный целитель"] = 2145,
-									["Кри'вин"] = 12868,
-									["Игольщик Жезалла"] = 35725,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 74314,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 59,
-								["total"] = 160977,
-								["c_max"] = 4290,
-								["id"] = 295367,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
 								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 38,
 								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[124280] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 12426,
-								["targets"] = {
-									["Вил'тик - ваятель янтаря"] = 6997,
-									["Игольщик Жезалла"] = 129757,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 136754,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 15,
-								["total"] = 136754,
-								["c_max"] = 0,
-								["id"] = 124280,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 15,
-								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[201787] = {
 								["c_amt"] = 0,
@@ -16025,121 +16639,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
+								["c_min"] = 0,
 								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[311192] = {
-								["c_amt"] = 4,
-								["b_amt"] = 0,
-								["c_dmg"] = 191662,
-								["g_amt"] = 0,
-								["n_max"] = 24746,
-								["targets"] = {
-									["Вил'тик - ваятель янтаря"] = 73186,
-									["Игольщик Жезалла"] = 94780,
-									["Вил'тик-воин"] = 215356,
-									["Призыватель роя"] = 71085,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 262745,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 15,
-								["total"] = 454407,
-								["c_max"] = 49492,
-								["id"] = 311192,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
 								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 11,
 								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[185099] = {
-								["c_amt"] = 9,
-								["b_amt"] = 0,
-								["c_dmg"] = 433954,
-								["g_amt"] = 0,
-								["n_max"] = 28324,
-								["targets"] = {
-									["Вил'тик-роерожденный"] = 100751,
-									["Вил'тик - янтарный целитель"] = 26009,
-									["Вил'тик-воин"] = 417554,
-									["Призыватель роя"] = 239582,
-									["Вил'тик - ваятель янтаря"] = 108805,
-									["Кри'вин"] = 74792,
-									["Куньчун-разрушитель"] = 48462,
-									["Игольщик Жезалла"] = 113919,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 695920,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 38,
-								["total"] = 1129874,
-								["c_max"] = 53249,
-								["id"] = 185099,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 29,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[158221] = {
-								["c_amt"] = 11,
-								["b_amt"] = 0,
-								["c_dmg"] = 151824,
-								["g_amt"] = 0,
-								["n_max"] = 7085,
-								["targets"] = {
-									["Вил'тик-роерожденный"] = 27626,
-									["Вил'тик-воин"] = 191793,
-									["Призыватель роя"] = 55453,
-									["Игольщик Жезалла"] = 42312,
-									["Кри'вин"] = 33745,
-									["Скалопой"] = 828,
-									["Куньчун-разрушитель"] = 27591,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 227524,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 48,
-								["total"] = 379348,
-								["c_max"] = 14172,
-								["id"] = 158221,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 37,
-								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[100780] = {
 								["c_amt"] = 22,
@@ -16170,13 +16678,216 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 56,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
+							},
+							[124280] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 12426,
+								["targets"] = {
+									["Вил'тик - ваятель янтаря"] = 6997,
+									["Игольщик Жезалла"] = 129757,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 136754,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 136754,
+								["c_max"] = 0,
+								["id"] = 124280,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
 								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 15,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[311192] = {
+								["c_amt"] = 4,
+								["b_amt"] = 0,
+								["c_dmg"] = 191662,
+								["g_amt"] = 0,
+								["n_max"] = 24746,
+								["targets"] = {
+									["Вил'тик - ваятель янтаря"] = 73186,
+									["Игольщик Жезалла"] = 94780,
+									["Вил'тик-воин"] = 215356,
+									["Призыватель роя"] = 71085,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 262745,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 15,
+								["total"] = 454407,
+								["c_max"] = 49492,
+								["id"] = 311192,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 11,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[117952] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Вил'тик - ваятель янтаря"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 117952,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_amt"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[185099] = {
+								["c_amt"] = 9,
+								["b_amt"] = 0,
+								["c_dmg"] = 433954,
+								["g_amt"] = 0,
+								["n_max"] = 28324,
+								["targets"] = {
+									["Вил'тик-роерожденный"] = 100751,
+									["Вил'тик - янтарный целитель"] = 26009,
+									["Вил'тик-воин"] = 417554,
+									["Призыватель роя"] = 239582,
+									["Вил'тик - ваятель янтаря"] = 108805,
+									["Кри'вин"] = 74792,
+									["Куньчун-разрушитель"] = 48462,
+									["Игольщик Жезалла"] = 113919,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 695920,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 38,
+								["total"] = 1129874,
+								["c_max"] = 53249,
+								["id"] = 185099,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 29,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[158221] = {
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 151824,
+								["g_amt"] = 0,
+								["n_max"] = 7085,
+								["targets"] = {
+									["Вил'тик-роерожденный"] = 27626,
+									["Вил'тик-воин"] = 191793,
+									["Призыватель роя"] = 55453,
+									["Игольщик Жезалла"] = 42312,
+									["Кри'вин"] = 33745,
+									["Скалопой"] = 828,
+									["Куньчун-разрушитель"] = 27591,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 227524,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 48,
+								["total"] = 379348,
+								["c_max"] = 14172,
+								["id"] = 158221,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 37,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[295367] = {
+								["c_amt"] = 21,
+								["b_amt"] = 0,
+								["c_dmg"] = 86663,
+								["g_amt"] = 0,
+								["n_max"] = 2145,
+								["targets"] = {
+									["Вил'тик-роерожденный"] = 2054,
+									["Вил'тик-воин"] = 55032,
+									["Призыватель роя"] = 34667,
+									["Вил'тик - ваятель янтаря"] = 18486,
+									["Вил'тик - янтарный целитель"] = 2145,
+									["Кри'вин"] = 12868,
+									["Игольщик Жезалла"] = 35725,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 74314,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 59,
+								["total"] = 160977,
+								["c_max"] = 4290,
+								["id"] = 295367,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 38,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
 							},
 							[119381] = {
 								["c_amt"] = 0,
@@ -16199,15 +16910,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 0,
+								["a_dmg"] = 0,
+								["r_amt"] = 0,
 							},
 							[261977] = {
 								["c_amt"] = 7,
@@ -16238,25 +16949,26 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 16,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
 					["grupo"] = true,
 					["spec"] = 269,
-					["serial"] = "Player-1615-09C24DE1",
+					["dps_started"] = false,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1592309490,
 					["delay"] = 0,
-					["damage_taken"] = 2457881.056837,
+					["friendlyfire_total"] = 113631,
 				}, -- [2]
 				{
 					["flag_original"] = 68168,
@@ -16272,27 +16984,27 @@ _detalhes_database = {
 						["Ваззапер <Ваззапер>"] = true,
 					},
 					["targets"] = {
-						["Шаарм-СвежевательДуш"] = 40862,
+						["Инфернал <Ксиренион>"] = 4823,
+						["Спогоста-СвежевательДуш"] = 0,
 						["Баллрус-Ясеневыйлес"] = 92609,
 						["Ваззапер"] = 836928,
-						["Инфернал <Ксиренион>"] = 4823,
+						["Шаарм-СвежевательДуш"] = 40862,
 					},
-					["dps_started"] = false,
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["dps_started"] = false,
+					["damage_taken"] = 4237129.050277,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 975222.050277,
+					["serial"] = "Creature-0-3769-870-9747-157748-000168B5ED",
 					["fight_component"] = true,
-					["monster"] = true,
 					["total"] = 975222.050277,
 					["classe"] = "UNKNOW",
-					["last_event"] = 0,
+					["last_dps"] = 0,
 					["nome"] = "Вил'тик-воин",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 8,
@@ -16301,10 +17013,11 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 13908,
 								["targets"] = {
-									["Шаарм-СвежевательДуш"] = 17429,
+									["Инфернал <Ксиренион>"] = 4823,
+									["Спогоста-СвежевательДуш"] = 0,
 									["Баллрус-Ясеневыйлес"] = 55500,
 									["Ваззапер"] = 510682,
-									["Инфернал <Ксиренион>"] = 4823,
+									["Шаарм-СвежевательДуш"] = 17429,
 								},
 								["m_dmg"] = 0,
 								["n_dmg"] = 466867,
@@ -16315,20 +17028,20 @@ _detalhes_database = {
 								["MISS"] = 5,
 								["total"] = 588434,
 								["c_max"] = 18585,
-								["DODGE"] = 21,
+								["b_dmg"] = 0,
 								["id"] = 1,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 43216,
+								["m_amt"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 17,
-								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
+								["a_dmg"] = 43216,
 								["n_amt"] = 59,
 								["r_amt"] = 0,
-								["c_min"] = 0,
+								["DODGE"] = 21,
 							}, -- [1]
 							[288813] = {
 								["c_amt"] = 0,
@@ -16337,6 +17050,7 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 10444,
 								["targets"] = {
+									["Спогоста-СвежевательДуш"] = 0,
 									["Баллрус-Ясеневыйлес"] = 37109,
 									["Ваззапер"] = 326246,
 									["Шаарм-СвежевательДуш"] = 23433,
@@ -16347,35 +17061,36 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 122,
 								["a_amt"] = 3,
-								["total"] = 386788,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["DODGE"] = 9,
-								["id"] = 288813,
-								["r_dmg"] = 0,
 								["extra"] = {
 								},
+								["r_dmg"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 16556,
 								["m_crit"] = 0,
 								["PARRY"] = 5,
 								["m_amt"] = 0,
 								["successful_casted"] = 43,
-								["b_dmg"] = 0,
-								["n_amt"] = 108,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 108,
+								["id"] = 288813,
+								["total"] = 386788,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
 					["end_time"] = 1592309905,
-					["serial"] = "Creature-0-3769-870-9747-157748-000168B5ED",
+					["monster"] = true,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1592309697,
 					["delay"] = 0,
-					["damage_taken"] = 4237129.050277,
+					["on_hold"] = false,
 				}, -- [3]
 				{
 					["flag_original"] = 68168,
@@ -16391,19 +17106,18 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["dps_started"] = false,
+					["damage_taken"] = 694717.019023,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 150340.019023,
-					["last_event"] = 0,
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3769-870-9747-157757-000068B621",
 					["monster"] = true,
 					["total"] = 150340.019023,
-					["fight_component"] = true,
 					["classe"] = "UNKNOW",
+					["last_dps"] = 0,
 					["nome"] = "Вил'тик - ваятель янтаря",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -16420,22 +17134,22 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 6,
 								["a_amt"] = 0,
-								["total"] = 43550,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["DODGE"] = 1,
-								["id"] = 1,
-								["r_dmg"] = 0,
 								["extra"] = {
 								},
+								["r_dmg"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 4,
+								["id"] = 1,
+								["total"] = 43550,
 							}, -- [1]
 							[312262] = {
 								["c_amt"] = 0,
@@ -16459,13 +17173,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 4,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[312257] = {
 								["c_amt"] = 0,
@@ -16489,13 +17203,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 6,
 								["b_dmg"] = 0,
 								["n_amt"] = 6,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[276888] = {
 								["c_amt"] = 0,
@@ -16518,74 +17232,73 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 3,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
 					["end_time"] = 1592309923,
-					["serial"] = "Creature-0-3769-870-9747-157757-000068B621",
+					["fight_component"] = true,
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1592309871,
 					["delay"] = 0,
-					["damage_taken"] = 694717.019023,
+					["on_hold"] = false,
 				}, -- [4]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 0.024545,
 					["damage_from"] = {
 						["Дарнелла-СвежевательДуш"] = true,
-						["Спогоста-СвежевательДуш"] = true,
-						["Ваззапер <Ваззапер>"] = true,
-						["Ваззапер"] = true,
 						["Шаарм-СвежевательДуш"] = true,
+						["Ваззапер <Ваззапер>"] = true,
+						["Спогоста-СвежевательДуш"] = true,
+						["Ваззапер"] = true,
 					},
 					["targets"] = {
 					},
 					["pets"] = {
 					},
+					["dps_started"] = false,
+					["damage_taken"] = 1676414.024545,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 0.024545,
-					["last_event"] = 0,
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3769-870-9747-157718-000068B727",
 					["monster"] = true,
 					["total"] = 0.024545,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
-					["nome"] = "Призыватель роя",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-						},
-					},
 					["friendlyfire"] = {
 					},
-					["dps_started"] = false,
+					["last_dps"] = 0,
+					["nome"] = "Призыватель роя",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["last_event"] = 0,
 					["end_time"] = 1592309978,
-					["serial"] = "Creature-0-3769-870-9747-157718-000068B727",
+					["classe"] = "UNKNOW",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1592309975,
 					["delay"] = 0,
-					["damage_taken"] = 1676414.024545,
+					["fight_component"] = true,
 				}, -- [5]
 				{
 					["flag_original"] = 8465,
 					["totalabsorbed"] = 0.020791,
-					["friendlyfire"] = {
-					},
 					["damage_from"] = {
 						["Спогоста-СвежевательДуш"] = true,
 					},
@@ -16599,21 +17312,21 @@ _detalhes_database = {
 					["pets"] = {
 					},
 					["friendlyfire_total"] = 0,
-					["serial"] = "Creature-0-3769-870-9747-69791-000068B87F",
+					["last_event"] = 0,
 					["classe"] = "MONK",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 508547.020791,
-					["end_time"] = 1592309978,
+					["serial"] = "Creature-0-3769-870-9747-69791-000068B87F",
 					["dps_started"] = false,
 					["total"] = 508547.020791,
-					["on_hold"] = false,
+					["last_dps"] = 0,
 					["ownerName"] = "Ваззапер",
 					["nome"] = "Ваззапер <Ваззапер>",
-					["last_event"] = 0,
 					["spec"] = 269,
+					["damage_taken"] = 922.020791,
+					["on_hold"] = false,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 10,
@@ -16639,15 +17352,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 36,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 36,
+								["a_dmg"] = 0,
+								["r_amt"] = 0,
 							}, -- [1]
 							[261977] = {
 								["c_amt"] = 1,
@@ -16671,13 +17384,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[117418] = {
 								["c_amt"] = 21,
@@ -16705,13 +17418,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 33,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[185099] = {
 								["c_amt"] = 1,
@@ -16737,13 +17450,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 5,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[100784] = {
 								["c_amt"] = 1,
@@ -16768,13 +17481,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 3,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[158221] = {
 								["c_amt"] = 5,
@@ -16798,13 +17511,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 7,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[132467] = {
 								["c_amt"] = 0,
@@ -16828,13 +17541,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[100780] = {
 								["c_amt"] = 5,
@@ -16861,22 +17574,24 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 11,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 922.020791,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1592309923,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["end_time"] = 1592309978,
 				}, -- [6]
 				{
 					["flag_original"] = 2632,
@@ -16893,19 +17608,20 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["dps_started"] = false,
+					["damage_taken"] = 2073081.012123,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 979797.0121230001,
-					["last_event"] = 0,
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3769-870-9747-160922-000068B8D2",
 					["monster"] = true,
 					["total"] = 979797.0121230001,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
+					["last_dps"] = 0,
 					["nome"] = "Игольщик Жезалла",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -16929,13 +17645,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[313666] = {
 								["c_amt"] = 0,
@@ -16958,13 +17674,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 5,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[313939] = {
 								["c_amt"] = 0,
@@ -16989,13 +17705,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 158674,
 								["m_crit"] = 0,
-								["a_amt"] = 4,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 4,
 								["b_dmg"] = 0,
 								["n_amt"] = 26,
+								["a_amt"] = 4,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[308190] = {
 								["c_amt"] = 0,
@@ -17019,15 +17735,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 8254,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 1,
 								["m_amt"] = 0,
 								["successful_casted"] = 21,
-								["b_dmg"] = 0,
-								["n_amt"] = 18,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 18,
+								["a_dmg"] = 8254,
+								["r_amt"] = 0,
 							},
 							[313665] = {
 								["c_amt"] = 0,
@@ -17051,27 +17767,26 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 31222,
 								["m_crit"] = 0,
-								["a_amt"] = 1,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 4,
+								["a_amt"] = 1,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
-					["dps_started"] = false,
+					["last_event"] = 0,
 					["end_time"] = 1592310107,
-					["serial"] = "Creature-0-3769-870-9747-160922-000068B8D2",
+					["classe"] = "UNKNOW",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1592310032,
 					["delay"] = 0,
-					["damage_taken"] = 2073081.012123,
+					["fight_component"] = true,
 				}, -- [7]
 				{
 					["flag_original"] = 2632,
@@ -17087,19 +17802,20 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
+					["dps_started"] = false,
+					["damage_taken"] = 734628.006967,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 258394.006967,
-					["last_event"] = 0,
-					["on_hold"] = false,
+					["serial"] = "Creature-0-3769-870-9747-153278-000068B92F",
 					["monster"] = true,
 					["total"] = 258394.006967,
-					["fight_component"] = true,
-					["classe"] = "UNKNOW",
+					["friendlyfire"] = {
+					},
+					["last_dps"] = 0,
 					["nome"] = "Куньчун-разрушитель",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -17117,22 +17833,22 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 7,
 								["a_amt"] = 2,
-								["total"] = 56991,
+								["r_amt"] = 0,
 								["c_max"] = 0,
 								["DODGE"] = 2,
-								["id"] = 1,
-								["r_dmg"] = 0,
 								["extra"] = {
 								},
+								["r_dmg"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 24275,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 4,
+								["id"] = 1,
+								["total"] = 56991,
 							}, -- [1]
 							[312211] = {
 								["c_amt"] = 0,
@@ -17155,13 +17871,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[276876] = {
 								["c_amt"] = 0,
@@ -17184,13 +17900,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 3,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[312213] = {
 								["c_amt"] = 0,
@@ -17215,32 +17931,30 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 7,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire"] = {
-					},
-					["dps_started"] = false,
+					["last_event"] = 0,
 					["end_time"] = 1592310155,
-					["serial"] = "Creature-0-3769-870-9747-153278-000068B92F",
+					["classe"] = "UNKNOW",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["on_hold"] = false,
 					["start_time"] = 1592310130,
 					["delay"] = 0,
-					["damage_taken"] = 734628.006967,
+					["fight_component"] = true,
 				}, -- [8]
 				{
 					["flag_original"] = 1352,
 					["totalabsorbed"] = 25609.015519,
-					["last_event"] = 0,
 					["damage_from"] = {
 						["Ваззапер"] = true,
 					},
@@ -17258,22 +17972,21 @@ _detalhes_database = {
 					["enemy"] = true,
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["end_time"] = 1592310233,
+					["damage_taken"] = 3824.015519,
 					["friendlyfire_total"] = 0,
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 271946.015519,
-					["end_time"] = 1592310233,
+					["serial"] = "Player-1604-0B58FB4D",
 					["dps_started"] = false,
 					["total"] = 271946.015519,
-					["classe"] = "DEATHKNIGHT",
 					["fight_component"] = true,
+					["last_dps"] = 0,
 					["nome"] = "Спогоста-СвежевательДуш",
 					["spec"] = 252,
-					["friendlyfire"] = {
-					},
+					["last_event"] = 0,
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[127802] = {
 								["c_amt"] = 0,
@@ -17298,46 +18011,44 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
-							[318187] = {
+							[77575] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 8599,
+								["n_max"] = 2393,
 								["targets"] = {
-									["Куньчун-разрушитель"] = 17152,
-									["Вил'тик-воин"] = 8122,
-									["Призыватель роя"] = 0,
+									["Куньчун-разрушитель"] = 2393,
+									["Призыватель роя"] = 2084,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 25274,
+								["n_dmg"] = 4477,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 25274,
+								["counter"] = 2,
+								["total"] = 4477,
 								["c_max"] = 0,
-								["IMMUNE"] = 1,
-								["id"] = 318187,
+								["id"] = 77575,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 3,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 2,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
 							},
 							[311192] = {
 								["c_amt"] = 0,
@@ -17362,43 +18073,46 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
-							[295367] = {
-								["c_amt"] = 1,
+							[318187] = {
+								["c_amt"] = 0,
 								["b_amt"] = 0,
-								["c_dmg"] = 2450,
+								["c_dmg"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1633,
+								["n_max"] = 8599,
 								["targets"] = {
-									["Ваззапер"] = 5716,
+									["Куньчун-разрушитель"] = 17152,
+									["Вил'тик-воин"] = 8122,
+									["Призыватель роя"] = 0,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 3266,
+								["n_dmg"] = 25274,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 3,
-								["total"] = 5716,
-								["c_max"] = 2450,
-								["id"] = 295367,
+								["counter"] = 4,
+								["total"] = 25274,
+								["c_max"] = 0,
+								["IMMUNE"] = 1,
+								["id"] = 318187,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 0,
+								["b_dmg"] = 0,
 								["m_crit"] = 0,
 								["a_amt"] = 0,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 2,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["r_amt"] = 0,
 							},
 							[191685] = {
 								["c_amt"] = 3,
@@ -17429,13 +18143,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 33,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[191587] = {
 								["c_amt"] = 1,
@@ -17463,13 +18177,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 25,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[310690] = {
 								["c_amt"] = 0,
@@ -17493,59 +18207,59 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 79960,
 								["m_crit"] = 0,
-								["a_amt"] = 1,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
+								["a_amt"] = 1,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
-							[77575] = {
-								["c_amt"] = 0,
+							[295367] = {
+								["c_amt"] = 1,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 2450,
 								["g_amt"] = 0,
-								["n_max"] = 2393,
+								["n_max"] = 1633,
 								["targets"] = {
-									["Куньчун-разрушитель"] = 2393,
-									["Призыватель роя"] = 2084,
+									["Ваззапер"] = 5716,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 4477,
+								["n_dmg"] = 3266,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 2,
-								["total"] = 4477,
-								["c_max"] = 0,
-								["id"] = 77575,
+								["counter"] = 3,
+								["total"] = 5716,
+								["c_max"] = 2450,
+								["id"] = 295367,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
-								["successful_casted"] = 2,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["serial"] = "Player-1604-0B58FB4D",
+					["classe"] = "DEATHKNIGHT",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["last_dps"] = 0,
+					["friendlyfire"] = {
+					},
 					["start_time"] = 1592310194,
 					["delay"] = 0,
-					["damage_taken"] = 3824.015519,
+					["on_hold"] = false,
 				}, -- [9]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 100215.016609,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Таргами"] = true,
 						["Спогоста-СвежевательДуш"] = true,
@@ -17557,27 +18271,26 @@ _detalhes_database = {
 						["Ксиренион"] = true,
 					},
 					["targets"] = {
-						["Ваззапер"] = 68963,
 						["Ксиренион"] = 279104,
+						["Ваззапер"] = 68963,
 						["Шаарм-СвежевательДуш"] = 24707,
 						["Дарнелла-СвежевательДуш"] = 35887,
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
+					["monster"] = true,
+					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 408661.016609,
-					["last_event"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3769-870-9747-157724-0000E8B6E5",
+					["fight_component"] = true,
 					["end_time"] = 1592310233,
-					["friendlyfire"] = {
-					},
 					["friendlyfire_total"] = 0,
+					["damage_taken"] = 2100427.016609,
 					["nome"] = "Вил'тик - янтарный целитель",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 1,
@@ -17597,22 +18310,22 @@ _detalhes_database = {
 								["g_dmg"] = 0,
 								["counter"] = 44,
 								["a_amt"] = 23,
-								["total"] = 288870,
+								["r_amt"] = 0,
 								["c_max"] = 15488,
 								["DODGE"] = 4,
-								["id"] = 1,
-								["r_dmg"] = 0,
 								["extra"] = {
 								},
+								["r_dmg"] = 0,
+								["b_dmg"] = 0,
 								["a_dmg"] = 190112,
 								["m_crit"] = 0,
 								["PARRY"] = 3,
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 36,
-								["r_amt"] = 0,
 								["c_min"] = 0,
+								["n_amt"] = 36,
+								["id"] = 1,
+								["total"] = 288870,
 							}, -- [1]
 							[312257] = {
 								["c_amt"] = 0,
@@ -17621,8 +18334,8 @@ _detalhes_database = {
 								["g_amt"] = 0,
 								["n_max"] = 13589,
 								["targets"] = {
-									["Ваззапер"] = 41680,
 									["Ксиренион"] = 40767,
+									["Ваззапер"] = 41680,
 									["Шаарм-СвежевательДуш"] = 12510,
 									["Дарнелла-СвежевательДуш"] = 24834,
 								},
@@ -17639,13 +18352,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 50377,
 								["m_crit"] = 0,
-								["a_amt"] = 4,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 10,
 								["b_dmg"] = 0,
 								["n_amt"] = 10,
+								["a_amt"] = 4,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[307742] = {
 								["c_amt"] = 0,
@@ -17668,25 +18381,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["last_event"] = 0,
 					["total"] = 408661.016609,
-					["serial"] = "Creature-0-3769-870-9747-157724-0000E8B6E5",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 2100427.016609,
+					["on_hold"] = false,
 					["start_time"] = 1592310167,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["dps_started"] = false,
 				}, -- [10]
 				{
 					["flag_original"] = 4424,
@@ -17699,7 +18414,7 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["last_event"] = 0,
 					["classe"] = "PET",
 					["raid_targets"] = {
 					},
@@ -17707,24 +18422,24 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1592310233,
-					["friendlyfire"] = {
-					},
-					["last_event"] = 0,
+					["serial"] = "Pet-0-3769-870-9747-26125-06027E7968",
+					["last_dps"] = 0,
 					["nome"] = "Скалопой",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire_total"] = 0,
+					["damage_taken"] = 4285.011653,
 					["total"] = 0.011653,
-					["serial"] = "Pet-0-3769-870-9747-26125-06027E7968",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 4285.011653,
+					["on_hold"] = false,
 					["start_time"] = 1592310230,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["friendlyfire_total"] = 0,
 				}, -- [11]
 				{
 					["flag_original"] = -2147483648,
@@ -17736,7 +18451,7 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["on_hold"] = false,
+					["last_event"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
@@ -17744,12 +18459,10 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["dps_started"] = false,
 					["end_time"] = 1592310233,
-					["friendlyfire"] = {
-					},
-					["last_event"] = 0,
+					["serial"] = "",
+					["last_dps"] = 0,
 					["nome"] = "Мир (падение)",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[3] = {
 								["c_amt"] = 0,
@@ -17773,30 +18486,31 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 1,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.006726,
 					["total"] = 1746.006726,
-					["serial"] = "",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.006726,
+					["on_hold"] = false,
 					["start_time"] = 1592310227,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["friendlyfire_total"] = 0,
 				}, -- [12]
 				{
 					["flag_original"] = 68168,
 					["totalabsorbed"] = 107792.008388,
-					["on_hold"] = false,
 					["damage_from"] = {
 						["Баллрус-Ясеневыйлес"] = true,
 						["Ваззапер"] = true,
@@ -17808,20 +18522,19 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
+					["monster"] = true,
+					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 127236.008388,
-					["last_event"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3769-870-9747-161672-000068B7D4",
+					["fight_component"] = true,
 					["end_time"] = 1592310287,
-					["friendlyfire"] = {
-					},
 					["friendlyfire_total"] = 0,
+					["damage_taken"] = 1801049.008388,
 					["nome"] = "Кри'вин",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							{
 								["c_amt"] = 0,
@@ -17844,15 +18557,15 @@ _detalhes_database = {
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
-								["a_dmg"] = 12302,
+								["m_amt"] = 0,
 								["m_crit"] = 0,
 								["PARRY"] = 1,
-								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
 								["n_amt"] = 8,
+								["a_dmg"] = 12302,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							}, -- [1]
 							[312211] = {
 								["c_amt"] = 0,
@@ -17875,13 +18588,13 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
 								["n_amt"] = 0,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 							[315761] = {
 								["c_amt"] = 0,
@@ -17906,30 +18619,31 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 1,
 								["b_dmg"] = 0,
 								["n_amt"] = 27,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["last_event"] = 0,
 					["total"] = 127236.008388,
-					["serial"] = "Creature-0-3769-870-9747-161672-000068B7D4",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 1801049.008388,
+					["on_hold"] = false,
 					["start_time"] = 1592310260,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["dps_started"] = false,
 				}, -- [13]
 				{
 					["flag_original"] = 2632,
 					["totalabsorbed"] = 4975.013906,
-					["on_hold"] = false,
 					["damage_from"] = {
 					},
 					["targets"] = {
@@ -17937,20 +18651,19 @@ _detalhes_database = {
 					},
 					["pets"] = {
 					},
-					["fight_component"] = true,
+					["monster"] = true,
+					["last_dps"] = 0,
 					["classe"] = "UNKNOW",
 					["raid_targets"] = {
 					},
 					["total_without_pet"] = 9813.013906,
-					["last_event"] = 0,
-					["dps_started"] = false,
+					["serial"] = "Creature-0-3769-870-9747-153267-000068B868",
+					["fight_component"] = true,
 					["end_time"] = 1592310326,
-					["friendlyfire"] = {
-					},
 					["friendlyfire_total"] = 0,
+					["damage_taken"] = 0.013906,
 					["nome"] = "Вил'тик - хранитель роя",
 					["spells"] = {
-						["tipo"] = 2,
 						["_ActorTable"] = {
 							[172193] = {
 								["c_amt"] = 0,
@@ -17974,25 +18687,27 @@ _detalhes_database = {
 								},
 								["a_dmg"] = 0,
 								["m_crit"] = 0,
-								["a_amt"] = 0,
 								["m_amt"] = 0,
+								["c_min"] = 0,
 								["successful_casted"] = 2,
 								["b_dmg"] = 0,
 								["n_amt"] = 2,
+								["a_amt"] = 0,
 								["r_amt"] = 0,
-								["c_min"] = 0,
 							},
 						},
+						["tipo"] = 2,
 					},
-					["monster"] = true,
+					["last_event"] = 0,
 					["total"] = 9813.013906,
-					["serial"] = "Creature-0-3769-870-9747-153267-000068B868",
+					["friendlyfire"] = {
+					},
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 0.013906,
+					["on_hold"] = false,
 					["start_time"] = 1592310311,
 					["delay"] = 0,
-					["last_dps"] = 0,
+					["dps_started"] = false,
 				}, -- [14]
 			},
 		}, -- [1]
@@ -18001,18 +18716,18 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1297,
-					["targets_overheal"] = {
-						["Ваззапер"] = 422499,
+					["healing_from"] = {
+						["Ваззапер"] = true,
 					},
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
-					["heal_enemy_amt"] = 0,
+					["classe"] = "MONK",
 					["totalover"] = 422499.048793,
 					["total_without_pet"] = 1674587.048793,
 					["total"] = 1674587.048793,
 					["targets_absorbs"] = {
-						["Ваззапер"] = 726948,
+						["Ваззапер"] = 0,
 					},
 					["heal_enemy"] = {
 					},
@@ -18021,21 +18736,48 @@ _detalhes_database = {
 					["totalabsorb"] = 726948.048793,
 					["last_hps"] = 0,
 					["targets"] = {
-						["Баллрус-Ясеневыйлес"] = 3013,
-						["Ваззапер"] = 1662546,
-						["Дарнелла-СвежевательДуш"] = 9028,
+						["Баллрус-Ясеневыйлес"] = 0,
+						["Ваззапер"] = 0,
+						["Дарнелла-СвежевательДуш"] = 0,
 					},
 					["totalover_without_pet"] = 0.048793,
 					["healing_taken"] = 1662546.048793,
 					["fight_component"] = true,
 					["end_time"] = 1592309854,
-					["healing_from"] = {
-						["Ваззапер"] = true,
+					["targets_overheal"] = {
+						["Ваззапер"] = 0,
 					},
 					["nome"] = "Ваззапер",
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
+							[295375] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Ваззапер"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Ваззапер"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 295375,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 0,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
 							[269279] = {
 								["c_amt"] = 0,
 								["totalabsorb"] = 517096,
@@ -18094,6 +18836,34 @@ _detalhes_database = {
 								["m_healed"] = 0,
 								["absorbed"] = 0,
 							},
+							[115175] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Ваззапер"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Ваззапер"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 115175,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 0,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
 							[270117] = {
 								["c_amt"] = 5,
 								["totalabsorb"] = 0,
@@ -18118,6 +18888,34 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["n_curado"] = 159578,
 								["n_amt"] = 25,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[191894] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Ваззапер"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Ваззапер"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 191894,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 0,
 								["totaldenied"] = 0,
 								["m_healed"] = 0,
 								["absorbed"] = 0,
@@ -18265,6 +19063,7 @@ _detalhes_database = {
 								["c_amt"] = 2,
 								["totalabsorb"] = 0,
 								["targets_overheal"] = {
+									["Ваззапер"] = 0,
 								},
 								["n_max"] = 17919,
 								["targets"] = {
@@ -18289,28 +19088,29 @@ _detalhes_database = {
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["grupo"] = true,
-					["start_time"] = 1592309556,
-					["classe"] = "MONK",
+					["heal_enemy_amt"] = 0,
+					["last_event"] = 0,
 					["custom"] = 0,
 					["tipo"] = 2,
-					["spec"] = 269,
+					["start_time"] = 1592309556,
 					["totaldenied"] = 0.048793,
 					["delay"] = 0,
-					["last_event"] = 0,
+					["spec"] = 269,
 				}, -- [1]
 				{
 					["flag_original"] = 1304,
 					["totalabsorb"] = 161248.02249,
 					["last_hps"] = 0,
 					["targets_overheal"] = {
-						["Баллрус-Ясеневыйлес"] = 22741,
+						["Баллрус-Ясеневыйлес"] = 0,
 					},
 					["targets"] = {
-						["Баллрус-Ясеневыйлес"] = 972646,
+						["Баллрус-Ясеневыйлес"] = 0,
 					},
-					["spec"] = 70,
+					["serial"] = "Player-1923-0B528384",
 					["pets"] = {
 					},
 					["totalover_without_pet"] = 0.02249,
@@ -18321,15 +19121,14 @@ _detalhes_database = {
 					["heal_enemy_amt"] = 0,
 					["totalover"] = 22741.02249,
 					["total_without_pet"] = 972646.0224899999,
-					["classe"] = "PALADIN",
 					["iniciar_hps"] = false,
+					["start_time"] = 1592310079,
 					["fight_component"] = true,
 					["end_time"] = 1592310155,
 					["healing_taken"] = 975659.0224899999,
-					["start_time"] = 1592310079,
+					["classe"] = "PALADIN",
 					["nome"] = "Баллрус-Ясеневыйлес",
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[184662] = {
 								["c_amt"] = 0,
@@ -18552,14 +19351,15 @@ _detalhes_database = {
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["total"] = 972646.0224899999,
 					["targets_absorbs"] = {
-						["Баллрус-Ясеневыйлес"] = 161248,
+						["Баллрус-Ясеневыйлес"] = 0,
 					},
 					["heal_enemy"] = {
 					},
-					["serial"] = "Player-1923-0B528384",
+					["spec"] = 70,
 					["custom"] = 0,
 					["tipo"] = 2,
 					["on_hold"] = false,
@@ -18576,30 +19376,29 @@ _detalhes_database = {
 						["Дарнелла-СвежевательДуш"] = true,
 					},
 					["targets"] = {
-						["Дарнелла-СвежевательДуш"] = 37241,
+						["Дарнелла-СвежевательДуш"] = 0,
 					},
-					["start_time"] = 1592310220,
+					["serial"] = "Player-1604-0905DAF2",
 					["pets"] = {
 					},
 					["iniciar_hps"] = false,
 					["targets_overheal"] = {
-						["Дарнелла-СвежевательДуш"] = 6700,
+						["Дарнелла-СвежевательДуш"] = 0,
 					},
 					["classe"] = "SHAMAN",
 					["totalover"] = 6700.015981000001,
 					["total_without_pet"] = 37241.015981,
 					["totalover_without_pet"] = 0.015981,
-					["healing_taken"] = 46269.015981,
+					["start_time"] = 1592310220,
 					["fight_component"] = true,
 					["total"] = 37241.015981,
-					["spec"] = 262,
+					["healing_taken"] = 46269.015981,
 					["heal_enemy_amt"] = 0,
 					["nome"] = "Дарнелла-СвежевательДуш",
 					["targets_absorbs"] = {
 					},
 					["end_time"] = 1592310233,
 					["spells"] = {
-						["tipo"] = 3,
 						["_ActorTable"] = {
 							[298318] = {
 								["c_amt"] = 0,
@@ -18684,10 +19483,11 @@ _detalhes_database = {
 								["absorbed"] = 0,
 							},
 						},
+						["tipo"] = 3,
 					},
 					["heal_enemy"] = {
 					},
-					["serial"] = "Player-1604-0905DAF2",
+					["spec"] = 262,
 					["custom"] = 0,
 					["last_event"] = 0,
 					["on_hold"] = false,
@@ -18702,82 +19502,82 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["received"] = 385.049496,
-					["resource"] = 167.049496,
+					["resource"] = 843.2165120000002,
 					["targets"] = {
-						["Ваззапер"] = 385,
+						["Ваззапер"] = 0,
 					},
 					["pets"] = {
 					},
 					["powertype"] = 0,
 					["classe"] = "MONK",
 					["passiveover"] = 0.007742,
-					["resource_type"] = 12,
 					["fight_component"] = true,
-					["total"] = 385.049496,
-					["tipo"] = 3,
+					["resource_type"] = 12,
 					["nome"] = "Ваззапер",
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 							[298325] = {
 								["total"] = 385,
 								["id"] = 298325,
 								["totalover"] = 0,
 								["targets"] = {
-									["Ваззапер"] = 385,
+									["Ваззапер"] = 0,
 								},
 								["counter"] = 16,
 							},
 						},
+						["tipo"] = 7,
 					},
 					["grupo"] = true,
-					["totalover"] = 0.007742,
+					["total"] = 385.049496,
+					["spec"] = 269,
 					["flag_original"] = 1297,
+					["tipo"] = 3,
 					["alternatepower"] = 0.04949600000000001,
 					["last_event"] = 0,
-					["spec"] = 269,
 					["serial"] = "Player-1615-09C24DE1",
+					["totalover"] = 0.007742,
 				}, -- [1]
 				{
 					["received"] = 960.017087,
-					["resource"] = 45.017087,
+					["resource"] = 137.031111,
 					["targets"] = {
-						["Баллрус-Ясеневыйлес"] = 960,
+						["Баллрус-Ясеневыйлес"] = 0,
 					},
 					["pets"] = {
 					},
 					["powertype"] = 0,
 					["classe"] = "PALADIN",
 					["passiveover"] = 0.006344,
-					["resource_type"] = 9,
 					["fight_component"] = true,
-					["total"] = 960.017087,
-					["tipo"] = 3,
+					["resource_type"] = 9,
 					["nome"] = "Баллрус-Ясеневыйлес",
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 							[203539] = {
 								["total"] = 960,
 								["id"] = 203539,
 								["totalover"] = 0,
 								["targets"] = {
-									["Баллрус-Ясеневыйлес"] = 960,
+									["Баллрус-Ясеневыйлес"] = 0,
 								},
 								["counter"] = 24,
 							},
 						},
+						["tipo"] = 7,
 					},
-					["totalover"] = 0.006344,
+					["total"] = 960.017087,
+					["spec"] = 70,
 					["flag_original"] = 1304,
+					["tipo"] = 3,
 					["alternatepower"] = 0.017087,
 					["last_event"] = 0,
-					["spec"] = 70,
 					["serial"] = "Player-1923-0B528384",
+					["totalover"] = 0.006344,
 				}, -- [2]
 				{
 					["received"] = 0.007735000000000001,
-					["resource"] = 136.007735,
+					["resource"] = 680.0179430000001,
 					["targets"] = {
 					},
 					["pets"] = {
@@ -18785,28 +19585,28 @@ _detalhes_database = {
 					["powertype"] = 0,
 					["classe"] = "SHAMAN",
 					["passiveover"] = 0.005183,
-					["resource_type"] = 11,
 					["fight_component"] = true,
-					["total"] = 0.007735000000000001,
-					["tipo"] = 3,
+					["resource_type"] = 11,
 					["nome"] = "Дарнелла-СвежевательДуш",
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 						},
+						["tipo"] = 7,
 					},
-					["totalover"] = 0.005183,
+					["total"] = 0.007735000000000001,
+					["alternatepower"] = 0.007735000000000001,
 					["spec"] = 262,
+					["tipo"] = 3,
 					["flag_original"] = 1304,
 					["last_event"] = 0,
-					["alternatepower"] = 0.007735000000000001,
 					["serial"] = "Player-1604-0905DAF2",
+					["totalover"] = 0.005183,
 				}, -- [3]
 				{
 					["received"] = 18.10559938146973,
-					["resource"] = 0.005599,
+					["resource"] = 0.012483,
 					["targets"] = {
-						["Спогоста-СвежевательДуш"] = 18.10000038146973,
+						["Спогоста-СвежевательДуш"] = 0,
 					},
 					["enemy"] = true,
 					["pets"] = {
@@ -18816,28 +19616,28 @@ _detalhes_database = {
 					["passiveover"] = 0.003878,
 					["fight_component"] = true,
 					["total"] = 18.10559938146973,
-					["tipo"] = 3,
 					["nome"] = "Спогоста-СвежевательДуш",
 					["spells"] = {
-						["tipo"] = 7,
 						["_ActorTable"] = {
 							[77575] = {
 								["total"] = 18.10000038146973,
 								["id"] = 77575,
 								["totalover"] = 0,
 								["targets"] = {
-									["Спогоста-СвежевательДуш"] = 18.10000038146973,
+									["Спогоста-СвежевательДуш"] = 0,
 								},
 								["counter"] = 2,
 							},
 						},
+						["tipo"] = 7,
 					},
 					["totalover"] = 0.003878,
-					["flag_original"] = 1352,
+					["spec"] = 252,
+					["tipo"] = 3,
 					["alternatepower"] = 0.005599,
 					["last_event"] = 0,
-					["spec"] = 252,
 					["serial"] = "Player-1604-0B58FB4D",
+					["flag_original"] = 1352,
 				}, -- [4]
 			},
 		}, -- [3]
@@ -18847,7 +19647,6 @@ _detalhes_database = {
 				{
 					["flag_original"] = 1047,
 					["debuff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[201787] = {
 								["refreshamt"] = 0,
@@ -18943,12 +19742,31 @@ _detalhes_database = {
 								["counter"] = 0,
 							},
 						},
+						["tipo"] = 9,
+					},
+					["cooldowns_defensive_spells"] = {
+						["_ActorTable"] = {
+							[122470] = {
+								["id"] = 122470,
+								["targets"] = {
+									["Игольщик Жезалла"] = 1,
+									["Вил'тик - ваятель янтаря"] = 1,
+									["Призыватель роя"] = 1,
+								},
+								["counter"] = 3,
+							},
+						},
+						["tipo"] = 9,
 					},
 					["interrupt_targets"] = {
 						["Вил'тик - ваятель янтаря"] = 2,
 					},
+					["cooldowns_defensive"] = 3.015362000000001,
+					["pets"] = {
+						"Дух земли <Ваззапер>", -- [1]
+						"Дух огня <Ваззапер>", -- [2]
+					},
 					["interrupt_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[116705] = {
 								["id"] = 116705,
@@ -18962,28 +19780,9 @@ _detalhes_database = {
 								["counter"] = 2,
 							},
 						},
-					},
-					["cooldowns_defensive"] = 3.015362000000001,
-					["pets"] = {
-						"Дух земли <Ваззапер>", -- [1]
-						"Дух огня <Ваззапер>", -- [2]
-					},
-					["cooldowns_defensive_spells"] = {
 						["tipo"] = 9,
-						["_ActorTable"] = {
-							[122470] = {
-								["id"] = 122470,
-								["targets"] = {
-									["Игольщик Жезалла"] = 1,
-									["Вил'тик - ваятель янтаря"] = 1,
-									["Призыватель роя"] = 1,
-								},
-								["counter"] = 3,
-							},
-						},
 					},
 					["cc_done_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[119381] = {
 								["id"] = 119381,
@@ -18995,6 +19794,7 @@ _detalhes_database = {
 								["counter"] = 11,
 							},
 						},
+						["tipo"] = 9,
 					},
 					["classe"] = "MONK",
 					["cooldowns_defensive_targets"] = {
@@ -19003,7 +19803,6 @@ _detalhes_database = {
 						["Призыватель роя"] = 1,
 					},
 					["buff_uptime_spells"] = {
-						["tipo"] = 9,
 						["_ActorTable"] = {
 							[225787] = {
 								["refreshamt"] = 0,
@@ -19199,16 +19998,6 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
-							[261769] = {
-								["refreshamt"] = 95,
-								["activedamt"] = 28,
-								["appliedamt"] = 28,
-								["id"] = 261769,
-								["uptime"] = 288,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
 							[166646] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 10,
@@ -19219,7 +20008,18 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
+							[261769] = {
+								["refreshamt"] = 95,
+								["activedamt"] = 28,
+								["appliedamt"] = 28,
+								["id"] = 261769,
+								["uptime"] = 288,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
 						},
+						["tipo"] = 9,
 					},
 					["interrompeu_oque"] = {
 						[312257] = 1,
@@ -19229,8 +20029,7 @@ _detalhes_database = {
 					["debuff_uptime"] = 1101,
 					["buff_uptime"] = 3002,
 					["cc_done"] = 11.028399,
-					["buff_uptime_targets"] = {
-					},
+					["interrupt"] = 2.00949,
 					["spec"] = 269,
 					["grupo"] = true,
 					["spell_cast"] = {
@@ -19254,28 +20053,29 @@ _detalhes_database = {
 						[100780] = 76,
 						[119381] = 5,
 					},
-					["interrupt"] = 2.00949,
+					["last_event"] = 0,
 					["cc_done_targets"] = {
 						["Вил'тик - янтарный целитель"] = 3,
 						["Вил'тик-воин"] = 7,
 						["Вил'тик - ваятель янтаря"] = 1,
 					},
-					["last_event"] = 0,
+					["tipo"] = 4,
 					["nome"] = "Ваззапер",
-					["debuff_uptime_targets"] = {
+					["buff_uptime_targets"] = {
 					},
 					["serial"] = "Player-1615-09C24DE1",
-					["tipo"] = 4,
+					["debuff_uptime_targets"] = {
+					},
 				}, -- [1]
 				{
 					["fight_component"] = true,
+					["tipo"] = 4,
 					["nome"] = "Вил'тик-воин",
-					["flag_original"] = 68168,
 					["spell_cast"] = {
 						[288813] = 43,
 					},
+					["flag_original"] = 68168,
 					["monster"] = true,
-					["tipo"] = 4,
 					["classe"] = "UNKNOW",
 					["pets"] = {
 					},
@@ -19301,18 +20101,18 @@ _detalhes_database = {
 				}, -- [3]
 				{
 					["flag_original"] = 8465,
-					["classe"] = "MONK",
 					["ownerName"] = "Ваззапер",
 					["nome"] = "Дух земли <Ваззапер>",
 					["spec"] = 269,
+					["classe"] = "MONK",
+					["pets"] = {
+					},
+					["last_event"] = 0,
 					["spell_cast"] = {
 						[138130] = 3,
 					},
-					["last_event"] = 0,
-					["tipo"] = 4,
 					["serial"] = "Creature-0-3769-870-9747-69792-000068B87F",
-					["pets"] = {
-					},
+					["tipo"] = 4,
 				}, -- [4]
 				{
 					["flag_original"] = 8465,
@@ -19320,13 +20120,13 @@ _detalhes_database = {
 					["nome"] = "Дух огня <Ваззапер>",
 					["pets"] = {
 					},
+					["last_event"] = 0,
+					["classe"] = "PET",
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3769-870-9747-69791-000068B87F",
 					["spell_cast"] = {
 						[138130] = 3,
 					},
-					["last_event"] = 0,
-					["tipo"] = 4,
-					["serial"] = "Creature-0-3769-870-9747-69791-000068B87F",
-					["classe"] = "PET",
 				}, -- [5]
 				{
 					["monster"] = true,
@@ -19349,6 +20149,14 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["nome"] = "Баллрус-Ясеневыйлес",
 					["spec"] = 70,
+					["last_event"] = 0,
+					["pets"] = {
+						"Искаженный отросток <Баллрус-Ясеневыйлес>", -- [1]
+					},
+					["flag_original"] = 1304,
+					["tipo"] = 4,
+					["classe"] = "PALADIN",
+					["serial"] = "Player-1923-0B528384",
 					["spell_cast"] = {
 						[85256] = 13,
 						[53385] = 2,
@@ -19359,14 +20167,6 @@ _detalhes_database = {
 						[285489] = 2,
 						[24275] = 6,
 					},
-					["flag_original"] = 1304,
-					["tipo"] = 4,
-					["classe"] = "PALADIN",
-					["pets"] = {
-						"Искаженный отросток <Баллрус-Ясеневыйлес>", -- [1]
-					},
-					["serial"] = "Player-1923-0B528384",
-					["last_event"] = 0,
 				}, -- [7]
 				{
 					["monster"] = true,
@@ -19388,11 +20188,7 @@ _detalhes_database = {
 					["fight_component"] = true,
 					["nome"] = "Дарнелла-СвежевательДуш",
 					["spec"] = 262,
-					["tipo"] = 4,
-					["pets"] = {
-					},
-					["flag_original"] = 1304,
-					["classe"] = "SHAMAN",
+					["last_event"] = 0,
 					["spell_cast"] = {
 						[51505] = 4,
 						[2645] = 1,
@@ -19401,25 +20197,29 @@ _detalhes_database = {
 						[196840] = 1,
 						[188196] = 7,
 					},
+					["flag_original"] = 1304,
+					["tipo"] = 4,
+					["classe"] = "SHAMAN",
 					["serial"] = "Player-1604-0905DAF2",
-					["last_event"] = 0,
+					["pets"] = {
+					},
 				}, -- [9]
 				{
 					["flag_original"] = 1352,
 					["nome"] = "Спогоста-СвежевательДуш",
 					["spec"] = 252,
-					["tipo"] = 4,
 					["enemy"] = true,
 					["spell_cast"] = {
 						[77575] = 2,
 						[310690] = 1,
 					},
 					["fight_component"] = true,
-					["last_event"] = 0,
+					["classe"] = "DEATHKNIGHT",
+					["tipo"] = 4,
 					["pets"] = {
 					},
 					["serial"] = "Player-1604-0B58FB4D",
-					["classe"] = "DEATHKNIGHT",
+					["last_event"] = 0,
 				}, -- [10]
 				{
 					["monster"] = true,
@@ -19455,17 +20255,17 @@ _detalhes_database = {
 				}, -- [12]
 				{
 					["flag_original"] = 8472,
-					["classe"] = "PET",
 					["ownerName"] = "Баллрус-Ясеневыйлес",
 					["nome"] = "Искаженный отросток <Баллрус-Ясеневыйлес>",
 					["pets"] = {
 					},
+					["classe"] = "PET",
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Creature-0-3769-870-9747-162764-000068B9C9",
 					["spell_cast"] = {
 						[316826] = 1,
 					},
-					["tipo"] = 4,
-					["serial"] = "Creature-0-3769-870-9747-162764-000068B9C9",
-					["last_event"] = 0,
 				}, -- [13]
 				{
 					["monster"] = true,
@@ -19496,6 +20296,8 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
+		["spells_cast_timeline"] = {
+		},
 		["combat_counter"] = 357,
 		["totals"] = {
 			18251529.28732, -- [1]
@@ -19510,10 +20312,10 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 3.009141000000001,
-				["interrupt"] = 2.00949,
 				["dispell"] = 0,
+				["interrupt"] = 2.00949,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
@@ -19521,8 +20323,6 @@ _detalhes_database = {
 			["voidzone_damage"] = 0,
 		},
 		["player_last_events"] = {
-		},
-		["spells_cast_timeline"] = {
 		},
 		["frags_need_refresh"] = false,
 		["aura_timeline"] = {
@@ -19534,6 +20334,31 @@ _detalhes_database = {
 		["cleu_events"] = {
 			["n"] = 1,
 		},
+		["totals_grupo"] = {
+			7012425.054449001, -- [1]
+			1674587.04345, -- [2]
+			{
+				0, -- [1]
+				[0] = 385.041754,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["cooldowns_defensive"] = 3.009141000000001,
+				["dispell"] = 0,
+				["interrupt"] = 2.00949,
+				["debuff_uptime"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["frags"] = {
+		},
+		["hasSaved"] = true,
 		["segments_added"] = {
 			{
 				["elapsed"] = 21.11300000000119,
@@ -19596,56 +20421,33 @@ _detalhes_database = {
 				["clock"] = "14:17:17",
 			}, -- [10]
 		},
-		["totals_grupo"] = {
-			7012425.054449001, -- [1]
-			1674587.04345, -- [2]
-			{
-				0, -- [1]
-				[0] = 385.041754,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 3.009141000000001,
-				["interrupt"] = 2.00949,
-				["dispell"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["frags"] = {
-		},
 		["data_fim"] = "14:25:26",
 		["overall_enemy_name"] = "-- x -- x --",
 		["CombatSkillCache"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["start_time"] = 9495.932999999997,
-		["TimeData"] = {
-			["Raid Damage Done"] = {
-			},
 		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
+			["damage_section"] = {
+			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage_section"] = {
-			},
 			["damage"] = {
 			},
 		},
+		["start_time"] = 9495.932999999997,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_timeline"] = {
+		},
 	},
-	["combat_counter"] = 367,
+	["combat_counter"] = 371,
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
@@ -19667,14 +20469,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Creature-0-3769-870-9747-69791-000068B87F"] = 269,
-		["Player-1604-0B58FB4D"] = 252,
-		["Player-1615-073E3EEA"] = 267,
-		["Creature-0-3769-870-9747-69792-000068B97C"] = 269,
-		["Player-1615-09C24DE1"] = 269,
-		["Player-1923-0B528384"] = 70,
-		["Player-1604-09A925E5"] = 72,
-		["Player-1604-0905DAF2"] = 262,
-		["Creature-0-3769-870-9747-69791-000068B8EF"] = 269,
+		["Player-1615-09C24DE1"] = 270,
 	},
 }

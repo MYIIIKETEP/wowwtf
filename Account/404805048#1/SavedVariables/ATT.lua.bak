@@ -179,12 +179,13 @@ ATTDB = {
 	["showTrinket"] = true,
 	["horizontal"] = false,
 	["iconOffsetY"] = 2,
-	["inraid"] = false,
+	["attach"] = 1,
 	["outside"] = false,
 	["hidden"] = false,
 	["dungeons"] = true,
 	["arena"] = true,
 	["showIconBorders"] = false,
+	["scenarios"] = false,
 	["abilities"] = {
 		["DEATHKNIGHT"] = {
 			["252"] = {
@@ -692,9 +693,8 @@ ATTDB = {
 			},
 		},
 	},
-	["scenarios"] = false,
 	["iconOffsetX"] = 5,
 	["spite"] = false,
-	["attach"] = 1,
+	["inraid"] = false,
 	["showTooltip"] = false,
 }

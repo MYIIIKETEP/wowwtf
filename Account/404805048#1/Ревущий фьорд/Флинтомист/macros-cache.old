@@ -51,8 +51,17 @@ END
 VER 3 0100000000000016 " " "INV_MISC_QUESTIONMARK"
 /закл Стылая кровь
 /use Жетон падшего гладиатора
+/закл Кровавое неистовство(Расовая)
+END
+VER 3 0100000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/закл Ледяная стрела
+/закл Водяная стрела
 END
 VER 3 0100000000000015 "ARENA" "INV_MISC_QUESTIONMARK"
 /закл Возгорание
 /закл Кровавое неистовство(Расовая)
+END
+VER 3 0100000000000018 "цвц" "INV_MISC_QUESTIONMARK"
+/Target Морденай
 END

@@ -1,8 +1,16 @@
 
 Details_StreamerDB = {
 	["characters"] = {
+		["Ваззапер - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
 		["Семеста - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Мушкетерх - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Валфрия - Гордунни"] = "Семеста - Ревущий фьорд",
 		["Флинтомист - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Кендифлоп - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Калимистх - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Клиндамист - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Валфрия - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
+		["Сноха - Ревущий фьорд"] = "Семеста - Ревущий фьорд",
 	},
 	["profiles"] = {
 		["Семеста - Ревущий фьорд"] = {
@@ -35,7 +43,7 @@ Details_StreamerDB = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -43,12 +51,18 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
 			["use_spark"] = true,
+			["y"] = 4.57763671875e-05,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -60,13 +74,7 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["y"] = 4.57763671875e-05,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["main_frame_strata"] = "LOW",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},

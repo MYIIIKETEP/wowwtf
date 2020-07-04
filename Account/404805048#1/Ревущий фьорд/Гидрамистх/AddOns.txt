@@ -6,3 +6,6 @@ Masque: disabled
 Lorti-UI: enabled
 LootCouncil_Lite: disabled
 ClassicActionBars: enabled
+Bartender4: disabled
+Grid2: disabled
+NetherwingEggs: disabled

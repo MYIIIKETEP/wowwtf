@@ -22,3 +22,5 @@ Quartz: enabled
 Lorti-UI: disabled
 BagBrother: disabled
 GladiusEx: disabled
+Bartender4: disabled
+Grid2: disabled
